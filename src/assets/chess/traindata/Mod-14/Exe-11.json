@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(8)",
+            "zh": "Event 1"
+        },
+        "fen": "6rk\/7p\/5Rq1\/1p5r\/5p2\/2P1pP1Q\/1P2B1PP\/3R2K1 b - - 0 34",
+        "moves": [
+            {
+                "move": "34... Qc2 ",
+                "comment": {
+                    "pt": "Explorando o ataque ao ponto g2 e a v\u00e1rias pe\u00e7as brancas e desta forma garantindo a vit\u00f3ria das pretas.",
+                    "en": "Exploring the attack on g2 and several white pieces and, thus, ensuring that Black wins.",
+                    "de": "Der gleichzeitige Angriff auf den Punkt g2 und mehrere wei\u00dfe Figuren sichert Schwarz den Sieg.",
+                    "es": "Explotando el ataque al punto g2 y a varias piezas blancas y asegurando de esta forma  la victoria de las negras.",
+                    "zh": "\u540c\u65f6\u653b\u51fbg2\u683c\u548c\u66f4\u591a\u7684\u767d\u5b50\u786e\u4fdd\u9ed1\u65b9\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Wykorzystuj\u0105c mo\u017cliwo\u015b\u0107 ataku na g2 i kilka innych figur Bia\u0142ych - zapewniaj\u0105c Czarnym zwyci\u0119stwo.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 g2 \u0438 \u043d\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0444\u0438\u0433\u0443\u0440 \u0411\u0435\u043b\u044b\u0445, \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u044f \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u043f\u043e\u0431\u0435\u0434\u0443 \u0427\u0435\u0440\u043d\u044b\u043c."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3B3K\/6p1\/p1k2p1b\/2P2P2\/6P1\/7P\/8 w - - 0 51",
+        "moves": [
+            {
+                "move": "51. h3 ",
+                "comment": {
+                    "pt": "Para jogar g4, valorizando a maioria de pe\u00f5es e eventualmente ganhar o bispo preto.",
+                    "en": "In order to play g4, increase the value of majority and occasionally win the black Bishop.",
+                    "de": "Um mit g4 die Bauernmehrheit am K\u00f6nigsfl\u00fcgel in Bewegung zu setzen und eventuell auch den schwarzen L\u00e4ufer zu gewinnen.",
+                    "es": "Para jugar g4, realzando la mayor\u00eda de peones y, eventualmente, ganar el alfil negro.",
+                    "zh": "\u4e3a\u4e86\u4e0bg4\uff0c\u589e\u5f3a\u591a\u5175\u4f18\u52bf\uff0c\u5c3d\u53ef\u80fd\u7684\u5403\u6389\u9ed1\u8c61\u3002",
+                    "pl": "W celu zagrania g4, zwi\u0119kszaj\u0105c warto\u015b\u0107 wi\u0119kszo\u015bci i przy okazji wygrywaj\u0105c czarnego Go\u0144ca.",
+                    "ru": "\u0414\u043b\u044f \u0438\u0433\u0440\u044b g4, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430, \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0434\u043b\u044f \u0432\u0437\u044f\u0442\u0438\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(2)",
+            "zh": "Event 1"
+        },
+        "fen": "2k5\/5p2\/p3p1pp\/1pPpq3\/1P2n3\/P1r1P3\/1Q3PPP\/1B3RK1 w - - 0 37",
+        "moves": [
+            {
+                "move": "37. f4 ",
+                "comment": {
+                    "pt": "Obrigando a dama preta a abandonar sua excelente posi\u00e7\u00e3o central e para explorar a cravada da torre preta em c3.",
+                    "en": "Forcing the Black Queen to abandon its excellent central position and exploring Black's pinned Rook on c3.",
+                    "de": "Zwingt die schwarze Dame, ihre ausgezeichnete zentrale Stellung aufzugeben und nutzt die Fesselung vom schwarzen Turm auf c3 aus.",
+                    "es": "Para obligar a la dama negra a abandonar su excelente posici\u00f3n central y para explotar la clavada de la torre negra en c3.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u540e\u653e\u5f03\u5b83\u6781\u4f73\u7684\u4e2d\u5fc3\u4f4d\u7f6e\uff0c\u5145\u5206\u5229\u7528c3\u4e0a\u88ab\u7275\u5236\u7684\u9ed1\u8f66\u3002",
+                    "pl": "Zmuszaj\u0105c czarnego Hetmana do opuszczenia doskona\u0142ej centralnej pozycji i wykorzystuj\u0105c przygwo\u017cd\u017con\u0105 czarn\u0105 Wie\u017c\u0119 na c3.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043e\u0442\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0441 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0441\u0432\u044f\u0437\u043a\u0443 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 c3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(93)",
+            "zh": "Event 1"
+        },
+        "fen": "r6r\/pp1qnkpp\/1bp5\/3pPn2\/P2P4\/B4N2\/5PPP\/1R1Q1RK1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. e6+ ",
+                "comment": {
+                    "pt": "Obrigando o rei preto a vir ao centro, abrindo a coluna do rei e liberando a casa e5 para o cavalo.",
+                    "en": "Forcing the black King to come to the center, opening the King-file and leaving e5 for the Knight.",
+                    "de": "Zwingt den schwarzen K\u00f6nig ins Zentrum, \u00f6ffnet die e-Linie und r\u00e4umt das Feld e5.",
+                    "es": "Obligando al rey negro a venir al centro, abriendo la columna rey y liberando la casilla e5 para el caballo.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u738b\u8d70\u5411\u4e2d\u5fc3\uff0c\u5f00\u653ee-\u7ebf\uff0c\u817e\u7a7ae5\u7ed9\u9a6c\u3002",
+                    "pl": "Zmuszaj\u0105c czarnego Kr\u00f3la do przej\u015bcia do centrum, otwieraj\u0105c kolumn\u0119 kr\u00f3lewsk\u0105 i opuszczaj\u0105c e5 dla Skoczka.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u043e\u043b\u0435 e5 \u0434\u043b\u044f \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(126)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3rn1\/1p3pqk\/p2p3p\/P1pP1Rp1\/4P3\/7P\/1P3PP1\/1BQbR1K1 w - - 0 24",
+        "moves": [
+            {
+                "move": "24. e5 ",
+                "comment": {
+                    "pt": "Importante jogada intermedi\u00e1ria, que visa abrir a diagonal para o bispo, criar um pe\u00e3o passado e iniciar um ataque ao rei preto.",
+                    "en": "Important intermediate move that aims to open the diagonal for the Bishop, create a passed pawn and start an attack on the black King.",
+                    "de": "Wichtiger Zwischenzug mit der Absicht, die Diagonale b1-h7 f\u00fcr den L\u00e4ufer zu \u00f6ffnen, einen Freibauern zu schaffen und einen Angriff auf den schwarzen K\u00f6nig einzuleiten.",
+                    "es": "Importante jugada intermedia, que tiene por objetivo abrir la diagonal para el alfil, crear un pe\u00f3n pasado e iniciar un ataque al rey negro.",
+                    "zh": "\u91cd\u8981\u7684\u8fc7\u6e21\u7740\uff0c\u76ee\u7684\u662f\u5f00\u653e\u8c61\u8def\uff0c\u5236\u9020\u901a\u8def\u5175\uff0c\u5f00\u59cb\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Wa\u017cny, po\u015bredni ruch, zapowiadaj\u0105cy otwarcie przek\u0105tnej dla Go\u0144ca, stworzenie wolnego piona i rozpocz\u0119cie ataku na czarnego Kr\u00f3la.",
+                    "ru": "\u0412\u0430\u0436\u043d\u044b\u0439 \u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430, \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/2qbb1pp\/3pp1p1\/p6P\/1p1NP3\/1P2BP2\/1PP3Q1\/2KR3R b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g5 ",
+                "comment": {
+                    "pt": "Para manter o rei o mais protegido poss\u00edvel.",
+                    "en": "In order to defend the King as good as possible.",
+                    "es": "Para mantener el rey lo m\u00e1s protegido posible.",
+                    "de": "Um den K\u00f6nig gesch\u00fctzt zu halten.",
+                    "zh": "\u4e3a\u4e86\u66f4\u597d\u7684\u4fdd\u62a4\u738b\u3002",
+                    "pl": "Aby chroni\u0107 Kr\u00f3la, jak si\u0119 tylko da.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u043b\u0443\u0447\u0448\u0435."
+                }
+            },
+            {
+                "move": "   2. Bxg5 Bxg5+ 3. Qxg5 h6 4. Qg4 Rf7 ",
+                "comment": {
+                    "pt": "Com o rei protegido ,as pretas poder\u00e3o iniciar seu ataque com a jogada ...a4. Se agora 5-Cxe6 segue ...Dc8 6-Td6 Te7 ganhando material.",
+                    "en": "With a protected King, Black can start its attack with ...a4. If 5-Nxe6, then Qc8 6-Rd6 Re7 will follow with material gain.",
+                    "es": "Con el rey protegido, las negras podr\u00e1n iniciar su ataque con la jugada ...a4. Si ahora 5-Cxe6 sigue ...Dc8 6-Td6 Te7, ganando material.",
+                    "de": "Nachdem Schwarz seinen K\u00f6nig in Sicherheit gebracht hat, kann er den Angriff mit ...a4 starten. Auf 5. Sxe6 folgt ...Dc8 6. Td6 Te7 mit Materialgewinn",
+                    "zh": "\u56e0\u4e3a\u9ed1\u738b\u53d7\u5230\u4fdd\u62a4\uff0c\u5f88\u5b89\u5168\uff0c\u9ed1\u68cb\u8d70...a4\u5f00\u59cb\u653e\u5fc3\u653b\u51fb\u3002\u5982\u679c\u4e0b5-Nxe6\uff0c\u4f1a\u8ddfQc8\uff0c\u63a5\u77406-Rd6 Re7\u83b7\u5f97\u5b50\u529b\u4f18\u52bf\u3002",
+                    "pl": "Z chronionym Kr\u00f3lem Czarne mog\u0105 rozpocz\u0105\u0107 atak przez ... a4. Je\u015bli 5. Sxe6, wtedy Hc8 6. Wd6 We7 z przewag\u0105 materialn\u0105.",
+                    "ru": "\u0421 \u0445\u043e\u0440\u043e\u0448\u043e \u043e\u0445\u0440\u0430\u043d\u044f\u0435\u043c\u044b\u043c \u041a\u043e\u0440\u043e\u043b\u0435\u043c, \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043d\u0430\u0447\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 ...a4. \u041d\u0430 5-Nxe6, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Qc8 6-Rd6 Re7, \u0441 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u044b\u0433\u043e\u0434\u043e\u0439."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1r1q1rk1\/6np\/2npbppQ\/1ppNp3\/4P3\/3P1NPP\/1PP2PB1\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nxf6+ ",
+                "comment": {
+                    "pt": "Para seguir com Cg5 e ganhar o pe\u00e3o de h7, criando um forte ataque contra o rei contr\u00e1rio.",
+                    "en": "In order to continue with Ng5 and to take the h7-pawn, creating a strong offensive against the opponent's King.",
+                    "es": "Para seguir con Cg5 y ganar el pe\u00f3n de h7, generando un fuerte ataque contra el rey contrario.",
+                    "de": "Nebst Sg5 mit Gewinn des Bauern auf h7 und starkem Angriff.",
+                    "zh": "\u4e3a\u4e86\u63a5\u7740\u4e0bNg5\uff0c\u5151\u6389h7-\u5175\uff0c\u5411\u654c\u738b\u53d1\u8d77\u5f3a\u70c8\u7684\u8fdb\u653b\u3002",
+                    "pl": "Aby kontynuowa\u0107 Sg5 i wzi\u0105\u0107 piona h7, kreuj\u0105c siln\u0105 ofensyw\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0438\u0433\u0440\u0443 Ng5 \u0438 \u0432\u0437\u044f\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 h7, \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1r1q1rk1\/6bp\/p2pb3\/1p2pp2\/8\/2P1N1P1\/PP3PBP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bd5 ",
+                "comment": {
+                    "pt": "Para trocar o bispo contr\u00e1rio e garantir que o cavalo ocupe definitivamente a importante casa d5.",
+                    "en": "In order to take the Bishop and make sure that the important d5 square is definitely occupied by the Knight.",
+                    "es": "Para cambiar el alfil contrario y asegurar que el caballo ocupe definitivamente la importante casilla d5.",
+                    "de": "Um den gegnerischen L\u00e4ufer abzutauschen und versichern, da\u00df der Springer das wichtige Feld d5 besetzt.",
+                    "zh": "\u4e3a\u4e86\u5151\u6389\u654c\u8c61\uff0c\u786e\u4fddd5\u8fd9\u4e2a\u975e\u5e38\u91cd\u8981\u7684\u683c\u5b50\u5b8c\u5168\u88ab\u9a6c\u5360\u636e\u3002",
+                    "pl": "Aby zbi\u0107 Go\u0144ca i mie\u0107 pewno\u015b\u0107, \u017ce istotne pole d5 jest zaj\u0119te przez Skoczka.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0438 \u0443\u0431\u0435\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u041a\u043e\u043d\u044c \u043f\u0440\u043e\u0447\u043d\u043e \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043e\u043b\u0435 d5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1p2bpp1\/p2p1n1p\/4p1B1\/4P3\/2N5\/PPP2PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf6 ",
+                "comment": {
+                    "pt": "Para seguir com Cd5 e manter o cavalo nesta casa, de onde ele n\u00e3o poder\u00e1 ser expulso e ainda ajudar\u00e1 em qualquer opera\u00e7\u00e3o que as brancas decidam fazer.",
+                    "en": "In order to continue with Nd5 and to stay there with the Knight, because it can't be chased away and can help with any of White's actions.",
+                    "es": "Para seguir con Cd5 y mantener el caballo en esta casilla, de la que no podr\u00e1 ser expulsado, y ayudar adem\u00e1s en cualquier operaci\u00f3n que las blancas decidan emprender.",
+                    "de": "Um Sd5 zu spielen. Der Springer kann dann nicht mehr von dem Feld d5 vertrieben werden und wird sich an jeder Aktion beteiligen, die Wei\u00df k\u00fcnftig unternimmt.",
+                    "zh": "\u4e3a\u4e86\u63a5\u7740\u4e0bNd5\uff0c\u8ba9\u9a6c\u7262\u7262\u5360\u636ed5\uff0c\u56e0\u4e3a\u8fd9\u91cc\u65e2\u4e0d\u4f1a\u88ab\u8d76\u8d70\uff0c\u53c8\u80fd\u53c2\u4e0e\u6240\u6709\u767d\u65b9\u7ec4\u7ec7\u7684\u8fdb\u653b\u3002",
+                    "pl": "Aby zagra\u0107 Sd5 i zosta\u0107 tam Skoczkiem, poniewa\u017c nie mo\u017ce on wtedy zosta\u0107 przegoniony i b\u0119dzie pomocny w ka\u017cdej akcji Bia\u0142ych.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0438\u0433\u0440\u0443 Nd5 \u0438 \u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f \u0442\u0430\u043c \u0441 \u041a\u043e\u043d\u0435\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0442\u0442\u0435\u0441\u043d\u0435\u043d \u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u043e\u0447\u044c \u0411\u0435\u043b\u044b\u043c \u043b\u044e\u0431\u044b\u043c\u0438 \u0441\u0432\u043e\u0438\u043c\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3brk1\/pp1nq1pp\/4p3\/1B1p4\/3P4\/5N2\/PP3PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxd7 ",
+                "comment": {
+                    "pt": "Para assegurar a casa e5 para o cavalo. Esta jogada deve ser feita agora porque as pretas amea\u00e7avam ...Bh5 cravando o cavalo branco e exercendo press\u00e3o atrav\u00e9s da coluna f.",
+                    "en": "In order to hold e5 for the Knight. This move must be made now, because Black threatened ...Bh5 pinning the white Knight and creating pressure through the f-file.",
+                    "es": "Para asegurarle la casilla e5 al caballo. Esta jugada debe ser hecha ahora porque las negras amenazaban ...Ah5, clavando el caballo blanco y ejerciendo presi\u00f3n a trav\u00e9s de la columna \"f\".",
+                    "de": "Um das Feld e5 f\u00fcr den Springer zu sichern. Dieser Zug muss jetzt geschehen, denn sonst spielt Schwarz ...Le5 mit Fesselung des wei\u00dfen Springers und Druck auf der f-Linie.",
+                    "zh": "\u4e3a\u4e86\u5c06e5\u683c\u7559\u7ed9\u9a6c\u3002\u8fd9\u4e00\u6b65\u5fc5\u987b\u8fd9\u4e48\u8d70\uff0c\u5426\u5219\u9ed1\u65b9\u8d70...Bh5\u7275\u5236\u4f4f\u767d\u9a6c\uff0c\u5e76\u7ed9f\u7ebf\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Aby utrzyma\u0107 e5 dla Skoczka. Posuni\u0119cie to musi zosta\u0107 wykonane w tej chwili, poniewa\u017c Czarne gro\u017c\u0105 ... Gh5, przygwo\u017cd\u017caj\u0105c Skoczka i wywieraj\u0105c presj\u0119 na kolumn\u0119 f.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u0434\u0435\u0440\u0436\u0430\u0442\u044c e5 \u0437\u0430 \u041a\u043e\u043d\u0435\u043c. \u0421\u0435\u0439\u0447\u0430\u0441 \u043d\u0430\u0434\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u044d\u0442\u043e\u0442 \u0445\u043e\u0434, \u043f\u043e\u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e ...Bh5, \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u044f \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0438 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u0447\u0435\u0440\u0435\u0437 f-\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

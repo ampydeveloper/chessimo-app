@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(17)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2r2\/1ppnp1kp\/p4q2\/2PP1p2\/1Q2pP2\/2N5\/PP2B1PP\/3R1R1K w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g4 ",
+                "comment": {
+                    "pt": "Com a id\u00e9ia de abrir a coluna ou continuar com g5 para apoderar-se da diagonal a1-h8.",
+                    "en": "Intending to open the file or continue with g5 in order to dominate the a1-h8 diagonal.",
+                    "de": "Mit der Idee, entweder die Linie zu \u00f6ffnen oder die Diagonale a1-h8 nach g5 zu erobern.",
+                    "es": "Con la idea de abrir la columna o continuar con g5 para apoderarse de la diagonal a1-h8.",
+                    "zh": "\u8ba1\u5212\u5f00\u653e\u8fd9\u6761\u7ebf\u6216\u8005\u7ee7\u7eedg5\u4e4b\u540e\u83b7\u5f97a1-h8\u659c\u7ebf\u7684\u7edf\u6cbb\u3002",
+                    "pl": "Z zamiarem otwarcia kolumny lub kontynuacji przez g5 w celu dominacji nad przek\u0105tn\u0105 a1-h8.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0441 g5, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a1-h8."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(81)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pppn2bp\/3p2pn\/3Ppp2\/2P1P3\/2N2NP1\/PP3PBP\/R1BQK2R w KQ - 0 9",
+        "moves": [
+            {
+                "move": "9. h4 ",
+                "comment": {
+                    "pt": "Para abrir a coluna h e aproveitar o mau posicionamento do cavalo em h6.",
+                    "en": "In order to open the h-file and take advantage of the bad position of the h6-Knight.",
+                    "de": "Um die h-Linie zu \u00f6ffnen und die schlechte Stellung vom Springer auf h6 auszunutzen.",
+                    "es": "Para abrir la columna h y aprovechar el mal posicionamento del caballo en h6.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653eh-\u7ebf\u5e76\u4e14\u5229\u7528h6-\u9a6c\u7684\u4e0d\u5229\u4f4d\u7f6e\u3002",
+                    "pl": "W celu otwarcia kolumny h i wykorzystania z\u0142ej pozycji Skoczka h6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u043b\u043e\u0445\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0435\u0439 \u041a\u043e\u043d\u044f \u043d\u0430 h6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(125)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3bppkp\/3p1np1\/ppr1n3\/3NP1P1\/P1P2P2\/B1PK4\/1R5R b - - 0 23",
+        "moves": [
+            {
+                "move": "23... Nxf3+ ",
+                "comment": {
+                    "pt": "Trocando uma pe\u00e7a por quatro pe\u00f5es e mantendo a iniciativa.",
+                    "en": "Exchanging a piece for 4 pawns and keeping the initiative.",
+                    "de": "Tauscht eine Figur gegen vier Bauern ab und erh\u00e4lt die Initiative aufrecht.",
+                    "es": "Cambiando una pieza por cuatro peones y manteniendo la iniciativa.",
+                    "zh": "\u7528\u4e00\u4e2a\u5b50\u5151\u6362\u56db\u4e2a\u5175\u5e76\u4fdd\u6301\u4e3b\u52a8\u6743\u3002",
+                    "pl": "Wymiana figury za 4 piony i utrzymanie inicjatywy.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443 \u043d\u0430 \u0447\u0435\u0442\u044b\u0440\u0435 \u043f\u0435\u0448\u043a\u0438 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(106)",
+            "zh": "Event 1"
+        },
+        "fen": "2r2bk1\/p4pp1\/1nP4p\/5N2\/2p5\/2B3P1\/P4P1P\/3R2K1 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Bxg7 ",
+                "comment": {
+                    "pt": "Aproveitando o tema t\u00e1tico do duplo em e7, as brancas alcan\u00e7ar\u00e3o uma posi\u00e7\u00e3o onde a torre \u00e9 superior a duas pe\u00e7as menores.",
+                    "en": "Taking advantage of the tactic theme of the double attack on c7, White will reach a position, on which the Rook is superior to 2 minor pieces.",
+                    "de": "Nutzt das Thema der Gabel auf e7 aus und erreicht eine Stellung, auf der der Turm den zwei Leichtfiguren \u00fcberlegen ist.",
+                    "es": "Aprovech\u00e1ndose del tema t\u00e1ctico del doble en e7, las blancas alcanzar\u00e1n una posici\u00f3n donde la torre es superior a las dos piezas menores.",
+                    "zh": "\u5229\u7528c7\u5904\u7684\u53cc\u51fb\u6218\u672f\u3002\u767d\u68cb\u4f1a\u8fbe\u5230\u4e24\u4e2a\u8f7b\u5b50\u8981\u6bd4\u8f66\u91cd\u8981\u7684\u5c40\u9762\u3002",
+                    "pl": "Wykorzystanie taktycznego zdublowania ataku na c7 - Bia\u0142e osi\u0105gn\u0105 pozycj\u0119 w kt\u00f3rej Wie\u017ca jest lepsza ni\u017c dwie lekkie figury.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0442\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0445\u0435\u043c\u0443 \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 c7, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u044e\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u041b\u0430\u0434\u044c\u044f \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0446\u0435\u043d\u043d\u0435\u0435 \u0434\u0432\u0443\u0445 \u043b\u0435\u0433\u043a\u043e\u0432\u0435\u0441\u043d\u044b\u0445 \u0444\u0438\u0433\u0443\u0440."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(11)",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/pp1nnpp1\/1q2p3\/4Pb1p\/5P2\/Q6B\/PP4PP\/R1B1NR1K b kq - 0 18",
+        "moves": [
+            {
+                "move": "18... Qb5 ",
+                "comment": {
+                    "pt": "Atacando a torre e principalmente liberando a casa b6, para que o cavalo de d7 possa se deslocar para d5, onde exercer\u00e1 forte press\u00e3o no campo inimigo e ainda contar\u00e1 com o apoio do cavalo de e7.",
+                    "en": "Attacking the Rook, but the main goal is to leave b6 so that the d7-Knight can move to d5, from where it puts great pressure on the enemy camp and, also, counts on the support of the e7-Knight.",
+                    "de": "Greift den Turm an und r\u00e4umt das Feld b6 f\u00fcr den Springer auf d7, damit er d5 erreichen kann und von da aus starken Druck auf die gegnerische Stellung aus\u00fcbt, vom Springer auf e7 unterst\u00fctzt.",
+                    "es": "Atacando la torre y principalmente liberando la casilla b6 para que el caballo de d7 pueda ir a d5, donde ejercer\u00e1 fuerte presi\u00f3n en el campo enemigo y adem\u00e1s contar\u00e1 con el apoyo del caballo de e7.",
+                    "zh": "\u653b\u51fb\u8f66\uff0c\u4f46\u662f\u4e3b\u8981\u7684\u76ee\u7684\u7684\u4e3a\u4e86\u79bb\u5f00b6\uff0c\u8fd9\u6837d7-\u9a6c\u53ef\u4ee5\u8d70\u5230d5\uff0c\u5728e7-\u9a6c\u7684\u5e2e\u52a9\u4e4b\u4e0b\u7ed9\u654c\u8425\u65bd\u52a0\u5de8\u5927\u7684\u538b\u529b\u3002",
+                    "pl": "Atakuj\u0105c Wie\u017c\u0119, ale g\u0142\u00f3wnym celem jest opuszczenie b6, aby Skoczek d7 m\u00f3g\u0142 poruszy\u0107 si\u0119 na d5, sk\u0105d wywrze wielk\u0105 presj\u0119 na wrogim obozie, a tak\u017ce do\u0142\u0105czenie Skoczka e7.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u041b\u0430\u0434\u044c\u044e, \u043d\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0438\u0434\u0435\u044f \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c b6, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u041a\u043e\u043d\u044c \u043d\u0430 d7 \u043c\u043e\u0433 \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 d5, \u043e\u0442\u043a\u0443\u0434\u0430 \u043e\u043d \u043e\u043a\u0430\u0436\u0435\u0442 \u0432\u0435\u0441\u043e\u043c\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0439 \u043b\u0430\u0433\u0435\u0440\u044c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u043d\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0443 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u041a\u043e\u043d\u044f \u043d\u0430 e7."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

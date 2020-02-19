@@ -1,0 +1,202 @@
+[
+    {
+        "title": "",
+        "white": "Defesa CaroKan",
+        "white_sort": "",
+        "black": "Variante Cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Classical variation",
+            "de": "Klassische Variante",
+            "es": "Variante Cl\u00e1sica",
+            "pt": "Variante Cl\u00e1ssica",
+            "zh": "\u53e4\u5178\u53d8\u4f8b",
+            "pl": "Wariant klasyczny",
+            "ru": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c6 ",
+                "comment": {
+                    "pt": "A defesa Caro Kan , assim como todas as outras defesas importantes, tem como objetivo disputar o centro e abrir linhas para o desenvolvimento das pe\u00e7as. Ap\u00f3s a jogada ...d5, as pretas ir\u00e3o estabelecer uma posi\u00e7\u00e3o central e ter\u00e3o a op\u00e7\u00e3o de desenvolver rapidamente o bispo de casas brancas. Note que na defesa Francesa (...e6-d5) o bispo de c8 fica bloqueado pelos pr\u00f3prios pe\u00f5es, o que n\u00e3o ocorre na Caro Kan. As brancas t\u00eam agora quatro op\u00e7\u00f5es b\u00e1sicas; Desenvolver o cavalo defendendo e4 (Cc3 ou Cd2), avan\u00e7ar o pe\u00e3o (e5) ganhando espa\u00e7o, trocar os pe\u00f5es e desenvolver as pe\u00e7as (exd5- Bd3) e trocar os pe\u00f5es e pressionar o centro com c4.",
+                    "en": "The Caro Kan defense, like all other important defenses, aims to fight for the center and open lines for piece development. After ...d5, Black will establish a central position and have the option to quickly develop the light-squared Bishop. Notice that in the French defense (...e6-d5) the c8-Bishop is blocked by its own pawns. This doesn't happen in Caro Kan. White has 4 basic options now: to develop the Knight defending e4 (Nc3 or Nd2), to advance the pawn(e5) winning space, to exchange pawns and develop pieces (exd5- Bd3) or to exchange pawns and put pressure on the center with c4.",
+                    "es": "La defensa Caro Kann, as\u00ed como todas las otras defensas importantes, tiene como objetivo disputar el centro y abrir l\u00edneas para el desarrollo de las piezas. Despu\u00e9s de la jugada .. .d5, las negras establecen una posici\u00f3n central y tendr\u00e1n a opci\u00f3n de desarrollar r\u00e1pidamente el alfil de casillas blancas. Note que en la defensa Francesa (...e6-d5) el alfil de c8 queda bloqueado por los propios peones, lo que no ocurre en la Caro Kann. Las blancas tienen ahora cuatro opciones b\u00e1sicas: desarrollar el caballo defendiendo e4 (Cc3 o Cd2), avanzar el pe\u00f3n ganando espacio (e5), cambiar los peones y desarrollar las piezas (exd5-Ad3) o cambiar los peones y presionar el centro (c4).",
+                    "de": "Die Caro-Kann-Verteidigung, sowie alle anderen ernstzunehmenden Verteidigungen haben zum Ziel, das Zentrum unter Kontrolle zu haben und Linien f\u00fcr die Entwicklung der Figuren zu \u00f6ffnen. Nach ...d5 hat Schwarz Spiel im Zentrum und auch die M\u00f6glichkeit, den wei\u00dffeldrigen L\u00e4ufer zu entwickeln. Beachte, dass der wei\u00dffeldrige L\u00e4ufer in der Franz\u00f6sischen Verteidigung (...e6-d5) von den eigenen Bauern gesperrt wird, was in der Caro-Kann-Verteidigung nicht geschieht. Wei\u00df hat nun vier M\u00f6glichkeiten: 1) den Springer \u00fcber c3 bzw. d2 zu entwickeln, um den Bauern e4 zu decken; 2)  mit e5 den Bauern mit Raumgewinn vorzur\u00fccken; 3) die Bauern abzutauschen und \t4) die Figuren zu entwickeln (exd5- Ld3) und die Bauern abzutauschen und Druck mit c4 auf das Zentrum auszu\u00fcben.",
+                    "zh": "\u5361\u7f57-\u5eb7\u9632\u5fa1\uff0c\u8ddf\u5176\u4ed6\u91cd\u8981\u7684\u9632\u5fa1\u4e00\u6837\uff0c\u76ee\u7684\u662f\u4e3a\u62a2\u5360\u4e2d\u5fc3\uff0c\u5e76\u4e14\u4e3a\u51fa\u5b50\u5f00\u653e\u7ebf\u8def\u3002\u8d70...d5\u4e4b\u540e\uff0c\u9ed1\u65b9\u4f1a\u5efa\u7acb\u4e00\u4e2a\u4e2d\u5fc3\u4f4d\u7f6e\u5e76\u4e14\u53ef\u4ee5\u5feb\u901f\u51fa\u52a8\u767d\u683c\u8c61\u3002\u6ce8\u610f\u5728\u6cd5\u5170\u897f\u9632\u5fa1\u4e2d\uff08...e6-d5\uff09c8-\u8c61\u88ab\u5df1\u65b9\u5175\u5835\u4f4f\u3002\u8fd9\u5728\u5361\u7f57-\u5eb7\u9632\u5fa1\u4e2d\u4e0d\u4f1a\u51fa\u73b0\u3002\u767d\u65b9\u6709\u56db\u4e2a\u57fa\u672c\u9009\u62e9\uff1a\u51fa\u9a6c\u6765\u9632\u5fa1e4\uff08Nc3 or Nd2\uff09\u6765\u63a8\u8fdb\u5175\uff08e5\uff09\u8d62\u5f97\u7a7a\u95f4\uff0c\u5151\u5175\u51fa\u5b50\uff08(exd5- Bd3\uff09\u6216\u8005\u5151\u5175\u8d70d4\u7ed9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Obrona Caro-Kann, jak pozosta\u0142e wa\u017cne obrony, polega na walce o centrum i otwarciu linii dla wyprowadzenia figur. Po ... d5 Czarne zajm\u0105 centralne pozycje i b\u0119d\u0105 mia\u0142y mo\u017cliwo\u015b\u0107 szybkiego wyprowadzenia jasnopolowego Go\u0144ca. Zauwa\u017c, \u017ce w obronie francuskiej (... e6-d5) Goniec c8 jest blokowany przez w\u0142asne piony. To nie zdarza si\u0119 w obronie Caro-Kann. Bia\u0142e posiadaj\u0105 cztery podstawowe opcje: wyprowadzi\u0107 Skoczka, by broni\u0142 e4 (Sc3 lub Sd2), marsz pionem (e5), by zdoby\u0107 pole, wymieni\u0107 piony i wyprowadzi\u0107 figury (exd5-Gd3) lub wymieni\u0107 piony i wywrze\u0107 presj\u0119 w centrum dzi\u0119ki c4.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0442\u0430 \u041a\u0430\u0440\u043e-\u041a\u0430\u043d\u043d, \u043a\u0430\u043a \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0436\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0437\u0430\u0449\u0438\u0442, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0430 \u043d\u0430 \u0431\u043e\u0440\u044c\u0431\u0443 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u043b\u0438\u043d\u0438\u0439 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440. \u041f\u043e\u0441\u043b\u0435 ...d5, \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0438 \u0438\u043c\u0435\u044e\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430. \u0417\u0430\u043c\u0435\u0442\u044c\u0442\u0435, \u0447\u0442\u043e \u0432\u043e \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u0435 (...e6-d5), \u0421\u043b\u043e\u043d \u043d\u0430 c8 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439. \u042d\u0442\u043e\u0433\u043e \u043d\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043a \u0437\u0430\u0449\u0438\u0442\u0435 \u041a\u0430\u0440\u043e-\u041a\u0430\u043d\u043d. \u0423 \u0411\u0435\u043b\u044b\u0445 \u0442\u0435\u043f\u0435\u0440\u044c \u0435\u0441\u0442\u044c 4 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f: \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u041a\u043e\u043d\u044f \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b e4 (Nc3 \u0438\u043b\u0438 Nd2), \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044f \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u0440\u0430\u0437\u043c\u0435\u043d \u043f\u0435\u0448\u0435\u043a \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0444\u0438\u0433\u0443\u0440 (exd5- Bd3), \u0438\u043b\u0438 \u0436\u0435 \u0440\u0430\u0437\u043c\u0435\u043d \u043f\u0435\u0448\u0435\u043a \u0434\u043b\u044f \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u044f \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 c4."
+                }
+            },
+            {
+                "move": "   2. d4 d5 3. Nc3 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante cl\u00e1ssica. As brancas desenvolvem uma pe\u00e7a e mant\u00e9m a tens\u00e3o central. Tamb\u00e9m seria poss\u00edvel jogar Cd2.",
+                    "en": "This is the classic variation. White develops one piece and maintains central tension. Nd2 would also be possible.",
+                    "es": "Esta es la variante cl\u00e1sica. Las blancas desarrollan una pieza y mantienen la tensi\u00f3n central. Tambi\u00e9n ser\u00eda posible jugar Cd2.",
+                    "de": "Die Klassische Variante. Wei\u00df entwickelt eine Figur und erh\u00e4lt die zentrale Spannung aufrecht. Sd2 geht auch.",
+                    "zh": "\u8fd9\u662f\u53e4\u5178\u53d8\u4f8b\u3002\u767d\u65b9\u51fa\u4e00\u4e2a\u5b50\u5e76\u4fdd\u6301\u4e2d\u5fc3\u5f20\u529b\u3002Nd2\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "To wariant klasyczny. Bia\u0142e wyprowadzaj\u0105 jedn\u0105 figur\u0119 i utrzymuj\u0105 presj\u0119 w centrum. Sd2 r\u00f3wnie\u017c by\u0142oby mo\u017cliwe.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442. \u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0442 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0435. \u0418\u0433\u0440\u0430 Nd2, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430."
+                }
+            },
+            {
+                "move": "   dxe4 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a melhor op\u00e7\u00e3o para as pretas, pois permite um r\u00e1pido desenvolvimento do bispo de casas brancas. Outras jogadas como ... e6, bloqueando o pr\u00f3prio bispo e ...Cf6, permitindo e5 com ganho de tempo seriam inferiores.",
+                    "en": "This is the best option for Black because it enables fast development of the light-squared Bishop. Other moves, such as ... e6, blocking the Bishop and ...Nf6, allowing e5 with tempo would be inferior.",
+                    "es": "Esta es la mejor opci\u00f3n para las negras, pues permite un r\u00e1pido desarrollo del alfil de casillas blancas. Otras jugadas como ... e6, bloqueando el propio alfil, y ...Cf6, permitiendo e5 con ganancia de tiempo, ser\u00edan inferiores.",
+                    "de": "Das ist die beste M\u00f6glichkeit f\u00fcr Schwarz, da der wei\u00dffeldrige L\u00e4ufer schnell entwickelt wird. Andere Z\u00fcge wie ... e6 (blockiert den eigenen L\u00e4ufer) und ...Sf6 (l\u00e4sst e5 mit Tempogewinn zu) w\u00e4ren minderwertig.",
+                    "zh": "\u8fd9\u5bf9\u9ed1\u65b9\u6765\u8bf4\u662f\u6700\u597d\u7684\u9009\u62e9\uff0c\u56e0\u4e3a\u53ef\u4ee5\u5b9e\u73b0\u5feb\u901f\u51fa\u52a8\u767d\u683c\u8c61\u3002\u53e6\u5916\u7684\u8d70\u6cd5\u8b6c\u5982... e6\uff08\u4f1a\u5835\u4f4f\u5df1\u65b9\u8c61\uff09\u548c...Nf6\uff08\u8ba9\u5bf9\u65b9\u53ef\u4ee5\u8d70e5\u8d62\u5f97\u5148\u624b\uff09\u90fd\u662f\u4e0d\u5229\u7684\u3002",
+                    "pl": "Najlepsza opcja dla Czarnych, poniewa\u017c zapewnia szybkie wyprowadzenie jasnopolowego Go\u0144ca. Inne ruchy, takie jak ... e6, blokuj\u0105ce Go\u0144ca i ... Sf6, pozwalaj\u0105ce na zagranie e5 w tempo, by\u0142yby gorsze.",
+                    "ru": "\u042d\u0442\u043e \u043b\u0443\u0447\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044d\u0442\u043e \u0434\u0430\u0435\u0442 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430. \u0414\u0440\u0443\u0433\u0438\u0435 \u0445\u043e\u0434\u044b, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a ...e6, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 ...Nf6, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 e5, \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u0435\u0442 \u0442\u0435\u043c\u043f."
+                }
+            },
+            {
+                "move": "   4. Nxe4 Bf5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o poss\u00edveis as jogadas 4...Cd7, com a id\u00e9ia de .. .Cf6 e 4... Cf6 diretamente ,permitindo que os pe\u00f5es sejam dobrados. Em nossa base as partidas 310 a 314 , 316, 318, 319, 321, 323 e 324 tratam destas jogadas.",
+                    "en": "4...Nd7, intending ...Nf6 and 4.. .Nf6 directly are also possible and enable pawns to be doubled. Games 310 to 314, 316, 318, 319, 321, 323 and 324 of our database deal with these moves.",
+                    "es": "Tambi\u00e9n son posibles las jugadas 4...Cd7, con la idea de ...Cf6 y 4...Cf6 directamente, permitiendo que los peones sean doblados. En nuestra base las partidas 310 a 314 , 316, 318, 319, 321, 323 y 324 tratan estas jugadas.",
+                    "de": "Andere M\u00f6glichkeiten: 4...Sd7, mit der Idee ...Sf6 und das sofortige 4... Sf6, was die Entstehung von Doppelbauern zul\u00e4sst. Auf unserer Datenbank findet man in den Partien 310 bis 314 , 316, 318, 319, 321, 323 und 324 Beispiele von dieser Stellung.",
+                    "zh": "4...Nd7\u76ee\u7684\u8d70...Nf6\u548c\u7acb\u5373\u8d704.. .Nf6\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u53ef\u4ee5\u5236\u9020\u53e0\u5175\u3002\u68cb\u5e93\u4e2d\u68cb\u5c40310\u5230314\u3001316\u3001318\u3001319\u3001321\u3001323\u548c324\u4ecb\u7ecd\u4e86\u8fd9\u4e9b\u8d70\u6cd5\u3002",
+                    "pl": "4. ... Sd7, z zamiarem ... Sf6 oraz 4. ...Sf6 s\u0105 r\u00f3wnie\u017c mo\u017cliwe i umo\u017cliwiaj\u0105 zdublowanie pion\u00f3w. Partie od 310 do 314, 316, 318, 319, 321, 323 i 324 z naszego archiwum gier prezentuj\u0105 te mo\u017cliwo\u015bci.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442\u044b 4...Nd7, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c ...Nf6 \u0438 4...Nf6, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b \u0438 \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0438. \u0418\u0433\u0440\u044b 310, 314, 316, 318, 319, 321, 323 \u0438 324, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442 \u0442\u0430\u043a\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b."
+                }
+            },
+            {
+                "move": "   5. Ng3 ",
+                "comment": {
+                    "pt": "A jogada 5-Cc5 tamb\u00e9m \u00e9 poss\u00edvel , mas \u00e9 pouco jogada e ocorreu na partida 322 de nossa base.",
+                    "en": "The less played 5-Nc5 is also possible and is presented in games 322 of our database.",
+                    "es": "La jugada 5-Cc5 tambi\u00e9n es posible pero poco practicada. La partida 322 de nuestra base es un ejemplo.",
+                    "de": "5. Sc5 w\u00e4re auch m\u00f6glich (Partie Nr. 322 unserer Datenbank).",
+                    "zh": "\u6bd4\u8f83\u5c11\u89c1\u76845-Nc5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40322\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Rzadziej u\u017cywane 5. Sc5 jest r\u00f3wnie\u017c mo\u017cliwe i jest zaprezentowane w partii 322.",
+                    "ru": "\u0420\u0435\u0436\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 5-Nc5, \u0447\u0442\u043e \u0442\u043e\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 322, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   Bg6 ",
+                "comment": {
+                    "pt": "Agora as pretas est\u00e3o prontas para jogar ... e6 e desenvolver o outro bispo, assim como os cavalos. As brancas t\u00eam v\u00e1rias hip\u00f3teses, mas a principal e mais jogada pelos grandes mestres \u00e9;",
+                    "en": "Now Black is ready to play ...e6 and develop the other Bishop in additions to the Knights. White has many options but the main one and also most played by grandmasters is:",
+                    "es": "Ahora las negras est\u00e1n listas para jugar ...e6 y desarrollar el otro alfil, as\u00ed como los caballos. Las blancas tienen varias posibilidades, pero la principal y m\u00e1s jugada por los grandes maestros es:",
+                    "de": "Schwarz kann jetzt ... e6 spielen und den anderen L\u00e4ufer sowie die Springer entwickeln. Wei\u00df hat mehrere M\u00f6glichkeiten, aber die meistgespielte unter Gro\u00dfmeistern ist:",
+                    "zh": "\u76ee\u524d\u9ed1\u65b9\u51c6\u5907\u4e0b ...e6\uff0c\u51fa\u9a6c\u4e4b\u5916\u518d\u51fa\u53e6\u4e00\u4e2a\u8c61\u3002\u767d\u65b9\u6709\u5f88\u591a\u9009\u62e9\u4f46\u662f\u4e3b\u8981\u7684\u4e00\u4e2a\u548c\u5927\u5e08\u4eec\u6700\u5e38\u7528\u7684\u4e00\u4e2a\u662f\uff1a",
+                    "pl": "Teraz Czarne s\u0105 gotowe do zagrania ... e6 i wyprowadzenia drugiego Go\u0144ca, aby m\u00f3g\u0142 do\u0142\u0105czy\u0107 do Skoczk\u00f3w. Bia\u0142e posiadaj\u0105 wiele mo\u017cliwo\u015bci, ale g\u0142\u00f3wn\u0105 gran\u0105 przez arcymistrz\u00f3w jest:",
+                    "ru": "\u0422\u0435\u043f\u0435\u0440\u044c \u0427\u0435\u0440\u043d\u044b\u0435 \u0433\u043e\u0442\u043e\u0432\u044b \u0438\u0433\u0440\u0430\u0442\u044c 5-Nc5 \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043a\u0430\u043a \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a \u041a\u043e\u043d\u044e. \u0423 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u043c\u043d\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432, \u043d\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0447\u0430\u0449\u0435 \u0432\u0441\u0435\u0433\u043e \u0438\u0433\u0440\u0430\u0435\u0442\u0441\u044f \u0433\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440\u0430\u043c\u0438:"
+                }
+            },
+            {
+                "move": "   6. h4 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando h5 e ganhando espa\u00e7o no flanco rei. Tamb\u00e9m seria poss\u00edvel Cf3, seguido de Bd3 ou Be2, 0-0 e Te1, completando o desenvolvimento. Outro plano \u00e9 6-C1e2 para ir com esta pe\u00e7a a f4 e pressionar o bispo preto, como ocorreu na partida 317 de nossa base.",
+                    "en": "Threatening h5 and winning space on the kingside. Nf3, followed by Bd3 or Be2, 0-0 and Re1, would also be possible completing development. Another plan is 6-N1e2 in order to take this piece to f4 and put pressure on the black Bishop, as shown in game 317 of our database.",
+                    "es": "Amenazando h5 y ganando espacio en el flanco rey. Tambi\u00e9n ser\u00eda posible Cf3, seguido de Ad3 o Ae2, 0-0 y Te1, completando el desarrollo. Otro plan es 6-C1e2 para ir con esta pieza a f4 y presionar el alfil negro, como ocurri\u00f3 en la partida 317 de nuestra base.",
+                    "de": "Droht h5 mit Raumgewinn am K\u00f6nigsfl\u00fcgel. Sf3 nebst Ld3 (oder Le2)-0-0 und Te1 w\u00e4re auch m\u00f6glich, um die Entwicklung zu beenden. Ein anderer Plan ist 6. S1e2 mit der Idee Sf4 und Druck auf den schwarzen L\u00e4ufer (Partie Nr. 317 unserer Datenbank).",
+                    "zh": "\u5a01\u80c1h5\u5e76\u4e14\u5728\u738b\u7ffc\u8d62\u5f97\u7a7a\u95f4\u3002Nf3\u968f\u540eBd3\u6216Be2, 0-0\u548cRe1\u4e5f\u662f\u53ef\u4ee5\u7ed3\u675f\u51fa\u5b50\u7684\u3002\u53e6\u5916\u4e00\u4e2a\u8ba1\u5212\u662f6-N1e2\u4e3a\u4e86\u5c06\u8fd9\u4e2a\u5b50\u79fb\u5230f4\uff0c\u5e76\u4e14\u7ed9\u9ed1\u8c61\u65bd\u52a0\u538b\u529b\uff0c\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40317\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Gro\u017c\u0105c h5 i wygrywaj\u0105c przestrze\u0144 na skrzydle kr\u00f3lewskim. Sf3, kontynuowane przez Gd3 lub Ge2, 0-0 i We1, by\u0142yby mo\u017cliwe do uko\u0144czenia rozwoju. Innym planem jest 6. S1e2 w celu przetransportowania tej figury na f4 i wywarcia presji na czarnym Go\u0144cu, jak to pokazano w grze 317.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 h5 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u041d\u0430 Nf3, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Bd3 \u0438\u043b\u0438 Be2, 0-0 \u0438 Re1, \u0447\u0442\u043e \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0434\u043b\u044f \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f. \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u044d\u0442\u043e 6-N1e2 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u043e\u0439 f4 \u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 317, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   h6 7. Nf3 Nd7 ",
+                "comment": {
+                    "pt": "Evitando Ce5.",
+                    "en": "Preventing Ne5.",
+                    "es": "Evitando Ce5.",
+                    "de": "Verhindert Se5.",
+                    "zh": "\u963b\u6b62Ne5\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Se5.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 Ne5."
+                }
+            },
+            {
+                "move": "   8. h5 ",
+                "comment": {
+                    "pt": "Jogar 8-Bd3 diretamente , para trocar os bispos e manter o pe\u00e3o em h4 \u00e9 uma op\u00e7\u00e3o (partida 320).",
+                    "en": "Play 8-Bd3 directly, in order to exchange Bishops and keep the h4-pawn is an option (game 320).",
+                    "es": "Jugar 8-Ad3 directamente, para cambiar los alfiles y mantener el pe\u00f3n en h4, es otra opci\u00f3n (partida 320).",
+                    "de": "Sofort 8. Ld3 zu spielen, um die L\u00e4ufer abzutauschen und den Bauern auf h4 zu behalten ist eine andere M\u00f6glichkeit (Partie Nr. 320).",
+                    "zh": "\u76f4\u63a5\u8d708-Bd3\uff0c\u4e3a\u4e86\u5151\u8c61\u5e76\u4e14\u4fdd\u4f4fh4-\u5175\u4e5f\u662f\u4e00\u79cd\u9009\u62e9\uff08\u68cb\u5c40320\uff09\u3002",
+                    "pl": "Zagranie natychmiast 8. Gd3 w celu wymiany Go\u0144c\u00f3w i zatrzymania piona h4 jest opcj\u0105 (partia 320).",
+                    "ru": "\u0418\u0433\u0440\u0430 8-Bd3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u043e\u0432 (\u0438\u0433\u0440\u0430 320)."
+                }
+            },
+            {
+                "move": "   Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 ",
+                "comment": {
+                    "pt": "11-Bf4 tamb\u00e9m \u00e9 bom e pode transpor para a variante principal ap\u00f3s ... Da5 12-Bd2 Dc7 13-0-0-0 e6. Na partida 315 de nossa base ocorreu esta jogada e as pretas optaram por 11... e6, seguido de Be7 e roque pequeno levando a uma partrida muito complicada com roques em flancos opostos.",
+                    "en": "11-Bf4 is also good and can transpose to the main variation after ...Qa5 12-Bd2 Qc7 13-0-0-0 e6. Game 315 of our database presents this move and Black chose 11... e6, followed by Be7 and kingcastle that leads to a very complicated game with opposite castling.",
+                    "es": "11-Af4 tambi\u00e9n es bueno y puede transponer a la variante principal despu\u00e9s de ...Da5 12-Ad2 Dc7 13-0-0-0 e6. En la partida 315 de nuestra base ocurri\u00f3 esta jugada y las negras optaron por 11... e6, seguido de Ae7 y enroque corto, llevando a una partida muy complicada con enroques en flancos opuestos.",
+                    "de": "11 Lf4 ist auch gut und kann nach ...Da5 12. Ld2 Dc7 13. 0-0-0 e6 zur Hauptvariante f\u00fchren. In der Partie 315 kam dieser Zug vor; Schwarz spielte 11... e6 nebst Le7 und 0-0, mit entegegenstetzten Rochaden.",
+                    "zh": "11-Bf4\u4e5f\u662f\u597d\u7684\uff0c\u5e76\u4e14\u5728...Qa5 12-Bd2 Qc7 13-0-0-0 e6\u4e4b\u540e\u53ef\u4ee5\u53d8\u6362\u4e3a\u4e3b\u53d8\u4f8b\u3002\u68cb\u5e93\u4e2d\u68cb\u5c40315\u5448\u73b0\u4e86\u8fd9\u4e00\u6b65\uff0c\u9ed1\u65b9\u9009\u62e9\u8d7011... e6\u968f\u540eBe7\uff0c\u738b\u7ffc\u6613\u4f4d\uff0c\u53cd\u5411\u6613\u4f4d\u4f7f\u68cb\u5c40\u53d8\u5f97\u975e\u5e38\u590d\u6742\u3002",
+                    "pl": "11. Gf4 jest r\u00f3wnie dobre i mo\u017ce transponowa\u0107 g\u0142\u00f3wn\u0105 wariacj\u0119 po ... Ha5 12. Gd2 Hc7 13. 0-0-0 e6. Partia 315 prezentuje ten ruch i Czarne wybieraj\u0105 11. ... e6, kontynuowane przez Ge7 oraz kr\u00f3tk\u0105 roszad\u0119, co prowadzi do bardzo skomplikowanej gry z odmiennymi roszowaniami.",
+                    "ru": "\u0425\u043e\u0434 11-Bf4 \u0442\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448 \u0438 \u043c\u043e\u0436\u0435\u0442 \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u0438\u0433\u0440\u0443 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043f\u043e\u0441\u043b\u0435 ...Qa5 12-Bd2 Qc7 13-0-0-0 e6. \u0418\u0433\u0440\u0430 315 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u044d\u0442\u043e\u0442 \u0445\u043e\u0434, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 11... e6, \u0437\u0430\u0442\u0435\u043c \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Be7, \u043a\u043e\u0440\u043e\u0442\u043a\u0430\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u0443\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u043d\u043e\u0439 \u0438\u0433\u0440\u0435 \u0441 \u043e\u043f\u043f\u043e\u0437\u0438\u0442\u043d\u044b\u043c\u0438 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430\u043c\u0438."
+                }
+            },
+            {
+                "move": "   e6 12. O-O-O ",
+                "comment": {
+                    "pt": "Como as brancas jogaram h4-h5, ganhando espaco no flanco rei, \u00e9 mais l\u00f3gico manter o rei no flanco dama, onde estar\u00e1 mais protegido.",
+                    "en": "Since White played h4-h5, winning space on the kingside, it's more logical to maintain the King on the queenside where it is more protected.",
+                    "es": "Como las blancas jugaron h4-h5, ganando espacio en el flanco rey, es m\u00e1s l\u00f3gico mantener el rey en el flanco dama, donde estar\u00e1 m\u00e1s protegido.",
+                    "de": "Der wei\u00dfe K\u00f6nig steht am Damenfl\u00fcgel sicherer, da Wei\u00df h4-h5 am K\u00f6nigsfl\u00fcgel spielte.",
+                    "zh": "\u56e0\u4e3a\u767d\u65b9\u8d70h4-h5\uff0c\u5728\u738b\u7ffc\u8d62\u5f97\u7a7a\u95f4\uff0c\u5c06\u738b\u4fdd\u6301\u5728\u540e\u7ffc\u66f4\u7b26\u5408\u903b\u8f91\uff0c\u56e0\u4e3a\u90a3\u91cc\u5b83\u66f4\u53d7\u4fdd\u62a4\u3002",
+                    "pl": "Skoro Bia\u0142e zagra\u0142y h4-h5, wygrywaj\u0105c przestrze\u0144 na skrzydle kr\u00f3lewskim, bardziej logiczne jest umieszczenie Kr\u00f3la na skrzydle hetma\u0144skim, gdzie jest mocniej chroniony.",
+                    "ru": "\u0422\u0430\u043a \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u043b\u0438 h4-h5, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u0431\u0443\u0434\u0435\u0442 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u0435\u0435 \u0437\u0430\u0449\u0438\u0449\u0435\u043d."
+                }
+            },
+            {
+                "move": "   Qc7 ",
+                "comment": {
+                    "pt": "As pretas tamb\u00e9m pretendem levar o rei ao flanco dama, pois se tentassem rocar pequeno, poderiam ser atacadas ap\u00f3s g4-g5.",
+                    "en": "Black also intends to take the king to the queenside because if it tried kingcastling, it could be attacked after g4-g5.",
+                    "es": "Las negras tambi\u00e9n pretenden llevar el rey al flanco dama, pues si intentaran enrocar en corto, podr\u00edan ser atacadas despu\u00e9s de g4-g5.",
+                    "de": "Auch Schwarz muss seinen K\u00f6nig zum Damenfl\u00fcgel bringen, da Wei\u00df ihn mit g4-g5 im Falle einer kurzen Rochade angreifen w\u00fcrde.",
+                    "zh": "\u9ed1\u65b9\u4e5f\u6253\u7b97\u5c06\u738b\u79fb\u5230\u540e\u7ffc\uff0c\u56e0\u4e3a\u5982\u679c\u5b83\u738b\u7ffc\u6613\u4f4d\u7684\u8bdd\u53ef\u80fd\u4f1a\u5728g4-g5\u4e4b\u540e\u906d\u53d7\u653b\u51fb\u3002",
+                    "pl": "Czarne r\u00f3wnie\u017c zamierzaj\u0105 umie\u015bci\u0107 Kr\u00f3la na skrzydle hetma\u0144skim, poniewa\u017c je\u015bli spr\u00f3bowa\u0142yby roszowa\u0107 kr\u00f3tko, zosta\u0142yby zaatakowane przez g4-g5.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u0431\u0443\u0434\u0435\u0442 \u043a\u043e\u0440\u043e\u0442\u043a\u0430\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430, \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043f\u043e\u0441\u043b\u0435 g4-g5."
+                }
+            },
+            {
+                "move": "   13. Ne4 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel De2, com a id\u00e9ia de Ce5.",
+                    "en": "Qe2, intending Ne5, is also possible.",
+                    "es": "Tambi\u00e9n es posible De2, con a idea de Ce5.",
+                    "de": "Auch De2 - mit der Idee Se5 ist m\u00f6glich.",
+                    "zh": "Qe2\u76ee\u7684\u8d70Ne5\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "He2, z zamiarem Se5, jest r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "\u0425\u043e\u0434 Qe2, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c Ne5, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d."
+                }
+            },
+            {
+                "move": "   O-O-O 14. g3 ",
+                "comment": {
+                    "pt": "Para jogar Bf4 e controlar esta importante diagonal.",
+                    "en": "In order to play Bf4 and control this diagonal.",
+                    "es": "Para jugar Af4 y controlar esta importante diagonal.",
+                    "de": "Mit der Absicht, Lf4 zu spielen und diese wichtige Diagonale zu kontrollieren.",
+                    "zh": "\u4e3a\u4e86\u8d70Bf4\u548c\u63a7\u5236\u8fd9\u6761\u659c\u7ebf\u3002",
+                    "pl": "Aby zagra\u0107 Gf4 i kontrolowa\u0107 przek\u0105tn\u0105.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Bf4 \u0438 \u0432\u0437\u044f\u0442\u044c \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u044d\u0442\u0443 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            },
+            {
+                "move": "   Nxe4 15. Qxe4 Bd6 ",
+                "comment": {
+                    "pt": "Podemos concluir que a posi\u00e7\u00e3o \u00e9 equilibrada; ambos jogadoresdesenvolve ram bem suas pe\u00e7as e t\u00eam os reis em seguranca.",
+                    "en": "It's posible to conclude that the position is in balance: both sides developed their pieces well and have their Kings under protection.",
+                    "es": "Podemos concluir que a posici\u00f3n est\u00e1 equilibrada; ambos jugadores desarrollaron bien sus piezas y los reyes est\u00e1n seguros.",
+                    "de": "Die Stellung ist ausgeglichen, da beide Spieler die Entwicklung vollendet und die K\u00f6nige in Sicherheit gebracht haben.",
+                    "zh": "\u53ef\u4ee5\u5f97\u51fa\u7ed3\u8bba\u5c40\u9762\u5904\u4e8e\u5e73\u8861\uff1a\u53cc\u65b9\u51fa\u5b50\u7ed3\u675f\uff0c\u738b\u90fd\u53d7\u5230\u4fdd\u62a4\u3002",
+                    "pl": "Jest mo\u017cliwe stwierdzenie, \u017ce pozycja jest zbalansowana: obie strony wyprowadzi\u0142y figury i maj\u0105 Kr\u00f3l\u00f3w pod ochron\u0105.",
+                    "ru": "\u041c\u043e\u0436\u043d\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0432\u044b\u0432\u043e\u0434, \u0447\u0442\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u043f\u0440\u0438\u0448\u043b\u0438 \u043a \u043d\u0435\u043a\u043e\u043c\u0443 \u0431\u0430\u043b\u0430\u043d\u0441\u0443: \u043e\u0431\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0445\u043e\u0440\u043e\u0448\u043e \u0440\u0430\u0437\u0432\u0438\u043b\u0438 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b, \u0438 \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u0438 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

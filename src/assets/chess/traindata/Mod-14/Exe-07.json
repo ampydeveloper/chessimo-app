@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(2)",
+            "zh": "Event 1"
+        },
+        "fen": "3q1r1k\/1Q1P2pp\/p4b2\/2P2R2\/6B1\/8\/5PKP\/8 w - - 0 38",
+        "moves": [
+            {
+                "move": "38. c6 ",
+                "comment": {
+                    "pt": "Defendendo o pe\u00e3o na s\u00e9tima e assegurando a coroa\u00e7\u00e3o de um dos pe\u00f5es.",
+                    "en": "Defending the pawn on the 7th file and guaranteeing the promotion one of the pawns.",
+                    "de": "Verteidigt den Bauern auf der siebten Reihe und versichert die Umwandlung von einem der Bauern.",
+                    "es": "Defendiendo el pe\u00f3n en la s\u00e9ptima y asegurando la coronaci\u00f3n de uno de los  peones.",
+                    "zh": "\u9632\u5fa1\u4e03\u7ad6\u7ebf\u4e0a\u7684\u5175\u3001\u786e\u4fdd\u5175\u7684\u5347\u53d8\u3002",
+                    "pl": "Broni\u0105c piona na si\u00f3dmej linii i gwarantuj\u0105c promocj\u0119 jednego z pion\u00f3w.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u0438 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0435\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(141)",
+            "zh": "Event 1"
+        },
+        "fen": "4rk2\/1br2p2\/4pQ2\/p3P2P\/8\/2p1P3\/2B3P1\/6K1 w - - 0 37",
+        "moves": [
+            {
+                "move": "37. h6 ",
+                "comment": {
+                    "pt": "Com a indefens\u00e1vel amea\u00e7a de coroar este pe\u00e3o.",
+                    "en": "Threatening to promote this pawn without any possible defense of the opponent.",
+                    "de": "Mit der unabwendbaren Drohung, diesen Bauern umzuwandeln.",
+                    "es": "Con la amenaza indefendible de coronar este pe\u00f3n.",
+                    "zh": "\u7528\u4e0d\u53ef\u62b5\u5fa1\u7684\u5a01\u80c1\u5b9e\u73b0\u5175\u7684\u5347\u53d8\u3002",
+                    "pl": "Gro\u017aba promocji tego piona bez mo\u017cliwo\u015bci obrony przez oponenta.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c \u044d\u0442\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u0431\u0435\u0437 \u043a\u0430\u043a\u043e\u0439-\u043b\u0438\u0431\u043e \u0437\u0430\u0449\u0438\u0442\u044b \u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(160)",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r3r\/pp2p1bp\/4p1p1\/1BP4q\/Q1P1p3\/3nB2P\/PP3PP1\/R4RK1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. c6 ",
+                "comment": {
+                    "pt": "Para abrir a posi\u00e7\u00e3o do rei preto.",
+                    "en": "In order to open the black King's position.",
+                    "de": "Um die Stellung vom schwarzen K\u00f6nig zu \u00f6ffnen.",
+                    "es": "Para abrir la posici\u00f3n del rey negro.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u9ed1\u738b\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "W celu otwarcia pozycji czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(164)",
+            "zh": "Event 1"
+        },
+        "fen": "1k5r\/pp2p2p\/2P1p1p1\/1Bnrq3\/4p3\/Q3P2P\/PP4P1\/2R2RK1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. b4 ",
+                "comment": {
+                    "pt": "Para expulsar o cavalo de sua posi\u00e7\u00e3o defensiva e jogar c7, caso o cavalo v\u00e1 para d3.",
+                    "en": "In order to chase the Knight off its defensive position and play c7 if the Knight proceeds to d3.",
+                    "de": "Um den Springer von seiner defensiven Stellung zu vertreiben und c7 zu spielen, falls der Springer auf d3 zieht.",
+                    "es": "Para expulsar el caballo de su posici\u00f3n defensiva y jugar c7, si el caballo va a d3.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u4ece\u9632\u5fa1\u4f4d\u7f6e\u8d76\u8d70\uff0c\u5982\u679c\u9a6c\u79fb\u5411d3\u5c31\u4e0bc7\u3002",
+                    "pl": "W celu przegonienia Skoczka z jego defensywnej pozycji  i zagrania c7, je\u015bli Skoczek przejdzie na d3.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0441 \u0435\u0433\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438 \u0438\u0433\u0440\u0430\u0442\u044c c7, \u0435\u0441\u043b\u0438 \u041a\u043e\u043d\u044c \u0443\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 d3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(46)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/1p5p\/p1k2Kp1\/P1P2p2\/2P2P2\/5bPB\/7P\/8 w - - 0 44",
+        "moves": [
+            {
+                "move": "44. Kg7 ",
+                "comment": {
+                    "pt": "Para tomar o pe\u00e3o de h7.",
+                    "en": "In order to capture the h7-pawn.",
+                    "de": "Um den Bauern von h7 zu schlagen.",
+                    "es": "Para tomar el pe\u00f3n de h7.",
+                    "zh": "\u4e3a\u4e86\u5403\u6389h7-\u5175\u3002",
+                    "pl": "W celu wzi\u0119cia piona h7.",
+                    "ru": "\u0414\u043b\u044f \u0432\u0437\u044f\u0442\u0438\u044f \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 h7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

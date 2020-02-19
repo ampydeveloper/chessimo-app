@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Inglesa",
+        "white_sort": "",
+        "black": "Variante sim\u00e9trica",
+        "date": "",
+        "event": {
+            "en": "Simetric variation",
+            "de": "Symetrische Variante",
+            "es": "Variante sim\u00e9trica",
+            "pt": "Variante sim\u00e9trica",
+            "zh": "\u5bf9\u79f0\u53d8\u4f8b",
+            "pl": "Wariacja symetryczna",
+            "ru": "\u0421\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. c4 ",
+                "comment": {
+                    "pt": "A abertura Inglesa \u00e9 flex\u00edvel e muitas vezes, quando as brancas jogam d4, tansp\u00f5e para posi\u00e7\u00f5es de aberturas do pe\u00e3o dama. A variante sim\u00e9trica \u00e9 uma das boas op\u00e7\u00f5es que as pretas t\u00eam para enfrent\u00e1-la.",
+                    "en": "The English opening is flexible and, many times, it transposes the game to positions of Queen-pawn openings when White plays d4. The symmetrical variation is one of the good options that Black has to fight that position.",
+                    "es": "La apertura Inglesa es flexible y muchas veces, cuando las blancas juegan d4, transponen a posiciones de aperturas del pe\u00f3n dama. La variante sim\u00e9trica es una de las buenas opciones que las negras tienen para enfrentarla.",
+                    "de": "Die Englische Er\u00f6ffnung ist flexibel und geht oft in Stellungen des Damenbauernspiels \u00fcber. Die Symmetrie-Variante ist eine der guten M\u00f6glichkeiten, \u00fcber die Schwarz verf\u00fcgt, gegen die Englische Er\u00f6ffnung zu spielen.",
+                    "zh": "\u82f1\u56fd\u5f0f\u5f00\u5c40\u76f8\u5f53\u7075\u6d3b\uff0c\u5f88\u591a\u65f6\u5019\u5f53\u767d\u65b9\u8d70d4\u4e4b\u540e\u4f1a\u8f6c\u53d8\u6210\u540e\u5175\u5f00\u3002\u5bf9\u79f0\u53d8\u4f8b\u662f\u9ed1\u65b9\u8fdb\u884c\u6597\u4e89\u7684\u5176\u4e2d\u4e00\u4e2a\u5f88\u597d\u7684\u9009\u62e9\u3002",
+                    "pl": "Partia angielska jest elastyczna i wielokrotnie pozycja zostaje przetransponowana do otwar\u0107 pionem hetma\u0144skim, kiedy Bia\u0142e zagraj\u0105 d4. Symetryczna wariacja jest jedn\u0105 z dobrych opcji, o kt\u00f3r\u0105 walcz\u0105 Czarne.",
+                    "ru": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u0435\u0431\u044e\u0442 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0433\u0438\u0431\u043a\u0438\u043c \u0438, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0447\u0430\u0441\u0442\u043e \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0434\u0435\u0431\u044e\u0442\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u043f\u0435\u0448\u043a\u0438, \u043a\u043e\u0433\u0434\u0430 \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044e d4. \u0421\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0445\u043e\u0440\u043e\u0448\u0438\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            },
+            {
+                "move": "   c5 2. Nc3 Nc6 ",
+                "comment": {
+                    "pt": "Os planos com ...Cf6, seguido de ... d5 ocorrem nas partidas 754, 755, 760 e763.",
+                    "en": "Games 754, 755, 760 and 763 demonstrate the plans with ...Nf6 followed by ...d5.",
+                    "es": "Los planes con ... Cf6, seguido de ...d5 ocurren en las partidas 754, 755, 760 y 763.",
+                    "de": "Pl\u00e4ne mit ...Sf6 nebst... d5 kommen in den Partien 754, 755, 760 und 763 vor.",
+                    "zh": "\u68cb\u5c40754\u3001755\u3001760\u548c763\u5448\u73b0\u4e86 ...Nf6\u968f\u540e ...d5\u7684\u8ba1\u5212\u3002",
+                    "pl": "Partie 754, 755, 760 i 763 demonstruj\u0105 plan ... Sf6 kontynuowany przez ... d5.",
+                    "ru": "\u0418\u0433\u0440\u044b 754, 755, 760 \u0438 763 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u044e \u0438\u0433\u0440\u0443 ...Nf6, \u043d\u0430 \u0447\u0442\u043e \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...d5."
+                }
+            },
+            {
+                "move": "   3. Nf3 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel come\u00e7ar com g3 para desenvolver o bispo por g2, como geralmente ocorre nesta abertura. Caso as brancas optem por planos com e3-d4, provavelmente haver\u00e1 transposi\u00e7\u00e3o para aberturas com 1-d4.",
+                    "en": "It's also possible to start with g3 in order to develop the Bishop through g2, as usually happens in this opening. If White chooses to plan with e3-d4, there will probably be a transposition to a 1-d4 opening.",
+                    "es": "Tambi\u00e9n es posible comenzar con g3 para desarrollar el alfil por g2, como generalmente ocurre en esta apertura. Si las blancas optan por planes con e3-d4, probablemente transpondr\u00e1n a aperturas con 1-d4.",
+                    "de": "Es ist auch m\u00f6glich, mit g3 nebst Lg2 anzufangen. Falls Wei\u00df sich f\u00fcr Pl\u00e4ne mit e3-d4 entscheidet, wird es wahrscheinlich in das Damenbauernspiel \u00fcbergegangen.",
+                    "zh": "\u4ee5g3\u5f00\u59cb\u6765\u901a\u8fc7g2\u51fa\u8c61\u4e5f\u662f\u53ef\u884c\u7684\u3002\u5982\u679c\u767d\u65b9\u51b3\u5b9a\u8d70e3-d4\uff0c\u90a3\u4e48\u53ef\u80fd\u4f1a\u8f6c\u6362\u4e3a\u540e\u5175\u5f00\u5c40\u3002",
+                    "pl": "Mo\u017cliwy jest start przez g3 w celu wyprowadzenia Go\u0144ca przez g2, jak zwykle to si\u0119 dzieje w tym otwarciu. Je\u015bli Bia\u0142e wybior\u0105 e3-d4, prawdopodobnie nast\u0105pi transpozycja do debiut\u00f3w 1. d4.",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443 \u043d\u0430 g3, \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 g2, \u0447\u0442\u043e \u0447\u0430\u0441\u0442\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0434\u0435\u0431\u044e\u0442\u0430\u0445. \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0431\u0435\u0440\u0443\u0442 \u0438\u0433\u0440\u0443 e3-d4, \u0438\u0433\u0440\u0430 \u043f\u0435\u0440\u0435\u0439\u0434\u0435\u0442 \u0432 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0434\u0435\u0431\u044e\u0442\u0430 1-d4."
+                }
+            },
+            {
+                "move": "   Nf6 4. g3 g6 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel jogar ...e6 e depois ...d5.",
+                    "en": "It's also possible to choose ...e6 and ... d5 afterwards.",
+                    "es": "Tambi\u00e9n es posible jugar ...e6 y despu\u00e9s ...d5.",
+                    "de": "...e6 nebst ...d5 geht auch.",
+                    "zh": "...e6\u4e4b\u540e...d5\u4e5f\u53ef\u4ee5\u3002",
+                    "pl": "Jest tak\u017ce mo\u017cliwe wybra\u0107 ... e6 i zagra\u0107 ... d5 potem.",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u043e\u0437\u0434\u043d\u0435\u0435 ...e6 \u0438\u043b\u0438 ... d5."
+                }
+            },
+            {
+                "move": "   5. Bg2 Bg7 6. O-O O-O 7. a3 ",
+                "comment": {
+                    "pt": "As brancas querem pressionar no flanco dama e para atuar neste setor contar\u00e3o com o apoio de seu bispo em g2.",
+                    "en": "White wants to put pressure on the queenside and in order to act in this sector it has the support of its g2-Bishop.",
+                    "es": "Las blancas quieren presionar en el flanco dama y para actuar en este sector contar\u00e1n con el apoyo de su alfil en g2.",
+                    "de": "Wei\u00df m\u00f6chte Druck auf den Damenfl\u00fcgel aus\u00fcben und rechnet dazu mit dem L\u00e4ufer auf g2.",
+                    "zh": "\u767d\u65b9\u5e0c\u671b\u518dg2\u8c61\u7684\u5e2e\u52a9\u4e4b\u4e0b\u7ed9\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Bia\u0142e chc\u0105 stworzy\u0107 presj\u0119 na skrzydle hetma\u0144skim i w tym celu wspieraj\u0105 swojego Go\u0144ca g2.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0438 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u044d\u0442\u043e\u043c \u0441\u0435\u043a\u0442\u043e\u0440\u0435, \u043e\u043d\u0438 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 g2."
+                }
+            },
+            {
+                "move": "   a6 ",
+                "comment": {
+                    "pt": "7...d6 8-Tb1 a5, evitando a expans\u00e3o branca no flanco dama \u00e9 recomend\u00e1vel.",
+                    "en": "7... d6 8-Rb1 a5 preventing White's expansion on the queenside is recommended.",
+                    "es": "7...d6 8-Tb1 a5, evitando la expansi\u00f3n blanca en el flanco dama, es recomendable.",
+                    "de": "7...d6 8. Tb1 a5 ist empfehlenswert, damit Wei\u00df am Damenfl\u00fcgel keinen Raum gewinnt.",
+                    "zh": "\u63a8\u8350\u8d707... d6 8-Rb1 a5\u53ef\u4ee5\u963b\u6b62\u767d\u65b9\u5728\u540e\u7ffc\u6269\u5f20\u3002",
+                    "pl": "7. ... d6 8. Wb1 a5 uniemo\u017cliwiaj\u0105c Bia\u0142ym ekspansj\u0119 na skrzyd\u0142o hetma\u0144skie jest zalecane.",
+                    "ru": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u0430 \u0438\u0433\u0440\u0430 7...d6 8-Rb1 a5, \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u044d\u043a\u0441\u043f\u0430\u043d\u0441\u0438\u0438 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   8. Rb1 Rb8 9. b4 cxb4 10. axb4 b5 11. cxb5 axb5 12. d4 ",
+                "comment": {
+                    "pt": "O branco tem pequena vantagem (partida 756).",
+                    "en": "White has a small advantage (game 756).",
+                    "es": "El blanco tiene peque\u00f1a ventaja (partida 756).",
+                    "de": "Mit kleinem Vorteil f\u00fcr Wei\u00df (Partie Nr. 756).",
+                    "zh": "\u767d\u65b9\u62e5\u6709\u5fae\u5f31\u4f18\u52bf\uff08\u68cb\u5c40756\uff09\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 ma\u0142\u0105 przewag\u0119 (partia 756).",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e (\u0438\u0433\u0440\u0430 765)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(116)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1pp2ppp\/pnb1p3\/4P3\/2B3Q1\/4P3\/PP1B1PPP\/R4RK1 w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Bb4 ",
+                "comment": {
+                    "pt": "Aproveitando o ataque a torre para manter o par de bispos.",
+                    "en": "Taking advantage of the attack on the Rook, to keep the pair of Bishops.",
+                    "de": "Greift den Turm an und beh\u00e4lt somit das L\u00e4uferpaar.",
+                    "es": "Aprovechando el ataque a la torre para mantener la pareja de alfiles.",
+                    "zh": "\u653b\u51fb\u8f66\u5e76\u4e14\u4ee5\u6b64\u4fdd\u7559\u53cc\u8c61\u3002",
+                    "pl": "Wykorzystanie ataku na Wie\u017c\u0119, aby utrzyma\u0107 par\u0119 Go\u0144c\u00f3w.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u0435 \u043d\u0430 \u041b\u0430\u0434\u044c\u044e, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0430\u0440\u0443 \u0421\u043b\u043e\u043d\u043e\u0432."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(27)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/1b1nbpp1\/p3pn1p\/1p6\/1P1N4\/P1N1P1B1\/4BPPP\/2RQ1RK1 b - - 0 16",
+        "moves": [
+            {
+                "move": "16... Nb6 ",
+                "comment": {
+                    "pt": "Para ocupar o importante ponto c4.",
+                    "en": "In order to occupy the important c4 point.",
+                    "de": "Um den wichtigen Punkt c4 zu besetzen.",
+                    "es": "Para ocupar el importante punto c4.",
+                    "zh": "\u4e3a\u4e86\u5360\u636e\u91cd\u8981\u7684c4\u683c\u3002",
+                    "pl": "W celu zaj\u0119cia wa\u017cnego punktu c4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u0432\u0430\u0436\u043d\u043e\u0435 \u043f\u043e\u043b\u0435 a4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(176)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1bk1\/pp3r1p\/3p1nn1\/3Pp3\/4P3\/2NN1PB1\/PPRQB1P1\/2R3K1 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Nh5 ",
+                "comment": {
+                    "pt": "Expulsando o bispo, preparando a ocupa\u00e7\u00e3o da casa f4 e ao mesmo tempo abrindo caminho para a dama preta ajudar no ataque.",
+                    "en": "Chasing the Bishop away, preparing the f4 occupation and, at the same time, making way for the black Queen to help in the attack.",
+                    "de": "Vertreibt den L\u00e4ufer, bereitet die Besetzung vom Feld f4 vor und bringt die schwarze Dame zum Angriff.",
+                    "es": "Expulsando el alfil, preparando la ocupaci\u00f3n de la casilla f4 y, al mismo tiempo, abriendo camino para que la dama negra ayude en el ataque.",
+                    "zh": "\u8d76\u8d70\u8c61\uff0c\u51c6\u5907\u62a2\u5360f4\u683c\u540c\u65f6\u626b\u6e05\u8def\u7ebf\u8ba9\u540e\u6295\u5165\u6218\u6597\u3002",
+                    "pl": "Przegonienie Go\u0144ca, przygotowanie zaj\u0119cia f4 i w tym samym czasie utorowanie drogi dla czarnego Hetmana, aby wspar\u0142 on atak.",
+                    "ru": "\u041f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0421\u043b\u043e\u043d\u0430, \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0437\u0430\u043d\u044f\u0442\u0438\u044e \u043f\u043e\u043b\u044f f4 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0443\u0442\u044c \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043c\u043e\u0433\u0430\u0442\u044c \u0432 \u0430\u0442\u0430\u043a\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(36)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1r2\/pp2ppkp\/2npb1p1\/8\/2P1P3\/2N5\/PP1QBPPP\/3R1R1K w - - 0 15",
+        "moves": [
+            {
+                "move": "15. f4 ",
+                "comment": {
+                    "pt": "Para jogar f5 e atacar o rei preto.",
+                    "en": "In order to play f5 and attack the black King.",
+                    "de": "Um f5 zu spielen und den schwarzen K\u00f6nig anzugreifen.",
+                    "es": "Para jugar f5 y atacar el rey negro.",
+                    "zh": "\u4e3a\u4e86\u8d70f5\u5e76\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "W celu zagrania f5 i ataku czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c f5 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(99)",
+            "zh": "Event 1"
+        },
+        "fen": "2Rr2k1\/1b3p1p\/p4qpb\/4n3\/3p4\/BP6\/P3QPPP\/3R1BKN b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Bxc8 ",
+                "comment": {
+                    "pt": "Mantendo a torre no apoio do pe\u00e3o passado e ao mesmo tempo amea\u00e7ando jogar Bg4.",
+                    "en": "Maintaining the Rook at the support of the passed pawn and threatening Bg4.",
+                    "de": "Beh\u00e4lt den Turm auf der d-Linien, um den Freibauern zu unterst\u00fctzen und droht, Lg4 zu spielen.",
+                    "es": "Manteniendo la torre en el apoyo del pe\u00f3n pasado y amenazando al mismo tiempo jugar Ag4.",
+                    "zh": "\u4fdd\u6301\u8f66\u5728d-\u7ebf\u6765\u652f\u6301\u901a\u8def\u5175\u5e76\u5a01\u80c1\u8d70Bg4\u3002",
+                    "pl": "Utrzymanie przez Wie\u017c\u0119 obrony wolnego piona i gro\u017aba Gg4.",
+                    "ru": "\u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u041b\u0430\u0434\u044c\u044e \u0434\u043b\u044f \u043f\u043e\u043c\u043e\u0449\u0438 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043d\u0430 Bg4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

@@ -1,0 +1,22 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Help
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content force-overscroll class="ion-padding">
+    <ion-row class="list-box">
+      <ion-col>
+        <ion-button color="dark" (click)="gotoChessRules()">Chess Rules</ion-button>
+        <ion-button color="dark" (click)="gotoChessTips()">101 Chess Tips</ion-button>
+        <ion-button color="dark" (click)="gotoHowToTrain()">First steps and how to train with chessmio</ion-button>
+        <ion-button color="dark" (click)="gotoGameDatabase()">Game Database</ion-button>
+      </ion-col>
+    </ion-row>
+</ion-content>

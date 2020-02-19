@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Gambito da dama",
+        "white_sort": "",
+        "black": "Variante Tarrasch",
+        "date": "",
+        "event": {
+            "en": "Tarrash variation",
+            "de": "Tarrasch-Variante",
+            "es": "Variante Tarrasch",
+            "pt": "Variante Tarrasch",
+            "zh": "\u5854\u62c9\u4ec0\u53d8\u4f8b",
+            "pl": "Wariant Tarrascha",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0422\u0430\u0440\u0440\u0430\u0448\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 d5 2. c4 e6 3. Nc3 c5 ",
+                "comment": {
+                    "pt": "A defesa Tarrasch disputa o centro de forma r\u00e1pida e agressiva, permitindo que as brancas isolem seu pe\u00e3o dama central, mas em troca as pretas t\u00eam facilidade para desenvolver suas pe\u00e7as.",
+                    "en": "The Tarrasch defense fights for the center in a fast and aggressive way that allows White to isolate the central Queen-pawn, but in exchange, Black can develop its pieces easily.",
+                    "es": "En la Defensa Tarrasch las negras disputan el centro de forma r\u00e1pida y agresiva, permitiendo que las blancas les aislen el pe\u00f3n dama central a cambio de una mayor facilidad para desarrollar las piezas.",
+                    "de": "Mit der Tarrasch-Verteidigung k\u00e4mpft Schwarz schnell und agressiv um das Zentrum. Schwarz nimmt ein Isolani in Kauf, um seine Figuren z\u00fcgig zu entwickeln.",
+                    "zh": "\u5854\u62c9\u4ec0\u9632\u5fa1\u5feb\u901f\u3001\u79ef\u6781\u7684\u4e89\u593a\u4e2d\u5fc3\uff0c\u8fd9\u6837\u4f7f\u5f97\u767d\u65b9\u80fd\u5b64\u7acb\u4e2d\u5fc3\u738b\u7ffc\u5175\uff0c\u4f46\u662f\u901a\u8fc7\u5151\u6362\u9ed1\u65b9\u53ef\u4ee5\u5bb9\u6613\u51fa\u5b50\u3002",
+                    "pl": "Obrona Tarrascha walczy o centrum w szybki i agresywny spos\u00f3b, co pozwala Bia\u0142ym izolowanie centralnego piona hetma\u0144skiego, a Czarne mog\u0105 wyprowadzi\u0107 swoje figury z \u0142atwo\u015bci\u0105.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0422\u0430\u0440\u0440\u0430\u0448\u0430 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0438 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u043e\u0439 \u0431\u043e\u0440\u044c\u0431\u0435 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043d\u043e \u0440\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u044f\u0441\u044c, \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043b\u0435\u0433\u043a\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            },
+            {
+                "move": "   4. cxd5 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a jogada mais natural, enfraquecendo o pe\u00e3o dama preto. Outras op\u00e7\u00f5es s\u00e3o 4-Cf3 e 4-e3.",
+                    "en": "This is the most natural move that weakens the black Queen-pawn. Other options are 4-Nf3 and 4-e3.",
+                    "es": "Esta es la jugada m\u00e1s natural, debilitando el pe\u00f3n dama negro. Otras opciones son 4-Cf3 y 4-e3.",
+                    "de": "Das ist der nat\u00fcrlichste Zug, der den schwarzen d-Bauer schw\u00e4cht. Andere M\u00f6glichkeiten sind 4. Sf3 und 4. e3.",
+                    "zh": "\u8fd9\u662f\u6700\u5e38\u89c1\u7684\u4e00\u6b65\uff0c\u80fd\u524a\u5f31\u9ed1\u65b9\u540e\u7ffc\u5175\u3002\u53e6\u4e00\u4e2a\u9009\u62e9\u662f 4-Nf3\u548c4-e3\u3002",
+                    "pl": "Najbardziej naturalny ruch os\u0142abiaj\u0105cy hetma\u0144skiego piona czarnych. Innymi opcjami s\u0105 4. Sf3 i 4. e3.",
+                    "ru": "\u042d\u0442\u043e \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u0434\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0439 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u043f\u0435\u0448\u043a\u0435. \u0418\u043d\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 4-Nf3 \u0438 4-e3."
+                }
+            },
+            {
+                "move": "   exd5 5. Nf3 ",
+                "comment": {
+                    "pt": "A jogada 5-dxc5, que aparentemente ganha um pe\u00e3o, \u00e9 respondida com 5... d4 6-Ce4 Bxc5 7-Cxc5 Da5 recuperando o material e equilibrando as a\u00e7\u00f5es.",
+                    "en": "5-dxc5, that apparently wins a pawn is answered with 5...d4 6-Ne4 Bxc5 7-Nxc5 Qa5 recovering material and balancing actions.",
+                    "es": "La jugada 5-dxc5, que aparentemente gana un pe\u00f3n, es respondida con 5...d4 6-Ce4 Axc5 7-Cxc5 Da5, recuperando el material y equilibrando las acciones.",
+                    "de": "5. dxc5, was einen Bauern zu gewinnen scheint, wird beantwortet mit  5... d4 6. Se4 Lxc5  7. Sxc5 Da5, was wiederum das Material zur\u00fcckgewinnt und die Stellung ausgleicht.",
+                    "zh": "5-dxc5\uff0c\u770b\u8d77\u6765\u53ef\u4ee5\u6349\u5175\uff0c\u5374\u53ef\u4ee5\u5e945...d4 6-Ne4 Bxc5 7-Nxc5 Qa5\u91cd\u65b0\u593a\u56de\u5b50\u529b\u5e76\u5e73\u8861\u5c40\u9762\u3002",
+                    "pl": "5. dxc5, kt\u00f3re natychmiast wygrywa piona, spotyka si\u0119 z 5. ...d4 6. Se4 Gxc5 7. Sxc5 Ha5 zwracaj\u0105c stracony materia\u0142 i balansuj\u0105c akcj\u0119.",
+                    "ru": "\u041d\u0430 \u0445\u043e\u0434 5-dxc5, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u043e\u0447\u0435\u0432\u0438\u0434\u043d\u043e \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u0430, \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 5...d4 6-Ne4 Bxc5 7-Nxc5 Qa5, \u0447\u0442\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u0438 \u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442 \u0438\u0433\u0440\u0443."
+                }
+            },
+            {
+                "move": "   Nc6 6. g3 ",
+                "comment": {
+                    "pt": "O bispo ser\u00e1 desenvolvido por g2, com o objetivo de pressionar a maior debilidade da posi\u00e7\u00e3o preta, o ponto d5. Tamb\u00e9m s\u00e3o poss\u00edveis as jogadas 6-Bg5 e 6-e3.",
+                    "en": "The Bishop is developed with g2 aiming to put pressure on the biggest weakness of Black's position, d5. 6-Bg5 and 6-e3 are also possible.",
+                    "es": "El alfil ser\u00e1 desarrollado por g2, con el objetivo de presionar la mayor debilidad de la posici\u00f3n negra, el punto d5. Tambi\u00e9n son posibles las jugadas 6-Ag5 y 6-e3.",
+                    "de": "Wei\u00df entwickelt den L\u00e4ufer via g2, um die gr\u00f6sste Schw\u00e4che im schwarzen Lager, n\u00e4mlich das Feld d5 unter Beschuss zu nehmen. 6. Lg5 und 6. e3 sind auch m\u00f6glich.",
+                    "zh": "\u7528g2\u51fa\u8c61\u76ee\u7684\u662f\u4e3a\u4e86\u7ed9\u9ed1\u65b9\u6700\u5927\u7684\u5f31\u70b9d5\u65bd\u52a0\u538b\u529b\uff0c6-Bg5 and 6-e3\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Goniec jest wyprowadzony przez g2, z zamiarem wywarcia presji na najwi\u0119ksz\u0105 s\u0142abo\u015b\u0107 pozycji Czarnych, d5.6. Gg5 i 6. e3 r\u00f3wnie\u017c s\u0105 mo\u017cliwe.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 g2, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0430\u043c\u0443\u044e \u0441\u043b\u0430\u0431\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0427\u0435\u0440\u043d\u044b\u0445 - d5. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b 6-Bg5 \u0438 6-e3 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d."
+                }
+            },
+            {
+                "move": "   Nf6 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o 6...c4, com a id\u00e9ia de desenvolver o bispo por b4 e o cavalo do rei por e7 \u00e9 interessante e ocorreu na partida 527 de nossa base. Capablanca jogou 6...Be6 , que n\u00e3o \u00e9 a jogada mais precisa e venceu uma partida brilhante (528), do ponto de vista t\u00e9cnico, jogando contra o americano F.Marshal. Vale a pena estuda-la!",
+                    "en": "6...c4, intending to develop the Bishop through b4 and the King-Knight through e7, is an interesting option that is presented in game 527 of our database. Capablanca plays the not most precise move 6...Be6 and wins a brilliant game (528) against the American F. Marshal, from a technical point of view. This game is worth studying!",
+                    "es": "La opci\u00f3n 6...c4, con la idea de desarrollar el alfil por b4 y el caballo del rey por e7 es interesante y ocurri\u00f3 en la partida 527 de nuestra base. Capablanca jug\u00f3 6...Ae6, que no es la jugada m\u00e1s precisa y venci\u00f3 una partida brillante (528), desde del punto de vista t\u00e9cnico, jugando contra el norteamericano F. Marshall. !Vale la pena estudiarla!.",
+                    "de": "Die M\u00f6glichkeit 6...c4, um den L\u00e4ufer \u00fcber b4 und den K\u00f6nigsspringer \u00fcber e7 zu entwickeln ist interessant und geschah in der Partie 527 unserer Datenbank. Capablanca spielte 6...Le6, (nicht der genaueste Zug) und gewann eine aus technischer Sicht gl\u00e4nzende Partie (Nr. 528), gegen Frank Marshall. Es lohnt sich, diese Partie nachzuspielen!",
+                    "zh": "\u8d706...c4\uff0c\u8ba1\u5212\u901a\u8fc7b4\u51fa\u8c61\uff0c\u901a\u8fc7e7\u51fa\u738b\u7ffc\u9a6c\u662f\u975e\u5e38\u6709\u8da3\u7684\u9009\u62e9\uff0c\u4f1a\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40527\u4e2d\u5448\u73b0\u3002\u5361\u5e15\u5e03\u5170\u5361\u5bf9\u7f8e\u56fd\u4ebaF. Marshal\u65f6\u7528\u7684\u975e\u6b63\u89c4\u8d70\u6cd56...Be6\u5e76\u7cbe\u5f69\u80dc\u51fa\uff08\u68cb\u5c40528\uff09\u3002\u8fd9\u4e00\u53e5\u975e\u5e38\u503c\u5f97\u7814\u7a76\uff01",
+                    "pl": "6. ... c4, z zamiarem wyprowadzenia Go\u0144ca przez b4 i kr\u00f3lewskiego Skoczka przez e7 jest interesuj\u0105c\u0105 mo\u017cliwo\u015bci\u0105, zaprezentowan\u0105 w partii 527 z naszego archiwum. Capablanca zagra\u0142 nie najbardziej precyzyjne 6. ... Ge6 i wygra\u0142 \u015bwietn\u0105 z technicznego punktu widzenia parti\u0119 (528) przeciwko Amerykaninowi Marshalowi. Ta gra warta jest obejrzenia!",
+                    "ru": "6...c4, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 b4 \u0438 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 e7, \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 527, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b. \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0430 \u043d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u0442\u043e\u0447\u043d\u043e \u0438\u0433\u0440\u0430\u0435\u0442 6...Be6, \u0438 \u0431\u043b\u0435\u0441\u0442\u044f\u0449\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0430\u0440\u0442\u0438\u044e (\u0438\u0433\u0440\u0430 528) \u0443 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u0430 \u041c\u0430\u0440\u0448\u0430\u043b\u0430. \u0421 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b, \u0438\u0433\u0440\u0430 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u0430 \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f."
+                }
+            },
+            {
+                "move": "   7. Bg2 Be7 8. O-O O-O 9. Bg5 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a posi\u00e7\u00e3o cl\u00e1ssica da defesa Tarrasch e ocorreu nas partidas 529 a 531de nossa base.",
+                    "en": "This is the classic Tarrasch defense presented in games 529 to 531 of our database.",
+                    "es": "Esta es la posici\u00f3n cl\u00e1sica de la defensa Tarrasch y ocurri\u00f3 en las partidas 529 a 531 de nuestra base.",
+                    "de": "Das ist eine typische Stellung der Tarrasch-Verteidigung und ist in den Partien 529 bis 531 unserer Datenbank zu sehen.",
+                    "zh": "\u8fd9\u662f\u7ecf\u5178\u5854\u62c9\u4ec0\u9632\u5fa1\uff0c\u5728\u68cb\u5c40529\u548c531\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "To jest klasyczna obrona Tarrascha, prezentowana w partiach 529-531 z naszej bazy.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0438\u043c\u0435\u0440 \u0437\u0430\u0449\u0438\u0442\u044b \u0422\u0430\u0440\u0440\u0430\u0448\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0430\u0445 529-531, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qb3 ",
+                "comment": {
+                    "pt": "Estamos seguindo a partida disputada pelo campoenato mundial de 1984 entre Karpov e Kasparov (531 em nossa base). As brancas t\u00eam vantagem , planejam colocar uma torre em d1 e aumentar a press\u00e3o sobre d5. Vale a pena estudar esta partida e surpreender-se com a jogada 47 das brancas!",
+                    "en": "This game id from the World Championship of 1984 between Karpov and Kasparov (531 of our database). White has advantage, plans to take its Rook to d1 and increase pressure on d5. This game is worth studying and White's move 47 is surprising!",
+                    "es": "Estamos siguiendo la partida disputada por el campoenato mundial de 1984 entre Karpov y Kasparov (531 en nuestra base). Las blancas tienen ventaja, planean colocar una torre en d1 y aumentar la presi\u00f3n sobre d5. !Vale a pena estudiar esta partida y dejarse sorprender con la jugada 47 de las blancas!.",
+                    "de": "So weit die Partie Karpow - Kasparow (Weltmeisterschaftswettkampf 1984, Partie Nr. 531 unserer Datenbank). Wei\u00df hat Vorteil und plant, einen Turm auf d1 zu ziehen und den Druck auf d5 zu erh\u00f6hen. Es lohnt sich, die Partie nachzuspielen. Der wei\u00dfe 47. Zug ist wirklich \u00fcberraschend!",
+                    "zh": "\u8fd9\u4e2a\u68cb\u5c40\u7684\u540d\u79f0\u6765\u6e90\u4e8e1984\u5e74\u4e16\u754c\u51a0\u519b\u5361\u5c14\u6ce2\u592b\u548c\u5361\u65af\u5e15\u7f57\u592b\u7684\u5bf9\u5c40\uff08\u68cb\u5e93\u4e2d\u68cb\u5c40531\uff09\u3002\u767d\u65b9\u62e5\u6709\u4f18\u52bf\uff0c\u8ba1\u5212\u5c06\u8f66\u79fb\u5230d1\uff0c\u589e\u52a0d5\u5904\u7684\u538b\u529b\u3002\u8fd9\u4e2a\u68cb\u5c40\u503c\u5f97\u7814\u7a76\u5e76\u4e14\u767d\u65b9\u7b2c47\u6b65\u975e\u5e38\u4ee4\u4eba\u5403\u60ca\uff01",
+                    "pl": "To otwarcie pochodzi z partii Mistrzostw \u015awiata z 1984 roku pomi\u0119dzy Karpowem i Kasparowem (531 z naszej bazy). Bia\u0142e posiadaj\u0105 przewag\u0119 i planuj\u0105 umieszczenie Wie\u017cy na d1, by zwi\u0119kszy\u0107 presj\u0119 na d5. Gra jest warta studiowania, a 47 ruch Bia\u0142ych jest zaskakuj\u0105cy!",
+                    "ru": "\u041a\u0430\u043a \u0432 \u0438\u0433\u0440\u0435 \u043c\u0435\u0436\u0434\u0443 \u041a\u0430\u0440\u043f\u043e\u0432\u044b\u043c \u0438 \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432\u044b\u043c (\u0438\u0433\u0440\u0430 531 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b), \u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0432\u0437\u044f\u0442\u044c \u041b\u0430\u0434\u044c\u044e \u043d\u0430 d1 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043d\u0430 d5. \u042d\u0442\u0430 \u0438\u0433\u0440\u0430 \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f, \u0430 \u0445\u043e\u0434 \u0411\u0435\u043b\u044b\u0445 (47) \u043f\u0440\u043e\u0441\u0442\u043e \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439!"
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

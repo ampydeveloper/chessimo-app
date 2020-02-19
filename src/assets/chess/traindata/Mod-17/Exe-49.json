@@ -1,0 +1,166 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Eslava",
+        "white_sort": "",
+        "black": "Variante Merano",
+        "date": "",
+        "event": {
+            "en": "Meran variation",
+            "de": "Meran-Variante",
+            "es": "Variante Merano",
+            "pt": "Variante Merano",
+            "zh": "\u6885\u5170\u53d8\u4f8b",
+            "pl": "Wariant Merana",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u041c\u0435\u0440\u0430\u043d\u043e"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 ",
+                "comment": {
+                    "pt": "A jogada 4-e3 tamb\u00e9m \u00e9 boa.",
+                    "en": "4-e3 is also good.",
+                    "es": "La jugada 4-e3 tambi\u00e9n es buena.",
+                    "de": "4. e3 ist auch gut.",
+                    "zh": "4-e3\u4e5f\u662f\u4e0d\u9519\u7684\u3002",
+                    "pl": "4. e3 jest r\u00f3wnie\u017c dobre.",
+                    "ru": "4-e3 \u0442\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442."
+                }
+            },
+            {
+                "move": "   e6 ",
+                "comment": {
+                    "pt": "Este sistema foi desenvolvido e popularizado pelo ex campeao mundial M. Botvinik , portanto algumas variantes levam seu nome.",
+                    "en": "This system was developed by the former Wolrd Champion M. Botvinik and therefore somevariations carry his name.",
+                    "es": "Este sistema fue desarrollado y popularizado por el ex campe\u00f3n mundial M. Botvinnik, por lo tanto algunas variantes llevan su nombre.",
+                    "de": "Dieses System wurde vom ehemaligen Weltmeister Michail Botwinnik entwickelt und propagiert, daher tragen einige Varianten seinen Namen.",
+                    "zh": "\u8fd9\u4e2a\u4f53\u7cfb\u662f\u7531\u524d\u4e16\u754c\u51a0\u519b\u9c8d\u7279\u7ef4\u5c3c\u514b\u53d1\u5c55\u8d77\u6765\u7684\uff0c\u5e76\u4e14\u56e0\u6b64\u6709\u4e9b\u53d8\u4f8b\u4f1a\u4ee5\u4ed6\u7684\u540d\u5b57\u547d\u540d\u3002",
+                    "pl": "Ten system zosta\u0142 wynaleziony przez by\u0142ego Mistrza \u015awiata Michai\u0142a Botwinnika i dlatego te\u017c niekt\u00f3re wariacj\u0119 nosz\u0105 jego imi\u0119.",
+                    "ru": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0431\u044b\u043b\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u0430 \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u043c \u041c\u0438\u0440\u0430 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a\u043e\u043c, \u0438 \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043d\u0435\u043a\u043e\u0442\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u043d\u043e\u0441\u044f\u0442 \u0435\u0433\u043e \u0438\u043c\u044f."
+                }
+            },
+            {
+                "move": "   5. e3 ",
+                "comment": {
+                    "pt": "A jogada 5-Bg5 permite que as pretas joguem 5...dxc4 e ap\u00f3s 6-e4 defendam o pe\u00e3o com 6.. .b5, chegando a uma posi\u00e7\u00e3o extremamente complicada , que leva o nome de Sistema Botvinik. As partidas 547 , 548 e 551 tiveram esta sequ\u00eancia. Nas partidas 555 e 562 as pretas n\u00e3o jogaram 5...dxc4, preferindo posi\u00e7\u00f5es mais simples, por\u00e9m com pequena vantagem das brancas.",
+                    "en": "5-Bg5 enables Black to play 5...dxc4 and after 6-e4 to defend the pawn with 6...b5, reaching an extremely complicated position that called Botvinik System. Games 547, 548 and 551 include this sequence. In games 555 and 562 Black doesn't play 5...dxc4, preferring more simple positions but only with little white advantage.",
+                    "es": "La jugada 5-Ag5 permite que las negras jueguen 5...dxc4 y despu\u00e9s de 6-e4 defiendan el pe\u00f3n con 6...b5, llegando a una posici\u00f3n extremadamente complicada, que lleva el nombre de Sistema Botvinnik. Las partidas 547, 548 y 551 tuvieron esta secuencia. En las partidas 555 y 562 las negras no jugaron 5...dxc4, prefiriendo posiciones m\u00e1s simples, pero con leve ventaja para las blancas..",
+                    "de": "5. Lg5 l\u00e4sst 5...dxc4 nebst b5 (verteidigt den Bauern nach 6. e4) zu, was zu \u00e4u\u00dferst komplizierten Stellungen des sogenannten  Botwinnik-Systems f\u00fchrt. Die Partien Nr. 547, 548 und 551 zeigen diese Fortsetzung. In den Partien 555 und 562 mied Schwarz 5...dxc4 und spielte klarere Stellungen, die aber dem Wei\u00dfen einen geringf\u00fcgigen Vorteil sicherten.",
+                    "zh": "5-Bg5\u4f7f\u5f97\u9ed1\u68cb\u53ef\u4ee5\u8d705...dxc4\uff0c\u57286-e4\u4e4b\u540e\u75286...b5\u9632\u5fa1\u5175\uff0c\u8fbe\u5230\u4e00\u4e2a\u7279\u522b\u590d\u6742\u7684\u5c40\u9762\uff0c\u79f0\u4e3a\u9c8d\u7279\u7ef4\u5c3c\u514b\u4f53\u7cfb\u3002\u68cb\u5c40547\u3001548\u548c551\u5305\u542b\u4e86\u8fd9\u4e2a\u68cb\u5e8f\u3002\u5728\u68cb\u5c40555\u548c562\u4e2d\u9ed1\u65b9\u6ca1\u6709\u8d705...dxc4\uff0c\u800c\u9009\u62e9\u66f4\u4e3a\u7b80\u5355\u7684\u5c40\u9762\uff0c\u4f46\u662f\u4f1a\u7ed9\u767d\u65b9\u5e26\u6765\u5fae\u5f31\u7684\u4f18\u52bf\u3002",
+                    "pl": "5. Gg5 umo\u017cliwia Czarnym zagranie 5. ... dxc4 i po 6. e4, kt\u00f3re broni piona, nast\u0119puje 6. ... b5, osi\u0105gaj\u0105c ekstremalnie skomplikowan\u0105 pozycj\u0119 zwan\u0105 systemem Botwinnika. Partie 547, 548 i 551 zawieraj\u0105 t\u0119 sekwencj\u0119. W grach 555 i 562 Czarne nie graj\u0105 5. ... dxc4, preferuj\u0105c prostsz\u0105 pozycj\u0119, z niewielk\u0105 przewag\u0105 bia\u0142ych.",
+                    "ru": "5-Bg5 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c 5...dxc4, \u043f\u043e\u0441\u043b\u0435 6-e4 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 6...b5 \u0438 \u0434\u043e\u0441\u0442\u0438\u0433\u043d\u0443\u0442\u044c \u0441\u043b\u043e\u0436\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u0439 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a\u0430. \u0418\u0433\u0440\u044b 547, 548 \u0438 551 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u044d\u0442\u0443 \u0441\u0435\u0440\u0438\u044e \u0445\u043e\u0434\u043e\u0432. \u0412 \u0438\u0433\u0440\u0435 555 \u0438 562, \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 5...dxc4, \u0432\u044b\u0431\u0438\u0440\u0430\u044f \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u043d\u043e \u0441 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u0411\u0435\u043b\u044b\u0445."
+                }
+            },
+            {
+                "move": "   Nbd7 ",
+                "comment": {
+                    "pt": "A jogada 5...a6 ,para ganhar espa\u00e7o no flanco dama (... b5), foi jogada na partida 557 e as brancas optaram por jogar 6-c5, para seguir com b4 atacando no flanco dama.",
+                    "en": "5... a6 is used in game 557 in order to win space in the queenside (...b5) and White chooses 6-c5 in order to continue with b4 and attack on the queenside.",
+                    "es": "La jugada 5...a6, para ganar espacio en el flanco dama (...b5), fue jugada en la partida 557 y las blancas optaron por jugar 6-c5, para seguir con b4 atacando en el flanco dama.",
+                    "de": "5...a6, um mit ... b5 Raum am Damenfl\u00fcgel zu gewinnen, wurde in der Partie 557 gespielt. Wei\u00df spielte 6. c5, um mit b4 Damenfl\u00fcgel anzugreifen.",
+                    "zh": "5... a6\u5728\u68cb\u5c40557\u4e2d\u88ab\u7528\u5230\uff0c\u6765\u5728\u540e\u7ffc\u8d62\u5f97\u7a7a\u95f4\uff08...b5\uff09\uff0c\u5e76\u4e14\u767d\u65b9\u9009\u62e9\u8d706-c5\u6765\u7ee7\u7eedb4\u653b\u51fb\u540e\u7ffc\u3002",
+                    "pl": "5. ... a6 zosta\u0142o u\u017cyte w partii 557 w celu zdobycia przestrzeni na skrzydle hetma\u0144skim (... b5) i Bia\u0142e wybra\u0142y 6. C5 w celu kontynuacji przez b4 i ataku na skrzyd\u0142o hetma\u0144skie.",
+                    "ru": "5... a6 (\u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 557), \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (...b5) \u0438 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 6-c5 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c b4 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   6. Bd3 ",
+                "comment": {
+                    "pt": "6-Dc2 \u00e9 uma alternativa que ocorreu na partida 549 de nossa base, onde Karpov venceu Anand.",
+                    "en": "6-Dc2 is an alternative that appears in game 549 of our database where Karpov wins against Anand.",
+                    "es": "6-Dc2 es una alternativa que ocurri\u00f3 en la partida 549 de nuestra base, en la que Karpov venci\u00f3 a Anand.",
+                    "de": "6. Dc2 ist eine andere M\u00f6glichkeit und geschah in der Partie Karpow - Anand (Nr. 549 unserer Datenbank). Karpow gewann.",
+                    "zh": "6-Dc2\u4e5f\u662f\u53e6\u5916\u7684\u4e00\u4e2a\u9009\u62e9\uff0c\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40549\uff0c\u5361\u5c14\u6ce2\u592b\u8d62\u963f\u5357\u5fb7\u3002",
+                    "pl": "6. Hc2 jest alternatyw\u0105 wyst\u0119puj\u0105c\u0105 w partii 549 z naszego archiwum, gdzie Karpow zwyci\u0119\u017cy\u0142 nad Anandem.",
+                    "ru": "6-Dc2 \u044d\u0442\u043e \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 549 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b, \u0433\u0434\u0435 \u041a\u0430\u0440\u043f\u043e\u0432 \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u0443 \u0410\u043d\u0430\u043d\u0434\u0430."
+                }
+            },
+            {
+                "move": "   dxc4 ",
+                "comment": {
+                    "pt": "A jogada mais l\u00f3gica para iniciar uma expans\u00e3o no flanco dama (...b5). As alternativas ...Bd6 e Bb4 s\u00e3o menos promissoras e ocorreram nas partidas 554 e 556 de nossa base.",
+                    "en": "The most logical move to start an expansion on the queenside (...b5). The alternative ...Bd6 and Bb4 are less promising and are presented in games 554 and 556 of our database.",
+                    "es": "La jugada m\u00e1s l\u00f3gica para iniciar una expansi\u00f3n en el flanco dama (...b5). Las alternativas . ..Ad6 y Ab4 son menos promisorias y ocurrieron en las partidas 554 y 556 de nuestra base.",
+                    "de": "Die logischte Fortsetzung, um am Damenfl\u00fcgel Raum zu gewinnen (...b5). Die Alternativen ...Ld6 und Lb4 versprechen weniger (Partien Nr. 554 und 556 unserer Datenbank).",
+                    "zh": "\u6700\u5408\u4e4e\u903b\u8f91\u7684\u4e00\u6b65\uff0c\u5f00\u59cb\u5728\u540e\u7ffc\u6269\u5f20\uff08...b5\uff09\u3002\u53e6\u5916\u4e00\u79cd\u9009\u62e9\u662f...Bd6 \u548cBb4\uff0c\u524d\u666f\u6ca1\u6709\u90a3\u4e48\u597d\uff0c\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40554\u548c556\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Najbardziej logiczny ruch do rozpocz\u0119cia ekspansji na skrzyd\u0142o hetma\u0144skie (... b5). Alternatywy ... Gd6 i Gb4 s\u0105 mniej pomy\u015blne. Zaprezentowano je w partiach 554 i 556 z naszej bazy.",
+                    "ru": "\u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 \u0434\u043b\u044f \u043d\u0430\u0447\u0430\u043b\u0430 \u044d\u043a\u0441\u043f\u0430\u043d\u0441\u0438\u0438 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (...b5). \u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 ...Bd6 \u0438 Bb4 \u043c\u0435\u043d\u0435\u0435 \u043f\u0440\u0438\u0435\u043c\u043b\u0435\u043c \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0430\u0445 554 \u0438 556."
+                }
+            },
+            {
+                "move": "   7. Bxc4 b5 8. Bd3 ",
+                "comment": {
+                    "pt": "Muito menos ambiciosa \u00e9 a jogada 8-Be2 , porque nesta posi\u00e7\u00e3o o bispo n\u00e3o atua no centro (partida 545)",
+                    "en": "Much less ambitious is 8-Be2 because in this position the Bishop doesn't act in the center (game 545).",
+                    "es": "Mucho menos ambiciosa es la jugada 8-Ae2, porque en esta posici\u00f3n el alfil no act\u00faa en el centro (partida 545).",
+                    "de": "Bei weitem weniger ehrgeiz als 8. Le2, da der L\u00e4ufer nach dem Textzug auf das Zentrum keinen Einfluss haben wird (Partie 545).",
+                    "zh": "\u91ce\u5fc3\u6bd4\u8f83\u5c0f\u7684\u662f\u8d708-Be2\uff0c\u56e0\u4e3a\u5728\u8fd9\u4e2a\u5c40\u9762\u8c61\u6ca1\u6709\u5728\u4e2d\u5fc3\u6d3b\u52a8\uff08\u68cb\u5c40545\uff09\u3002",
+                    "pl": "O wiele mniej ambitne jest 8. Ge2, poniewa\u017c w tej pozycji Goniec nie wywiera wp\u0142ywu na centrum (partia 545).",
+                    "ru": "\u0413\u043e\u0440\u0430\u0437\u0434\u043e \u043c\u0435\u043d\u0435\u0435 \u0430\u043c\u0431\u0438\u0446\u0438\u043e\u0437\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 - \u044d\u0442\u043e 8-Be2, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0421\u043b\u043e\u043d \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u0430 545)."
+                }
+            },
+            {
+                "move": "   a6 ",
+                "comment": {
+                    "pt": "Para defender o pe\u00e3o de b5 e preparar a jogada ... c5 disputando o centro. Tamb\u00e9m s\u00e3o poss\u00edveis; 8...Bb7 (partida 546 , 559, 560 e 561) e 8...b4 (partida 552).Esta \u00faltima \u00e9 menos jogada porque enfraquece o flanco dama, mas mesmo assim, alguns jogadores a preferem.",
+                    "en": "In order to defend the b5-pawn and prepare ...c5 fighting for the center. 8... Bb7 (games 546, 559, 560 and 561) and 8...b4 (game 552) are also possible. The former is less used because it weakens the queenside. Some prefer it, however.",
+                    "es": "Para defender el pe\u00f3n de b5 y preparar la jugada ...c5 disputando el centro. Tambi\u00e9n son posibles; 8...Ab7 (partidas 546, 559, 560 y 561) y 8...b4 (partida 552). Esta \u00faltima es menos jugada porque debilita el flanco dama pero, aun as\u00ed, algunos jugadores la prefieren.",
+                    "de": "Um den Bauern auf b5 zu verteidigen und um das Zentrum mit ... c5 zu k\u00e4mpfen. M\u00f6glich sind auch: 8...Lb7 (Partien 546, 559, 560 und 561) sowie 8...b4 (Partie Nr.552). Dieser Zug wird seltener gespielt, da er den Damenfl\u00fcgel schw\u00e4cht; trotzdem wird er von einigen Spielern bevorzugt.",
+                    "zh": "\u4e3a\u4e86\u9632\u5fa1b5-\u5175\uff0c\u51c6\u5907\u8d70 ...c5\u6765\u62a2\u593a\u4e2d\u5fc3\u30028... Bb7\uff08\u68cb\u5c40546\u3001 559\u3001560\u548c561)\u548c8...b4\uff08\u68cb\u5c40552\uff09\u4e5f\u662f\u53ef\u884c\u7684\u3002\u524d\u8005\u7528\u7684\u6bd4\u8f83\u5c11\u56e0\u4e3a\u4f1a\u524a\u5f31\u540e\u7ffc\u3002\u5c3d\u7ba1\u5982\u6b64\u6709\u4e9b\u4eba\u8fd8\u662f\u559c\u6b22\u8fd9\u4e48\u8d70\u3002",
+                    "pl": "W celu obrony piona b5 i przygotowania ... c5 walcz\u0105cego o centrum. 8. ... Gb7 (partie 546, 559, 560 i 561) oraz 8. ... b4 (partia 552) s\u0105 r\u00f3wnie\u017c mo\u017cliwe. Pierwsza jest rzadko u\u017cywana, poniewa\u017c os\u0142abia skrzyd\u0142o hetma\u0144skie. Mimo to niekt\u00f3rzy j\u0105 preferuj\u0105.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 b5 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c\u0441\u044f \u043a \u0431\u043e\u0440\u044c\u0431\u0435 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 ...c5. \u0412\u0430\u0440\u0438\u0430\u043d\u0442\u044b 8...Bb7 (\u0438\u0433\u0440\u044b 546, 559, 560 \u0438 561) \u0438 8...b4 (\u0438\u0433\u0440\u0430 552), \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b. \u041f\u0435\u0440\u0432\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433, \u0445\u043e\u0442\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0435\u0433\u043e \u0432\u0441\u0435 \u0436\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442."
+                }
+            },
+            {
+                "move": "   9. e4 c5 ",
+                "comment": {
+                    "pt": "Combatendo o centro imediatamente.",
+                    "en": "Fighting the center immediately.",
+                    "es": "Combatiendo inmediatamente por el centro .",
+                    "de": "Wird sofort aktiv im Zentrum.",
+                    "zh": "\u7acb\u5373\u62a2\u593a\u4e2d\u5fc3\u3002",
+                    "pl": "Natychmiastowa walka o centrum.",
+                    "ru": "\u0411\u043e\u0440\u044c\u0431\u0430 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   10. d5 ",
+                "comment": {
+                    "pt": "10-e5 tamb\u00e9m \u00e9 poss\u00edvel e as pretas devem seguir com 10...cxd4.",
+                    "en": "10-e5 is also possible and Black has to continue with 10...cxd4.",
+                    "es": "10-e5 tambi\u00e9n es posible y las negras deben seguir con 10...cxd4.",
+                    "de": "Auch 10. e5 ist  m\u00f6glich, worauf Schwarz 10... cxd4 spielen muss.",
+                    "zh": "10-e5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u9ed1\u65b9\u5fc5\u987b\u7ee7\u7eed\u8d7010...cxd4\u3002",
+                    "pl": "10. e5 jest r\u00f3wnie\u017c mo\u017cliwe i Czarne musz\u0105 kontynuowa\u0107 przez 10. ... cxd4.",
+                    "ru": "\u0418\u0433\u0440\u0430 10-e5 \u0442\u0430\u043a \u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 10...cxd4."
+                }
+            },
+            {
+                "move": "   c4 11. dxe6 fxe6 ",
+                "comment": {
+                    "pt": "A op\u00e7 \u00e3o 11...exd3 12-exd7 Dxd7 13-e5 deixou as brancas com garnde vantagem na partida 558 .",
+                    "en": "11...exd3 12-exd7 Qxd7 13-e5 gave White great advantage in game 558.",
+                    "es": "La opci\u00f3n 11...exd3 12-exd7 Dxd7 13-e5 les dio a las blancas gran ventaja en la partida 558.",
+                    "de": "11...exd3 12. exd7 Dxd7 13. e5 gab Wei\u00df gro\u00dfen Vorteil in der Partie 558.",
+                    "zh": "11...exd3 12-exd7 Qxd7 13-e5\u7ed9\u767d\u65b9\u5de8\u5927\u7684\u4f18\u52bf\uff0c\u89c1\u68cb\u5c40558\u3002",
+                    "pl": "11. ... exd3 12. Exd7 Hxd7 13. e5 daje Bia\u0142ym wielk\u0105 przewag\u0119 w partii 558.",
+                    "ru": "11...exd3 12-exd7 Qxd7 13-e5 \u0434\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u043e\u0449\u0443\u0442\u0438\u043c\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u0432 \u0438\u0433\u0440\u0435 558."
+                }
+            },
+            {
+                "move": "   12. Bc2 ",
+                "comment": {
+                    "pt": "As pretas conseguiram ganhar espa\u00e7o no flanco dama e ocupar\u00e3o boas diagonais com seus bispos, mas enfraqueceram seu pe\u00e3o rei, que agora est\u00e1 isolado. A partida entre Karpov e Kramnik (550) seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "Black conquers space in the queenside and occupies good diagonals with its Bishops but weakened its King-pawn that is isolated now. The game between Karpov and e Kramnik (550) continues from this position on.",
+                    "es": "Las negras consiguieron ganar espacio en el flanco dama y ocupar\u00e1n buenas diagonales con sus alfiles, pero debilitaron su pe\u00f3n rey, que ahora est\u00e1 aislado. La partida entre Karpov y Kramnik (550) sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Schwarz gewann Raum am Damenfl\u00fcgel und wird gute Diagonalen mit seinen L\u00e4ufern besetzen, hat aber daf\u00fcr einen Isolani (e-Bauer). Diese Stellung kam in der Partie Karpow - Kramnik (Partie Nr. 550) vor.",
+                    "zh": "\u9ed1\u65b9\u5728\u540e\u7ffc\u4e89\u593a\u7a7a\u95f4\uff0c\u7528\u8c61\u5360\u636e\u6709\u5229\u659c\u7ebf\uff0c\u4f46\u662f\u524a\u5f31\u4e86\u5b83\u7684\u738b\u7ffc\u5175\uff0c\u73b0\u5728\u6210\u4e3a\u5b64\u5175\u3002\u8fd9\u4e2a\u5c40\u9762\u51fa\u73b0\u5728\u5361\u5c14\u6ce2\u592b\u548c\u514b\u62c9\u59c6\u5c3c\u514b\u4e4b\u95f4\u7684\u5bf9\u5c40\u4e2d\uff08550\uff09\u3002",
+                    "pl": "Czarne zdobywaj\u0105 przestrze\u0144 na skrzydle hetma\u0144skim i okupuj\u0105 dobre przek\u0105tne Go\u0144cami, ale os\u0142abi\u0142y w\u0142asnego kr\u00f3lewskiego piona, kt\u00f3ry jest teraz izolowany. Partia Karpow \u2013 Kramnik (550) kontynuowana jest z tego punktu.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u043d\u0443\u0436\u043d\u044b\u0435 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0441\u0432\u043e\u0438\u043c\u0438 \u0421\u043b\u043e\u043d\u0430\u043c\u0438, \u043d\u043e \u0438\u043c \u043c\u0435\u0448\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0435\u0448\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0442\u0435\u043f\u0435\u0440\u044c \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0430. \u0418\u0433\u0440\u0430 \u043c\u0435\u0436\u0434\u0443 \u041a\u0430\u0440\u043f\u043e\u0432\u044b\u043c \u0438 \u041a\u0440\u0430\u043c\u043d\u0438\u043a\u043e\u043c (550) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

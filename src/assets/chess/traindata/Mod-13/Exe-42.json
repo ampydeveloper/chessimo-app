@@ -1,0 +1,161 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/4bppp\/p2p4\/q1n1p1P1\/1p2P2P\/4BP2\/PPPQN3\/1K1R1B1R w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Nc1 ",
+                "comment": {
+                    "pt": "Antes de atacar com h5-g6 as brancas devem cuidar da defesa de seu rei e esta pe\u00e7a cumpre muito bem esta fun\u00e7\u00e3o.",
+                    "en": "White has to provide for the defense of its King before attacking with h5-g6 and the Knight plays that role very well.",
+                    "es": "Antes de atacar con h5-g6 las blancas deben pensar en la defensa de su rey y esta pieza cumple muy bien esta funci\u00f3n.",
+                    "de": "Vor dem Angriff mit h5-g6, muss Wei\u00df seinen eigenen K\u00f6nig sch\u00fctzen; der Springer erf\u00fcllt diese Aufgabe hervorragend.",
+                    "zh": "\u767d\u65b9\u5fc5\u987b\u5728\u653b\u51fbh5-g6\u4e4b\u524d\u52a0\u5f3a\u767d\u738b\u7684\u9632\u5fa1\uff1b\u9a6c\u5c31\u80fd\u5f88\u597d\u7684\u80dc\u4efb\u8fd9\u4e2a\u89d2\u8272\u3002",
+                    "pl": "Bia\u0142e musz\u0105 zapewni\u0107 obron\u0119 w\u0142asnemu Kr\u00f3lowi zanim zaatakuj\u0105 przez h5-g6, a Skoczek nadaje si\u0119 idealnie do tej roli.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0434\u043e \u043d\u0430\u0447\u0430\u043b\u0430 \u0430\u0442\u0430\u043a\u0438 h5-g6 \u0438, \u041a\u043e\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u044d\u0442\u0443 \u0437\u0430\u0434\u0430\u0447\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqnbk1\/pp3r1p\/n4pp1\/2pP4\/2Q2B2\/2N2N2\/PP2BPPP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d6 ",
+                "comment": {
+                    "pt": "Ao avan\u00e7ar o pe\u00e3o passado as brancas tiram a coordena\u00e7\u00e3o das pe\u00e7as pretas e criam amea\u00e7as atrav\u00e9s da diagonal a2-g8 e da coluna dama. As pretas n\u00e3o podem tomar o pe\u00e3o devido a cravada na coluna dama.",
+                    "en": "By advancing the pawn, White hinders the coordination of the black pieces and creates a threat through the a2-g8 diagonal. Black can't take the pawn due to the pin in the queen-file.",
+                    "es": "Al avanzar el pe\u00f3n pasado las blancas entorpecen la coordinaci\u00f3n de las piezas negras y crean amenazas a trav\u00e9s de la diagonal a2-g8 y de la columna dama. Las negras no pueden tomar el pe\u00f3n debido a la clavada en la columna dama.",
+                    "de": "Mit diesem Vorr\u00fccken unterbindet Wei\u00df das Zusammenspiel der schwarzen Figuren und stellt Drohungen auf der Diagonale a2-g8 und auf der d-Linie auf. Schwarz kann den Bauern wegen der Fesselung auf der d-Linie nicht schlagen.\/",
+                    "zh": "\u767d\u65b9\u633a\u5175\u53ef\u4ee5\u963b\u6b62\u9ed1\u65b9\u5b50\u529b\u534f\u540c\uff0c\u7ed9a2-g8\u659c\u7ebf\u5236\u9020\u5a01\u80c1\u3002\u9ed1\u65b9\u56e0\u4e3a\u540e\u7ffc\u7ad6\u7ebf\u88ab\u7275\u5236\u800c\u4e0d\u80fd\u5403\u5175\u3002",
+                    "pl": "Przez marsz pionem Bia\u0142e utrudniaj\u0105 koordynacj\u0119 czarnych figur i kreuj\u0105 gro\u017ab\u0119 przez przek\u0105tn\u0105 a2-g8. Czarne nie mog\u0105 wzi\u0105\u0107 piona przez przygwo\u017cd\u017cenie na kolumnie hetma\u0144skiej.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u044f \u043f\u0435\u0448\u043a\u0438, \u0411\u0435\u043b\u044b\u0435 \u043d\u0430\u0440\u0443\u0448\u0430\u044e\u0442 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u044e \u0444\u0438\u0433\u0443\u0440 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u0443\u0433\u0440\u043e\u0437\u0443 \u0447\u0435\u0440\u0435\u0437 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8. \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u0437\u044f\u0442\u044c \u043f\u0435\u0448\u043a\u0443, \u0438\u0437-\u0437\u0430 \u0441\u0432\u044f\u0437\u043a\u0438 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1r3k1\/1q1nbppp\/pp1pbn2\/4p3\/P3P3\/1NN1BP2\/1PPRB1PP\/R3Q1K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "Ganhando espa\u00e7o no centro e evitando que o pe\u00e3o que est\u00e1 em d6 se torne uma debilidade. As brancas planejavam Tad1 evitando a ruptura em d5 e fixando o pe\u00e3o preto em d6.",
+                    "en": "Winning space in the center and preventing the d6-pawn from becoming a weakness. White intended Rad1, preventing the rupture on d5 and fixing the black pawn on d6.",
+                    "es": "Ganando espacio en el centro y evitando que el pe\u00f3n que est\u00e1 en d6 se convierta en una debilidad. Las blancas planeaban Tad1 evitando la ruptura en d5 y fijando el pe\u00f3n negro en d6.",
+                    "de": "Gewinnt Raum im Zentrum und verhindert da\u00df der Bauer auf d6 zu einer Schw\u00e4che wird. Wei\u00df plante Tad1, was den Hebel auf d5 verhindert und den Bauern auf d6 festgelegt h\u00e4tte.",
+                    "zh": "\u62a2\u5360\u4e2d\u5fc3\u7a7a\u95f4\uff0c\u9632\u6b62d6-\u5175\u6210\u4e3a\u5f31\u70b9\u3002\u767d\u65b9\u610f\u56fe\u4e0bRad1\uff0c\u963b\u6b62d5\u4e0a\u7684\u7a81\u7834\uff0c\u5c06\u9ed1\u5175\u9501\u5b9a\u5728d6\u3002",
+                    "pl": "Zdobywaj\u0105c przestrze\u0144 w centrum i zapobiegaj\u0105c s\u0142abo\u015bci piona d6. Bia\u0142e szykuj\u0105 Wad1, zapobiegaj\u0105c za\u0142amaniu na d5 i zatrzymuj\u0105c czarnego piona na d6.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043f\u043e \u0446\u0435\u043d\u0442\u0440\u0443 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438 \u043c\u0435\u0448\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0435 \u043d\u0430 d6 \u0441\u0442\u0430\u0442\u044c \"\u0441\u043b\u0430\u0431\u043e\u0439\". \u0411\u0435\u043b\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f Rad1, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044f \u0440\u0430\u0437\u0440\u044b\u0432 \u043d\u0430 d5 \u0438 \u0444\u0438\u043a\u0441\u0438\u0440\u0443\u044e\u0442 \u0447\u0435\u0440\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 d6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qk2r\/2pbnpbp\/p1pp2p1\/8\/B1P1P3\/2N5\/PP3PPP\/R1BQ1RK1 w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. c5 ",
+                "comment": {
+                    "pt": "Para debilitar a estrutura de pe\u00f5es das pretas. Caso agora elas joguem . ..dxc5 ficar\u00e3o com pe\u00f5es triplicados na coluna c e caso permitam que as brancas joguem cxd6 ficar\u00e3o com uma debilidade em d6.",
+                    "en": "In order to weaken the black pawn structure. In case Black plays ... dxc5, it will result in tripled pawns in the c-file and in case it allows White to play cxd6, a weakness will be generated for Black on d6.",
+                    "es": "Para debilitar la estructura de peones de las negras. Si \u00e9stas juegan ahora ..dxc5 quedar\u00e1n con peones triplicados en la columna \"c\" y si permiten que las blancas jueguen cxd6 quedar\u00e1n con una debilidad en d6.",
+                    "de": "Um die schwarze Bauernstruktur zu schw\u00e4chen. Nach ...dxc5 entstehen verdreifachte Bauern auf der c-Linie, wenn aber Schwarz das wei\u00dfe cxd6 zul\u00e4sst, wird er eine Schw\u00e4che auf d6 haben.",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u9ed1\u65b9\u5175\u5f62\u7ed3\u6784\u3002\u5982\u679c\u9ed1\u65b9\u4e0b... dxc5\uff0c\u90a3\u4e48\u4f1a\u5bfc\u81f4c-\u7ebf\u4e0a\u7684\u4e09\u53e0\u5175\uff0c\u5982\u679c\u9ed1\u65b9\u5141\u8bb8\u767d\u65b9\u4e0bcxd6\uff0c\u90a3\u4e48\u9ed1\u65b9\u5728d6\u5904\u4ea7\u751f\u4e00\u4e2a\u5f31\u70b9\u3002",
+                    "pl": "Os\u0142abienie czarnej struktury pion\u00f3w. W razie gdyby Czarne zagra\u0142y ... dxc5, skutkowa\u0142oby to potrojeniem pion\u00f3w na kolumnie c i pozwoli\u0142oby Bia\u0142ym zagra\u0107 cxd6, co doprowadzi\u0142oby do s\u0142abo\u015bci Czarnych na d6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0427\u0435\u0440\u043d\u044b\u0445. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 ...dxc5, \u044d\u0442\u043e \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u0441\u0442\u0440\u0430\u0438\u0432\u0430\u043d\u0438\u044e \u043f\u0435\u0448\u0435\u043a \u043d\u0430 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u0411\u0435\u043b\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c cxd6, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u043c \u0447\u0435\u0433\u043e \u0441\u0442\u0430\u043d\u0435\u0442 \u0441\u043b\u0430\u0431\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 d6 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pbpqppbp\/1p4p1\/n7\/3PPP2\/B1PB4\/P3N1PP\/1R1Q1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... c5 ",
+                "comment": {
+                    "pt": "Para atacar e destruir o centro branco.",
+                    "en": "In order to attack and destroy the white center.",
+                    "es": "Para atacar y destruir el centro blanco.",
+                    "de": "Um das wei\u00dfe Zentrum anzugreifen und zu zerst\u00f6ren.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fb\u5e76\u6467\u6bc1\u767d\u65b9\u4e2d\u5fc3\u3002",
+                    "pl": "W celu ataku i zepsucia bia\u0142ego centrum.",
+                    "ru": "\u0414\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0438 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u0438\u044f \u0446\u0435\u043d\u0442\u0440\u0430 \u0411\u0435\u043b\u044b\u0445."
+                }
+            },
+            {
+                "move": "   2. dxc5 ",
+                "comment": {
+                    "pt": "Se as brancas jogassem 2-d5 seguiria ...f5 destruindo o centro branco.",
+                    "en": "If White played 2-d5, then ...f5 would follow, destroying the white center.",
+                    "es": "Si las blancas jugaran 2-d5 seguir\u00eda ...f5 destruyendo el centro blanco.",
+                    "de": "$ Auf 2. d5 zerst\u00f6rt ...f5 das wei\u00dfe Zentrum.",
+                    "zh": "\u5982\u679c\u767d\u65b9\u4e0b2-d5\uff0c\u90a3\u4e48\u9ed1\u65b9\u4f1a\u5e94...f5\uff0c\u6467\u6bc1\u767d\u68cb\u4e2d\u5fc3\u3002",
+                    "pl": "Je\u015bli Bia\u0142e zagra\u0142yby 2. d5, wtedy nast\u0119puje ... f5, psuj\u0105c bia\u0142e centrum.",
+                    "ru": "\u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 2-d5, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...f5, \u0447\u0442\u043e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445."
+                }
+            },
+            {
+                "move": "   Rfd8 3. Bc2 Qc7 4. Qe1 Nc4 ",
+                "comment": {
+                    "pt": "O centro branco foi destruido e as pe\u00e7as pretas est\u00e3o melhor posicionadas.",
+                    "en": "Black's pieces are better positioned than the white ones and the white center is destroyed.",
+                    "es": "El centro blanco fue destruido y las piezas negras est\u00e1n mejor posicionadas.",
+                    "de": "$ Das wei\u00dfe Zentrum wurde zerst\u00f6rt und die schwarzen Figuren stehen besser",
+                    "zh": "\u767d\u65b9\u4e2d\u5fc3\u88ab\u6467\u6bc1\uff0c\u9ed1\u65b9\u68cb\u5b50\u7684\u4f4d\u7f6e\u8981\u4f18\u4e8e\u767d\u65b9\u3002",
+                    "pl": "Czarne figury s\u0105 lepiej ustawione i bia\u0142e centrum jest zniszczone.",
+                    "ru": "\u0424\u0438\u0433\u0443\u0440\u044b \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u0432 \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445 \u0447\u0435\u043c \u0444\u0438\u0433\u0443\u0440\u044b \u0411\u0435\u043b\u044b\u0445, \u0442\u0430\u043a \u043a\u0430\u043a \u0443 \u0411\u0435\u043b\u044b\u0445 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d \u0446\u0435\u043d\u0442\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Ruy Lopez",
+        "white_sort": "",
+        "black": "B\u00e1sico  e variante das trocas",
+        "date": "",
+        "event": {
+            "en": "Ruy Lopez opening concepts",
+            "de": "Ruy Lopez - Er\u00f6ffnungskonzepte u. Abtauschvariante",
+            "es": "Apertura Ruy Lopez-conceptos",
+            "pt": "B\u00e1sico e variante das trocas",
+            "zh": "\u897f\u73ed\u7259\u5f00\u5c40\u7406\u5ff5",
+            "pl": "Warianty partii hiszpa\u0144skiej",
+            "ru": "\u041a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f \u0434\u0435\u0431\u044e\u0442\u0430 \u0420\u0443\u0438 \u041b\u043e\u043f\u0435\u0441\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 ",
+                "comment": {
+                    "pt": "Este \u00e9 considerado o melhor lance para as brancas. O bispo pode tomar o cavalo a qualquer momento, eliminando a defesa do pe\u00e3o central preto e ainda as brancas est\u00e3o prontas para rocar e aumentar seu dom\u00ednio do centro com c3 e d4.",
+                    "en": "This move is considered the best for White. The Bishop can capture the Knight at any moment and eliminate the defense of the black central pawn. Then it is ready to castle and increase its domain in the center with c3 and d4.",
+                    "es": "Esta es considerada la mejor jugada para las blancas. El alfil puede tomar el caballo a cualquier momento, eliminando la defensa del pe\u00f3n central negro y adem\u00e1s las blancas est\u00e1n listas para enrocar y aumentar su dominio del centro con c3 y d4.",
+                    "de": "F\u00fcr den besten Zug gehalten. Der L\u00e4ufer kann den Springer jederzeit schlagen und dadurch den Verteidiger des schwarzen Zentralbauern beseitigen. Wei\u00df wird rochieren und das Zentrum mit c3 nebst d4 beherrschen.",
+                    "zh": "\u8fd9\u4e00\u7740\u88ab\u8ba4\u4e3a\u5bf9\u767d\u65b9\u662f\u6700\u6709\u5229\u7684\u3002\u8c61\u53ef\u4ee5\u5728\u4efb\u4f55\u65f6\u5019\u6349\u9a6c\u5e76\u4e14\u6d88\u706d\u9ed1\u65b9\u4e2d\u5fc3\u5175\u7684\u9632\u5fa1\u3002\u7136\u540e\u5b83\u53ef\u4ee5\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\u5e76\u4e14\u901a\u8fc7c3\u548cd4\u589e\u52a0\u5bf9\u4e2d\u5fc3\u7684\u7edf\u6cbb\u3002",
+                    "pl": "Ten ruch uznawany jest za najlepszy dla Bia\u0142ych. Goniec mo\u017ce pochwyci\u0107 Skoczka w ka\u017cdej chwili i wyeliminowa\u0107 obron\u0119 czarnego centralnego piona. Na dodatek Bia\u0142e gotowe s\u0105 do roszady i zwi\u0119kszenia panowania nad centrum poprzez c3 i d4.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043b\u0443\u0447\u0448\u0438\u043c \u0434\u043b\u044f \u0411\u0435\u043b\u044b\u0445. \u0421\u043b\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0432\u0437\u044f\u0442\u044c \u041a\u043e\u043d\u044f \u0432 \u043b\u044e\u0431\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0438 \u043b\u0438\u0448\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u044b \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445. \u0417\u0430\u0442\u0435\u043c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f c3 \u0438 d4."
+                }
+            },
+            {
+                "move": "   a6 ",
+                "comment": {
+                    "pt": "A jogada mais flex\u00edvel j\u00e1 que as pretas n\u00e3o temem a tomada do cavalo neste momento. Tamb\u00e9m s\u00e3o poss\u00edveis 3...Cf6 3...Bc5 3...d6 3...Cge7 3...f5 3... g6 3... Cd4",
+                    "en": "The most flexible move since Black isn't afraid of having its Knight captured at this point. 3... CN6, 3...Bc5, 3...d6, 3...Nge7, 3...f5, 3.. .g6 or 3...Nd4 are also possible.",
+                    "es": "La jugada m\u00e1s flexible ya que las negras no temen la captura del caballo en este momento.  Tambi\u00e9n son posibles  3...Cf6  3...Ac5  3...d6  3...Cge7  3...f5  3...g6 y 3...Cd4.",
+                    "de": "Der flexibelste Zug, da Schwarz Lxb5 nicht f\u00fcrchtet. 3...Sf6, 3...Lc5, 3...d6, 3...Sge7, 3...f5, 3...g6 und 3..Sd4 sind m\u00f6glich.",
+                    "zh": "\u6700\u4e3a\u7075\u6d3b\u7684\u4e00\u7740\uff0c\u56e0\u4e3a\u9ed1\u65b9\u5e76\u4e0d\u62c5\u5fc3\u9ed1\u9a6c\u4f1a\u5728\u6b64\u5904\u88ab\u6349\u30023... CN6\uff0c 3...Bc5\uff0c 3...d6\uff0c 3...Nge7\uff0c 3...f5\uff0c 3.. .g6\u6216\u80053...Nd4\u90fd\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Najbardziej elastyczny ruch, je\u015bli Czarne nie obawiaj\u0105 si\u0119 utraty Skoczka. 3. ... Sf6, 3. ... Gc5, 3. ... d6, 3. ...Sge7, 3. ... f5, 3. ... g6 lub 3. ... Sd4 r\u00f3wnie\u017c s\u0105 mo\u017cliwe.",
+                    "ru": "\u041d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0433\u0438\u0431\u043a\u0438\u0439 \u0445\u043e\u0434, \u043f\u043e\u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0431\u043e\u044f\u0442\u0441\u044f \u043f\u043e\u0442\u0435\u0440\u0438 \u041a\u043e\u043d\u044f, \u0432 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...CN6, 3...Bc5, 3...d6, 3...Nge7, 3...f5, 3...g6 \u0438\u043b\u0438 3...Nd4, \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d."
+                }
+            },
+            {
+                "move": "   4. Ba4 ",
+                "comment": {
+                    "pt": "4-Bxc6 caracteriza a variante das trocas, que tem o objetivo de explorar os pe\u00f5es dobrados das pretas. 4...dxc6 5-d4 (se 5-Cxe5 Dd4 recupera o pe\u00e3o) exd4 6-Dxd4 Dxd4 7-Cxd4 Bd7 8-Cc3 0-0-0 9-Be3 leva a uma posi\u00e7\u00e3o equilibrada , sendo o principal plano das brancas trocar todas as pe\u00e7as e chegar a um final de rei e pe\u00f5es, onde sua maioria de pe\u00f5es no flanco rei \u00e9 mais valiosa que a das pretas no flanco dama, justamente porque os pe\u00f5es est\u00e3o dobrados.",
+                    "en": "The exchange variation is characterized by 4-Bxc6 that aims to explore the black doubled pawns. 4...dxc6 5-d4 (if 5-Nxe5, 5...Qd4 recovers the pawn) exd4 6-Qxd4 Qxd4 7-Nxd4 Bd7 8-Nc3 0-0-0 9-Be3 leads to a balanced position. White's main plan is to exchange all pieces and reach an endgame between King and pawns where its majority on the kingside is worth more than Black's on the queenside, precisely because its pawns are doubled.",
+                    "es": "4-Axc6 caracteriza la Variante del Cambio, que tiene por objetivo explotar los peones doblados de las negras. 4...dxc6 5-d4 (si 5-Cxe5, Dd4 recupera el pe\u00f3n) exd4 6-Dxd4 Dxd4 7-Cxd4 Ad7 8-Cc3 0-0-0 9-Ae3 lleva a una posici\u00f3n equilibrada, en la que el principal plan de las blancas consiste en cambiar todas las piezas y llegar a un final de reyes y peones, donde su mayor\u00eda de peones en el flanco rey es m\u00e1s valiosa que la de las negras en el flanco dama, justamente porque los peones est\u00e1n doblados.",
+                    "de": "Die Abtauschvariante nach 4. Lxc6 hat zum Ziel, die schwarzen Doppelbauern auszunutzen. 4...dxc6 5. d4 (auf 5. Sxe5 gewinnt ...Dd4 den Bauern zur\u00fcck) exd4 6. Dxd4 Dxd4 7. Sxd4 Bd7 8. Sc3 0-0-0 9. Le3 f\u00fchrt zu einer ausgeglichenen Stellung. Der wei\u00dfe Plan besteht darin, alle Figuren abzutauschen und ein Bauernendspiel mit Mehrheit am Damenfl\u00fcgel zu erreichen, wo die schwarzen Doppelbauern sich befinden.",
+                    "zh": "\u8d704-Bxc6\u4e4b\u540e\u7684\u5151\u6362\u53d8\u4f8b\u76ee\u7684\u662f\u4e3a\u4e86\u5145\u5206\u5229\u7528\u9ed1\u65b9\u7684\u53e0\u51754...dxc6 5-d4 \uff08\u5982\u679c5-Nxe5\uff0c\u8d705...Qd4\u53ef\u4ee5\u91cd\u65b0\u83b7\u5f97\u5175\uff09exd4 6-Qxd4 Qxd4 7-Nxd4 Bd7 8-Nc3 0-0-0 9-Be3\u53d6\u5f97\u5c40\u9762\u5e73\u8861\u3002\u767d\u65b9\u7684\u4e3b\u8981\u8ba1\u5212\u662f\u5151\u6362\u6389\u6240\u6709\u68cb\u5b50\uff0c\u8fdb\u5165\u5230\u4e00\u4e2a\u540e\u7ffc\u591a\u5175\u7684\u738b\u5175\u6b8b\u5c40\uff0c\u800c\u4e14\u9ed1\u65b9\u5728\u540e\u7ffc\u53e0\u5175\u3002",
+                    "pl": "Wariant wymiany charateryzowany przez 4. Gxc6 wykorzystuje zdublowane czarne piony. 4. ... dxc6 5. d4 (je\u015bli 5. Sxe5, wtedy 5. ... Hd4 odzyskuje piona) exd4 6. Hxd4 Hxd4 7. Sxd4 Gd7 8. Sc3 0-0-0 9. Ge3 prowadzi do zbalansowanej pozycji. Podstawowym planem Bia\u0142ych jest wymiana wszystkich figur i osi\u0105gni\u0119cie ko\u0144c\u00f3wki pomi\u0119dzy Kr\u00f3lami i pionami, gdzie wi\u0119kszo\u015b\u0107 na skrzydle kr\u00f3lewskim jest warta wi\u0119cej, ni\u017c wi\u0119kszo\u015b\u0107 Czarnych na skrzydle hetma\u0144skim z powodu zdublowanych pion\u00f3w.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 4-Bxc6, \u0447\u0442\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442\u0441\u044f \u0445\u043e\u0434\u043e\u043c 4-Bxc6, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d \u043d\u0430 \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438. 4...dxc6 5-d4 (\u0435\u0441\u043b\u0438 5-Nxe5, 5...Qd4 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443) exd4 6-Qxd4 Qxd4 7-Nxd4 Bd7 8-Nc3 0-0-0 9-Be3, \u0432\u0435\u0434\u0435\u0442 \u043a \u0431\u0430\u043b\u0430\u043d\u0441\u0443 \u043f\u043e\u0437\u0438\u0446\u0438\u0439. \u041f\u043b\u0430\u043d \u0411\u0435\u043b\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0440\u0430\u0437\u043c\u0435\u043d\u0435 \u0432\u0441\u0435\u0445 \u0444\u0438\u0433\u0443\u0440 \u0438 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f \u044d\u043d\u0434\u0448\u043f\u0438\u043b\u044f \u043c\u0435\u0436\u0434\u0443 \u041a\u043e\u0440\u043e\u043b\u0435\u043c \u0441 \u043f\u0435\u0448\u043a\u043e\u0439, \u043f\u0440\u043e\u0442\u0438\u0432 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   Nf6 5. O-O ",
+                "comment": {
+                    "pt": "As etas t\u00eam agora duas variantes principais, a aberta (5. .. Cxe4)e a fechada (5.. .Be7) .Variantes com ...Bc5-b5-Bb7, podem ser encontradas em nossa base nas partidas 171 a 177. As variantes; aberta e fechada ser\u00e3o analisadas separadamente.",
+                    "en": "Black has now two main variations: the open one (5... Nxe4) and the closed one (5...Be7). The games 171 to 177 in our database present the variations with ...Bc5-b5-Bb7. Open and closed variations will be analyzed separately.",
+                    "es": "Las negras tienen ahora dos variantes principales, la Abierta (5... Cxe4) y la Cerrada (5...Ae7). Variantes con ...Ac5-b5-Ab7, pueden ser encontradas en nuestra base en las partidas 171 a 177. Las variantes abierta y cerrada ser\u00e1n analizadas por separado..",
+                    "de": "Schwarz hat jetzt zwei Varianten: die offene (5...Sxe4) und die geschlossene (5...Le7). Varianten nach ...Lc5-b5-Lb7 werden in den Partien 171 bis 177 gezeigt. Die offene bzw. geschlossene Varianten werden getrennt analysiert.",
+                    "zh": "\u9ed1\u65b9\u73b0\u5728\u6709\u4e24\u4e2a\u4e3b\u53d8\u4f8b\uff1a\u5f00\u653e\u5c40\u9762\uff08(5... Nxe4\uff09\u548c\u5c01\u95ed\u5c40\u9762\uff085...Be7\uff09\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40171\u5230177\u5448\u73b0\u7684\u662f...Bc5-b5-Bb7\u7684\u53d8\u4f8b\u3002\u5f00\u653e\u548c\u5c01\u95ed\u53d8\u4f8b\u4f1a\u5355\u72ec\u5206\u6790\u3002",
+                    "pl": "Czarne posiadaj\u0105 dwa g\u0142\u00f3wne wariacje: otwart\u0105 (5. ... Sxe4) i zamkni\u0119t\u0105 (5. ... Ge7). Gry od 171 do 177 w naszej bazie prezentuj\u0105 warianty ... Gc5-b5-Gb7. Otwarte i zamkni\u0119te warianty b\u0119d\u0105 analizowane oddzielnie.",
+                    "ru": "\u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u0442\u0435\u043f\u0435\u0440\u044c \u0435\u0441\u0442\u044c \u0434\u0432\u0430 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430: \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 5... Nxe4 \u0438 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 5...Be7. \u0418\u0433\u0440\u044b 171 \u0438 177 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u044e\u0442 \u044d\u0442\u0438 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0441 ...Bc5-b5-Bb7. \u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u0438 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

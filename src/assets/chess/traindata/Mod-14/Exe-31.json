@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(95)",
+            "zh": "Event 2"
+        },
+        "fen": "5rk1\/pp2qp1p\/2p3p1\/8\/8\/PQ1RP2P\/1P3PP1\/6K1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. Qd1 ",
+                "comment": {
+                    "pt": "Dominando a coluna aberta.",
+                    "en": "Dominating the open file.",
+                    "de": "Beherrscht die offene Linie.",
+                    "es": "Dominando la columna abierta.",
+                    "zh": "\u7edf\u6cbb\u5f00\u653e\u7ebf\u3002",
+                    "pl": "Dominuj\u0105c na otwartej kolumnie.",
+                    "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u0435\u0442 \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(25)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/pppp1ppp\/2n5\/4p3\/1bB1P3\/5N2\/P1PP1PPP\/RNBQK2R w KQkq - 0 5",
+        "moves": [
+            {
+                "move": "5. c3 ",
+                "comment": {
+                    "pt": "Para ganhar um tempo na constru\u00e7\u00e3o do centro e4-d4.",
+                    "en": "In order to gain a tempo in the construction of the e4-d4 center.",
+                    "de": "Gewinnt ein Tempo bei der Bildung vom Zentrum e4-d4.",
+                    "es": "Para ganar un tiempo en la construcci\u00f3n del centro e4-d4.",
+                    "zh": "\u5728\u5efa\u7acbe4-d4\u4e2d\u5fc3\u65f6\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "W celu zyskania tempa w kontstrukcji centrum e4-d4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0442\u0435\u043c\u043f \u0432 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0438 \u0446\u0435\u043d\u0442\u0440\u0430 e4-d4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(157)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2r1k\/1pp4p\/n2p1nq1\/p2Ppp2\/2P1P3\/2N2B2\/PP1NQPP1\/R3K2R b KQ - 0 16",
+        "moves": [
+            {
+                "move": "16... Nc5 ",
+                "comment": {
+                    "pt": "Melhorando esta pe\u00e7a e pressionando o centro branco.",
+                    "en": "Improving this piece and exerting pressure on the white center.",
+                    "de": "Verbessert die Stellung dieser Figur und \u00fcbt Druck auf das wei\u00dfe Zentrum aus.",
+                    "es": "Mejorando esta pieza y presionando sobre el centro blanco.",
+                    "zh": "\u6539\u5584\u8fd9\u4e2a\u68cb\u5b50\u7684\u4f4d\u7f6e\u5e76\u7ed9\u767d\u65b9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Poprawa pozycji tej figury oraz rozszerzenie presji na bia\u0142e centrum.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(53)",
+            "zh": "Event 1"
+        },
+        "fen": "2k5\/2q1bp2\/p3p1pp\/1p1p4\/1P1Pn3\/P1rNP3\/1Q3PPP\/1B3RK1 w - - 0 35",
+        "moves": [
+            {
+                "move": "35. Nc5 ",
+                "comment": {
+                    "pt": "Ocupando um posto avan\u00e7ado e cortando a comunica\u00e7\u00e3o entre as pe\u00e7as pesadas advers\u00e1rias.",
+                    "en": "Occupying and outpost and cutting communication between the enemy's major pieces.",
+                    "de": "Besetzt einen Vorposten und unterbricht das Zusammenspiel der schwarzen Schwerfiguren.",
+                    "es": "Ocupando un puesto avanzado y cortando la comunicaci\u00f3n entre las  piezas pesadas adversarias.",
+                    "zh": "\u62a2\u5360\u4e00\u4e2a\u524d\u54e8\u5e76\u5207\u65ad\u9ed1\u68cb\u91cd\u5b50\u4e4b\u95f4\u7684\u8054\u7cfb\u3002",
+                    "pl": "Okupuj\u0105c plac\u00f3wk\u0119 i odcinaj\u0105c komunikacj\u0119 pomi\u0119dzy najsilniejszymi figurami przeciwnika.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0444\u043e\u0440\u043f\u043e\u0441\u0442 \u0438 \u043e\u0442\u0440\u0435\u0437\u0430\u0435\u0442 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0438 \u043c\u0435\u0436\u0434\u0443 \u0442\u044f\u0436\u0435\u043b\u044b\u043c\u0438 \u0444\u0438\u0433\u0443\u0440\u0430\u043c\u0438 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(20)",
+            "zh": "Event 1"
+        },
+        "fen": "1r6\/Rb3pkp\/5p2\/2rpb3\/2p5\/2N1P1P1\/1P1RNP1P\/6K1 w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Nd4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo e obstruindo a a\u00e7\u00e3o do bispo de casas pretas advers\u00e1rio.",
+                    "en": "Centralizing the Knight and locking the action of the opponent's dark-squared Bishop.",
+                    "de": "Zentralisiert den Springer und schr\u00e4nkt den gegnerischen schwarzfeldrigen L\u00e4ufer.",
+                    "es": "Centralizando el caballo y obstruyendo la acci\u00f3n del alfil de casillas negras adversario.",
+                    "zh": "\u5c06\u9a6c\u79fb\u5411\u4e2d\u5fc3\uff0c\u5c01\u9501\u5bf9\u65b9\u9ed1\u683c\u8c61\u7684\u6d3b\u52a8\u3002",
+                    "pl": "Centralizacja Skoczka i zamykanie akcji dla ciemnopolowego Go\u0144ca oponenta.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f \u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

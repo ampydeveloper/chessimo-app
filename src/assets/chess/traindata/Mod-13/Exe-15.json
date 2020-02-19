@@ -1,0 +1,189 @@
+[
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4rq1k\/1r3p1p\/p3pn2\/8\/5P1Q\/7R\/PPP4P\/2K3R1 b - - 0 30",
+        "moves": [
+            {
+                "move": "30... Nh5 ",
+                "comment": {
+                    "pt": "\u00danica defesa, com a id\u00e9ia de colocar a torre de b7 em jogo . Se 1... De7 segue 2-Dh6 Tg8 3-Txg8 Rxg8 4-Tg3.",
+                    "en": "The only way for defense, taking into account the reactivation of the b7-Rook. If 1...Qe7, then 2-Qh6 Rg8 3-Rxg8 Kxg8 4-Rg3 will follow.",
+                    "es": "\u00danica defensa, con la idea de activar la torre de b7. Si 1... De7 sigue 2-Dh6 Tg8 3-Txg8 Rxg8 4-Tg3.",
+                    "de": "Einzige Verteidigung, mit der Idee, den Turm auf b7 ins Spiel zu bringen. Auf 1... De7 folgt 2. Dh6 Tg8 3. Txg8 Rxg8 4. Tg3.",
+                    "zh": "\u552f\u4e00\u80fd\u8d77\u5230\u9632\u5fa1\u4f5c\u7528\u7684\uff0c\u76ee\u7684\u662f\u91cd\u65b0\u4f7fb7-\u8f66\u6d3b\u8dc3\u8d77\u6765\u3002\u5982\u679c\u4e0b1...Qe7\uff0c\u90a3\u4e48\u4f1a\u8ddf2-Qh6 Rg8 3-Rxg8 Kxg8 4-Rg3\u3002",
+                    "pl": "Jedyna droga obrony, licz\u0105c na reaktywacj\u0119 Wie\u017cy b7. Je\u015bli 1. ... He7, wtedy 2. Hh6 Wg8 3. Wxg8 Kxg8 4. Wg3.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0434\u043b\u044f \u043e\u0431\u043e\u0440\u043e\u043d\u044b, \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 b7. \u0415\u0441\u043b\u0438 1 ... Qe7, \u0437\u0430\u0442\u0435\u043c 2-Qh6 Rg8 3-Rxg8 Kxg8, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 4-Rg3."
+                }
+            },
+            {
+                "move": "   31. Qxh5 f6 ",
+                "comment": {
+                    "pt": "E as pretas conseguem defender-se das amea\u00e7as de mate, ainda que continuam em desvantagem.",
+                    "en": "And Black defends itself against the mate threat, even if, with disadvantage.",
+                    "es": "Y las negras consiguen defenderse de las amenazas de mate, a pesar de que continuan en desventaja.",
+                    "de": "$ Und Schwarz kann die Mattdrohungen erfolgreich abwehren, auch wenn er weiterhin im Nachteil steht.",
+                    "zh": "\u9ed1\u65b9\u4e0d\u60dc\u7ee7\u7eed\u5904\u4e8e\u4e0b\u98ce\uff0c\u6210\u529f\u62b5\u6297\u903c\u548c\u5a01\u80c1\uff0c\u3002",
+                    "pl": "I Czarne po raz kolejny obroni\u0142y si\u0119 przed matem nawet je\u015bli trac\u0105c przewag\u0119.",
+                    "ru": "\u0418 \u0427\u0435\u0440\u043d\u044b\u0435 \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0442 \u0441\u0435\u0431\u044f \u043e\u0442 \u0443\u0433\u0440\u043e\u0437\u044b \u043c\u0430\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/5pp1\/r7\/1p1BPbPp\/p2P1B1P\/PnK5\/1P3P2\/3R3R b - - 0 1",
+        "moves": [
+            {
+                "move": "1... b4+ ",
+                "comment": {
+                    "pt": "Evitando que o rei branco fique em seguran\u00e7a ocupando a casa b4. Ap\u00f3s esta jogada as pretas criar\u00e3o um ataque decisivo contra o rei branco, utilizando as colunas abertas.",
+                    "en": "Hindering the safety of the white King. After this move, Black will create a decisive offensive through open lines against the white King.",
+                    "es": "Evitando que el rey blanco se proteja en la casilla b4. Despu\u00e9s de esta jugada las negras inician un ataque decisivo contra el rey blanco, utilizando las columnas abiertas.",
+                    "de": "Verhindert, da\u00df der wei\u00dfe K\u00f6nig sich in Sicherheit auf b4 bringt. Nach diesem Zug f\u00fchrt Schwarz einen entscheidenden Angriff auf den wei\u00dfen K\u00f6nig \u00fcber die offenen Linien.",
+                    "zh": "\u59a8\u788d\u9ed1\u738b\u7684\u5b89\u5168\u3002\u8d70\u4e86\u8fd9\u6b65\u4e4b\u540e\u9ed1\u68cb\u65b9\u4ece\u5f00\u653e\u7ebf\u5411\u767d\u738b\u53d1\u8d77\u51b3\u5b9a\u6027\u7684\u8fdb\u653b\u3002",
+                    "pl": "Zapytuj\u0105c o bezpiecze\u0144stwo bia\u0142ego Kr\u00f3la. Po tym ruchu Czarne przeprowadz\u0105 decyduj\u0105c\u0105 ofensyw\u0119 przez otwarte linie bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430, \u0427\u0435\u0440\u043d\u044b\u0435 \u0440\u0435\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0447\u0435\u0440\u0435\u0437 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u043b\u0438\u043d\u0438\u0438 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   2. Kxb4 Rb6+ 3. Kc3 Rc8+ 4. Bc4 Rbc6 ",
+                "comment": {
+                    "pt": "Ganhando uma pe\u00e7a e intensificando o ataque.",
+                    "en": "Winning a piece and intensifying the attack.",
+                    "es": "Ganando una pieza e intensificando el ataque.",
+                    "de": "Gewinnt eine Figur und verst\u00e4rkt den Angriff.",
+                    "zh": "\u8d62\u5f97\u4e00\u4e2a\u68cb\u5b50\uff0c\u52a0\u5f3a\u653b\u51fb\u7684\u706b\u529b\u3002",
+                    "pl": "Wygrywaj\u0105c figur\u0119 i dynamizuj\u0105c atak.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r1b1r\/2p1qp2\/Qn2b2p\/1N1p4\/3P2pN\/6P1\/PPP2PP1\/2KR3R w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rd3 ",
+                "comment": {
+                    "pt": "As brancas est\u00e3o atacando o rei preto, mas apenas a dama e o cavalo n\u00e3o s\u00e3o suficientes e levar mais uma pe\u00e7a para o ataque \u00e9 fundamental. Quanto mais pe\u00e7as estiverem atacando maiores as possibilidades do ataque ter sucesso.",
+                    "en": "White is attacking the King, but only Queen and Knight are insufficient, therefore it's fundamental to take another piece into the offensive. The more pieces participate, the greater the possibilitiy of a successful attack.",
+                    "es": "Las blancas est\u00e1n atacando el rey negro, pero s\u00f3lo la dama y el caballo no son suficientes y llevar m\u00e1s una pieza para el ataque es fundamental. Cuanto m\u00e1s piezas est\u00e9n atacando. mas grandes son las posibilidades de que el ataque tenga \u00e9xito.",
+                    "de": "Dame und Springer schaffen es nicht alleine, den schwarzen K\u00f6nig erfolgreich anzugreifen, daher ist es wichtig, noch eine Figur ins Spiel zu bringen.",
+                    "zh": "\u767d\u65b9\u653b\u51fb\u9ed1\u738b\uff0c\u4f46\u662f\u4ec5\u4ec5\u9760\u540e\u548c\u9a6c\u8fd8\u4e0d\u8db3\u4ee5\u53d6\u5f97\u80dc\u5229\uff0c\u56e0\u6b64\u5fc5\u987b\u8ba9\u53e6\u5916\u4e00\u4e2a\u68cb\u5b50\u52a0\u5165\u6218\u6597\u3002\u53c2\u52a0\u6218\u6597\u7684\u68cb\u5b50\u8d8a\u591a\uff0c\u706b\u529b\u5c31\u8d8a\u5927\uff0c\u8d8a\u80fd\u83b7\u5f97\u6210\u529f\u3002",
+                    "pl": "Bia\u0142e atakuj\u0105 Kr\u00f3la, ale Hetman i Skoczek s\u0105 niewystarczaj\u0105ce, wi\u0119c konieczne jest zaktywizowanie kolejnej figury. Im ich wi\u0119cej w ataku, tym wi\u0119ksza mo\u017cliwo\u015b\u0107 jego powodzenia.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u041a\u043e\u0440\u043e\u043b\u044f, \u043d\u043e \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0438 \u041a\u043e\u043d\u044f \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0435 \u043a \u0430\u0442\u0430\u043a\u0435 \u0435\u0449\u0435 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443. \u0427\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0432 \u0430\u0442\u0430\u043a\u0435 \u0437\u0430\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u043e \u0444\u0438\u0433\u0443\u0440, \u0442\u0435\u043c \u043e\u043d\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3b1rk1\/pp4pp\/8\/1PpRpN2\/P7\/6P1\/2Q1PPKP\/4q3 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rd7 ",
+                "comment": {
+                    "pt": "A s\u00e9tima fila \u00e9 mais importante do que a captura de um pe\u00e3o e as brancas podem realizar um ataque decisivo contra o rei preto, utilizando todas as suas pe\u00e7as.",
+                    "en": "The 7th rank is more important than the capture of a pawn and White will be able to perform a decisive attack against the black King, using all its pieces.",
+                    "es": "La s\u00e9ptima l\u00ednea es m\u00e1s importante que la captura de un pe\u00f3n y las blancas pueden realizar un ataque decisivo contra el rey negro, utilizando todas sus piezas.",
+                    "de": "Die siebte Reihe ist wertvoller als der Bauer. Nun kann Wei\u00df mit allen Figuren einen entscheidenden Angriff auf den schwarzen K\u00f6nig durchf\u00fchren.",
+                    "zh": "\u653b\u5360\u4e03\u7ebf\u8981\u6bd4\u6349\u5175\u91cd\u8981\u7684\u591a\u3002\u767d\u65b9\u73b0\u5728\u53ef\u4ee5\u53d1\u52a8\u6240\u6709\u5b50\u529b\u5411\u9ed1\u738b\u53d1\u8d77\u81f4\u547d\u7684\u653b\u51fb\u3002",
+                    "pl": "Si\u00f3dma linia jest bardziej istotna, ni\u017c zbicie piona i Bia\u0142\u0119 b\u0119d\u0105 w stanie przeprowadzi\u0107 decyduj\u0105cy atak, u\u017cywaj\u0105c wszystkich swoich figur.",
+                    "ru": "\u0421\u0435\u0434\u044c\u043c\u0430\u044f \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0432\u0430\u0436\u043d\u0435\u0435 \u0447\u0435\u043c \u0432\u0437\u044f\u0442\u0438\u0435 \u043f\u0435\u0448\u043a\u0438. \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u0432 \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "Bf6 2. Nh6+ Kh8 3. Qxc5",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/p2n1p1p\/1p4p1\/3pP3\/q1pP1P2\/BnP3N1\/1Q4PP\/4RRK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... f5 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam f5, com forte ataque e a jogada preta ... f5 \u00e9 a melhor defesa. A sequ\u00eancia mais l\u00f3gica da partida seria;",
+                    "en": "White threatened f5 with a strong offensive, thus ...f5 is the best defense. The most sensible sequence would be:",
+                    "es": "Las blancas amenazaban f5, con fuerte ataque, y la jugada negra ...f5 es la mejor defensa. La continuaci\u00f3n m\u00e1s l\u00f3gica de la partida ser\u00eda:",
+                    "de": "Wei\u00df drohte f5, wogegen der schwarze Zug f5 die beste Verteidigung ist. Die logischste Folge w\u00e4re:",
+                    "zh": "\u767d\u65b9\u7528\u5f3a\u653b\u5a01\u80c1f5\uff0c\u56e0\u4e3a\u9ed1\u65b9\u8d70f5\u662f\u6700\u597d\u7684\u9632\u5fa1\u3002\u6700\u660e\u667a\u7684\u4e0b\u6cd5\u5982\u4e0b\uff1a",
+                    "pl": "Bia\u0142\u0119 gro\u017c\u0105 f5 z siln\u0105 ofensyw\u0105, wi\u0119c ... f5 jest najlepsz\u0105 obron\u0105. Najrozs\u0105dniejsza sekwencja wygl\u0105da\u0142aby:",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 f5 \u0441\u0438\u043b\u044c\u043d\u043e\u0439 \u0430\u0442\u0430\u043a\u043e\u0439, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 ...f5 - \u043b\u0443\u0447\u0448\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430. \u0421\u0430\u043c\u0430\u044f \u0440\u0430\u0437\u0443\u043c\u043d\u0430\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0445\u043e\u0434\u043e\u0432 \u0431\u0443\u0434\u0435\u0442:"
+                }
+            },
+            {
+                "move": "   2. exf6 Nxf6 3. f5 ",
+                "comment": {
+                    "pt": "E agora as pretas podem defender-se com;",
+                    "en": "And now Black can defend with;",
+                    "es": "Y ahora las negras pueden defenderse con:",
+                    "de": "Und nun kann sich Schwarz wie folgt verteidigen:",
+                    "zh": "\u73b0\u5728\u9ed1\u65b9\u53ef\u4ee5\u8fd9\u6837\u9632\u5fa1\uff1a",
+                    "pl": "I teraz Czarne mog\u0105 wybroni\u0107 si\u0119 poprzez:",
+                    "ru": "\u0422\u0435\u043f\u0435\u0440\u044c \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c\u0441\u044f."
+                }
+            },
+            {
+                "move": "   Rxe1 4. Rxe1 Re8 ",
+                "comment": {
+                    "pt": "Proc urando simplificar a posi\u00e7\u00e3o.",
+                    "en": "Trying to simplify the position.",
+                    "es": "Buscando simplificar la posici\u00f3n.",
+                    "de": "Versucht, die Stellung zu vereinfachen.",
+                    "zh": "\u8bd5\u56fe\u7b80\u5316\u5c40\u9762\u3002",
+                    "pl": "Staraj\u0105c si\u0119 upro\u015bci\u0107 pozycj\u0119.",
+                    "ru": "\u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0443\u043f\u0440\u043e\u0441\u0442\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u044e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

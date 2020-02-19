@@ -1,0 +1,130 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante Sveshnikov.",
+        "date": "",
+        "event": {
+            "en": "Sveshnikov variation",
+            "de": "Schweschnikow-Variante",
+            "es": "Variante Sveshnikov",
+            "pt": "Variante Sveshnikov",
+            "zh": "\u65af\u5a01\u4ec0\u5c3c\u79d1\u592b\u53d8\u4f8b",
+            "pl": "Wariant Sveshnikowa",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0421\u0432\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 ",
+                "comment": {
+                    "pt": "As pretas buscam desalojar o cavalo branco do centro, mesmo a custa do enfraquecimento de sua estrtura de pe\u00f5es. O pe\u00e3o \"d\" ficar\u00e1 sem a defesa de outro pe\u00e3o e poder\u00e1 ser facilmente atacado pelas brancas uma vez que a coluna dama est\u00e1 aberta. Outra fraqueza na posi\u00e7\u00e3o preta \u00e9 a casa d5, que ficou sem a prote\u00e7\u00e3o de qualquer outro pe\u00e3o.",
+                    "en": "Black tries to chase the white Knight away from the center even at the cost of its pawn structure. The d-pawn stays without protection from other pawns and can easily be attacked because the Queenfile is open. Another weakness in Black's position is d5 that isn't protected by any other pawn.",
+                    "es": "Las negras buscan desalojar el caballo blanco del centro, aun debilitando su estructura de peones. El pe\u00f3n \"d\" quedar\u00e1 sin defensa de otro pe\u00f3n y podr\u00e1 ser atacado f\u00e1cilmente por las blancas, ya que la columna dama est\u00e1 abierta. Otra debilidad en la posici\u00f3n negra es a casilla d5, que qued\u00f3 sin la protecci\u00f3n de ning\u00fan otro pe\u00f3n.",
+                    "de": "Schwarz versucht den wei\u00dfen Springer aus dem Zentrum zu vertreiben, auch wenn die Bauernstruktur dadurch geschw\u00e4cht wird. Der d-Bauer kann nicht von anderen Bauern verteidigt werden und wird ohne Schwierigkeiten von Wei\u00df angegriffen, zumal die d-Linie offen steht. Eine andere Schw\u00e4che ist das Feld d5.",
+                    "zh": "\u9ed1\u65b9\u7aed\u529b\u5c06\u767d\u9a6c\u4ece\u4e2d\u5fc3\u8d76\u8d70\u751a\u81f3\u4e0d\u60dc\u727a\u7272\u5175\u5f62\u3002d-\u5175\u6ca1\u6709\u5176\u4ed6\u5175\u7684\u4fdd\u62a4\uff0c\u5e76\u4e14\u56e0\u4e3a\u540e\u7ffc\u7ebf\u5f00\u653e\u800c\u6a2a\u5bb9\u6613\u88ab\u653b\u51fb\u3002\u9ed1\u65b9\u53e6\u5916\u4e00\u4e2a\u5f31\u70b9\u662fd5,\u4e5f\u6ca1\u6709\u88ab\u4efb\u4f55\u5176\u4ed6\u5175\u7684\u4fdd\u62a4\u3002",
+                    "pl": "Czarne staraj\u0105 si\u0119 przegoni\u0107 bia\u0142ego Skoczka z centrum nawet je\u015bli ma to kosztowa\u0107 pogorszenie struktury pion\u00f3w. Pion d pozostaje bez ochrony innych pion\u00f3w i mo\u017ce \u0142atwo zosta\u0107 zaatakowany z powodu otwarcia kolumny hetma\u0144skiej. Kolejn\u0105 s\u0142abo\u015bci\u0105 pozycji Czarnych jest to, \u017ce pion d5 nie jest chroniony przez \u017cadnego innego piona.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430, \u0434\u0430\u0436\u0435 \u0446\u0435\u043d\u043e\u0439 \u0441\u0432\u043e\u0435\u0439 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b. d-\u043f\u0435\u0448\u043a\u0430 \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u0431\u0435\u0437 \u0437\u0430\u0449\u0438\u0442\u044b \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439 \u0438 \u043c\u043e\u0436\u0435\u0442 \u043b\u0435\u0433\u043a\u043e \u0431\u044b\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0444\u0435\u0440\u0437\u0435\u0432\u0430\u044f \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u0430. \u0414\u0440\u0443\u0433\u0430\u044f \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445 \u0427\u0435\u0440\u043d\u044b\u0445 - d5, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0435 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u0430 \u043b\u044e\u0431\u043e\u0439 \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439."
+                }
+            },
+            {
+                "move": "   6. Ndb5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando Cd6. Contra Cf5 as pretas responderiam com .. . d5 e contra as outras retiradas de cavalo a jogada . .. Bb4 seria incomoda para as brancas.",
+                    "en": "Threatening Nd6. Against Nf5 Black responds with ...d5 and against other retreats of the Knight, ...Bb4 would be very disturbing for the white side.",
+                    "es": "Amemazando Cd6. Contra Cf5 las negras responder\u00edan con ...d5 y contra las otras retiradas de caballo la jugada . ..Ab4 ser\u00eda molesta para las blancas.",
+                    "de": "Droht d6. Auf Sf5 w\u00fcrde Schwarz ...d5 ziehen und das unangenehme ...Lb4 auf andere Springerz\u00fcge.",
+                    "zh": "\u5a01\u80c1Nd6\u3002\u5bf9\u4ed8Nf5\u9ed1\u65b9\u5e94\u4ee5...d5\uff0c\u5bf9\u4ed8\u9a6c\u7684\u64a4\u9000\uff0c...Bb4\u4f1a\u8ba9\u767d\u611f\u5230\u65b9\u6050\u614c\u3002",
+                    "pl": "Gro\u017c\u0105c Sd6. Przeciw Sf5 Czarne odpowiadaj\u0105 ... d5 i przy innych zagro\u017ceniach Skoczka, ... Gb4 mog\u0142oby by\u0107 bardzo utrudniaj\u0105ce gr\u0119 bia\u0142ej stronie.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Nd6. \u041f\u0440\u043e\u0442\u0438\u0432 Nf5, \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 ...d5, \u0430 \u043d\u0430 \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u041a\u043e\u043d\u044f \u0445\u043e\u0434\u043e\u043c ...Bb4, \u0447\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u0442\u0440\u0435\u0432\u043e\u0436\u043d\u044b\u043c \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u043c \u0434\u043b\u044f \u0411\u0435\u043b\u044b\u0445."
+                }
+            },
+            {
+                "move": "   d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 ",
+                "comment": {
+                    "pt": "A jogada 9-Cd5 tamb\u00e9m \u00e9 muito praticada e a partida deve seguir com ...Be7 10-Bxf6 Bxf6 11 -c3, com o objetivo de jogar Cc2, refor\u00e7ar a posi\u00e7\u00e3o central e atacar no flanco dama com a4. As partidas 454 a 457 e 461 seguiram com esta id\u00e9ia.",
+                    "en": "9-Nd5 is also practiced very much and the game has to continue with ...Be7 10-Bxf6 Bxf6 11 -c3, intending to play Nc2, reinforce central position and attack on the queenside with a4. Games 454 to 457 and 461 continued with this idea.",
+                    "es": "La jugada 9-Cd5 tambi\u00e9n es muy practicada y la partida debe seguir con ...Ae7 10-Axf6 Axf6 11 -c3, con el objetivo de jugar Cc2, reforzar la posici\u00f3n central y atacar en el flanco dama con  a4. Las partidas 454 a 457 y 461 siguieron con esta idea.",
+                    "de": "Auch 9. Sd5 wird oft gespielt; die Partie muss mit ...Le7 10. Lxf6 Lxf6 11. c3, mit der Idee Sc2, fortgesetzt werden, um das Zentrum zu verst\u00e4rken und zur gleichen Zeit am Damenfl\u00fcgel mit a4 anzugreifen. Siehe Partien 454 bis 457 und 461.",
+                    "zh": "9-Nd5\u5728\u5b9e\u8df5\u4e2d\u8fd0\u7528\u7684\u4e5f\u5f88\u591a\uff0c\u68cb\u5c40\u5fc5\u987b\u7ee7\u7eed\u8d70 ...Be7 10-Bxf6 Bxf6 11 -c3\uff0c\u610f\u56fe\u8d70Nc2\uff0c\u589e\u5f3a\u4e2d\u5fc3\u4f4d\u7f6e\u5e76\u4ee5a4\u653b\u51fb\u540e\u7ffc\u3002\u89c1\u68cb\u5c40454\u5230457\u548c461\u3002",
+                    "pl": "9. Sd5 jest r\u00f3wnie\u017c praktykowane bardzo cz\u0119sto, gra idzie tak ... Ge7 10. Gxf6 Gxf6 11. C3, z zamiarem zagrani Sc2, wzmacniaj\u0105c centralne pozycje i atakuj\u0105c skrzyd\u0142o hetma\u0144skie dzi\u0119ki a4. Gry od 454 do 457 oraz 461 prezentuj\u0105 ten pomys\u0142.",
+                    "ru": "\u0425\u043e\u0434 9-Nd5 \u0442\u0430\u043a\u0436\u0435 \u0447\u0430\u0441\u0442\u043e \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u0435\u0442\u0441\u044f, \u0438 \u0438\u0433\u0440\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f ...Be7 10-Bxf6 Bxf6 11-c3, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u0438\u0433\u0440\u0430\u0442\u044c Nc2, \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0441 a4. \u0418\u0433\u0440\u044b 454, 457 \u0438 461 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u044d\u0442\u0443 \u0438\u0434\u0435\u044e."
+                }
+            },
+            {
+                "move": "   gxf6 $1 ",
+                "comment": {
+                    "pt": "Este \u00e9 o esp\u00edrito deste sistema. As pretas trazem mais um pe\u00e3o para o centro e acreditam que a maioria de pe\u00f5es centrais , somadas ao par de bispos , s\u00e3o compensa\u00e7\u00e3o suficiente pelo enfraquecimento da estrutura de pe\u00f5es e eventual falta de prote\u00e7\u00e3o do pr\u00f3prio rei.",
+                    "en": "That's the spirit of the system. Black takes another pawn to the center and believes that majority in the center plus the pair of Bishops compensate sufficiently the weakness in structure and the occasionally unprotected King.",
+                    "es": "Este es el esp\u00edritu de este sistema. Las negras traen un pe\u00f3n m\u00e1s al centro y creen que la mayor\u00eda de peones centrales, sumada a la pareja de alfiles, son compensaci\u00f3n suficiente por el debilitamiento de la estructura de peones y la eventual falta de protecci\u00f3n del propio rey.",
+                    "de": "Die Idee vom System. Schwarz bringt noch einen Bauer zum Zentrum und baut darauf, dass die Bauernmehrheit im Zentrum samt L\u00e4uferpaar die Schw\u00e4che der Bauernstruktur und die etwas ungesch\u00fctzte Stellung vom K\u00f6nig kompensieren.",
+                    "zh": "\u8fd9\u662f\u8fd9\u4e2a\u7cfb\u7edf\u7684\u7075\u9b42\u6240\u5728\u3002\u9ed1\u65b9\u5c06\u53e6\u4e00\u4e2a\u5175\u79fb\u5230\u4e2d\u5fc3\uff0c\u5e76\u76f8\u4fe1\u901a\u8fc7\u4e2d\u5fc3\u591a\u5175\u52a0\u4e0a\u53cc\u8c61\u53ef\u4ee5\u5145\u5206\u62b5\u6d88\u7ed3\u6784\u4e0a\u7684\u5f31\u70b9\u548c\u65f6\u800c\u4e0d\u53d7\u4fdd\u62a4\u7684\u738b\u3002",
+                    "pl": "Oto prawdziwy duch tego debiutu. Czarne zaci\u0105gaj\u0105 kolejnego piona do centrum z wiar\u0105, \u017ce wi\u0119kszo\u015b\u0107 w centrum oraz para Go\u0144c\u00f3w rekompensuj\u0105 niedogodno\u015bci struktury i niezbyt chronionego Kr\u00f3la.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0435\u0440\u0443\u0442 \u0434\u0440\u0443\u0433\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043d\u0430\u0434\u0435\u044e\u0442\u0441\u044f, \u0447\u0442\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u043f\u043b\u044e\u0441 \u043f\u0430\u0440\u0430 \u0421\u043b\u043e\u043d\u043e\u0432, \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u0443\u044e\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0432 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0438 \u0441\u043b\u0430\u0431\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u0435 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   10. Nd5 f5 ",
+                "comment": {
+                    "pt": "Valor izando a maioria central. 10...Bg7 para seguir com Ce7 e depois tentar romper em f5, ocorreu nas partidas 365,458 e 460.",
+                    "en": "Increasing value of the central majority. 10...Bg7, in order to continue with Ne7 and try rupture on f5 afterwards, is presented in games 365, 458 and 460.",
+                    "es": "Aumentando el valor de la mayor\u00eda central. 10...Ag7  para seguir con Ce7 y despu\u00e9s intentar romper en f5, ocurri\u00f3 en las partidas 365, 458 y 460.",
+                    "de": "Setzt die Bauernmehrheit im Zentrum in Bewegung. 10...Lg7 nebst Se7 (bereitet den Hebel f5 vor) geschah in den Partien 365, 458 und 460.",
+                    "zh": "\u589e\u52a0\u4e2d\u5fc3\u591a\u5175\u7684\u4ef7\u503c\u3002\u8d7010...Bg7\u5473\u4e86\u80fd\u63a5\u7740\u8d70Ne7\uff0c\u4f01\u56fe\u4e4b\u540e\u53ef\u4ee5\u5728f5\u7a81\u7834\uff0c\u8fd9\u5728\u68cb\u5c40365\u3001458\u548c460\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Wzmacniaj\u0105c warto\u015b\u0107 wi\u0119kszo\u015bci w centrum. 10. ... Gg7, w celu kontynuacji z Se7 i pr\u00f3by p\u0119kni\u0119cia na f5 potem, jest zaprezentowane w grach 365, 458 i 460.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. 10...Bg7, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Ne7 \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u0442\u0435\u043c f5, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0430\u0445 356, 458, 460."
+                }
+            },
+            {
+                "move": "   11. Bd3 ",
+                "comment": {
+                    "pt": "As brancas tinham a op\u00e7\u00e3o de sacrificar seu bispo ( 11-Bxb5 axb5 12-Cxb5 ) ,mas esta variante n\u00e3o \u00e9 recomend\u00e1vel (partida 459).",
+                    "en": "White had the option to sacrifice its Bishop (11-Bxb5 axb5 12-Nxb5 ) but this variation isn't recommended (game 459).",
+                    "es": "Las blancas ten\u00edan la opci\u00f3n de sacrificar su alfil (11-Axb5 axb5 12-Cxb5 ), pero esta variante no esrecomendab le (partida 459).",
+                    "de": "Wei\u00df h\u00e4tte den L\u00e4ufer opfern k\u00f6nnen ( 11. Lxb5 axb5 12. Sxb5 ), was aber nicht zu empfehlen ist (Partie Nr. 459).",
+                    "zh": "\u767d\u65b9\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\u662f\u5f03\u8c61\uff0811-Bxb5 axb5 12-Nxb5\uff09\uff0c\u4f46\u662f\u8fd9\u4e2a\u53d8\u4f8b\u4e0d\u63a8\u8350\uff08\u68cb\u5c40459\uff09\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 mo\u017cliwo\u015b\u0107 po\u015bwi\u0119cenia Go\u0144ca (11. Gxb5 axb5 12. Sxb5), ale ta wariacja nie jest zalecana (partia 459).",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u043e\u043c (11-Bxb5 axb5 12-Nxb5), \u043d\u043e \u044d\u0442\u043e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c\u044b\u0439 (\u0438\u0433\u0440\u0430 459)."
+                }
+            },
+            {
+                "move": "   Be6 12. c3 ",
+                "comment": {
+                    "pt": "Para recolocar o cavalo de a3 em jogo. Tamb\u00e9m eram poss\u00edveis e boas as jogadas 0-0, Dh5 e c4.",
+                    "en": "In order to put the a3-Knight in the game again. 0-0, Qh5 and c4 were also good possibilities.",
+                    "es": "Para traer el caballo de a3 de vuelta al juego. Tambi\u00e9n eran posibles - y buenas - las jugadas 0-0, Dh5 y c4.",
+                    "de": "Setzt den Springer a3 wieder ins Spiel. 0-0, Dh5 und c4 sind auch m\u00f6glich und gut.",
+                    "zh": "\u4e3a\u4e86\u518d\u6b21\u5c06a3-\u9a6c\u6295\u5165\u6218\u6597\u30020-0, Qh5\u548cc4 \u4e5f\u662f\u5f88\u597d\u7684\u53ef\u80fd\u3002",
+                    "pl": "W celu powrotu Skoczka a3 do gry. 0-0, Hh5 i c4 by\u0142yby r\u00f3wnie\u017c dobrymi mo\u017cliwo\u015bciami.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u0432\u0435\u0441\u0442\u0438 \u043e\u043f\u044f\u0442\u044c \u0432 \u0438\u0433\u0440\u0443 \u041a\u043e\u043d\u044f \u043d\u0430 a3. 0-0, Qh5 \u0438 c4, \u0442\u0430\u043a\u0436\u0435 \u0434\u0430\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438."
+                }
+            },
+            {
+                "move": "   Bg7 13. O-O O-O ",
+                "comment": {
+                    "pt": "Outra op\u00e7\u00e3o seria 13...Bxd5 14-exd5 Ce7, com boa posi\u00e7\u00e3o central e perspectivas de abrir a diagonal do bispo preto (...e4), por outro lado o pe\u00e3o em f5 ficaria fraco.",
+                    "en": "Another option would be 13...Bxd5 14-exd5 Ne7 with good central position and prospective to open the diagonal of the black Bishop (...e4). On the other hand the f5-pawn would get weakened.",
+                    "es": "Otra opci\u00f3n ser\u00eda 13...Axd5 14-exd5 Ce7, con buena posici\u00f3n central y perspectivas de abrir la diagonal del alfil negro (...e4), por otro lado el pe\u00f3n en f5 quedar\u00eda d\u00e9bil.",
+                    "de": "Eine andere M\u00f6glichkeit w\u00e4re 13...Lxd5 14. exd5 Se7, mit guter Stellung im Zentrum und Aussichten, die Diagonale f\u00fcr den schwarzen L\u00e4ufer (mittels ...e4) zu \u00f6ffnen; andererseits wird der Bauer auf f5 schwach.",
+                    "zh": "\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\u5e94\u8be5\u662f13...Bxd5 14-exd5 Ne7\uff0c\u4f1a\u62e5\u6709\u826f\u597d\u7684\u4e2d\u5fc3\u4f4d\u7f6e\u548c\u7ed9\u9ed1\u8c61\u5f00\u653e\u659c\u7ebf\u7684\u9884\u671f\uff08...e4\uff09\u3002\u53e6\u4e00\u65b9\u9762f5-\u5175\u4f1a\u53d8\u5f31\u3002",
+                    "pl": "Inn\u0105 mo\u017cliwo\u015bci\u0105 by\u0142oby 13. ... Gxd5 14. Exd5 Se7 z dobr\u0105 centraln\u0105 pozycj\u0105 i perspektywami otwarcia przek\u0105tnej dla czarnego Go\u0144ca (... e4). Z drugiej strony pion f5 m\u00f3g\u0142by sta\u0107 si\u0119 s\u0142aby.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 13...Bxd5 14-exd5 Ne7, \u0441 \u0445\u043e\u0440\u043e\u0448\u0435\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0435\u0439 \u0438 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 (...e4). \u0421 \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b, \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 f5, \u043c\u043e\u0436\u0435\u0442 \u043e\u0441\u043b\u0430\u0431\u043d\u0443\u0442\u044c."
+                }
+            },
+            {
+                "move": "   14. Qh5 f4 15. Rad1 ",
+                "comment": {
+                    "pt": "Uma posi\u00e7\u00e3o pouco clara onde as brancas podem atacar no flanco rei ou atrav\u00e9s da coluna dama, mas as pretas podem conseguir a ruptura em ...f5 e aumentar sua influ\u00eancia no centro.",
+                    "en": "A quite unclear position where White can attack on the kingside or through the Queen file but Black can achieve rupture on ...f5 and increase its influence on the center.",
+                    "es": "Una posici\u00f3n poco clara donde las blancas pueden atacar en el flanco rey o a trav\u00e9s de la columna dama, pero las negras pueden conseguir la ruptura en ...f5 y aumentar su influencia en el centro.",
+                    "de": "Eine unklare Stellung, auf der Wei\u00df am K\u00f6nigsfl\u00fcgel oder aber auch \u00fcber die d-Linien angreifen kann. Schwarz kann seinerseits den Hebel f5 im Zentrum anstreben.",
+                    "zh": "\u4e00\u4e2a\u4e0d\u592a\u6e05\u695a\u7684\u5c40\u9762\uff0c\u767d\u65b9\u53ef\u4ee5\u5728\u738b\u7ffc\u6216\u8005\u901a\u8fc7\u540e\u7ffc\u7ebf\u53d1\u52a8\u653b\u51fb\uff0c\u4f46\u662f\u9ed1\u65b9\u53ef\u4ee5\u7528...f5\u8fdb\u884c\u7a81\u7834\u5e76\u4e14\u52a0\u5f3a\u81ea\u5df1\u5728\u4e2d\u5fc3\u7684\u5f71\u54cd\u529b\u3002",
+                    "pl": "Do\u015b\u0107 niepewna pozycja, w kt\u00f3rej Bia\u0142e mog\u0105 atakowa\u0107 na skrzydle kr\u00f3lewskim lub przez kolumn\u0119 hetma\u0144sk\u0105, ale Czarne mog\u0105 doprowadzi\u0107 do p\u0119kni\u0119cia dzi\u0119ki ... f5 i zwi\u0119kszy\u0107 sw\u00f3j wp\u0142yw na centrum.",
+                    "ru": "\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u043d\u0435 \u044f\u0441\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u043d\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0434\u043e\u0431\u0438\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0440\u044b\u0432\u0430 \u043d\u0430 ...f5 \u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

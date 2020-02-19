@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Gambito do rei",
+        "white_sort": "",
+        "black": "Variante Fischer",
+        "date": "",
+        "event": {
+            "en": "Fischer variation",
+            "zh": "\u83f2\u820d\u5c14\u53d8\u4f8b",
+            "de": "Fischer Variante",
+            "es": "Variante Fischer",
+            "pt": "Variante Fischer",
+            "pl": "Wariant Fischera",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0424\u0438\u0448\u0435\u0440\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. f4 exf4 3. Nf3 d6 ",
+                "comment": {
+                    "pt": "A jogada proposta por Bobby Fischer. No exemplo anterior analisamos a jogada 3...g5, que pode ser respondida por 4-h4 obrigando o pe\u00e3o preto a avan\u00e7ar e enfraquecendo os dois pe\u00f5es na quinta fila. Com esta jogada as pretas querem controlar a casa e5 e abrir linhas para seu bispo de casas brancas antes de avan\u00e7ar o pe\u00e3o g.",
+                    "en": "The move as proposed by Bobby Fischer. In the previous example we analyzed 3...g5 that can be answered with 4-h4 forcing the black pawn to advance and weakening both pawns on the 5th rank. With this game, Black wants to control e5 and open lines for its light-squared Bishop before advancing the g-pawn.",
+                    "es": "La jugada propuesta por Bobby Fischer. En el ejemplo anterior analizamos la jugada 3... g5, que puede ser respondida por 4.h4, obligando al pe\u00f3n negro a avanzar y debilitando los dos peones en la quinta fila. Con esta jugada las negras quieren controlar la casilla e5 y abrir l\u00edneas para su alfil de casillas blancas antes de avanzar el pe\u00f3n g.",
+                    "de": "Der von Fischer vorgeschlagene Zug. Im vorigen Beispiel haben wir 3...g5 analysiert, der mit 4. h4 beantwortet werden kann, was das Vorr\u00fccken des g-Bauern erzwingt und die Bauern auf der f\u00fcnften Reihe schw\u00e4cht. Mit diesem Zug beabsichtigt Schwarz, das Feld e5 zu kontrollieren und Linien f\u00fcr den Wei\u00dffeldrigen L\u00e4ufer zu \u00f6ffnen, bevor der g-Bauer vorger\u00fcckt wird.",
+                    "zh": "\u8fd9\u4e00\u7740\u7531\u9c8d\u6bd4.\u83f2\u820d\u5c14\u63d0\u51fa\u7684\u3002\u5728\u524d\u9762\u7684\u4f8b\u5b50\u4e2d\u6211\u4eec\u5206\u6790\u4e863...g5\uff0c\u8fd9\u53ef\u4ee5\u5e944-h4\u8feb\u4f7f\u9ed1\u5175\u524d\u8fdb\u5e76\u4e14\u540c\u65f6\u524a\u5f31\u4e94\u7ebf\u7684\u4e24\u4e2a\u5175\u3002\u8fd9\u6837\u9ed1\u68cb\u610f\u56fe\u63a7\u5236e5\u5e76\u4e14\u5728\u633ag-\u5175\u4e4b\u524d\u7ed9\u5b83\u7684\u767d\u683c\u8c61\u5f00\u653e\u7ebf\u8def\u3002",
+                    "pl": "Ruch zaproponowany przez Bobbiego Fischera. W poprzednim przyk\u0142adzie analizowali\u015bmy 3. ... g5, kt\u00f3re mo\u017ce napotka\u0107 na 4. h4, co zmusza czarnego piona do poruszenia si\u0119 i os\u0142abienia obu pion\u00f3w na pi\u0105tej linii. W tej partii Czarne d\u0105\u017c\u0105 do kontroli e5 i otwarcia linii dla w\u0142asnego jasnopolowego Go\u0144ca zanim porusz\u0105 pionem g.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d \u0411\u043e\u0431\u0431\u0438 \u0424\u0438\u0448\u0435\u0440\u043e\u043c. \u0412 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435 \u043c\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0445\u043e\u0434 3...g5, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u044b\u043b \u043e\u0442\u0432\u0435\u0442 4-h4, \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0449\u0438\u0439 \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c \u0447\u0435\u0440\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c, \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u043e\u0431\u0435\u0438\u0445 \u043f\u0435\u0448\u0435\u043a \u043d\u0430 \u043f\u044f\u0442\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438. \u0412 \u044d\u0442\u043e\u0439 \u0438\u0433\u0440\u0435, \u0427\u0435\u0440\u043d\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u0435 e5 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u044f, \u0434\u043e \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f g-\u043f\u0435\u0448\u043a\u0438."
+                }
+            },
+            {
+                "move": "   4. Bc4 h6 5. d4 g5 6. O-O Bg7 ",
+                "comment": {
+                    "pt": "As pretas t\u00eam seus pe\u00f5es bem defendidos e planejam terminar odesenvolvi mento com \"...Cc6-Bg4\" e eventualmente roque grande.",
+                    "en": "Black has well defended pawns and plans to complete development with ...Nc6-Bg4 and occasionally queencastle.",
+                    "es": "Las negras tienen sus peones bien defendidos y planean terminar el desarrollo con \"...Cc6-Ag4\" y eventualmente enrocarse en largo.",
+                    "de": "Schwarz hat die Bauern gut gedeckt und plant, ...Sc6-Lg4 zu spielen und eventuell lang rochieren, um seine Entwicklung zu vollenden.",
+                    "zh": "\u9ed1\u65b9\u62e5\u6709\u9632\u5fa1\u4e0a\u4f73\u7684\u5175\u5e76\u51c6\u5907\u4e0b...Nc6-Bg4\u7ed3\u675f\u51fa\u5b50\uff0c\u5e76\u5c3d\u53ef\u80fd\u5730\u8fdb\u884c\u540e\u7ffc\u6613\u4f4d\u3002",
+                    "pl": "Czarne posiadaj\u0105 dobrze bronione piony i plan uko\u0144czenia rozwoju poprzez ... Sc6-Gg4 i przeprowadzenia d\u0142ugiej roszady w miar\u0119 mo\u017cliwo\u015bci.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u043e\u0437\u0434\u0430\u043b\u0438 \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u043e\u0431\u043e\u0440\u043e\u043d\u0443 \u0434\u043b\u044f \u043f\u0435\u0448\u0435\u043a \u0438 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0444\u0438\u0433\u0443\u0440 ...Nc6-Bg4, \u0438\u043d\u043e\u0433\u0434\u0430 \u0441 \u0434\u043b\u0438\u043d\u043d\u043e\u0439 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u043e\u0439."
+                }
+            },
+            {
+                "move": "   7. c3 Nc6 8. g3 ",
+                "comment": {
+                    "pt": "Para destruir a cadeia de pe\u00f5es contr\u00e1ria e tentar abrir a coluna f para a torre.",
+                    "en": "In order to destroy the opponent's pawn chain and try to open the f-file for the Rook.",
+                    "es": "Para destruir la cadena de peones adversaria y tratar de abrir la columna f para la torre.",
+                    "de": "Um die gegnerische Bauernkette zu zerst\u00f6ren und die f-Linie f\u00fcr den Turm zu \u00f6ffnen.",
+                    "zh": "\u4e3a\u4e86\u6467\u6bc1\u654c\u5175\u5175\u94fe\u5e76\u8bd5\u56fe\u7ed9\u8f66\u5f00\u653ef-\u7ebf\u3002",
+                    "pl": "Aby zniszczy\u0107 sznur pion\u00f3w przeciwnika i spr\u00f3bowa\u0107 otworzy\u0107 kolumn\u0119 f dla Wie\u017cy.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0440\u0443\u0448\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0446\u0435\u043f\u043e\u0447\u043a\u0443 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430, \u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044c f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438."
+                }
+            },
+            {
+                "move": "   g4 9. Nh4 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m seria poss\u00edvel 9-Bxf4 gxf3 10-Dxf3 sacrificando uma pe\u00e7a em troca de ataque.",
+                    "en": "9-Bxf4 gxf3 10-Qxf3 would also be possible in order to sacrifice one piece in exchange for the attack.",
+                    "es": "Tambi\u00e9n ser\u00eda posible 9-Axf4 gxf3 10-Dxf3, sacrificando una pieza a cambio de ataque.",
+                    "de": "9. Lxf4 gxf3 10. Dxf3 mit Figurenopfer f\u00fcr Angriff w\u00e4re auch m\u00f6glich.",
+                    "zh": "9-Bxf4 gxf3 10-Qxf3\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u53ef\u4ee5\u5f03\u4e00\u4e2a\u5b50\u4ee5\u4fbf\u8fdb\u653b\u3002",
+                    "pl": "9. Gxf4 gxf3 10. Hxf3 r\u00f3wnie\u017c by\u0142oby mo\u017cliwe, aby po\u015bwi\u0119ci\u0107 jedn\u0105 z figur za atak.",
+                    "ru": "9-Bxf4 gxf3 10-Qxf3 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0436\u0435\u0440\u0442\u0432\u0443 \u0444\u0438\u0433\u0443\u0440\u044b \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0430\u0442\u0430\u043a\u0438."
+                }
+            },
+            {
+                "move": "   f3 10. Qb3 Qe7 11. Nf5 Bxf5 12. exf5 ",
+                "comment": {
+                    "pt": "As ncas t\u00eam compensa\u00e7\u00e3o pelo pe\u00e3o que sacrificaram e as pretas dificuldades para defender-se, mas caso o fa\u00e7am poder\u00e3o usufruir de seu pe\u00e3o de vantagem, solidamente protegido em f3. A partida 12 de nossa base mostra uma poss\u00edvel sequ\u00eancia desta posi\u00e7\u00e3o.",
+                    "en": "White has compensation for the sacrificed pawn and Black has a hard time to defend itself but, if it does so, it will take advantage of the fact that it has one pawn up, solidly protected on f3. The game 12 of our database presents a possible sequence for this position.",
+                    "es": "Las blancas tienen compensaci\u00f3n por el pe\u00f3n que sacrificaron, mientras que las negras tienen dificultades para defenderse, pero si lo logran podr\u00e1n usufructuar su pe\u00f3n de ventaja, s\u00f3lidamente protegido en f3. La partida 12 de nuestra base muestra una posible continuaci\u00f3n de esta posici\u00f3n.",
+                    "de": "Wei\u00df hat Kompensation f\u00fcr den geopferten Bauern. Schwarz hingegen hat Schwierigkeiten, wird aber von seinem auf f3 gut gedeckten Plusbauern profitieren, wenn er es schafft, sich zu verteidigen. Partie 12 auf unserer Partiendatenbak zeigt eine m\u00f6gliche Fortsetzung.",
+                    "zh": "\u767d\u65b9\u5f03\u5175\u4f1a\u5f97\u5230\u8865\u507f\uff0c\u9ed1\u68cb\u76ee\u524d\u9632\u5fa1\u7684\u4efb\u52a1\u5403\u7d27\uff0c\u4f46\u662f\u5982\u679cf3\u4e0a\u591a\u7684\u90a3\u4e2a\u5175\u7262\u7262\u4fdd\u62a4\u9ed1\u68cb\u53ef\u4ee5\u4ece\u4e2d\u83b7\u76ca\u3002\u6e38\u620f\u5e93\u4e2d\u7684\u6e38\u620f12\u5448\u73b0\u7684\u662f\u8fd9\u79cd\u5c40\u9762\u7684\u4e00\u4e2a\u53ef\u80fd\u7684\u68cb\u5e8f\u3002",
+                    "pl": "Bia\u0142e zrekompensowa\u0142y sobie po\u015bwi\u0119conego piona, za\u015b Czarne maj\u0105 problem z obron\u0105, ale je\u015bli im si\u0119 uda, przejm\u0105 przewag\u0119 z faktu posiadania nadmiarowego piona solidnie chronionego na f3. Gra 12 prezentuje mo\u017cliw\u0105 sekwencj\u0119 tej pozycji.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u0443\u044e\u0442 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0427\u0435\u0440\u043d\u044b\u043c \u043d\u0443\u0436\u043d\u043e \u0441\u0440\u043e\u0447\u043d\u043e \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c\u0441\u044f, \u0435\u0441\u043b\u0438 \u043e\u043d\u0438 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u044e\u0442, \u043e\u043d\u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u043e\u0447\u043d\u043e \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 \u043f\u043e\u043b\u0435 f3. \u0412 \u0438\u0433\u0440\u0435 12 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440 \u0432\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

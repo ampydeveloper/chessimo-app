@@ -1,0 +1,141 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(34)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/6rp\/1p1k4\/p1n1pK2\/P1P5\/1P2RB2\/8 b - - 0 48",
+        "moves": [
+            {
+                "move": "48... Rg2 ",
+                "comment": {
+                    "pt": "Cravando o bispo e amea\u00e7ando o decisivo ...e3.",
+                    "en": "Pinning the Bishop and threatening the decisive ...e3.",
+                    "de": "Fesselt den L\u00e4ufer und droht, die Partie mit ...e3 zu entscheiden.",
+                    "es": "Clavando el alfil y amenazando el decisivo ...e3.",
+                    "zh": "\u7275\u5236\u8c61\u5e76\u5a01\u80c1\u8d70\u51b3\u5b9a\u6027\u7684 ...e3\u3002",
+                    "pl": "Przygwo\u017cd\u017caj\u0105c Go\u0144ca i gro\u017c\u0105c decyduj\u0105cym ... e3.",
+                    "ru": "\u0421\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 ...e3."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(16)",
+            "zh": "Event 1"
+        },
+        "fen": "3q4\/5k1p\/1p4pP\/p1n1bp2\/P1R1p1P1\/2P5\/2P1BQ2\/7K b - - 0 50",
+        "moves": [
+            {
+                "move": "50... Qg5 ",
+                "comment": {
+                    "pt": "Defendendo f5 e criando novas amea\u00e7as.",
+                    "en": "Defending f5 and creating new threats.",
+                    "de": "Verteidigt f5 und stellt neue Drohungen auf.",
+                    "es": "Defendiendo f5 y creando nuevas amenazas.",
+                    "zh": "\u9632\u5fa1f5\u5e76\u5236\u9020\u65b0\u5a01\u80c1\u3002",
+                    "pl": "Broni\u0105c f5 i kreuj\u0105c nowe zagro\u017cenia.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 f5 \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0443\u0433\u0440\u043e\u0437\u044b."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(140)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/pb3ppp\/4p3\/2p1P3\/8\/2P1Q3\/1qB2PPP\/2RR2K1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Qd3 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando o pe\u00e3o em h7 e protegendo o bispo para jogar Tb1 e ganhar o bispo preto em b7.",
+                    "en": "Threatening the h7-pawn and protecting the Bishop in order to play Rb1 and win the black Bishop on b7.",
+                    "de": "Droht den Bauern h7 und deckt den L\u00e4ufer, um mit Tb1 den schwarzen L\u00e4ufer auf b7 zu schlagen.Verteidigt f5 und stellt neue Drohungen auf.",
+                    "es": "Amenazando el pe\u00f3n en h7 y protegiendo el alfil para jugar Tb1 y ganar el alfil negro en b7.",
+                    "zh": "\u5a01\u80c1h7-\u5175\u5e76\u4fdd\u62a4\u8c61\uff0c\u4e3a\u4e86\u4e0bRb1\u5403\u6389b7\u7684\u9ed1\u8c61\u3002\u9632\u5fa1f5\u5e76\u5236\u9020\u65b0\u7684\u5a01\u80c1\u3002",
+                    "pl": "Gro\u017c\u0105c pionowi h7 i broni\u0105c Go\u0144ca w celu zagrania Wb1 i zdobycia czarnego Go\u0144ca na b7.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0435 \u043d\u0430 h7, \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0434\u043b\u044f \u0438\u0433\u0440\u044b Rb1 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 b7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(4)",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/6rp\/3p4\/1p1Pp1qn\/4P3\/1N1NbP2\/1PR3QB\/3R3K b - - 0 36",
+        "moves": [
+            {
+                "move": "36... Qh4 ",
+                "comment": {
+                    "pt": "Atacando a dama branca e criando a amea\u00e7a Cg3.",
+                    "en": "Attacking the white Queen and creating the Ng3 threat.",
+                    "de": "Greift die wei\u00dfe Dame an und droht Sg3.",
+                    "es": "Atacando la dama blanca y creando la amenaza Cg3.",
+                    "zh": "\u653b\u51fb\u767d\u540e\u5e76\u5a01\u80c1Ng3\u3002",
+                    "pl": "Atak na bia\u0142ego Hetmana i gro\u017aba Sg3.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0443\u0433\u0440\u043e\u0437\u0443 Ng3."
+                }
+            },
+            {
+                "move": "(36... Qh6)",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(105)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/P4p1k\/6p1\/7p\/4Q2P\/6P1\/3p3K\/5q2 b - - 0 64",
+        "moves": [
+            {
+                "move": "64... d1=Q ",
+                "comment": {
+                    "pt": "O ataque com duas damas \u00e9 irresist\u00edvel devido a pouca prote\u00e7\u00e3o do rei branco.",
+                    "en": "The attack with two Queens is irresistible, due to the lack of protection of the white King.",
+                    "de": "Der Angriff mit zwei Damen ist wegen des mangelnden Schutzes vom wei\u00dfen K\u00f6nig nicht abzuwehren.",
+                    "es": "El ataque con dos damas es irresistible debido a la poca protecci\u00f3n del rey blanco.",
+                    "zh": "\u56e0\u4e3a\u767d\u738b\u7f3a\u4e4f\u4fdd\u62a4\uff0c\u6240\u4ee5\u53cc\u540e\u653b\u51fb\u662f\u52bf\u4e0d\u53ef\u6321\u3002\u3002",
+                    "pl": "Atak dwoma Hetmanami jest nie do odparcia zwa\u017caj\u0105c na niewystarczaj\u0105c\u0105 obron\u0119 bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0430 \u0434\u0432\u0443\u043c\u044f \u0424\u0435\u0440\u0437\u044f\u043c\u0438 \u043d\u0435\u043e\u0442\u0440\u0430\u0437\u0438\u043c\u0430, \u0438\u0437-\u0437\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u0443 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

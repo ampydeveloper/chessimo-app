@@ -1,0 +1,118 @@
+[
+    {
+        "title": "",
+        "white": "Ruy Lopez",
+        "white_sort": "",
+        "black": "Variante aberta",
+        "date": "",
+        "event": {
+            "en": "Open variation",
+            "de": "Offene Variante",
+            "es": "Variante abierta",
+            "pt": "Variante aberta",
+            "zh": "\u5f00\u653e\u53d8\u4f8b",
+            "pl": "Wariant otwarty",
+            "ru": "\u041e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 ",
+                "comment": {
+                    "pt": "Caracteriza a variante aberta, levando a uma posi\u00e7\u00e3o mais desequilibrada e um jogo de pe\u00e7as mais ativo. A variante fechada 5...Be7 est\u00e1 analisada no pr\u00f3ximo exemplo.",
+                    "en": "This characterizes the open variation and leads to a more unbalanced position and a game with more active pieces. The closed variation 5...Be7 will be analyzed in the next example.",
+                    "es": "Caracteriza a la Variante Abierta, llevando a una posici\u00f3n m\u00e1s desequilibrada y a un juego de piezas m\u00e1s activo. La variante cerrada 5...Ae7 ser\u00e1 analizada en el pr\u00f3ximo ejemplo.",
+                    "de": "Die offene Variante. Sie f\u00fchrt zu unausgeglichenen Stellungen mit aktiveren Figurenspiel. Die geschlossene Variante (5...Le7) wird im n\u00e4chsten Beispiel analysiert.",
+                    "zh": "\u8fd9\u4f53\u73b0\u4e86\u5f00\u653e\u53d8\u4f8b\u7279\u70b9\uff0c\u5e76\u4e14\u5f15\u81f4\u4e0d\u5e73\u8861\u7684\u5c40\u9762\u548c\u66f4\u591a\u79ef\u6781\u7684\u68cb\u5b50\u3002\u5c01\u95ed\u53d8\u4f8b5...Be7\u4f1a\u5728\u4e0b\u4e00\u4e2a\u4f8b\u5b50\u4e2d\u8fdb\u884c\u5206\u6790\u3002",
+                    "pl": "Ta sekwencja charakteryzuje otwart\u0105 wariacj\u0119 i prowadzi do mniej zbalansowanej pozycji, za to z aktywn\u0105 rol\u0105 figur. Zamkni\u0119ty wariant 5. ... Ge7 zostanie zanalizowany w nast\u0119pnym przyk\u0142adzie.",
+                    "ru": "\u042d\u0442\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u0435\u0434\u0435\u0442 \u043a \u0431\u043e\u043b\u0435\u0435 \u0440\u0430\u0437\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438 \u0438\u0433\u0440\u0435, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043c\u043d\u043e\u0433\u043e \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u0444\u0438\u0433\u0443\u0440. \u0417\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 5...Be7 \u0431\u0443\u0434\u0435\u0442 \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435."
+                }
+            },
+            {
+                "move": "   6. d4 ",
+                "comment": {
+                    "pt": "6-De2 (partida 92) e 6-Te1 s\u00e3o respondidos com 6...Cc5 e as brancas n\u00e3o obt\u00e9m vantagem. b5 Bb3",
+                    "en": "6-Qe2 (game 92) and 6-Re1 are answered with 6...Nc5 and White doesn't achieve advantage. b5 Bb3",
+                    "es": "6-De2 (partida 92) y 6-Te1 son respondidos con 6...Cc5 y las blancas no obtienen ventaja.",
+                    "de": "6. De2 (Partie 92) und 6. Te1 werden mit 6...Sc5 beantwortet, wonach Wei\u00df keinen Vorteil erreicht.",
+                    "zh": "6-Qe2\uff08\u68cb\u5c4092\uff09\u548c6-Re1\u4f1a\u5e94\u4ee56...Nc5\uff0c\u767d\u65b9\u5f97\u4e0d\u5230\u4f18\u52bf\u3002",
+                    "pl": "6. He2 (gra 92) i 6. We1 spotka\u0142yby si\u0119 z 6. ... Sc5 i Bia\u0142e nie osi\u0105gaj\u0105 przewagi. 7. b5 Gb3.",
+                    "ru": "\u041d\u0430 \u0445\u043e\u0434 6-Qe2 (\u0438\u0433\u0440\u0430 92) \u0438 6-Re1 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043e\u0442\u0432\u0435\u0442 6...Nc5 \u0438 \u0411\u0435\u043b\u044b\u0435 \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430. b5 Bb3."
+                }
+            },
+            {
+                "move": "   b5 ",
+                "comment": {
+                    "pt": "6... exd4 permitiria a cravada do cavalo em e4 e a explora\u00e7\u00e3o da posi\u00e7\u00e3o vulner\u00e1vel do rei preto ap\u00f3s 7-Te1 d5 8-Cxd4",
+                    "en": "6. ..exd4 would allow the Knight pin on e4 and the exploration of the vulnerable position of the black King after 7-Re1 d5 Nxd4.",
+                    "es": "6... exd4 permitir\u00eda la clavada del caballo en e4 y la explotaci\u00f3n de la posici\u00f3n vulnerable del rey negro despu\u00e9s de 7. Te1 d5 8.Cxd4, aunque Bobby Fischer haya preferido la jugada 8-Cc3 como ocurre en la partida 91.",
+                    "de": "6...exd4 w\u00fcrde nach 7. Te1 d5 8. Sxd4 sowohl die Fesselung des Springers e4 zulassen als auch den K\u00f6nig in einer expornierten Stellung lassen.",
+                    "zh": "\u57287-Re1 d5 Nxd4\u4e4b\u540e\u8d706. ..exd4\u4f1a\u8ba9e4\u9a6c\u6446\u8131\u7275\u5236\uff0c\u5e76\u4e14\u8ba9\u9ed1\u738b\u66b4\u9732\u5728\u4e00\u4e2a\u5bb9\u6613\u53d7\u653b\u51fb\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "6. ... exd4 mog\u0142oby doprowadzi\u0107 do przygwo\u017cd\u017cenia Skoczka na e4 i wykorzystania wra\u017cliwej pozycji czarnego Kr\u00f3la po 7. We1 d5 Sxd4.",
+                    "ru": "6...exd4 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u0441\u0432\u044f\u0437\u043a\u0435 \u041a\u043e\u043d\u044f \u043d\u0430 e4 \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u043f\u043e\u0441\u043b\u0435 7-Re1 d5 Nxd4."
+                }
+            },
+            {
+                "move": "   7. Bb3 d5 8. dxe5 ",
+                "comment": {
+                    "pt": "8-a4 ocorreu nas partidas 80 e 81 e a melhor resposta das pretas \u00e9 8...Cxd4.",
+                    "en": "8-a4 happened in the games 80 and 91 and the best black answer is 8... Nxd4.",
+                    "es": "8. a4 ocurri\u00f3 en las partidas 80 y 81 y la mejor respuesta de las negras es 8....Cxd4.",
+                    "de": "8. a4 geschah in den Partien 80 und 81. Die beste Antwort darauf ist 8...Sxd4.",
+                    "zh": "8-a4\u51fa\u73b0\u5728\u68cb\u5c4080\u548c91\u4e2d\uff0c\u9ed1\u65b9\u6700\u4f73\u7684\u89e3\u7b54\u662f8... Nxd4\u3002",
+                    "pl": "8. a4 przydarzy\u0142o si\u0119 w partiach 80 i 91 i najlepsz\u0105 odpowiedzi\u0105 czarnych na to jest 8. ... Sxd4.",
+                    "ru": "\u0425\u043e\u0434 8-a4 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u0432 \u0438\u0433\u0440\u0435 80 \u0438 91, \u0438 \u043b\u0443\u0447\u0448\u0438\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0445 \u0431\u0443\u0434\u0435\u0442 8...Nxd4."
+                }
+            },
+            {
+                "move": "   Be6 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a posi\u00e7\u00e3o chave da variante aberta e h\u00e1 v\u00e1rias posibilidades a partir deste ponto.",
+                    "en": "This is the key position of the open variation and there are many possibilities after this point.",
+                    "es": "Esta es la posici\u00f3n clave de la variante abierta y hay varias posibilidades a partir de este punto.",
+                    "de": "Die Schl\u00fcsselstellung der offenen Variante; jetzt gibt es mehrere M\u00f6glichkeiten.",
+                    "zh": "\u8fd9\u4e2a\u662f\u5f00\u653e\u53d8\u4f8b\u7684\u5173\u952e\u7684\u4f4d\u7f6e\uff0c\u4e4b\u540e\u6709\u5f88\u591a\u7684\u53ef\u80fd\u6027\u3002",
+                    "pl": "Kluczowa pozycja w otwartym wariancie z wieloma mo\u017cliwo\u015bciami od tego ruchu.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u044e\u0447\u0435\u0432\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 \u0438, \u0441 \u044d\u0442\u043e\u0433\u043e \u043c\u0435\u0441\u0442\u0430, \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438\u0433\u0440\u044b \u043e\u0447\u0435\u043d\u044c \u043c\u043d\u043e\u0433\u043e."
+                }
+            },
+            {
+                "move": "   9. c3 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o poss\u00edveis; 9-Cbd2 partidas 83, 84 e 89, 9-De2, 9-Be3",
+                    "en": "As in games 83, 84 and 89, it is also possible to choose 9-Nbd2, 9-Qe2, or 9-Be3",
+                    "es": "Tambi\u00e9n son posibles; 9-Cbd2 partidas 83, 84 y 89, 9-De2, 9-Ae3.",
+                    "de": "Folgende Z\u00fcge sind auch m\u00f6glich: 9. Sbd2 (Partien 83, 84 und 89) 8. De2 und 9. Le3.",
+                    "zh": "\u5728\u68cb\u5c4083\u300184\u548c89\u4e2d\u4e5f\u53ef\u4ee5\u9009\u62e99-Nbd2\uff0c 9-Qe2\uff0c \u62169-Be3\u3002",
+                    "pl": "Jak w partiach 83, 84 i 89, mo\u017cliwe jest tak\u017ce 9. Sbd2, 9. He2, b\u0105d\u017a 9. Ge3.",
+                    "ru": "\u041a\u0430\u043a \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0430\u0445 83, 84 \u0438 89, \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b 9-Nbd2, 9-Qe2, \u0438\u043b\u0438 9-Be3."
+                }
+            },
+            {
+                "move": "   Bc5 ",
+                "comment": {
+                    "pt": "A jogada 9. ..Be7 tamb\u00e9m \u00e9 bastante jogada e ocorre nas partidas 85, 86 e 87 de nossa base. As brancas podem seguir com 10-Cbd2 ou 10-Be3, planejando Cbd2. 9...Cc5 tamb\u00e9m \u00e9 poss\u00edvel e 10-Bc2 preservando o bispo \u00e9 a resposta mais natural.",
+                    "en": "9... Be7 is also used a lot and appears in games 85, 86 and 87 of our database. White can continue with 10-Nbd2 or 10-Be3 intending Nbd2. 9... Nc5 is also possible and 10-Bc2, preserving the Bishop, is the most natural answer.",
+                    "es": "La jugada 9...Ae7 tambi\u00e9n es bastante usada y ocurre en las partidas 85, 86 y 87 de nuestra base. Las blancas pueden seguir con 10-Cbd2 o 10-Ae3, planeando Cbd2. 9...Cc5 tambi\u00e9n es posible y 10-Ac2, manteniendo el alfil, es la respuesta m\u00e1s natural.",
+                    "de": "9. Le7 wird auch oft gespielt (Partien 85, 86 und 87 unserer Datenbank). Wei\u00df kann entweder mit 10. Sbd2 oder 10. Le3 (mit der Idee Sbd2) fortsetzen. 9... Sc5 ist auch m\u00f6glich, worauf 10. Lc2 (beh\u00e4lt den L\u00e4ufer) die nat\u00fcrlichste Antwort ist.",
+                    "zh": "9... Be7\u4e5f\u6bd4\u8f83\u5e38\u7528\uff0c\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c4085\u300186\u548c87\u4e2d\u3002\u767d\u65b9\u7ee7\u7eed\u8d7010-Nbd2\u621610-Be3\uff08\u610f\u56fe\u662fNbd2\uff09\u30029... Nc5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u8d7010-Bc2\u4fdd\u62a4\u8c61\u662f\u6700\u5408\u7406\u7684\u89e3\u7b54\u3002",
+                    "pl": "9. ... Ge7 jest r\u00f3wnie\u017c cz\u0119sto grany i pojawia si\u0119 w grach 85, 86 i 87 z naszej bazy. Bia\u0142e mog\u0105 kontynuowa\u0107 10. Sbd2 lub 10. Ge3 zamierzaj\u0105c Sbd2. 9. ... Sc5 jest r\u00f3wnie\u017c mo\u017cliwy i 10. Gc2, przygotowuj\u0105ce Go\u0144ca jest najbardziej naturaln\u0105 odpowiedzi\u0105.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 9...Be7 \u0442\u0430\u043a\u0436\u0435 \u0447\u0430\u0441\u0442\u043e \u0441\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0438 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0430\u0445 85, 86 \u0438 87, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440. \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 10-Nbd2 \u0438\u043b\u0438 10-Be3 \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c Nbd2. \u0412\u0430\u0440\u0438\u0430\u043d\u0442\u044b 9...Nc5 \u0438 10-Bc2, \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u0435\u043d \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0421\u043b\u043e\u043d\u0430."
+                }
+            },
+            {
+                "move": "   10. Nbd2 O-O ",
+                "comment": {
+                    "pt": "Ap\u00f3s 11-Bc2 as pretas t\u00eam bom desenvolvimento e as brancas um forte pe\u00e3o em e5 , que lhes d\u00e1 vantagem de espa\u00e7o e chances de ataque no flanco rei. 11...Bf5 \u00c9 a op\u00e7\u00e3o mais moderna e ocorreu nas partidas 88 e 90. 11. ..f5 tamb\u00e9m \u00e9 jogado e as brancas costumam realizar a manobra 12-Cb3 seguido de Cd4, como ocorreu na partida 82.",
+                    "en": "After 11-Bc2 Black has good development and White a strong e5-pawn that provides space advantage and chances to attack on the kingside. 11...Bf5 is the most modern option and occurs in games 88 and 90. 11.. .f5 is also used and White usually maneuvers 12-Nb3 followed by Nd4, as in game 82.",
+                    "es": "Despues de 11. Ac2 las negras tienen un buen desarrollo y las blancas un fuerte pe\u00f3n en e5, que les da ventaja de espacio y chances de ataque en el flanco rey. 11...Af5 es la opci\u00f3n m\u00e1s moderna  y ocurri\u00f3 en las partidas 88 y 90. 11...f5 tambi\u00e9n se juega y las blancas suelen realizar la maniobra 12-Cb3 seguido de Cd4, como ocurri\u00f3 en la partida 82.",
+                    "de": "Nach 11. Lc2 hat Schwarz eine gute Entwicklung; andererseits hat Wei\u00df durch den starken Bauern auf e5 Raumvorteil und Angriffschancen am K\u00f6nigsfl\u00fcgel. 11...Lf5 ist die modernste Variante (Partien 88 und 90). 11...f5 wird auch gespielt, worauf Wei\u00df mit 12. Sb3 nebst Sd4 beantwortet, wie in der Partie 82 zu sehen ist.",
+                    "zh": "\u8d70\u4e8611-Bc2\u4e4b\u540e\u9ed1\u65b9\u51fa\u5b50\u4f18\u52bf\uff1b\u767d\u65b9\u901a\u8fc7\u975e\u5e38\u5389\u5bb3\u7684e5\u5175\u83b7\u5f97\u7a7a\u95f4\u4f18\u52bf\u548c\u738b\u7ffc\u8fdb\u653b\u673a\u4f1a\u300211...Bf5\u662f\u6700\u65f6\u9ae6\u7684\u9009\u62e9\uff0c\u51fa\u73b0\u5728\u68cb\u5c4088\u548c90\u4e2d\u300211.. .f5\u4e5f\u4f1a\u7528\u5230\uff0c\u767d\u65b9\u901a\u5e38\u7684\u5e94\u5bf9\u7b56\u7565\u662f12-Nb3\u968f\u540eNd4\uff0c\u6b63\u5982\u68cb\u5c4082\u6240\u793a\u3002",
+                    "pl": "Po 11. Gc2 Czarne posiadaj\u0105 dobr\u0105 sytuacj\u0119 rozwojow\u0105, za\u015b Bia\u0142e zapewniaj\u0105 sobie przewag\u0119 przestrzenn\u0105 dzi\u0119ki silnemu pionowi e5, co daje szanse na atak skrzyd\u0142a kr\u00f3lewskiego. 11. ... Gf5 jest najbardziej nowoczesn\u0105 opcj\u0105 i wyst\u0119puje w grach 88 i 90. 11. ... f5 jest tak\u017ce cz\u0119sto grane, za\u015b Bia\u0142e zwykle manewruj\u0105 wtedy 12. Sb3 z nast\u0119pstwem Sd4, jak w grze 82.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 11-Bc2, \u0427\u0435\u0440\u043d\u044b\u0435 \u0445\u043e\u0440\u043e\u0448\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u044b, \u0430 \u0443 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 e5, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0430\u0442\u0430\u043a\u0438 \u0441 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430. 11...Bf5 \u0431\u043e\u043b\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438 \u043f\u043e\u043a\u0430\u0437\u0430\u043d \u0432 \u0438\u0433\u0440\u0430\u0445 88 \u0438 90. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 11...Bf5 \u0442\u0430\u043a\u0436\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0438 \u0411\u0435\u043b\u044b\u0435 \u043e\u0431\u044b\u0447\u043d\u043e \u0445\u043e\u0434\u044f\u0442 12-Nb3 \u0441 \u043e\u0442\u0432\u0435\u0442\u043e\u043c Nd4, \u043a\u0430\u043a \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 82."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

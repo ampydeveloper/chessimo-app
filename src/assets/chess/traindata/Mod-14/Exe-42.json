@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "1b1r2k1\/r4pp1\/p2q1n2\/2Rp1BB1\/NpnP4\/6P1\/1P3P2\/3QR1K1 w - - 0 29",
+        "moves": [
+            {
+                "move": "29. b3 ",
+                "comment": {
+                    "pt": "For\u00e7ando o cavalo preto a ir para a3, onde estar\u00e1 fora de jogo. Se agora ...Cb6 as brancas ganham uma pe\u00e7a jogando Bf4.",
+                    "en": "Forcing the black Knight to proceed to a3, where it is out of the game. If ...Nb6 now, then White wins a tempo with Bf4.",
+                    "de": "Zwingt den schwarzen Springer auf a3, wo er au\u00dfer Spiel stehen wird. Auf ...Sb6 gewinnt Wei\u00df eine Figur mit Lf4.",
+                    "es": "Forzando el caballo negro a ir a a3, donde estar\u00e1 fuera de la partida. Si ahora ...Cb6 las blancas ganan una pieza jugando Af4.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u9a6c\u524d\u8fdb\u5230a3\uff0c\u4f7f\u4e4b\u6682\u65f6\u51fa\u5c40\u3002\u5982\u679c\u73b0\u5728\u4e0b...Nb6\uff0c\u90a3\u4e48\u767d\u65b9\u4f1a\u4e0bBf4\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "Zmuszaj\u0105c czarnego Skoczka do przej\u015bcia na a3, gdzie znajdzie si\u0119 poza gr\u0105. Je\u015bli ... Sb6, wtedy Bia\u0142e zdobywaj\u0105 tempo przez Gf4.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 a3, \u0433\u0434\u0435 \u043e\u043d \u0442\u0435\u0440\u044f\u0435\u0442 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c. \u0415\u0441\u043b\u0438 ...Nb6, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0432\u044b\u0438\u0433\u0440\u044b\u0448 \u0442\u0435\u043c\u043f\u0430 Bf4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "2r2rk1\/pp1b1ppp\/2n1p1n1\/1NPp4\/P7\/2P1q3\/2P1BPPP\/R1B2RK1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Bxe3 ",
+                "comment": {
+                    "pt": "Desenvolvendo uma pe\u00e7a e preservando a estrutura de pe\u00f5es.",
+                    "en": "Developing a piece and preserving pawn structure.",
+                    "de": "Entwickelt eine Figur und schont die Bauernstruktur.",
+                    "es": "Desarrollando una pieza y preservando la estructura de peones.",
+                    "zh": "\u51fa\u5b50\u5e76\u4fdd\u6301\u5175\u5f62\u3002",
+                    "pl": "Wyprowadzenie figury i zachowanie struktury pion\u00f3w.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(23)",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/p4pp1\/1qp2n1p\/n1b1p3\/6b1\/3P1P1N\/PPP1Q1PP\/RNB1KB1R b KQkq - 0 12",
+        "moves": [
+            {
+                "move": "12... Bxh3 ",
+                "comment": {
+                    "pt": "Enfraquecendo a estrutura de pe\u00f5es da ala do rei advers\u00e1ria.",
+                    "en": "Weakening the enemy kingside pawn structure.",
+                    "de": "Schw\u00e4cht die Bauernstruktur des gegnerischen K\u00f6nigsfl\u00fcgels.",
+                    "es": "Debilitando la estructura de peones del ala rey adversaria.",
+                    "zh": "\u524a\u5f31\u654c\u65b9\u738b\u7ffc\u7684\u5175\u5f62\u3002",
+                    "pl": "Os\u0142abianie struktury pion\u00f3w na wrogim skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0443 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "q1r3k1\/1b2bpp1\/p3p2p\/1p1N4\/1PnN4\/PQ2PBB1\/5PPP\/2R3K1 b - - 0 23",
+        "moves": [
+            {
+                "move": "23... Bxd5 ",
+                "comment": {
+                    "pt": "As negras retomam com o bispo porque, al\u00e9m de centralizar essa pe\u00e7a, ainda evitam a cria\u00e7\u00e3o de um pe\u00e3o isolado.",
+                    "en": "Black recaptures with the Bishop, because, besides centralizing it, this prevents the creation of an isolated pawn.",
+                    "de": "Schl\u00e4gt mit dem L\u00e4ufer zur\u00fcck um zum einen den L\u00e4ufer zu zentralisieren und die Entstehung eines Isolanis zu vermeiden.",
+                    "es": "Las negras recapturan con el alfil porque, adem\u00e1s de centralizar esa pieza, evitan la creaci\u00f3n de un pe\u00f3n aislado.",
+                    "zh": "\u9ed1\u65b9\u91cd\u65b0\u593a\u56de\u8c61\uff0c\u56e0\u4e3a\u4e0d\u4ec5\u80fd\u4f7f\u4e00\u4e2a\u8c61\u79fb\u5411\u4e2d\u5fc3\u800c\u4e14\u53ef\u4ee5\u907f\u514d\u4ea7\u751f\u5b64\u5175\u3002",
+                    "pl": "Czarne wymieniaj\u0105 poprzez Go\u0144ca poniewa\u017c, poza jego centralizacj\u0105, zapobiega to stworzeniu izolowanego piona.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0421\u043b\u043e\u043d\u043e\u043c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043a\u0440\u043e\u043c\u0435 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438, \u044d\u0442\u043e \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044e \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(15)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/pp1p1ppp\/2n1pn2\/1N6\/4P3\/P1b5\/1PP2PPP\/R1BQKB1R w KQkq - 0 7",
+        "moves": [
+            {
+                "move": "7. Nxc3 ",
+                "comment": {
+                    "pt": "Para manter uma boa estrutura de pe\u00f5es, evitando os pe\u00f5es dobrados.",
+                    "en": "In order to keep a good pawn structure, preventing doubled pawns.",
+                    "de": "Beh\u00e4lt eine gute Bauernstruktur und vermeidet die Entstehung von Doppelbauern.",
+                    "es": "Para mantener una buena estructura de peones, evitando peones doblados.",
+                    "zh": "\u4e3a\u4e86\u4fdd\u6301\u4e00\u4e2a\u826f\u597d\u7684\u5175\u5f62\uff0c\u963b\u6b62\u51fa\u73b0\u53e0\u5175\u3002",
+                    "pl": "W celu zachowania dobrej struktury pion\u00f3w, uniemo\u017cliwiaj\u0105c ich zdublowanie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u043d\u0438\u0435 \u043f\u0435\u0448\u0435\u043a."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

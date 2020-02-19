@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Gambito Evans",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Evans gambit",
+            "de": "Evans Gambit",
+            "es": "Gambito Evans",
+            "pt": "Gambito Evans",
+            "zh": "\u4f0a\u6587\u601d\u5f03\u5175",
+            "pl": "Gambit Evansa",
+            "ru": "\u0413\u0430\u043c\u0431\u0438\u0442 \u042d\u0432\u0430\u043d\u0441\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 ",
+                "comment": {
+                    "pt": "Este \u00e9 o famoso Gambito Evans , cuja id\u00e9ia ao entregar um pe\u00e3o \u00e9 ganhar um tempo , para construir o centro ideal com pe\u00f5es em e4 e d4.",
+                    "en": "This is the famous Evans gambit that intends to give up a pawn and win a tempo in order to build an ideal center with pawns on e4 and d4.",
+                    "es": "Este es el famoso Gambito Evans, cuya idea es sacrificar un pe\u00f3n para ganar un tiempo y construir r\u00e1pidamente el centro ideal, con peones en e4 y d4.",
+                    "de": "Das ist das ber\u00fchmte Evans-Gambit, dessen Idee darin besteht, einen Bauern zu opfern, um das ideale Zentrum (Bauern auf e4 und d4) mit Tempogewinn zu erreichen.",
+                    "zh": "\u8fd9\u662f\u8457\u540d\u7684\u4f0a\u6587\u601d\u5f03\u5175\uff0c\u610f\u56fe\u662f\u5f03\u5175\u83b7\u5f97\u4e00\u4e2a\u5148\u624b\u6765\u5728e4\u548cd4\u5904\u5efa\u7acb\u4e00\u4e2a\u5b8c\u7f8e\u7684\u4e2d\u5fc3",
+                    "pl": "Oto s\u0142ynny gambit Evansa, kt\u00f3ry ma na celu poddanie piona, aby zdoby\u0107 tempo i zdubowa\u0107 idealne centrum pion\u00f3w na e4 i d4.",
+                    "ru": "\u042d\u0442\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0433\u0430\u043c\u0431\u0438\u0442 \u042d\u0432\u0430\u043d\u0441\u0430, \u0433\u0434\u0435 \u0443\u0441\u0442\u0443\u043f\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u0430 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0442\u0435\u043c\u043f, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u043f\u0435\u0448\u043a\u0430\u043c\u0438 e4 \u0438 d4."
+                }
+            },
+            {
+                "move": "   Bxb4 5. c3 Ba5 ",
+                "comment": {
+                    "pt": "5...Be7 6-d4 Ca5 (6...d6 ocorreu na partida 65) 7-Cxe5 Cxc4 8-Cxc4 d5! equilibrando a situa\u00e7\u00e3o central tamb\u00e9m \u00e9 bom.",
+                    "en": "5...Be7 6-d4 Na5 (6...d6 happens in game 65) 7-Nxe5 Nxc4 8-Nxc4 d5! To put the central situation in balance is also good.",
+                    "es": "5...Ae7 6-d4 Ca5 (6...d6 ocurri\u00f3 en la partida 65) 7-Cxe5 Cxc4 8-Cxc4 d5!, equilibrando la situaci\u00f3n central tambi\u00e9n es bueno.",
+                    "de": "5...Le7 6. d4 Sa5 (6...d6 wurde in der Partie 65 gespielt) 7. Sxe5 Sxc4 8. Sxc4 d5! mit Gleichgewicht im Zentrum ist auch gut.",
+                    "zh": "5...Be7 6-d4 Na5\uff086...d6\u51fa\u73b0\u5728\u68cb\u5c4065\uff097-Nxe5 Nxc4 8-Nxc4 d5\uff01\u4e3a\u4e86\u4f7f\u4e2d\u5fc3\u8fbe\u5230\u5e73\u8861\uff0c\u8fd9\u6837\u4e5f\u662f\u597d\u7684\u3002",
+                    "pl": "5. ... Ge7 6. d4 Sa5 (6. ... d6 przydarzy\u0142o si\u0119 w partii 65) 7. Sxe5 Sxc4 8. Sxc4 d5! Zbalansowanie sytuacji w centrum jest r\u00f3wnie\u017c dobrym rozwi\u0105zaniem.",
+                    "ru": "5...Be7 6-d4 Na5 (6...d6 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 65) -Nxe5 Nxc4 8-Nxc4 d5!, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u043a \u0431\u0430\u043b\u0430\u043d\u0441\u0443 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435."
+                }
+            },
+            {
+                "move": "   6. d4 ",
+                "comment": {
+                    "pt": "Em nossa base, as partidas de 57 a 60 e 63,64 tratam desta posi\u00e7\u00e3o. As brancas dominam o centro e podem atacar o ponto f7 imediatamente com Db3. A melhor defesa para as pretas foi encontrada por Lasker e ap\u00f3s sua descoberta o Gambito Evans caiu em desuso.",
+                    "en": "In our database the games 57 to 60 and 63, 64 deal with this position. White dominates the center and is able to attack f7 immediately with Qb3. The best defense was discovered by Lasker and after that the Evans Gambit fell into disuse.",
+                    "es": "En nuestra base, las partidas de 57 a 60 y 63 y 64 tratan esta posici\u00f3n. Las blancas dominan el centro y pueden atacar el punto f7 inmediatamente con Db3. La mejor defensa para las negras fue encontrada por Lasker y despu\u00e9s de su descubrimiento el Gambito Evans cay\u00f3 en desuso.",
+                    "de": "Partien 57 bis 60, 63 und 64 behandeln diese Stellung. Wei\u00df beherrscht das Zentrum und kann mit Db3 den Punkt f7 angreifen. Die beste Verteidigung f\u00fcr Schwarz wurde von Lasker entdeckt, wonach das Gambit nicht mehr so oft gespielt wurde.",
+                    "zh": "\u6211\u4eec\u68cb\u5e93\u4e2d\u7684\u68cb\u5c4057\u523060\u548c63\u300164\u90fd\u662f\u8bb2\u8fd9\u4e2a\u5c40\u9762\u7684\u3002\u767d\u65b9\u7edf\u6cbb\u4e2d\u5fc3\u5e76\u53ef\u4ee5\u5373\u523b\u8d70Qb3\u653b\u51fbf7\u3002\u6700\u4f73\u9632\u5fa1\u88ab\u62c9\u65af\u514b\u53d1\u73b0\u4e4b\u540e\u4f0a\u6587\u601d\u5f03\u5175\u88ab\u6e10\u6e10\u5f03\u7528\u4e86\u3002",
+                    "pl": "W naszym archiwum gry od 57 do 60 oraz 63, 64 wsp\u00f3\u0142dziel\u0105 t\u0105 pozycj\u0119. Bia\u0142e dominuj\u0105 w centrum i s\u0105 w stanie natychmiast zaatakowa\u0107 f7 dzi\u0119ki Hb3. Najlepsz\u0105 obron\u0119 odkry\u0142 Lasker i wtedy gambit Evansa poddano silnej dyskusji.",
+                    "ru": "\u0412 \u0438\u0433\u0440\u0430\u0445 57-60, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432 \u0438\u0433\u0440\u0430\u0445 63,64 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0438\u0437 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0442 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c f7 \u0438\u0433\u0440\u043e\u0439 Qb3. \u041b\u0443\u0447\u0448\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0431\u044b\u043b\u0430 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u041b\u0430\u0441\u043a\u0435\u0440\u043e\u043c, \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u0433\u0430\u043c\u0431\u0438\u0442 \u042d\u0432\u0430\u043d\u0441\u0430 \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0441\u044f \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e\u043c\u0443 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044e."
+                }
+            },
+            {
+                "move": "   d6 7. Qb3 ",
+                "comment": {
+                    "pt": "Se agora 7...De7? 8-d5 ganha uma pe\u00e7a.",
+                    "en": "If 7...Qe7?, 8-d5 wins a piece.",
+                    "es": "Si ahora 7...De7?. 8-d5 gana una pieza.",
+                    "de": "7...De7? verliert eine Figur nach 8. d5.",
+                    "zh": "\u5982\u679c\u8d707...Qe7?\uff0c\u90a3\u4e48\u5e948-d5\u8d62\u4e00\u4e2a\u5b50\u3002",
+                    "pl": "Je\u015bli 7. ... He7?, wtedy 8. d5 wygrywa figur\u0119.",
+                    "ru": "\u0415\u0441\u043b\u0438 7...Qe7?, \u0442\u043e 8-d5 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u0430."
+                }
+            },
+            {
+                "move": "   Qd7 8. dxe5 Bb6 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a id\u00e9ia de Lasker; devolver o pe\u00e3o para ganhar tempo no desenvolvimento e eventualmente jogar ...Ca5 eliminando o bispo branco.",
+                    "en": "Laska's idea is to return the pawn in exchange for a tempo in development and occasionally play ...Na5 eliminating the white Bishop.",
+                    "es": "Esta es la idea de Lasker: devolver el pe\u00f3n para ganar tiempo en el desarrollo y eventualmente jugar ...Ca5, eliminando el alfil blanco.",
+                    "de": "Laskers Idee: Schwarz gibt den Bauern zur\u00fcck, um die Entwicklung mit Tempogewinn zu vollenden und eventuell den wei\u00dfen L\u00e1ufer mit ...Sa5 zu beseitigen.",
+                    "zh": "\u62c9\u65af\u514b\u7684\u60f3\u6cd5\u662f\u9000\u56de\u5175\u6765\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u7ed3\u675f\u51fa\u5b50\uff0c\u5e76\u4e14\u5c3d\u53ef\u80fd\u7684\u8d70...Na5\u6765\u6d88\u706d\u767d\u8c61\u3002",
+                    "pl": "Ide\u0105 Laskera jest oddanie piona w zamian za tempo i rozw\u00f3j oraz w razie potrzeby zagranie ... Sa5 eliminuj\u0105ce bia\u0142ego Go\u0144ca.",
+                    "ru": "\u0418\u0434\u0435\u044f \u041b\u0430\u0441\u043a\u0435\u0440\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0435 \u043f\u0435\u0448\u043a\u0438 \u0432\u0437\u0430\u043c\u0435\u043d \u043d\u0430 \u0442\u0435\u043c\u043f \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440, \u0438 \u043e\u0431\u044b\u0447\u043d\u043e \u0438\u0433\u0440\u0430\u0435\u0442\u0441\u044f ...Na5 \u0441\u043e \u0432\u0437\u044f\u0442\u0438\u0435\u043c \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            },
+            {
+                "move": "   9. Nbd2 Na5 10. Qb4 Nxc4 11. Nxc4 Bc5 12. Qb3 Ne7 13. O-O O-O 14. exd6 cxd6 15. Ba3 ",
+                "comment": {
+                    "pt": "Com equil\u00edbrio, conforme demonstra a partida 170 de nossa base entre Short e Hubner.",
+                    "en": "With balance, as presented in the game 170 of our database, between Short and Hubner.",
+                    "es": "Con equilibrio, seg\u00fan demuestra la partida 170 de nuestra base entre Short y H\u00fcbner.",
+                    "de": "Mit Ausgleich (Short-H\u00fcbner, Partie 170 unserer Datenbank).",
+                    "zh": "\u6b63\u5982\u68cb\u5c40170\u4e2dShort\u548cHubner\u4e4b\u95f4\u7684\u5bf9\u5c40\u6240\u793a\uff0c\u8fbe\u5230\u5e73\u8861\u3002",
+                    "pl": "Z balansem, jak zaprezentowano w grze 170 z naszej bazy, pomi\u0119dzy Shortem i Hubnerem.",
+                    "ru": "\u0411\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442 \u0438\u0433\u0440\u0443, \u0447\u0442\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e\u043e \u0432 \u0438\u0433\u0440\u0435 170, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u043c\u0435\u0436\u0434\u0443 \u0428\u043e\u0440\u0442\u043e\u043c \u0438 \u0425\u0430\u0431\u043d\u0435\u0440\u043e\u043c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3rnk1\/1b2bpp1\/p1p1p2p\/qp2N3\/3P4\/P1P1P1B1\/B1Q2PPP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f4 ",
+                "comment": {
+                    "pt": "Para jogar f5, abrir a coluna f, a diagonal a2-g8 e criar perspectivas de ataque contra o rei preto.",
+                    "en": "In order to continue with f5, open the file for the Rook and the a2-g8 diagonal for the Bishop and create possibilities for the attack against the black King.",
+                    "es": "Para jugar f5, abrir la columna \"f\" , la diagonal a2-g8 y crear perspectivas de ataque contra el rey negro.",
+                    "de": "Mit der Absicht, f5 zu spielen, wonach die f-Linie und die Diagonale a2-g8 ge\u00f6ffnet werden, was die Angriffschancen erh\u00f6hen.",
+                    "zh": "\u76ee\u7684\u662f\u7ee7\u7eed\u4e0bf5\uff0c\u4e3a\u8f66\u5f00\u653e\u7ad6\u7ebf\uff0c\u4e3a\u8c61\u5f00\u653ea2-g8\u659c\u7ebf\uff0c\u5236\u9020\u653b\u51fb\u9ed1\u738b\u7684\u673a\u4f1a\u3002",
+                    "pl": "W celu kontynuacji poprzez f5, otwarcia kolumny dla Wie\u017cy i przek\u0105tnej a2-g8 dla Go\u0144ca oraz stworzenie mo\u017cliwo\u015bci ataku na czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0441 f5, \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438, \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8 \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430, \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp2bppp\/4pn2\/3nN1B1\/3P4\/1B5Q\/PP3PPP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f4 ",
+                "comment": {
+                    "pt": "Para seguir com f5, abrir a coluna f para a torre e aumentar a press\u00e3o na diagonal a2-g8.",
+                    "en": "In order to continue with f5, open the f-file for the Rook and increase pressure on the a2-g8 diagonal.",
+                    "es": "Para seguir con f5, abrir la columna \"f\" para la torre y aumentar la presi\u00f3n en la diagonal a2-g8.",
+                    "de": "Um f5 folgen zu lassen, was die f-Linie \u00f6ffnet und den Druck auf die Diagonale a2-g8 erh\u00f6ht.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u4e0bf5\uff0c\u4e3a\u8f66\u5f00\u653ef-\u7ebf\uff0c\u589e\u52a0a2-g8\u659c\u7ebf\u4e0a\u7684\u538b\u529b\u3002",
+                    "pl": "W celu kontynuacji przez f5, otwarcia kolumny f dla Wie\u017cy i wzmocnienia presji na przek\u0105tn\u0105 a2-g8.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0441 f5, \u043e\u0442\u043a\u0440\u044b\u0442\u044c f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438 \u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u043e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a2-g8."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1krr4\/pppqb1pp\/4p3\/3nPp2\/2RP4\/3NB3\/PPQ2PPP\/1R4K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g5 ",
+                "comment": {
+                    "pt": "Com roques em flancos opostos geralmente o plano \u00e9 atacar o rei contr\u00e1rio avan\u00e7ando os pe\u00f5es, para abrir linhas.",
+                    "en": "When castling is performed in opposite flanks, the plan generally is to attack the King. Usually, advancing pawns to open lines is the right way to do it.",
+                    "es": "Con enroques en flancos opuestos generalmente el plan es atacar el rey contrario avanzando los peones, para abrir l\u00edneas.",
+                    "de": "Bei entgegengesetzten Rochaden ist der Plan oft der, den gegnerischen K\u00f6nig mit Bauern anzugreifen, um Linien zu \u00f6ffnen.",
+                    "zh": "\u5f53\u53cc\u65b9\u738b\u8f66\u6613\u4f4d\u5728\u4f4d\u7f6e\u76f8\u5f02\uff0c\u4e00\u822c\u90fd\u4f1a\u53bb\u653b\u51fb\u5bf9\u65b9\u738b\u3002\u901a\u5e38\u633a\u5175\u5f00\u653e\u8def\u7ebf\u662f\u6b63\u786e\u7684\u505a\u6cd5\u3002",
+                    "pl": "Kiedy roszady wykonane s\u0105 na przeciwnych flankach, plan g\u0142\u00f3wnie opiera si\u0119 na ataku Kr\u00f3la. Zwykle marsz pion\u00f3w do otwarcia linii jest poprawn\u0105 tego realizacj\u0105.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u0444\u043b\u0430\u043d\u0433\u0430\u043c, \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043f\u043b\u0430\u043d \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u043f\u0430\u0441\u0442\u044c \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f, \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044f \u043f\u0435\u0448\u043a\u0438 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044f \u043b\u0438\u043d\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2kr2r1\/pppqb2p\/2n5\/3pPppb\/3P4\/1B2BPN1\/PP4PP\/R1QR2K1 b - - 0 20",
+        "moves": [
+            {
+                "move": "20... Bxf3 ",
+                "comment": {
+                    "pt": "As pretas querem atacar e com esta jogada e a pr\u00f3xima conseguem abrir a posi\u00e7\u00e3o do rei branco. Se as pretas jogassem 1...Bg6 seguiria 2-f4, mantendo o rei branco mais protegido do que na situa\u00e7\u00e3o ap\u00f3s 1.. .Bxf3.",
+                    "en": "Black wants to attack and it is able to open the position of the white King with this move and the next one. If Black played 1...Bg6, then 2-f4 would follow and the white King would be more protected than after 1...Bxf3.",
+                    "es": "Las negras quieren atacar y con esta jugada y la pr\u00f3xima consiguen abrir la posici\u00f3n del rey blanco. Si las negras jugaran 1...Ag6 seguir\u00eda 2-f4, manteniendo el rey blanco m\u00e1s protegido que en la posici\u00f3n despu\u00e9s de 1... Axf3.",
+                    "de": "Schwarz gelingt es, mit dem Textzug und dem darauffolgenden die wei\u00dfe K\u00f6nigsstellung zu \u00f6ffnen. Auf 1...Lg6 w\u00fcrde 2. f4 folgen, was den K\u00f6nig in einer sichereren Stellung bel\u00e4sst als nach dem Textzug.",
+                    "zh": "\u9ed1\u65b9\u610f\u56fe\u653b\u51fb\uff0c\u5e76\u4ee5\u6b64\u6b65\u5f97\u4ee5\u66b4\u9732\u767d\u738b\u4f4d\u7f6e\u3002\u5982\u679c\u9ed1\u68cb\u4e0b1...Bg6\uff0c\u90a3\u4e48\u4f1a\u5e942-f4\uff0c\u6bd4\u4e0b1...Bxf3\u767d\u738b\u66f4\u5b89\u5168\u3002",
+                    "pl": "Czarne szykuj\u0105 si\u0119 do ataku i s\u0105 w stanie otworzy\u0107 pozycj\u0119 bia\u0142ego Kr\u00f3la tym ruchem oraz nast\u0119pnym. Je\u015bli Czarne zagraj\u0105 1. ... Gg6, wtedy 2. f4 i bia\u0142y Kr\u00f3l b\u0119dzie lepiej chroniony ni\u017c po 1. ... Gxf3.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c, \u0438 \u044d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c, \u044d\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u043a \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 1...Bg6, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 2-f4, \u0433\u0434\u0435 \u0431\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u0435\u0435 \u0437\u0430\u0449\u0438\u0449\u0435\u043d, \u0447\u0435\u043c \u043f\u043e\u0441\u043b\u0435 \u0438\u0433\u0440\u044b 1...Bxf3."
+                }
+            },
+            {
+                "move": "21. gxf3 f4",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r6r\/pp1qnkpp\/1bp5\/3pPn2\/P2P4\/B4N2\/5PPP\/1R1Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. e6+ ",
+                "comment": {
+                    "pt": "As brancas t\u00eam uma pe\u00e7a a menos e devem atacar o rei preto para compensar esta desvantagem. A forma correta de atacar \u00e9 atrai-lo para o centro onde h\u00e1 linhas abertas para a participa\u00e7\u00e3o de outras pe\u00e7as, neste caso: cavalo, torre e dama.",
+                    "en": "White has an exchange down (one piece less than the opponent) and must attack the King in order to compensate this disadvantage. The correct way to do so is to attract the King to the center where there are open lines for the participation of other pieces: the white Knight, Rook and Queen.",
+                    "es": "Las blancas tienen una pieza de menos y deben atacar el rey negro para compensar esta desventaja. La forma correcta de atacar es atraerlo al centro, donde hay l\u00edneas abiertas para la participaci\u00f3n de otras piezas, en este caso: caballo, torre y dama.",
+                    "de": "Wei\u00df hat eine Figur weniger und muss deswegen den schwarzen K\u00f6nig angreifen. Die richtige Form, diesen Angriff zu f\u00fchren, besteht darin, den gegnerischen K\u00f6nig zum Zentrum zu locken, wo die offene Stellung das Spiel der Figuren (in diesem Fall: Springer, Turm und Dame) beg\u00fcnstigt.",
+                    "zh": "\u767d\u65b9\u5c11\u4e00\u4e2a\u68cb\u5b50\uff0c\u56e0\u6b64\u5fc5\u987b\u653b\u51fb\u9ed1\u738b\u6765\u62b5\u6d88\u8fd9\u4e2a\u52a3\u52bf\u3002\u6b63\u786e\u7684\u65b9\u6cd5\u662f\u8bf1\u4f7f\u5bf9\u65b9\u7684\u738b\u8fdb\u5165\u4e2d\u5fc3\uff0c\u4e2d\u5fc3\u5f00\u653e\u7684\u4f4d\u7f6e\u5bf9\u4e8e\u5176\u4ed6\u68cb\u5b50\u6709\u5229\uff08\u8fd9\u4e2a\u4f8b\u5b50\u662f\u9a6c\u3001\u8f66\u548c\u540e\u3002",
+                    "pl": "Bia\u0142e s\u0105 w materialnej niedowadze (jedna figura mniej ni\u017c przeciwnik) i musz\u0105 atakowa\u0107 Kr\u00f3la, aby zrekompensowa\u0107 sobie strat\u0119. Poprawn\u0105 drog\u0105 do realizacji zadania jest zaci\u0105gni\u0119cie Kr\u00f3la do centrum, gdzie otwarte s\u0105 linie dla udzia\u0142u innych figur: bia\u0142ego Skoczka, Wie\u017cy i Hetmana.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043d\u0435\u0432\u044b\u0433\u043e\u0434\u043d\u043e \u0434\u043b\u044f \u0441\u0435\u0431\u044f \u0440\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u044e\u0442\u0441\u044f (\u043d\u0430 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u043c\u0435\u043d\u044c\u0448\u0435 \u0447\u0435\u043c \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442) \u0438 \u0434\u043e\u043b\u0436\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u043a. \u041f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0442\u0435\u0441\u043d\u0435\u043d\u0438\u0435 \u041a\u043e\u0440\u043e\u043b\u044f \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f, \u0433\u0434\u0435 \u0435\u0441\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u043b\u0438\u043d\u0438\u0438 \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u0430\u0442\u0430\u043a\u0435 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f, \u041b\u0430\u0434\u044c\u0438 \u0438 \u0424\u0435\u0440\u0437\u044f."
+                }
+            },
+            {
+                "move": "   Kxe6 2. Ne5 ",
+                "comment": {
+                    "pt": "2-Te1 tamb\u00e9m \u00e9 uma boa alternativa.",
+                    "en": "2-Re1 is also a good alternative.",
+                    "es": "2-Te1 tambi\u00e9n es una buena alternativa.",
+                    "de": "2. Te1 ist eine gute Alternative zum Textzug.",
+                    "zh": "2-Re1\u4e5f\u662f\u4e00\u4e2a\u5f88\u597d\u7684\u9009\u62e9\u3002",
+                    "pl": "2. We1 jest r\u00f3wnie\u017c dobr\u0105 alternatyw\u0105.",
+                    "ru": "\u0418\u0433\u0440\u0430 2-Re1 \u0431\u0443\u0434\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u0435\u0439 \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043e\u0439."
+                }
+            },
+            {
+                "move": "   Qc8 3. Re1 ",
+                "comment": {
+                    "pt": "Com boas possibilidades de ataque.",
+                    "en": "With good chances for an attack.",
+                    "es": "Con buenas posibilidades de ataque.",
+                    "de": "$ Mit guten Angriffschancen",
+                    "zh": "\u6709\u5f88\u597d\u7684\u653b\u51fb\u673a\u4f1a\u3002",
+                    "pl": "Z dobrymi szansami ataku.",
+                    "ru": "\u0414\u0430\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0448\u0430\u043d\u0441 \u043d\u0430 \u0430\u0442\u0430\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

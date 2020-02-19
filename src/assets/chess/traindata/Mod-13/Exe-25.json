@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/ppp2ppp\/2np4\/b7\/2BpP3\/2P2N2\/P4PPP\/RNBQ1RK1 w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. cxd4 ",
+                "comment": {
+                    "pt": "Controlando o centro e mantendo uma boa estrutura de pe\u00f5es. Seria um grave erro tomar em d4 com o cavalo.",
+                    "en": "Controlling the center and maintaining a good pawn structure. It would be a big mistake to take with the Knight on d4.",
+                    "es": "Controlando el centro y manteniendo una buena estructura de peones. Ser\u00eda un grave error tomar en d4 con el caballo.",
+                    "de": "Kontrolliert das Zentrum und beh\u00e4lt eine gute Bauernstruktur bei. Das Schlagen mit dem Springer w\u00e4re ein grober Fehler.",
+                    "zh": "\u63a7\u5236\u4e2d\u5fc3\uff0c\u4fdd\u6301\u5175\u5f62\u7ed3\u6784\u7684\u7a33\u5b9a\u3002\u5982\u679c\u5c06\u9a6c\u8df3\u5230d4\u653b\u51fb\u7684\u8bdd\u4f1a\u662f\u4e00\u4e2a\u5f88\u5927\u7684\u9519\u8bef\u3002",
+                    "pl": "Kontrola centrum i utrzymanie dobrej struktury pion\u00f3w. B\u0142\u0119dem by\u0142oby wzi\u0119cie d4 Skoczkiem.",
+                    "ru": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443. \u041e\u0448\u0438\u0431\u043a\u043e\u0439 \u0431\u0443\u0434\u0435\u0442 \u0445\u043e\u0434 \u041a\u043e\u043d\u0435\u043c \u043d\u0430 d4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqk2r\/pp1p1ppp\/4pn2\/2P5\/1bP5\/2N2P2\/PP2P1PP\/R1BQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Bxc3+ ",
+                "comment": {
+                    "pt": "Arruinando a estrutura de peoes contr\u00e1ria. Uma das maiores fraquezas na estrutura s\u00e3o pe\u00f5es triplicados em coluna semi aberta e este \u00e9 o caso desta posi\u00e7\u00e3o.",
+                    "en": "Ruining the opponent's pawn structure. Tripled pawns in an open file are one of the greatest weaknesses in structure and it's exactly the case here.",
+                    "es": "Arruinando la estructura de peones adversaria. Una de las mayores debilidades en la estructura son peones triplicados en columna semi abierta y \u00e9ste es el caso de esta posici\u00f3n.",
+                    "de": "Zerst\u00f6rt die gegnerische Bauernstruktur. Eine der schlimmsten Schw\u00e4chen sind verdreifachte Bauern auf einer halboffenen Linie, wie in diesem Fall.",
+                    "zh": "\u6467\u6bc1\u5bf9\u624b\u7684\u5175\u5f62\u7ed3\u6784\u3002\u5f00\u653e\u7ebf\u4e0a\u6700\u5927\u7684\u5f31\u70b9\u662f\u4e09\u53e0\u5175\uff0c\u6b63\u5982\u6b64\u4f8b\u3002",
+                    "pl": "Rujnuj\u0105c struktur\u0119 pion\u00f3w oponenta. Potr\u00f3jne piony na otwartej kolumnie to jedna z najwi\u0119kszych pora\u017cek struktury i g\u0142\u00f3wny przyk\u0142ad tutaj.",
+                    "ru": "\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430. \u0421\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 \u043e\u0434\u043d\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u043e\u0434\u043d\u0430 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043f\u0440\u043e\u0431\u043b\u0435\u043c \u0438 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u0435\u0439 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b. \u0418 \u044d\u0442\u043e \u043a\u0430\u043a \u0440\u0430\u0437 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439 \u043f\u043e\u0434\u043e\u0431\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1k1nr\/pppp1ppp\/1Bn2q2\/8\/4P3\/2P5\/PPN2PPP\/RN1QKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... axb6 ",
+                "comment": {
+                    "pt": "Mantendo a estrutura de pe\u00f5es compacta, trazendo um pe\u00e3o do flanco em dire\u00e7\u00e3o ao centro e n\u00e3o permitindo que nenhum dos pe\u00f5es fique isolado (b7, b6,c7 ,d7). Seria muito ruim a jogada cxb6, deixando o pe\u00e3o dama isolado e enfraquecendo v\u00e1rias casas centrais (d6, d5).",
+                    "en": "Maintaining a compact pawn structure, taking a pawn from the flank to the center and preventing isolated pawns (b7, b6, c7, d7). It would be very damaging to play cxb6, because the Queen-pawn would get isolated and several central squares would be weakened (d6, d5).",
+                    "es": "Manteniendo la estructura de peones compacta , trayendo un pe\u00f3n del flanco hacia el centro y sin dejar que alguno de los peones quede aislado (b7, b6, c7 ,d7). Ser\u00eda muy mala la jugada cxb6, dejando el pe\u00f3n dama aislado y debilitando varias casillas centrales (d6,d5).",
+                    "de": "Schwarz schl\u00e4gt zum Zentrum hin und beh\u00e4hlt eine kompakte Bauernstruktur bei. Dadurch wird keiner der Bauern am Damenfl\u00fcgel (b7, b6, c7. d7) zum Isolani. cxb6 w\u00e4re sehr schlecht, weil dann der d-Bauer zum Isolani werden w\u00fcrde und mehrere zentrale Felder bedroht",
+                    "zh": "\u4fdd\u6301\u4e00\u4e2a\u7d27\u51d1\u7684\u5175\u5f62\u7ed3\u6784\uff0c\u5c06\u4e00\u4e2a\u5175\u4ece\u4fa7\u7ffc\u632a\u5230\u4e2d\u5fc3\u4ee5\u514d\u4ea7\u751f\u5b64\u5175\uff08b7, b6, c7, d7\uff09\u3002\u4e0bcxb6\u4f1a\u635f\u5931\u60e8\u91cd\uff0c\u56e0\u4e3a\u540e\u7ffc\u5175\u4f1a\u88ab\u5b64\u7acb\uff0c\u597d\u51e0\u4e2a\u4e2d\u5fc3\u683c\u4f1a\u88ab\u53d8\u5f31\u3002",
+                    "pl": "Utrzymuj\u0105c zwart\u0105 struktur\u0119 pion\u00f3w, przemieszczenie piona z flanki do centrum i zapobiegni\u0119cie izolacji pion\u00f3w (b7, b6, c7, d7). Bolesny by\u0142oby zagranie cxb6, poniewa\u017c pion i Hetman by\u0142yby odizolowane i kilka p\u00f3l zosta\u0142oby os\u0142abionych (d6, d5).",
+                    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u043a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u0443\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044f \u043f\u0435\u0448\u043a\u0443 \u043e\u0442 \u0444\u043b\u0430\u043d\u0433\u0430 \u043a \u0446\u0435\u043d\u0442\u0440\u0443, \u0438, \u0438\u0437\u0431\u0435\u0433\u0430\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c, \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a (b7, b6, c7, d7). \u0418\u0433\u0440\u0430 cxb6 \u0431\u0443\u0434\u0435\u0442 \u0434\u0435\u0441\u0442\u0440\u0443\u043a\u0442\u0438\u0432\u043d\u043e\u0439, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0424\u0435\u0440\u0437\u0435\u0432\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u0431\u0443\u0434\u0435\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u0438 \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043e\u0441\u043b\u0430\u0431\u0435\u044e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u043b\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (d6, d5)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "-"
+        },
+        "fen": "r1bqk2r\/pp3ppp\/2n1pn2\/3p4\/3P4\/2N1PNb1\/PP3PPP\/R2QKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. hxg3 ",
+                "comment": {
+                    "pt": "Mantendo uma boa estrutura, levando um pe\u00e3o em dire\u00e7\u00e3o ao centro e abrindo a coluna para a torre.",
+                    "en": "Maintaining good structure, taking a pawn towards the center and opening the file for the Rook.",
+                    "es": "Manteniendo una buena estructura, llevando un pe\u00f3n hacia el centro y abriendo la columna para la torre.",
+                    "de": "Wei\u00df schl\u00e4gt zum Zentrum hin und beh\u00e4lt so eine gute Bauernstruktur bei. Hinzu wird die h-Linie ge\u00f6ffnet, auf der ein Turm bereits steht.",
+                    "zh": "\u4fdd\u6301\u7a33\u56fa\u7684\u5175\u5f62\u7ed3\u6784\uff0c\u5c06\u4e00\u4e2a\u5175\u79fb\u5411\u4e2d\u5fc3\uff0c\u4e3a\u8f66\u6253\u5f00\u7ebf\u8def\u3002",
+                    "pl": "Zachowuj\u0105c dobr\u0105 struktur\u0119, przemieszczenie piona w kierunku centrum i otwarcie kolumny dla Wie\u017cy.",
+                    "ru": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1bppp\/2np3n\/4p3\/2BPP3\/2N2N2\/PPP2PPP\/R1BQK2R w KQ - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxh6 ",
+                "comment": {
+                    "pt": "Debilitando a estrutura de pe\u00f5es contr\u00e1ria e principalmente a posi\u00e7\u00e3o do rei preto.",
+                    "en": "Weakening the opponent's pawn structure and also the position of the black King.",
+                    "es": "Debilitando la estructura de peones contraria y principalmente la posici\u00f3n del rey negro.",
+                    "de": "Schw\u00e4cht die gegnerische Bauernstruktur und vor allem die K\u00f6nigsstellung.",
+                    "zh": "\u524a\u5f31\u5bf9\u65b9\u7684\u5175\u5f62\u548c\u9ed1\u738b\u7684\u5c40\u9762\u3002",
+                    "pl": "Os\u0142\u0105bienie struktury pion\u00f3w wroga i pozycji czarnego Kr\u00f3la.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

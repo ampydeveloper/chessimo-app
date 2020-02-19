@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(57)",
+            "zh": "Event 1"
+        },
+        "fen": "6k1\/1p4pp\/8\/1NPP1b2\/2B2n2\/4p3\/6PP\/6K1 w - - 0 30",
+        "moves": [
+            {
+                "move": "30. c6 ",
+                "comment": {
+                    "pt": "Avan\u00e7ando corretamente o pe\u00e3o passado. O dom\u00ednio da casa d6 e da diagonal a2-g8 garantir\u00e3o \u00e0s brancas o ganho de uma pe\u00e7a.",
+                    "en": "Correctly advancing the passed pawn. The dominance of d6 and the a2-g8 diagonal, ensures White to win a piece.",
+                    "de": "R\u00fcckt den richtigen Bauern vor. Die Kontrolle \u00fcber d6 und die Diagonale a2-g8 sichert Wei\u00df den Gewinn einer Figur.",
+                    "es": "Avanzando correctamente el pe\u00f3n pasado. El dominio de la casilla d6, junto al de la diagonal a2-g8 asegurar\u00e1n a las blancas la ganancia de una pieza.",
+                    "zh": "\u6b63\u786e\u524d\u8fdb\u901a\u8def\u5175\u3002\u5bf9\u4e8ed6\u548ca2-g8\u7684\u7edf\u6cbb\u786e\u4fdd\u767d\u68cb\u53ef\u4ee5\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "W\u0142a\u015bciwy ruch wolnym pionem. Dominacja nad d6 i przek\u0105tn\u0105 a2-g8 zapewnia Bia\u0142ym zdobycie figury.",
+                    "ru": "\u041a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0414\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 d6 \u0438 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a2-g8, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u044b\u0438\u0433\u0440\u044b\u0448 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(104)",
+            "zh": "Event 1"
+        },
+        "fen": "2b2rk1\/1p1n2pp\/3p4\/3Ppp2\/1PP5\/2N1qP2\/4B1PP\/Q4R1K b - - 0 20",
+        "moves": [
+            {
+                "move": "20... b5 ",
+                "comment": {
+                    "pt": "Para destruir a massa de pe\u00f5es brancos, uma vez que este pe\u00e3o n\u00e3o pode ser tomado de cavalo devido a posi\u00e7\u00e3o do bispo em e2.",
+                    "en": "In order to destroy the white pawn mass, since the Knight cannot take this pawn, due to the position of the e2-Bishop.",
+                    "de": "Um die wei\u00dfe Bauernstruktur zu zerst\u00f6ren, da der Bauer auf b5 wegen der Stellung vom L\u00e4ufer e2 vom Springer nicht geschlagen werden kann.",
+                    "es": "Para destruir la masa de peones blancos, una vez que este pe\u00f3n no puede ser tomado con el caballo debido a la posici\u00f3n del alfil en e2.",
+                    "zh": "\u4e3a\u4e86\u6467\u6bc1\u767d\u68cb\u7684\u5175\u5f62\uff0c\u56e0\u4e3ae2\u8c61\u7684\u4f4d\u7f6e\u4f7f\u5f97\u9a6c\u4e0d\u80fd\u5403\u8fd9\u4e2a\u5175\u3002",
+                    "pl": "W celu zniszczenia masy bia\u0142ych pion\u00f3w podczas gdy Skoczek nie mo\u017ce wzi\u0105\u0107 tego piona, z powodu pozycji Go\u0144ca e2.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u043c\u0430\u0441\u0441\u0443 \u0411\u0435\u043b\u044b\u0445, \u0442\u0430\u043a \u043a\u0430\u043a \u041a\u043e\u043d\u044c \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0432\u0437\u044f\u0442\u044c \u044d\u0442\u0443 \u043f\u0435\u0448\u043a\u0443, \u0438\u0437-\u0437\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 e2."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(53)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1npbp\/4n1P1\/3pp3\/4P3\/2PPNN2\/PPB2PP1\/R1BQK2R b KQ - 0 13",
+        "moves": [
+            {
+                "move": "13... hxg6 ",
+                "comment": {
+                    "pt": "Mantendo uma estrutura de pe\u00f5es mais s\u00f3lida e ao mesmo tempo evitando abrir a diagonal a2-g8.",
+                    "en": "Making the pawn structure more solid and, at the same time, avoiding the a2-g8 diagonal from opening.",
+                    "de": "Beh\u00e4lt eine solide Bauernstruktur und vermeidet die \u00d6ffnung der Diagonale a2-g8.",
+                    "es": "Manteniendo una estructura de peones m\u00e1s s\u00f3lida y al mismo tiempo evitando abrir la diagonal a2-g8.",
+                    "zh": "\u4f7f\u5175\u5f62\u66f4\u52a0\u7a33\u56fa\uff0c\u540c\u65f6\u907f\u514d\u5f00\u653ea2-g8\u659c\u7ebf\u3002",
+                    "pl": "Wzmocnienie struktury pion\u00f3w i w tym samym czasie unikni\u0119cie otwarcia przek\u0105tnej a2-g8.",
+                    "ru": "\u0414\u0435\u043b\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0431\u043e\u043b\u0435\u0435 \u043e\u0434\u043d\u043e\u0440\u043e\u0434\u043d\u043e\u0439 \u0438, \u0432  \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a2-g8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(108)",
+            "zh": "Event 1"
+        },
+        "fen": "r3brk1\/pp4pp\/q1n1p3\/2PpP3\/8\/P4B2\/1B1Q1PPP\/R2R2K1 b - - 0 19",
+        "moves": [
+            {
+                "move": "19... Rxf3 ",
+                "comment": {
+                    "pt": "Sacrificando a qualidade para arruinar a j\u00e1 prejudicada estrutura de pe\u00f5es das brancas e criar chances de ataque na ala do rei, aproveitando a passividade do bispo em b2.",
+                    "en": "Sacrificing quality in order to ruin the already damaged white pawn structure and create attack chances on the kingside, taking advantage of the passivity of the b2-Bishop.",
+                    "de": "Opfert die Qualit\u00e4t, um die bereits besch\u00e4digte wei\u00dfe Bauernstruktur noch weiter zu zerst\u00f6ren und um Angriffschancen am K\u00f6nigsfl\u00fcgel angesichts der passiven Stellung des L\u00e4ufers auf b2 zu schaffen.",
+                    "es": "Sacrificando la calidad para arruinar la ya perjudicada estructura de peones de las blancas y crear chances de ataque en el ala rey, aprovechando la pasividad del alfil en b2.",
+                    "zh": "\u653e\u5f03\u8d28\u91cf\u4f18\u52bf\u6765\u5f7b\u5e95\u6467\u6bc1\u5df2\u7ecf\u88ab\u7834\u574f\u7684\u767d\u5175\u5175\u5f62\uff0c\u5e76\u4e14\u5229\u7528b2-\u8c61\u88ab\u52a8\u7684\u4f4d\u7f6e\u6765\u5236\u9020\u653b\u51fb\u738b\u7ffc\u7684\u673a\u4f1a\u3002",
+                    "pl": "Po\u015bwi\u0119cenie jako\u015bci w celu zrujnowania ju\u017c os\u0142abionej struktury bia\u0142ych pion\u00f3w oraz tworzenie silnych szans ataku na skrzyd\u0142o kr\u00f3lewskie, wykorzystuj\u0105c przewag\u0119 pasywno\u015bci Go\u0144ca b2.",
+                    "ru": "\u0416\u0435\u0440\u0442\u0432\u0443\u0435\u0442 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e\u043c, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u044c \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0435\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0411\u0435\u043b\u044b\u0445 \u0438 \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u0448\u0430\u043d\u0441\u044b \u043d\u0430 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433, \u043f\u043e\u043b\u044c\u0437\u0443\u044f\u0441\u044c \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 b2."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(19)",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/ppqn1ppp\/2pbpn2\/7P\/3P4\/2PN1QN1\/PP3PP1\/R1B1K2R b KQkq - 0 13",
+        "moves": [
+            {
+                "move": "13... Bxg3 ",
+                "comment": {
+                    "pt": "Enfraquecendo a estrutura de pe\u00f5es das brancas e eliminando o cavalo branco, que nesta posi\u00e7\u00e3o \u00e9 mais valioso que o bispo preto.",
+                    "en": "Weakening the white pawn structure and eliminating the white Knight, which is worth more than the black Bishop.",
+                    "de": "Schw\u00e4cht die wei\u00dfe Bauernstruktur und beseitigt den wei\u00dfen Springer, der auf dieser Stellung dem schwarzen L\u00e4ufer \u00fcberlegen ist.",
+                    "es": "Debilitando la estructura de peones de las blancas y eliminando el caballo blanco, que en esta posici\u00f3n es m\u00e1s valioso que el alfil negro.",
+                    "zh": "\u524a\u5f31\u767d\u68cb\u7684\u5175\u5f62\uff0c\u6d88\u706d\u6bd4\u9ed1\u8c61\u66f4\u52a0\u6709\u4ef7\u503c\u7684\u767d\u9a6c\u3002",
+                    "pl": "Os\u0142abienie bia\u0142ej struktury pion\u00f3w i eliminacja bia\u0142ego Skoczka, kt\u00f3ry jest wart wi\u0119cej, ni\u017c czarny Goniec.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0411\u0435\u043b\u044b\u0445 \u0438 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0446\u0435\u043d\u0435\u043d \u0431\u043e\u043b\u044c\u0448\u0435 \u0447\u0435\u043c \u0447\u0435\u0440\u043d\u044b\u0439 \u0421\u043b\u043e\u043d."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

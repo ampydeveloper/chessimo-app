@@ -1,0 +1,177 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2b2p\/2p2n2\/3p1pp1\/3P4\/1PNQPPP1\/PB4BP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g4 ",
+                "comment": {
+                    "pt": "Para evitar que as brancas joguem e4 e conquistar esta casa, que dever\u00e1 ser ocupada pelo cavalo preto.",
+                    "en": "In order to prevent White from playing e4 and conquering this square that the black Knight is supposed to occupy.",
+                    "es": "Para evitar que las blancas jueguen e4 y conquisten esta casilla, que deber\u00e1 ser ocupada por el caballo negro.",
+                    "de": "Um e4 zu verhindern und danach das Feld e4 mit dem Springer zu besetzen.",
+                    "zh": "\u4e3a\u4e86\u963b\u6b62\u767d\u65b9\u4e0be4\uff0c\u4e4b\u540e\u7528\u9ed1\u9a6c\u610f\u5360\u636e\u8fd9\u683c\u3002",
+                    "pl": "Aby uniemo\u017cliwi\u0107 Bia\u0142ym zagranie e4 i podbicie tego pola, gdy\u017c powinien je zaj\u0105\u0107 czarny Skoczek.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0438\u0433\u0440\u0443 \u0411\u0435\u043b\u044b\u0445 e4 \u0438 \u0437\u0430\u0445\u0432\u0430\u0442\u0438\u0442\u044c \u044d\u0442\u043e \u043f\u043e\u043b\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0445\u043e\u0442\u0435\u043b \u0437\u0430\u043d\u044f\u0442\u044c \u0447\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u043d\u044c."
+                }
+            },
+            {
+                "move": "   2. fxg4 Nxg4 ",
+                "comment": {
+                    "pt": "Para garantir o controle da casa e4 e eventualmente voltar a f6 para ocupa-la com o cavalo.",
+                    "en": "In order to guarantee the control of the e4 square and occasionally return to f6 with the Knight that can then occupy e4.",
+                    "es": "Para asegurar el control de la casilla e4 y volver a f6 eventualmente para ocuparla con el caballo.",
+                    "de": "$ Sichert die Kontrolle \u00fcber das Feld e4. Eventuell wird der Springer \u00fcber f6 dieses Feld erreichen",
+                    "zh": "\u4e3a\u4e86\u786e\u4fdd\u5bf9e4\u7684\u63a7\u5236\uff0c\u53ef\u80fd\u7684\u8bdd\u9000\u56def6\u8fd9\u6837\u9a6c\u5c31\u53ef\u4ee5\u5360\u636ee4\u3002",
+                    "pl": "W celu zagwarantowania sobie kontroli nad e4 i mo\u017cliwo\u015b\u0107 powrotu na f6 Skoczkiem, aby m\u00f3g\u0142 p\u00f3\u017aniej zaj\u0105\u0107 e4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u0435 e4 \u0438 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u041a\u043e\u043d\u0435\u043c \u043d\u0430 f6, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0437\u0436\u0435 \u0437\u0430\u043d\u044f\u0442\u044c e4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2r2k1\/pbq2pbp\/1p2p1p1\/n1p5\/3PPP2\/2PBB2P\/P3NQP1\/2R2RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... f5 ",
+                "comment": {
+                    "pt": "Valorizando a a\u00e7\u00e3o do bispo de b7 e evitando que as brancas joguem f5 abrindo a coluna f, para atacar o rei preto.",
+                    "en": "Improving the value of the b7-Bishop and preventing that White plays f5 and opens the f-file to attack the black King.",
+                    "es": "Potencializando la acci\u00f3n del alfil de b7 y evitando que las blancas jueguen f5, que abrir\u00eda a columna \"f\" para atacar el rey negro.",
+                    "de": "Verst\u00e4rkt den L\u00e4ufer auf b7 und verhindert das wei\u00dfe f5, was die f-Linie f\u00fcr den Angriff auf den schwarzen K\u00f6nig \u00f6ffnen w\u00fcrde.",
+                    "zh": "\u589e\u52a0b7-\u8c61\u7684\u4ef7\u503c\uff0c\u963b\u6b62\u767d\u65b9\u4e0bf5\uff0c\u5f00\u653ef-\u7ebf\u6765\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Poprawienie warto\u015bci Go\u0144ca b7 i uniemo\u017cliwienie Bia\u0142ym zagranie f5 oraz otwarcie kolumny f do ataku czarnego Kr\u00f3la.",
+                    "ru": "\u041f\u043e\u0432\u044b\u0448\u0430\u0435\u0442 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 b7, \u043c\u0435\u0448\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c f5 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/1b3p1p\/ppn1pbpB\/7q\/3P4\/PB2QN2\/1P3PPP\/3RR1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d5 ",
+                "comment": {
+                    "pt": "Aproveitando a cravada na coluna e para criar um pe\u00e3o passado e descoordenar as pe\u00e7as pretas.",
+                    "en": "Taking advantage of the pin in the e-file in order to create a passed pawn and hinder the coordination of the black pieces.",
+                    "es": "Aprovechando la clavada en la columna \"e\" para crear un pe\u00f3n pasado y descoordinar las piezas negras.",
+                    "de": "Nutzt die Fesselung auf der e-Linie aus um einen Freibauern zu erhalten und unterbindet das Zusammenspiel der schwarzen Figuren.",
+                    "zh": "\u5229\u7528e-\u7ebf\u4e0a\u7684\u7275\u5236\u6765\u5236\u9020\u901a\u8def\u5175\uff0c\u963b\u6b62\u9ed1\u65b9\u5b50\u529b\u534f\u540c\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia na kolumnie e w celu stworzenia wolnego piona i utrudnienia koordynacji czarnych figur.",
+                    "ru": "\u0412\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0432\u0448\u0438\u0441\u044c \u0441\u0432\u044f\u0437\u043a\u043e\u0439 \u043d\u0430 e-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438 \u0444\u0438\u0433\u0443\u0440 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "Nd8 2. d6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2r2k1\/pp1b1pp1\/1qn1pb1p\/3n4\/2BP4\/P4N2\/1PQ1NPPP\/R1BR2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qe4 ",
+                "comment": {
+                    "pt": "Pressionando d5 e preparado uma manobra para atacar o rei preto.",
+                    "en": "In order to put pressure on d5 and prepare the offensive against the black King.",
+                    "es": "Presionando d5 y preparado una maniobra para atacar el rey negro.",
+                    "de": "\u00dcbt Druck auf d5 aus und bereitet ein Angriffsman\u00f6ver auf den schwarzen K\u00f6nig.",
+                    "zh": "\u7ed9d5\u65bd\u52a0\u538b\u529b\uff0c\u51c6\u5907\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Aby wywrze\u0107 presj\u0119 na d5 i przygotowa\u0107 ofensyw\u0119 przeciw czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 d5 \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0441\u044f \u043a \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   Nce7 2. Bd3 ",
+                "comment": {
+                    "pt": "Criando uma bateria de ataque com bispo e dama, para penetrar em h7.",
+                    "en": "Creating a battery with a Bishop and the Queen in order to enter h7.",
+                    "es": "Creando una bater\u00eda de ataque con alfil y dama, para penetrar en h7.",
+                    "de": "$ Der L\u00e4ufer unterst\u00fctzt das Eindringen der Dame auf h7",
+                    "zh": "\u7528\u8c61\u8fde\u7eed\u731b\u653b\u8ba9\u540e\u5165\u4fb5h7\u3002",
+                    "pl": "Kreuj\u0105c bateri\u0119 Go\u0144cem i Hetmanem w celu wtargni\u0119cia na h7.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0431\u0430\u0442\u0430\u0440\u0435\u044e \u0438\u0437 \u0421\u043b\u043e\u043d\u0430 \u0438 \u0424\u0435\u0440\u0437\u044f, \u0434\u043b\u044f \u0437\u0430\u043d\u044f\u0442\u0438\u044f h7."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1qr2rk1\/pb2bpp1\/1pn1p2p\/8\/8\/P1BBPN2\/1PQ2PPP\/2RR2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qa4 ",
+                "comment": {
+                    "pt": "Para atacar o rei preto utilizando a dama e os bispos.",
+                    "en": "In order to attack the black King using the Queen and both Bishops.",
+                    "es": "Para atacar el rey negro utilizando a dama y los alfiles.",
+                    "de": "Um den schwarzen K\u00f6nig mit Dame und L\u00e4ufer anzugreifen.",
+                    "zh": "\u4e3a\u4e86\u7528\u540e\u548c\u53cc\u8c61\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Aby zaatakowa\u0107 czarnego Kr\u00f3la u\u017cywaj\u0105c Hetmana i obu Go\u0144c\u00f3w.",
+                    "ru": "\u0414\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0424\u0435\u0440\u0437\u044f \u0438 \u0421\u043b\u043e\u043d\u0430."
+                }
+            },
+            {
+                "move": "   Rfd8 2. Qe4 g6 3. Qg4 ",
+                "comment": {
+                    "pt": "Com excelentes possibilidades de ataque e a amea\u00e7a direta de Bxg6.",
+                    "en": "With excellent chances for attacks and the direct threat of Bxg6.",
+                    "es": "Con excelentes posibilidades de ataque y la amenaza directa de Axg6.",
+                    "de": "$ Mit ausgezeichneten Angriffschancen und der direkten Drohung Lxg6",
+                    "zh": "\u975e\u5e38\u597d\u7684\u8fdb\u653b\u673a\u4f1a\u548cBxg6\u7684\u76f4\u63a5\u5a01\u80c1\u3002",
+                    "pl": "Ze \u015bwietnymi szansami ataki i bezpo\u015bredni\u0105 gro\u017ab\u0105 Gxg6.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u0430\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043f\u0440\u044f\u043c\u043e\u0439 \u0443\u0433\u0440\u043e\u0437\u044b Bxg6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

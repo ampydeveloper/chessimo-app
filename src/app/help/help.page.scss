@@ -1,0 +1,13 @@
+    .list-box{
+    background: rgba($color: #fff, $alpha: 0.7);
+    height: 100%;
+    overflow: auto;
+
+    ion-button{
+        width: 100%;
+        background: #67829F;
+        text-transform: capitalize;
+        font-size: 12px;
+    }
+
+}

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(24)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp3bp\/3p2p1\/3P2Nn\/2P1PpnP\/1Q6\/PP2NPB1\/R1B1K2R w KQ - 0 14",
+        "moves": [
+            {
+                "move": "14. Bf3 ",
+                "comment": {
+                    "pt": "Evitando que as pretas joguem Ce5 devido a tomada em h5.",
+                    "en": "Preventing Black from playing Ne5, due to the h5 capture.",
+                    "de": "Verhindert ...Se5, denn darauf w\u00fcrde Lxh5 folgen.",
+                    "es": "Evitando que las negras jueguen Ce5 debido a la captura en h5.",
+                    "zh": "\u963b\u6b62\u9ed1\u68cb\u4e0bNe5\u3002",
+                    "pl": "Uniemo\u017cliwienie Czarnym zagrania Se5, z powodu wzi\u0119cia na h5.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0433\u0440\u0443 \u0427\u0435\u0440\u043d\u044b\u0445 Ne5, \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0437\u0430\u0445\u0432\u0430\u0442\u043e\u043c h5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(50)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/4n1pp\/p1pq1p2\/3p4\/3Q4\/1N3N2\/PPP2PPP\/R3R1K1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. Qc5 ",
+                "comment": {
+                    "pt": "As brancas querem for\u00e7ar a troca para ocupar as casas c5 e d4 com os cavalos.",
+                    "en": "White wants to force the exchange in order to occupy c5 and d4 with Knights.",
+                    "de": "Wei\u00df will den Abtausch erzwingen, um die Felder c5 und d4 mit den Springern zu besetzen.",
+                    "es": "Las blancas quieren forzar el cambio para ocupar las casillas c5 y d4 con los caballos.",
+                    "zh": "\u767d\u68cb\u4f01\u56fe\u5f3a\u5151\u6765\u8ba9\u9a6c\u5206\u522b\u5360\u636ec5\u548cd4\u3002",
+                    "pl": "Bia\u0142e chc\u0105 wymusi\u0107 wymian\u0119 w celu zaj\u0119cia c5 i d4 Skoczkami.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u043d\u0430\u0432\u044f\u0437\u0430\u0442\u044c \u0440\u0430\u0437\u043c\u0435\u043d, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c c5 \u0438 d4 \u041a\u043e\u043d\u044f\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(41)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp1b2bp\/3p1n2\/2pPq3\/2P1Pp2\/2NB3P\/PPQ2BP1\/2KR3R b - - 0 10",
+        "moves": [
+            {
+                "move": "10... a6 ",
+                "comment": {
+                    "pt": "Com a dama e o bispo alinhados na grande diagonal , as pretas se preparam para abrir a coluna b e intensificar a press\u00e3o sobre b2 com o aux\u00edlio da torre. .",
+                    "en": "Black prepares to open the b-file and intensify the pressure on b2 with the Queen and Bishop aligned on the big diagonal.",
+                    "de": "Mit Dame samt L\u00e4ufer auf der langen Diagonale bereitet Schwarz die \u00d6ffnung der b-Linie vor, damit auch der Turm auf b2 Druck aus\u00fcbt.",
+                    "es": "Con la dama y el alfil alineados en la gran diagonal, las negras se preparan para abrir la columna b e intensificar la presi\u00f3n sobre b2 con el auxilio de la torre.",
+                    "zh": "\u9ed1\u68cb\u51c6\u5907\u5f00\u653eb-\u7ebf\uff0c\u5e76\u4e14\u5728\u5927\u659c\u7ebf\u4e0a\u8054\u5408\u540e\u548c\u8c61\u7684\u529b\u91cf\u589e\u5f3a\u5bf9b2\u7684\u538b\u529b\u3002",
+                    "pl": "Czarne przygotowuj\u0105 otwarcie kolumny b i wzmo\u017cenie presji na b2 przez Hetmana oraz Go\u0144ca ustawionych na d\u0142ugiej przek\u0105tnej.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0433\u043e\u0442\u043e\u0432\u044f\u0442\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044c b-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 b2 \u0424\u0435\u0440\u0437\u0435\u043c \u0438 \u0421\u043b\u043e\u043d\u043e\u043c, \u0432\u044b\u0440\u043e\u0432\u043d\u0435\u043d\u043d\u044b\u0445 \u043f\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(22)",
+            "zh": "Event 1"
+        },
+        "fen": "1k1rr3\/1pq5\/p1p1pp2\/P6p\/2PP1b1P\/2B2Pp1\/1PQ3P1\/R3R1K1 b - - 0 24",
+        "moves": [
+            {
+                "move": "24... f5 ",
+                "comment": {
+                    "pt": "Preparando ...De7 com o objetivo de tomar o pe\u00e3o em h4.",
+                    "en": "Preparing ...Qc7 in order to take the h4-pawn.",
+                    "de": "Bereitet ...De7 vor mit der Absicht, den Bauern h4 zu nehmen.",
+                    "es": "Preparando ...De7 con el objetivo de tomar el pe\u00f3n en h4.",
+                    "zh": "\u51c6\u5907\u4e0b ...Qc7\u6765\u6349h4-\u5175\u3002",
+                    "pl": "Przygotowuj\u0105c ... Hc7 w celu wzi\u0119cia piona h4.",
+                    "ru": "\u041f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 ...Qc7 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c \u043f\u0435\u0448\u043a\u0443 h4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(36)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2r2\/p3ppkp\/n1pp2p1\/q6n\/1p1PP3\/3B1N2\/PPPQ1PP1\/1NKR3R w - - 0 1",
+        "moves": [
+            {
+                "move": "1. e5 ",
+                "comment": {
+                    "pt": "Interceptando a a\u00e7\u00e3o da dama contr\u00e1ria e ao mesmo tempo impedindo que o cavalo preto volte a f6. A amea\u00e7a agora \u00e9 Txh5.",
+                    "en": "Disturbing the action of the opponent's Queen and preventing the black Knight from returning to f6, at the same time. Now the threat is Rxh5.",
+                    "de": "Unterbricht die Wirkung der Dame auf der f\u00fcnften Reihe und verhindert zur gleichen Zeit, dass der Springer auf f6 zieht. Die Drohung ist Txh5.",
+                    "es": "Interceptando la acci\u00f3n de la dama contraria e impidiendo al mismo tiempo que el caballo negro vuelva a f6. La amenaza ahora es Txh5.",
+                    "zh": "\u963b\u6320\u654c\u540e\u5728\u4e94\u7ebf\u4e0a\u7684\u6d3b\u52a8\u5e76\u4e14\u540c\u65f6\u963b\u6b62\u9ed1\u738b\u91cd\u65b0\u56de\u5230f6\u3002\u76ee\u524d\u7684\u5a01\u80c1\u662fRxh5\u3002",
+                    "pl": "Utrudnianie akcji Hetmanowi przeciwnika oraz uniemo\u017cliwienie czarnemu Skoczkowi powrotu na f6 w tym samym czasie. Teraz gro\u017ab\u0105 jest Wxh5.",
+                    "ru": "\u041c\u0435\u0448\u0430\u0435\u0442 \u043f\u043b\u0430\u043d\u0430\u043c \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f, \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442 \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 \u043f\u043e\u043b\u0435 f6, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f. \u0422\u0435\u043f\u0435\u0440\u044c \u0435\u0441\u0442\u044c \u0443\u0433\u0440\u043e\u0437\u0430 Rxh5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(83)",
+            "zh": "Event 1"
+        },
+        "fen": "rr5k\/3q1bb1\/3p1pp1\/ppnPn3\/2pNP1P1\/P1P1B1N1\/1PB1Q3\/R4R1K w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Ngf5 ",
+                "comment": {
+                    "pt": "Ocupando uma casa muito importante para o ataque que, ao lado do dom\u00ednio da coluna h, \u00e9 decisivo. Ap\u00f3s a tomada do cavalo a coluna g tamb\u00e9m ser\u00e1 aberta e as pe\u00e7as pesadas ocupar\u00e3o essas colunas.",
+                    "en": "Occupying a very important square for the attack, which is decisive together with the h-file dominance. After capturing the Knight, the g-file will also be opened and major pieces will occupy both files.",
+                    "de": "Besetzt ein sehr wichtiges Feld f\u00fcr den Angriff; zudem ist die Beherrschung der h-Linie entscheidend. Nach dem Schlagen des Springers wird auch noch die g-Linie ge\u00f6ffnet; die wei\u00dfen Schwerfiguren werden diese Linien besetzen.",
+                    "es": "Ocupando una casilla muy importante para el ataque que, junto al dominio de la columna h, es decisivo. Despu\u00e9s de la captura del caballo la columna g tambi\u00e9n se abrir\u00e1 y las piezas pesadas ocupar\u00e1n esas columnas.",
+                    "zh": "\u5360\u636e\u4e00\u4e2a\u5bf9\u8fdb\u653b\u975e\u5e38\u91cd\u8981\u7684\u683c\u5b50\uff0c\u8ddfh-\u7ebf\u7684\u7edf\u6cbb\u4e00\u8d77\u8d77\u5230\u51b3\u5b9a\u6027\u7684\u4f5c\u7528\u3002\u6349\u9a6c\u4e4b\u540eg-\u7ebf\u4f1a\u88ab\u5f00\u653e\uff0c\u91cd\u5b50\u5c06\u540c\u65f6\u5360\u636e\u4e24\u6761\u7ebf\u3002",
+                    "pl": "Okupuj\u0105c bardzo istotne pole do ataku, kt\u00f3ry mo\u017ce okaza\u0107 si\u0119 decyduj\u0105cy bior\u0105c pod uwag\u0119 dominacj\u0119 kolumny h. Po zbiciu Skoczka kolumna g r\u00f3wnie\u017c zostanie otwarta, a mocne figury zajm\u0105 obie kolumny.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u043e\u0435 \u043f\u043e\u043b\u0435 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441  \u0433\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0435\u0448\u0430\u044e\u0449\u0438\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u043e\u043c. \u041f\u043e\u0441\u043b\u0435 \u0432\u0437\u044f\u0442\u0438\u044f \u041a\u043e\u043d\u044f, \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0430 g-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e, \u0442\u044f\u0436\u0435\u043b\u044b\u0435 \u0444\u0438\u0433\u0443\u0440\u044b \u043c\u043e\u0433\u0443\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u043e\u0431\u0435 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3k4\/1p1b2p1\/2pPp3\/4P1P1\/2B5\/1P6\/1K6 w - - 0 39",
+        "moves": [
+            {
+                "move": "39. b4 ",
+                "comment": {
+                    "pt": "As brancas entregam um pe\u00e3o para enfraquecer a estrutura de pe\u00f5es das pretas e deixar os pe\u00f5es mais vulner\u00e1veis. Se as negras optarem por n\u00e3o tomar o pe\u00e3o b e preferirem jogar c4, ent\u00e3o as brancas jogar\u00e3o b5, fixando debilidades em b6 e c4. Caso as brancas n\u00e3o fizessem esta jogada agora, as pretas a evitariam jogando ...b5.",
+                    "en": "White sacrifices a pawn in order to weaken the black pawn structure and make its pawns more vulnerable. If Black chooses not to take the b-pawn but to play c4 instead, White will play b5 and anchor weaknesses on b6 and c4. If White doesn't perform this move now, Black will prevent it with ...b5.",
+                    "de": "Wei\u00df opfert einen Bauern um die schwarze Bauernstruktur zu schw\u00e4chen und die schwarzen Bauern noch anf\u00e4lliger zu lassen. Falls Schwarz den b-Bauern nicht schl\u00e4gt und ...c4 spielt, spielt Wei\u00df b5 und fixiert Schw\u00e4chen auf b6 und c4. Wenn Wei\u00df jetzt einen anderen Zug spielt, w\u00fcrde Schwarz b4 mit ...b5 verhindern.",
+                    "es": "Las blancas entregan un pe\u00f3n para debilitar la estructura de peones de las negras y dejar los peones m\u00e1s vulnerables. Si las negras optan por no tomar el pe\u00f3n b y prefieren jugar c4, entonces las blancas jugar\u00e1n b5, fijando debilidades en b6 y c4. Si las blancas no hicieran esta jugada ahora las negras la evitar\u00edan jugando ...b5.",
+                    "zh": "\u767d\u68cb\u4e0d\u60dc\u5f03\u5175\u6765\u524a\u5f31\u9ed1\u5175\u5175\u5f62\uff0c\u5e76\u4e14\u4f7f\u5f97\u9ed1\u5175\u66f4\u52a0\u5bb9\u6613\u53d7\u5230\u653b\u51fb\u3002\u5982\u679c\u9ed1\u68cb\u9009\u62e9\u4e0d\u5151\u5175\u800c\u4e0bc4\uff0c\u90a3\u4e48\u767d\u68cb\u4f1a\u4e0bb5\u5e76\u4e14\u9501\u5b9ab6\u548cc4\u5904\u7684\u5f31\u70b9\u3002\u5982\u679c\u767d\u68cb\u73b0\u5728\u4e0d\u4e0b\u8fd9\u7740\uff0c\u9ed1\u68cb\u4f1a\u7528...b5\u963b\u6b62\u3002",
+                    "pl": "Bia\u0142e po\u015bwi\u0119caj\u0105 piona w celu os\u0142abienia czarnej struktury pion\u00f3w i wzmocnienia ich podatno\u015bci na ataku. Je\u015bli Czarne wybior\u0105 nie przyj\u0119cie piona b, a zamiast tego zagraj\u0105 c4, Bia\u0142e spr\u00f3buj\u0105 b5 i zakotwicz\u0105 s\u0142abo\u015b\u0107 na b6 i c4. Je\u015bli Bia\u0142e nie wykonaj\u0105 tego ruchu teraz, Czarne uniemo\u017cliwi\u0105 go przez ... b5.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u0443, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0427\u0435\u0440\u043d\u044b\u0445, \u0438 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0435\u0435 \u0431\u043e\u043b\u0435\u0435 \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0439. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u0431\u0440\u0430\u0442\u044c b-\u043f\u0435\u0448\u043a\u0443, \u0430 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 c4, \u0411\u0435\u043b\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c b5 \u0438 \u043e\u0441\u043b\u0430\u0431\u044f\u0442 b6 \u0438 c4. \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u043d\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442 \u0441\u0435\u0439\u0447\u0430\u0441 \u044d\u0442\u043e\u0442 \u0445\u043e\u0434, \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u043c\u0435\u0448\u0430\u044e\u0442 \u044d\u0442\u043e\u043c\u0443 \u0445\u043e\u0434\u0443 \u0438\u0433\u0440\u043e\u0439 ...b5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(140)",
+            "zh": "Event 1"
+        },
+        "fen": "1q2r1k1\/1prnbppn\/p2p3p\/P2Pp3\/4P3\/2N1B1P1\/1P1NQP1P\/R1R3K1 w - - 0 19",
+        "moves": [
+            {
+                "move": "19. h4 ",
+                "comment": {
+                    "pt": "Para evitar que as pretas se livrem do seu bispo ruim, jogando ...Bg5.",
+                    "en": "In order to prevent Black from getting rid of its bad Bishop with ...Bg5.",
+                    "de": "Um zu vermeiden, dass Schwarz seinen schlechten L\u00e4ufer mit ...Lg5 loswird.",
+                    "es": "Para evitar que las negras se libren del alfil malo, jugando ...Ag5.",
+                    "zh": "\u4e3a\u4e86\u963b\u6b62\u9ed1\u68cb\u4e0b...Bg5\u6765\u6e05\u9664\u81ea\u5df1\u7684\u574f\u8c61\u3002",
+                    "pl": "W celu uniemo\u017cliwienia Czarnym pozbycia si\u0119 s\u0142abego Go\u0144ca poprzez ... Gg5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0434\u0430\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u043f\u043b\u043e\u0445\u043e \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0421\u043b\u043e\u043d\u0430 \u0438\u0433\u0440\u043e\u0439 ...Bg5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(1)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/pp1bbp1p\/1q2p1pB\/3nP3\/4Q2P\/P4N2\/1P3PP1\/RB3RK1 w - - 0 19",
+        "moves": [
+            {
+                "move": "19. h5 ",
+                "comment": {
+                    "pt": "Para enfraquecer as defesas do rei preto. Se as pretas tomarem o pe\u00e3o em b2, as brancas seguir\u00e3o com Ta2 seguido de Dg4.",
+                    "en": "In order to weaken the defense of the black King. If Black takes the b2-pawn, White will continue with Ra2 followed by Qg4.",
+                    "de": "Um die Verteidigung vom schwarzen K\u00f6nig zu schw\u00e4chen. Wenn Schwarz den Bauern b2 schl\u00e4gt, spielt Wei\u00df Ta2 nebst Dg4.",
+                    "es": "Para debilitar las defensas del rey negro. Si las negras toman el pe\u00f3n en b2, las blancas seguir\u00e1n con Ta2 seguido de Dg4.",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u9ed1\u738b\u7684\u9632\u5fa1\u3002\u5982\u679c\u9ed1\u68cb\u6349b2-\u5175\uff0c\u767d\u68cb\u4f1a\u7ee7\u7eed\u4e0bRa2\u63a5\u7740\u8ddfQg4\u3002",
+                    "pl": "W celu os\u0142abienia defensywy czarnego Kr\u00f3la. Je\u015bli Czarne wezm\u0105 piona b2, Bia\u0142e b\u0119d\u0105 kontynuowa\u0107 przez Wa2 i potem Hg4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0435\u0440\u0443\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 b2, \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442 Ra2, \u0447\u0435\u043c\u0443 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 Qg4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(98)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1bk1\/pp3r1p\/3p1nn1\/3Pp3\/4Ppp1\/2NN1P2\/PPRQBBPP\/2R3K1 b - - 0 19",
+        "moves": [
+            {
+                "move": "19... g3 ",
+                "comment": {
+                    "pt": "As pretas sacrificam um pe\u00e3o , que deve ser tomado, para abrir a coluna g , a diagonal h6-c1 e liberar casas (f4-g3) para seus cavalos.",
+                    "en": "Black sacrifices a pawn (that will be captured with the next move) in order to open the g-file, and the h6-c1 diagonal, and to liberate squares (f4 and g3) for its Knights.",
+                    "de": "Die Absicht dieses Bauernopfers, das von Wei\u00df gezwungenermassen angenommen werden muss, ist, sowohl die g-Linie wie die Diagonale h6-c1 zu \u00f6ffnen; ferner werden die Felder f4 und g3 f\u00fcr die Springer ger\u00e4umt.",
+                    "es": "Las negras sacrifican un pe\u00f3n , que debe ser tomado, para abrir la columna g, la iagonal h6-c1 y liberar casillas (f4-g3) para sus caballos.",
+                    "zh": "\u9ed1\u68cb\u4e3b\u52a8\u5f03\u5175\uff08\u8fd9\u4e2a\u5b50\u4e0b\u4e00\u6b65\u4e5f\u4f1a\u88ab\u767d\u68cb\u5403\u6389\uff09\u4e3a\u4e86\u5f00\u653eg-\u7ebf\u548ch6-c1\u659c\u7ebf\uff0c\u5e76\u4e14\u4e3a\u81ea\u5df1\u7684\u9a6c\u6e05\u7a7af4\u548cg3\u683c\u3002",
+                    "pl": "Czarne po\u015bwi\u0119caj\u0105 piona (kt\u00f3ry zostanie zbity w nast\u0119pnym ruchu) w celu otwarcia kolumny g i przek\u0105tnej h6-c1, a tak\u017ce uwolnienia p\u00f3l (f4 i g3) dla Skoczk\u00f3w.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u0443 (\u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0431\u0443\u0434\u0435\u0442 \u0432\u0437\u044f\u0442\u0430 \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0445\u043e\u0434\u0443), \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c g-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c h6-c1 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043f\u043e\u043b\u044f (f4 \u0438 g3) \u0434\u043b\u044f \u0438\u0445 \u041a\u043e\u043d\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

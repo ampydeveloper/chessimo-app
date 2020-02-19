@@ -1,0 +1,27 @@
+.databaselist {
+	border-bottom: 1px solid #fff;
+	display: flex;
+    width: 100%;
+    color: #000;
+    background: rgba($color: #fff, $alpha: 0.5);
+
+    .middletext {
+        flex: 1;
+    }
+    & > div {
+        padding: 5px 10px;
+    }
+
+    .uppertext {
+        color: #fff;
+    }
+    .uppertext, .lowertext {
+        padding: 5px;
+    }
+
+    .inittext, .endtext {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

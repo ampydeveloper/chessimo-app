@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(35)",
+            "zh": "Event 1"
+        },
+        "fen": "3rrnk1\/2p2q2\/p2b1pp1\/1pp5\/4PP1N\/2B3P1\/PPP1Q3\/1K1RR3 w - - 0 24",
+        "moves": [
+            {
+                "move": "24. Qg4 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando intensificar o ataque atrav\u00e9s de Cf5.",
+                    "en": "Threatening to intensify the attack through Nf5.",
+                    "de": "Droht, den Angriff durch Sf5 zu verst\u00e4rken.",
+                    "es": "Amenazando intensificar el ataque a trav\u00e9s de Cf5.",
+                    "zh": "\u5a01\u80c1\u901a\u8fc7Nf5\u52a0\u5f3a\u653b\u52bf\u3002",
+                    "pl": "Gro\u017c\u0105c zwi\u0119kszeniem intensywno\u015bci ataku przez Sf5.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 Nf5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(7)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pppbnpbp\/3p2p1\/3Pp3\/4P1n1\/2N1B3\/PPPQBPPP\/3RNRK1 w - - 0 12",
+        "moves": [
+            {
+                "move": "12. Bxg4 ",
+                "comment": {
+                    "pt": "Para preservar o bispo de casas pretas que, nesta posi\u00e7\u00e3o, \u00e9 mais importante que o bispo de casas brancas, devido a posi\u00e7\u00e3o dos pe\u00f5es em e4 e d5.",
+                    "en": "In order to preserve the dark-squared Bishop, which is more important on this position than the white-squared one, due to the position of the e4 and d5-pawns.",
+                    "de": "Um den schwarzfeldrigen L\u00e4ufer zu behalten, der wegen der Bauern auf e4 bzw. d5 auf dieser Stellung wichtiger ist als der wei\u00dffeldrige.",
+                    "es": "Para preservar el alfil de casillas negras que, en esta posici\u00f3n, es m\u00e1s importante que el alfil de casillas blancas, debido a la posici\u00f3n de los peones en e4 y d5.",
+                    "zh": "\u4e3a\u4e86\u4fdd\u5b58\u9ed1\u683c\u8c61\uff0c\u9274\u4e8ee4\u548cd5\u5175\u7684\u4f4d\u7f6e\uff0c\u5b83\u5728\u6b64\u5904\u8981\u6bd4\u767d\u683c\u8c61\u66f4\u52a0\u91cd\u8981\u3002",
+                    "pl": "W celu zachowania ciemnopolowego Go\u0144ca, wa\u017cniejszego w tej pozycji ni\u017c bia\u0142opolowy, z powodu pozycji pion\u00f3w e4 i d5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u0435\u043d \u043d\u0430 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u043c \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0437-\u0437\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u043f\u0435\u0448\u0435\u043a e4 \u0438 d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp2bppp\/2n1bn2\/3p4\/4PB2\/1NN5\/PPP1B1PP\/R2Q1R1K w - - 0 12",
+        "moves": [
+            {
+                "move": "12. e5 ",
+                "comment": {
+                    "pt": "Ganhando espa\u00e7o no flanco do rei.",
+                    "en": "Gaining space on the kingside.",
+                    "de": "Gewinnt Raum am K\u00f6nigsfl\u00fcgel.",
+                    "es": "Ganando espacio en el flanco rey.",
+                    "zh": "\u5728\u738b\u7ffc\u8d62\u5f97\u7a7a\u95f4\u3002",
+                    "pl": "Zdobywaj\u0105c przestrze\u0144 na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(10)",
+            "zh": "Event 1"
+        },
+        "fen": "r3kb1r\/1pqn1ppp\/p2pbn2\/4pP2\/4P3\/1NN5\/PPP1B1PP\/R1BQ1RK1 b kq - 0 10",
+        "moves": [
+            {
+                "move": "10... Bc4 ",
+                "comment": {
+                    "pt": "Mantendo o equil\u00edbrio na disputa pelas casas brancas.",
+                    "en": "Keeping balance in the dispute for the light squares.",
+                    "de": "H\u00e4lt das Gleichgewicht im Kampf um die wei\u00dfen Felder.",
+                    "es": "Manteniendo el equilibrio en la disputa por las casillas blancas.",
+                    "zh": "\u5728\u4e89\u593a\u767d\u683c\u7684\u6597\u4e89\u4e2d\u4fdd\u6301\u5e73\u8861\u3002",
+                    "pl": "Zachowanie balansu i sp\u00f3r o jasne pola.",
+                    "ru": "\u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0431\u0430\u043b\u0430\u043d\u0441 \u0432 \u0441\u043f\u043e\u0440\u0435 \u0437\u0430 \u0441\u0432\u0435\u0442\u043b\u044b\u043c\u0438 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(28)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp3bp\/3p1nn1\/3Pp1p1\/P1P1Pp2\/2NN1P2\/1P2BBPP\/R2Q1RK1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. c5 ",
+                "comment": {
+                    "pt": "Intensificando o ataque branco no flanco da dama atrav\u00e9s da poss\u00edvel abertura da coluna c.",
+                    "en": "Intensifying the white attack on the queenside through the possible opening of the c-file.",
+                    "de": "Verst\u00e4rkt den wei\u00dfen Angriff am Damenfl\u00fcgel durch die Er\u00f6ffnung der c-Linie.",
+                    "es": "Intensificando el ataque blanco en el flanco dama a trav\u00e9s de la posible apertura de la columna c.",
+                    "zh": "\u901a\u8fc7\u5f00\u653ec\u7ebf\u52a0\u5f3a\u767d\u68cb\u5728\u540e\u7ffc\u7684\u653b\u52bf\u3002",
+                    "pl": "Zwi\u0119kszenie intensywno\u015bci bia\u0142ego ataku na skrzydle hetma\u0144skim przez mo\u017cliwe otwarcie kolumny c.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043f\u0443\u0442\u0435\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0433\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

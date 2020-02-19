@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(64)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pb3ppp\/1p2pn2\/q3P1B1\/8\/P1PBQ3\/5PPP\/2R2RK1 b - - 0 17",
+        "moves": [
+            {
+                "move": "17... Ng4 ",
+                "comment": {
+                    "pt": "Atacando a dama e ganhando o pe\u00e3o de e5. A variante cr\u00edtica seria 18. Dh3 f5 19. exf6 Dxg5 e as pretas t\u00eam vantagem.",
+                    "en": "Attacking the Queen and winning the e5-pawn. The critical variation would be 18-Qh3 f5 19-exf6 Qxg5m and Black would have advantage.",
+                    "de": "Greift die Dame an und gewinnt den Bauern auf e5. Die kritische Variante w\u00e4re 18. Dh3 f5 19. exf6 Dxg5 mit Vorteil f\u00fcr Schwarz.",
+                    "es": "Atacando la dama y ganando el pe\u00f3n de e5. La variante cr\u00edtica ser\u00eda 18. Dh3 f5 19. exf6 Dxg5 y las negras tienen ventaja.",
+                    "zh": "\u653b\u51fb\u540e\u5e76\u8d62\u5f97e5-\u5175\u3002\u51b3\u5b9a\u6027\u7684\u53d8\u6362\u662f18-Qh3 f5 19-exf6 Qxg5\uff0c\u9ed1\u68cb\u5360\u4f18\u3002",
+                    "pl": "Atakuj\u0105c Hetmana i wygrywaj\u0105c piona e5. Krytyczn\u0105 wariacj\u0105 mog\u0142oby by\u0107 18. Hh3 f5 19. exf6 Hxg5 i Czarne mia\u0142yby przewag\u0119.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u0424\u0435\u0440\u0437\u044f \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5. \u041a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c 18-Qh3 f5 19-exf6 Qxg5m, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(133)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5kpp\/8\/8\/8\/5P2\/1RPK2PP\/6r1 w - - 0 40",
+        "moves": [
+            {
+                "move": "40. c4 ",
+                "comment": {
+                    "pt": "Ganhando um tempo no avan\u00e7o do pe\u00e3o e abrindo linhas para defender a segunda fila.",
+                    "en": "Gaining one tempo with the pawn advance and opening lines in order to defend the second rank.",
+                    "de": "Gewinnt ein Tempo und bereitet die Verteidigung der zweiten Reihe vor.",
+                    "es": "Ganando un tiempo en el avance del pe\u00f3n y abriendo l\u00edneas para defender la segunda l\u00ednea.",
+                    "zh": "\u633a\u5175\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u5e76\u4e14\u5f00\u653e\u7ebf\u8def\u4e3a\u4e86\u9632\u5fa1\u7b2c\u4e8c\u7ebf\u3002",
+                    "pl": "Zdobywaj\u0105c tempo przez marsz pionem oraz otwarcie linii w celu obrony drugiej linii.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u043f \u0441 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043f\u0435\u0448\u043a\u0438 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0432\u0442\u043e\u0440\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(63)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2qk1\/2p2r2\/2Np2nb\/P2Pp3\/P3PpP1\/2N5\/5BP1\/R2Q1RK1 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... f3 ",
+                "comment": {
+                    "pt": "Liberando a casa f4 para o cavalo ou bispo e abrindo a diagonal h6-c1, para o ataque ao rei branco.",
+                    "en": "Unlocking f4 for the Knight or Bishop and opening the h6-c1 diagonal in order to attack the white King.",
+                    "de": "R\u00e4umt das Feld f4 f\u00fcr den Springer bzw. den L\u00e4ufer und \u00f6ffnet die Diagonale h6-c1 f\u00fcr den Angriff auf den wei\u00dfen K\u00f6nig.",
+                    "es": "Liberando la casilla f4 para el caballo o el alfil y abriendo la diagonal h6-c1, para el ataque al rey blanco.",
+                    "zh": "\u7ed9\u9a6c\u6216\u8c61\u6e05\u7a7af4\u5e76\u4e14\u4e3a\u653b\u51fb\u767d\u738b\u5f00\u653eh6-c1\u659c\u7ebf\u3002",
+                    "pl": "Uwolnienie pola f4 dla Skoczka lub Go\u0144ca oraz otwarcie przek\u0105tnej h6-c1 w celu ataku bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0414\u0435\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 f4 \u0434\u043b\u044f \u041a\u043e\u043d\u044f \u0438\u043b\u0438 \u0421\u043b\u043e\u043d\u0430 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c h6-c1, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(122)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1p1nnppp\/p3pb2\/2Pp4\/PP1P4\/2N1BB1P\/5PP1\/2RQ1RK1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. g4 ",
+                "comment": {
+                    "pt": "Evitando ...Cf5 e aumentando a vantagem de espa\u00e7o.",
+                    "en": "Preventing ...Nf5 and intensifying space advantage on the kingside.",
+                    "de": "Verhindert ...Sf5 und erh\u00f6ht den Raumvorteil.",
+                    "es": "Evitando ...Cf5 y aumentando la ventaja de espacio.",
+                    "zh": "\u963b\u6b62...Nf5\u5e76\u4e14\u589e\u5f3a\u5728\u738b\u7ffc\u7684\u7a7a\u95f4\u4f18\u52bf\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c ... Sf5 i powi\u0119kszaj\u0105c przewag\u0119 przestrzenn\u0105 na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 ...Nf5 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(60)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1pp2ppp\/p1bbp3\/3n4\/2BP2Q1\/4PN2\/PP1B1PPP\/R4RK1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. Ne5 ",
+                "comment": {
+                    "pt": "Para tomar o bispo de c6 ou for\u00e7ar a captura em e5 e aproveitar o maior dom\u00ednio das casas pretas.",
+                    "en": "In order to take the c6-Bishop or force the capture on e5 and take advantage of greater dominance over dark squares.",
+                    "de": "Um entweder den L\u00e4ufer auf c6 zu schlagen oder das Schlagen auf e5 zu zwingen und die Kontrolle der schwarzen Felder auszunutzen.",
+                    "es": "Para tomar el alfil de c6 o forzar la captura en e5 y aprovechar el mayor dominio de las casillas negras.",
+                    "zh": "\u4e3a\u4e86\u6349c6-\u8c61\u6216\u8005\u5f3a\u653be6\uff0c\u5145\u5206\u5229\u7528\u5bf9\u9ed1\u683c\u7684\u7edf\u6cbb\u3002",
+                    "pl": "W celu wzi\u0119cia Go\u0144ca c6 lub wymuszenia wzi\u0119cia na e5 oraz wykorzystanie wi\u0119kszej dominacji nad ciemnymi polami.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 c6, \u0438\u043b\u0438 \u0432\u0437\u044f\u0442\u044c \u043d\u0430 e5 \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043d\u0430\u0434 \u0442\u0435\u043c\u043d\u044b\u043c\u0438 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

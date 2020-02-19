@@ -1,0 +1,769 @@
+[
+    {
+        "title": "",
+        "white": "\u00a3 x 0 5",
+        "white_sort": "",
+        "black": "Conceito",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/4k3\/8\/8\/8\/8\/QK6 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qa5 ",
+                "comment": {
+                    "pt": "Para as brancas darem xeque-mate, devem levar o rei contr\u00e1rio a um dos cantos do tabuleiro.",
+                    "en": "In order to check mate, White has to drive the opponent's King to one of the corners of the board.",
+                    "es": "Para dar jaque mate, las blancas deben llevar el rey contrario a uno de los rincones del tablero.",
+                    "de": "Um den K\u00f6nig Matt zu setzen, muss ihn Wei\u00df in eine der vier Brettecken dr\u00e4ngen.",
+                    "zh": "\u4e3a\u4e86\u5c06\u5bf9\u65b9\u7684\u738b\u5c06\u6b7b\uff0c\u767d\u65b9\u5fc5\u987b\u628a\u9ed1\u738b\u903c\u5230\u76d8\u89d2\u3002",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043c\u0430\u0442, \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u0432 \u043e\u0434\u0438\u043d \u0438\u0445 \u0443\u0433\u043b\u043e\u0432 \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u043a\u0438.",
+                    "pl": "Aby wygra\u0107 gr\u0119, Bia\u0142e musz\u0105 doprowadzi\u0107 wrogiego Kr\u00f3la do jednego z rog\u00f3w szachownicy."
+                }
+            },
+            {
+                "move": "   Kd6 2. Qb5 ",
+                "comment": {
+                    "pt": "H\u00e1 in\u00fameras formas de vencer e n\u00e3o \u00e9 poss\u00edvel definir exatamente quais s\u00e3o as melhores jogadas. A sequ\u00eancia desta partida mostra um m\u00e9todo e \u00e9 apenas demonstrativa.",
+                    "en": "There are countless ways to win and it's impossible to determine the best moves. The sequence shown here is only one method for illustration.",
+                    "es": "Hay innumerables formas de vencer y no es posible definir exactamente cu\u00e1les son las mejores jugadas. La continuaci\u00f3n de esta partida muestra un m\u00e9todo y s\u00f3lo tiene la intenci\u00f3n de ser ilustrativa.",
+                    "de": "Es gibt unz\u00e4hlige Formen der Gewinnf\u00fchrung und es ist nicht m\u00f6glich zu sagen, welche die besten Z\u00fcge sind. Wie zeigen hier eine systematische Fortsetzung.",
+                    "zh": "\u8d62\u5f97\u80dc\u5229\u7684\u65b9\u6cd5\u591a\u79cd\u591a\u6837\uff0c\u6240\u4ee5\u5f88\u96be\u8bf4\u54ea\u4e2a\u8d70\u6cd5\u662f\u6700\u597d\u7684\u3002\u8fd9\u91cc\u7ed9\u51fa\u7684\u987a\u5e8f\u53ea\u662f\u5e38\u89c4\u7684\u4e00\u4e2a\u4f8b\u5b50\u3002",
+                    "ru": "\u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u043f\u043e\u0431\u0435\u0434\u044b, \u0438 \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438, \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043b\u0443\u0447\u0448\u0438\u0439 \u0445\u043e\u0434. \u041f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439, \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0445 \u0442\u0443\u0442, \u043b\u0438\u0448\u044c \u0438\u043b\u043b\u044e\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0437 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432.",
+                    "pl": "W tej sytuacji wyst\u0119puje niezliczona ilo\u015b\u0107 dr\u00f3g do zwyci\u0119stwa i nie spos\u00f3b zauwa\u017cy\u0107 wszystkich najlepszych ruch\u00f3w. Poni\u017csza sekwencja jest tylko jedn\u0105 z metod, u\u017cyt\u0105 dla ilustracji."
+                }
+            },
+            {
+                "move": "   Ke6 3. Qc5 Kf6 4. Qd5 Ke7 5. Qc6 Kf7 6. Qd6 Kg7 7. Qe6 Kh8 8. Qg4 ",
+                "comment": {
+                    "pt": "O rei est\u00e1 preso na coluna h e agora \u00e9 s\u00f3 aproximar o rei branco. Tamb\u00e9m seria poss\u00edvel jogar Dd7 prendendo o rei na oitava fila e trazer o rei branco. Mas cuidado! 8-Df7 deixaria o rei preto afogado.",
+                    "en": "The King is stuck in the h-file and now the white King only has to come close. It would also be possible to play Qd7, fastening the King to the 8th rank, and bring the white King closer. But be careful! 8-Qf7 would lead to a stalemated King.",
+                    "es": "El rey est\u00e1 cortado en la columna h y ahora s\u00f3lo hace falta acercar el rey blanco. Tambi\u00e9n ser\u00eda posible jugar Dd7, cortando el rey en la octava l\u00ednea y traer el rey blanco. !Pero cuidado! 8-Df7 ahogar\u00eda al rey negro.",
+                    "de": "Der K\u00f6nig ist auf der h-Linie abgeschnitten und nun muss Wei\u00df einfach den K\u00f6nig n\u00e4hren. Es w\u00e4re auch m\u00f6glich, Dd7 zu spielen, um den schwarzen K\u00f6nig auf der achten Reihe gefangen zu halten und erst dann den eigenen K\u00f6nig n\u00e4her zu bringen. Aber Vorsicht! 8. Df7 w\u00fcrde den schwarzen K\u00f6nig pattsetzen.",
+                    "zh": "\u9ed1\u738b\u88ab\u56f0h-\u7ebf\uff0c\u767d\u738b\u73b0\u5728\u53ea\u9700\u9010\u6e10\u9760\u8fd1\u3002\u4e0bQd7\u4e5f\u662f\u53ef\u4ee5\u7684\uff0c\u5c06\u738b\u56f0\u5728\u516b\u7ebf\uff0c\u5e76\u9010\u6b65\u79fb\u8fd1\u767d\u738b\u3002\u4f46\u662f\u8981\u5c0f\u5fc3\uff018-Qf7\u53ef\u80fd\u4f1a\u5c06\u6b7b\u9ed1\u738b\u3002",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0437\u0430\u0441\u0442\u0440\u044f\u043b \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u0438, \u0442\u0435\u043f\u0435\u0440\u044c, \u0431\u0435\u043b\u043e\u043c\u0443 \u041a\u043e\u0440\u043e\u043b\u044e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0441\u0431\u043b\u0438\u0436\u0430\u0442\u044c\u0441\u044f \u0441 \u043d\u0438\u043c. \u0417\u0434\u0435\u0441\u044c \u043c\u043e\u0436\u043d\u043e \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043d\u0430 Qd7, \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u043d\u0430 \u0432\u043e\u0441\u044c\u043c\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438, \u0430 \u043f\u043e\u0442\u043e\u043c \u0441\u0431\u043b\u0438\u0436\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u041d\u043e \u0431\u0443\u0434\u044c\u0442\u0435 \u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u044b! \u0425\u043e\u0434 \u043d\u0430 8-Qf7 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u0430\u0442\u0443.",
+                    "pl": "Kr\u00f3l jest uwi\u0119ziony na kolumnie h i jedyn\u0105 potrzebn\u0105 rzecz\u0105, jak\u0105 nale\u017cy wykona\u0107 jest zbli\u017cenie si\u0119 w\u0142asnym Kr\u00f3lem. Mo\u017cliwe jest r\u00f3wnie\u017c zagranie Hd7, aby zagoni\u0107 Kr\u00f3la na \u00f3sm\u0105 lini\u0119 i zbli\u017cy\u0107 Bia\u0142ego Kr\u00f3la. Jednak nale\u017cy by\u0107 ostro\u017cnym. 8. Hf7 prowadzi do pata."
+                }
+            },
+            {
+                "move": "Kh7 9. Kc2 Kh8 10. Kd3 Kh7 11. Ke4 Kh6 12. Kf5 Kh7 13. Kf6 Kh8 14. Qg7#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a6 x 0 6",
+        "white_sort": "",
+        "black": "Conceito",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/8\/8\/4k3\/8\/8\/RK6 w - - 0 1",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "O princ\u00edpio \u00e9 o mesmo do final de dama e rei contra rei (levar o rei para um dos cantos e dar mate). A diferen\u00e7a do final com a dama \u00e9 que a torre precisar\u00e1 de ajuda para cercar o rei contr\u00e1rio. Rei e Torre dever\u00e3o avan\u00e7ar juntos.",
+                    "en": "The principle is the same as in endgames with Queen and King against King (driving the King to one corner and check mate). The difference from the endgame with a Queen is that the Rook needs the help to siege the opponent's King. Rook and King have to advance together.",
+                    "es": "El principio es el mismo del final de dama y rey contra rey (llevar el rey hacia uno de los rincones y darle mate). La diferencia del final con la dama es que la torre necesitar\u00e1 de ayuda para acorralar al rey contrario. Rey y torre deber\u00e1n avanzar juntos.",
+                    "de": "Das Prinzip ist das gleiche wie im Endspiel Dame und K\u00f6nig gegen K\u00f6nig (den gegnerischen K\u00f6nig in eine der vier Brettecken zu dr\u00e4ngen). Der Unterschied ist aber, dass der Turm Hilfe vom K\u00f6nig braucht."
+                }
+            },
+            {
+                "move": "   1. Ra3 ",
+                "comment": {
+                    "pt": "Esse lance j\u00e1 restringe os movimentos do rei preto.",
+                    "en": "This move already restricts the black King.",
+                    "es": "Esta jugada empieza a restringir los movimientos del rey negro.",
+                    "de": "Dieser Zug schr\u00e4nkt die Bewegungsfreiheit vom schwarzen K\u00f6nig ein.",
+                    "zh": "\u8fd9\u4e00\u6b65\u9650\u5236\u4e86\u9ed1\u738b\u7684\u6d3b\u52a8\u7a7a\u95f4\u3002",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0443\u0436\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f.",
+                    "pl": "Ruch ograniczaj\u0105cy czarnego Kr\u00f3la."
+                }
+            },
+            {
+                "move": "   Kd4 2. Kc2 Kc4 3. Rd3 Kb4 4. Rc3 ",
+                "comment": {
+                    "pt": "Tirando mais uma coluna de fuga do rei preto.",
+                    "en": "Disabling one more escape file from the black King.",
+                    "es": "Quit\u00e1ndole otra columna de fuga al rey negro.",
+                    "de": "Nimmt dem schwarzen K\u00f6nig noch eine Linie.",
+                    "zh": "\u5207\u65ad\u53e6\u4e00\u6761\u9ed1\u738b\u9003\u79bb\u7684\u9053\u8def",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0439\u0442\u0435 \u043e\u0434\u043d\u0443 \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0435\u0439 \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f.",
+                    "pl": "Uniemo\u017cliwiaj\u0105c kolejn\u0105 mo\u017cliwo\u015b\u0107 ucieczki czarnego Kr\u00f3la."
+                }
+            },
+            {
+                "move": "   Kb5 5. Kb3 ",
+                "comment": {
+                    "pt": "O rei se aproxima para ajudar a torre e encurralar o rei contr\u00e1rio.",
+                    "en": "The King comes in to help the Rook to siege the opponent's King.",
+                    "es": "El rey se acerca para ayudar a la torre y acorralar al rey adversario.",
+                    "de": "Der K\u00f6nig n\u00e4hert sich, um dem Turm beim Einkreisen des gegnerischen K\u00f6nigs zu helfen.",
+                    "zh": "\u738b\u8d76\u8fc7\u6765\u5e2e\u52a9\u8f66\u6765\u56f4\u56f0\u654c\u738b\u3002",
+                    "ru": "\u041a\u043e\u0440\u043e\u043b\u044c \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u041b\u0430\u0434\u044c\u0435, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430.",
+                    "pl": "Kr\u00f3l wkracza, by pom\u00f3c Wie\u017cy osaczy\u0107 wrogiego Kr\u00f3la."
+                }
+            },
+            {
+                "move": "Kb6 6. Kb4 Ka6 7. Rc6+ Ka7 8. Kb5 Kb7 9. Kc5 Ka7 10. Rb6 Ka8 11. Kc6 Ka7 12. Kc7 Ka8 13. Ra6#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a6 x 0 7",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4k3\/8\/4K3\/8\/8\/8\/8\/4R3 w - - 0 1",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "As brancas d\u00e3o mate em tr\u00eas lances e qualquer lance inicial de torre leva a este resultado.",
+                    "en": "White mates in three and any inicial move of the Rook leads to the same result.",
+                    "es": "Las blancas dan mate en tres jugadas y cualquier jugada inicial de torre lleva a este resultado.",
+                    "de": "Wei\u00df setzt Matt in drei Z\u00fcgen. Beliebige Turmz\u00fcge f\u00fchren zu diesem Ergebnis."
+                }
+            },
+            {
+                "move": "   1. Ra1 Kd8 2. Rc1 ",
+                "comment": {
+                    "pt": "As brancas obrigam o rei preto a voltar para e8. Se as pretas tivessem jogado 1... Rf8, as brancas jogariam 2-Tg1 com a mesma id\u00e9ia.",
+                    "en": "White forces the black King to return to e8. If Black had played 1...Kf8, White would have answered with 2-Rg1 with the same intention.",
+                    "es": "Las blancas obligan el rey negro a volver a e8. Si las negras hubieran jugado 1... Rf8, las blancas jugar\u00edan 2-Tg1 con la misma idea.",
+                    "de": "Wei\u00df zwingt den schwarzen K\u00f6nig, auf e8 zur\u00fcckzukehren. Die gleiche Idee funktioniert gegen 1... Kf8: Wei\u00df spielt 2. Tg1.",
+                    "zh": "\u767d\u65b9\u5c06\u9ed1\u738b\u903c\u9000\u5230e8\u3002\u540c\u6837\u7684\u529e\u6cd5\u4e5f\u53ef\u4ee5\u5bf9\u4ed8\u9ed1\u65b9\u8d701... Kf8\uff0c\u767d\u65b9\u5e942-Rg1\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430 e8. \u0415\u0441\u043b\u0438 \u0431\u044b \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u043b\u0438 \u043d\u0430 1...Kf8, \u0411\u0435\u043b\u044b\u0435 \u0431\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u043b\u0438 \u043d\u0430 2-Rg1 \u0441 \u0442\u0430\u043a\u0438\u043c\u0438 \u0436\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u044f\u043c\u0438.",
+                    "pl": "Bia\u0142e zmuszaj\u0105 czarnego Kr\u00f3la do powrotu na pole e8. Je\u015bli Czarne zagra\u0142yby 1. ... Kf8, Bia\u0142e mog\u0142yby odpowiedzie\u0107 2. Wg1, z t\u0105 sam\u0105 intencj\u0105."
+                }
+            },
+            {
+                "move": "Ke8 3. Rc8#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "D x 0 8",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "6k1\/8\/5Q2\/6K1\/8\/8\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "Mate em 3.",
+                    "en": "Mate in 3.",
+                    "es": "Mate en 3.",
+                    "de": "Matt in 3 Z\u00fcgen."
+                }
+            },
+            {
+                "move": "   1. Qe7 ",
+                "comment": {
+                    "pt": "As brancas n\u00e3o poderiam ter aproximado o rei (1-Rh6 ou 1-Rg6) , devido ao tema do afogamento.",
+                    "en": "White shouldn't have brought the King so close (1-Kh6 or 1-Kg6), because of the stalemate theme.",
+                    "es": "Las blancas no podr\u00edan acercar el rey (1-Rh6 o 1-Rg6), porque ahogar\u00edan al rey adversario.",
+                    "de": "Wei\u00df konnte wegen des Patts mit dem K\u00f6nig nicht n\u00e4her kommen (1. Kh6 oder 1. Kg6).",
+                    "zh": "\u767d\u65b9\u4e0d\u5e94\u8be5\u5c06\u738b\u9760\u7684\u8fd9\u4e48\u8fd1(1-Kh6 \u6216\u8005 1-Kg6)\uff0c\u907f\u514d\u88ab\u5c06\u6b7b\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0442\u0430\u043a \u0431\u043b\u0438\u0437\u043a\u043e (1-Kh6 or 1-Kg6), \u0438\u0437-\u0437\u0430 \u0443\u0433\u0440\u043e\u0437\u044b \u041f\u0430\u0442\u0430.",
+                    "pl": "Bia\u0142e nie powinny doprowadza\u0107 Kr\u00f3la tak blisko (1. Kh6 lub 1. Kg6) poniewa\u017c prowadzi to do kombinacji patowej."
+                }
+            },
+            {
+                "move": "   Kh8 2. Kg6 ",
+                "comment": {
+                    "pt": "Rh6 e Rf6 levariam ao mesmo resultado.",
+                    "en": "Kh6 and Kf6 would lead to the same result.",
+                    "es": "Rh6 y Rf6 llevar\u00edan al mismo resultado.",
+                    "de": "Kh6 und Kf6 f\u00fchren zum gleichen Ergebnis.",
+                    "zh": "Kh6 \u548c Kf6 \u7684\u7ed3\u679c\u662f\u4e00\u6837\u7684\u3002",
+                    "ru": "Kh6 and Kf6 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u0442\u0430\u043a\u043e\u043c\u0443-\u0436\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0443.",
+                    "pl": "Kh6 i Kf6 prowadz\u0105 do tego samego rezultatu."
+                }
+            },
+            {
+                "move": "Kg8 3. Qd8#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a5\u00a5 x 0 34",
+        "white_sort": "",
+        "black": "Conceito",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/8\/8\/3k4\/8\/8\/2BK1B2 w - - 0 1",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "Com dois bispos, a estrat\u00e9gia \u00e9 levar o rei contr\u00e1rio para qualquer um dos cantos do tabuleiro.",
+                    "en": "With two Bishops the strategy is to drive the opponent's King to any corner of the chessboard.",
+                    "es": "Con dos alfiles, la estrategia es llevar el rey contrario a cualquiera de los rincones del tablero.",
+                    "de": "Wenn man zwei L\u00e4ufer hat, besteht die Strategie darin, den gegnerischen K\u00f6nig in eine beliebige Brettecke zu dr\u00e4ngen."
+                }
+            },
+            {
+                "move": "   1. Ke2 Ke4 ",
+                "comment": {
+                    "pt": "As pretas tentam deixar o rei o mais centralizado poss\u00edvel.",
+                    "en": "Black tries to let the King as centralized as possible.",
+                    "es": "Las negras tratan de dejar el rey lo m\u00e1s centralizado posible.",
+                    "de": "Schwarz versucht, so lange wie m\u00f6glich im Zentrum zu bleiben.",
+                    "zh": "\u9ed1\u65b9\u7aed\u5c3d\u5168\u529b\u5c3d\u53ef\u80fd\u957f\u7684\u5446\u5728\u4e2d\u5fc3\u3002",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0447\u0442\u043e\u0431\u044b \u041a\u043e\u0440\u043e\u043b\u044c \u0431\u044b\u043b \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u0431\u043e\u043b\u0435\u0435 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u043c.",
+                    "pl": "Czarne staraj\u0105 si\u0119 scentralizowa\u0107 Kr\u00f3la tak, jak tylko to mo\u017cliwe."
+                }
+            },
+            {
+                "move": "   2. Be3 Ke5 3. Kd3 Kd5 4. Bd4 Ke6 5. Ke4 Kd6 6. Bc4 ",
+                "comment": {
+                    "pt": "Os e o rei centralizados obrigam o rei preto a ir em dire\u00e7\u00e3o ao canto.",
+                    "en": "The centralized Bishops and King force the black King to move towards the corner.",
+                    "es": "Los alfiles y el rey centralizados obligan el rey negro a ir hacia el rinc\u00f3n.",
+                    "de": "Die zentralisierten Figuren dr\u00e4ngen den schwarzen K\u00f6nig Richtung Brettecke.",
+                    "zh": "\u4e2d\u5fc3\u68cb\u5b50\u5c06\u9ed1\u738b\u903c\u5230\u76d8\u89d2\u3002",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0421\u043b\u043e\u043d\u044b \u0438 \u041a\u043e\u0440\u043e\u043b\u044c \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c \u043a \u0443\u0433\u043b\u0443 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f.",
+                    "pl": "Scentralizowane Go\u0144ce i Kr\u00f3l doprowadzaj\u0105 czarnego Kr\u00f3la do skierowania si\u0119 do rogu."
+                }
+            },
+            {
+                "move": "   Kc6 7. Ke5 Kd7 8. Bd5 Kc7 9. Bc5 Kd7 10. Bd6 Ke8 11. Ke6 Kd8 12. Bc6 Kc8 13. Kd5 ",
+                "comment": {
+                    "pt": "Cuidado! 13-Re7 afogaria o rei preto.",
+                    "en": "Be careful! 13-Ke7 would stalemate the black King.",
+                    "es": "!Cuidado! 13-Re7 ahogaria al rey negro.",
+                    "de": "Vorsicht! 13. Ke7 w\u00fcrde den schwarzen K\u00f6nig Patt setzen!",
+                    "zh": "\u6ce8\u610f\uff0113-Ke7\u53ef\u80fd\u4f1a\u5c06\u6b7b\u9ed1\u738b\u3002",
+                    "ru": "\u0411\u0443\u0434\u044c\u0442\u0435 \u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u044b! 13-Ke7 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u0430\u0442\u0443 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f.",
+                    "pl": "Uwaga! 13. Ke7 prowadzi czarnego Kr\u00f3la do pata."
+                }
+            },
+            {
+                "move": "   Kd8 14. Kc5 ",
+                "comment": {
+                    "pt": "As brancas levam o rei preto para o canto onde v\u00e3o dar mate. Os bispos evitam que o rei se afaste.",
+                    "en": "White drives the black King to the corner where it will be in check. The Bishops prevent it from escaping.",
+                    "es": "Las blancas llevan el rey negro al rinc\u00f3n en el que le van a dar mate. Los alfiles evitan que el rey se aleje.",
+                    "de": "Wei\u00df zwingt den schwarzen K\u00f6nig in die Brettecke, wo er ihn Matt setzen wird. Die L\u00e4ufer verhindern, dass sich der K\u00f6nig entfernt.",
+                    "zh": "\u767d\u65b9\u5c06\u9ed1\u738b\u903c\u5230\u76d8\u89d2\u4e0a\u6210\u6740\u3002\u8c61\u5219\u6709\u6548\u7684\u9632\u6b62\u9ed1\u738b\u9003\u7a9c\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u044e\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u043a \u0443\u0433\u043b\u0443, \u0433\u0434\u0435 \u0435\u043c\u0443 \u0431\u0443\u0434\u0435\u0442 \u0428\u0410\u0425. \u0421\u043b\u043e\u043d\u044b \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0435\u043c\u0443 \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c.",
+                    "pl": "Bia\u0142e prowadz\u0105 czarnego Kr\u00f3la do rogu, gdzie mo\u017ce by\u0107 szachowany. Go\u0144ce uniemo\u017cliwi\u0105 ucieczk\u0119."
+                }
+            },
+            {
+                "move": "   Kc8 15. Kb6 Kd8 ",
+                "comment": {
+                    "pt": "As brancas dar\u00e3o mate em poucos lances. Basta for\u00e7ar o rei a ir para o canto.",
+                    "en": "White will produce a mate in a few moves. It only has to force the King to a corner.",
+                    "es": "Las blancas dar\u00e1n mate en pocas jugadas. Basta forzar el rey a ir para el rinc\u00f3n.",
+                    "de": "Wei\u00df gibt in wenigen Z\u00fcgen Matt. Es gen\u00fcgt, den K\u00f6nig in die Brettecke zu zwingen.",
+                    "zh": "\u53ea\u8981\u5c06\u9ed1\u738b\u903c\u5230\u76d8\u89d2\uff0c\u767d\u68cb\u5f88\u5feb\u5c31\u80fd\u6740\u738b\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0441\u0442\u0430\u0432\u044f\u0442 \u041c\u0410\u0422 \u0447\u0435\u0440\u0435\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0445\u043e\u0434\u043e\u0432. \u041e\u0442\u0442\u0435\u0441\u043d\u044f\u0439\u0442\u0435 \u041a\u043e\u0440\u043e\u043b\u044f \u043a \u0443\u0433\u043b\u0443.",
+                    "pl": "Bia\u0142e doprowadz\u0105 do mata w kilku posuni\u0119ciach. Wystarczy jedynie doprowadzi\u0107 Kr\u00f3la do rogu."
+                }
+            },
+            {
+                "move": "   16. Bc5 Kc8 17. Be7 ",
+                "comment": {
+                    "pt": "For\u00e7a o rei a ir para b8.",
+                    "en": "Forces the King to b8.",
+                    "es": "Fuerza el rey a ir a b8.",
+                    "de": "Zwingt den K\u00f6nig, nach b8 zu gehen.",
+                    "zh": "\u628a\u738b\u903c\u5230b8.",
+                    "ru": "\u041e\u0442\u0442\u0435\u0441\u043d\u044f\u0439\u0442\u0435 \u041a\u043e\u0440\u043e\u043b\u044f \u043d\u0430 b8.",
+                    "pl": "Zmusza Kr\u00f3la do zaj\u0119cia b8."
+                }
+            },
+            {
+                "move": "   Kb8 18. Bd7 Ka8 19. Bd8 ",
+                "comment": {
+                    "pt": "As brancas fazem um lance de espera, preparando o mate.",
+                    "en": "White performs a waiting move, preparing for the mate.",
+                    "es": "Las blancas hacen una jugada de espera, preparando el mate.",
+                    "de": "Wartezug.",
+                    "zh": "\u767d\u68cb\u4f7f\u7528\u7b49\u7740\uff0c\u51c6\u5907\u6740\u738b\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0434\u0435\u043b\u0430\u044e\u0442 \u0432\u044b\u0436\u0438\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u041c\u0410\u0422.",
+                    "pl": "Bia\u0142e zagrywaj\u0105 wyczekuj\u0105cy ruch, przygotowuj\u0105c si\u0119 do mata."
+                }
+            },
+            {
+                "move": "Kb8 20. Bc7+ Ka8 21. Bc6#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a5\u00a4 70",
+        "white_sort": "",
+        "black": "Conceito",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/8\/8\/8\/4k3\/8\/2N1KB2 w - - 0 1",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "O mate com bispo e cavalo pode ser dado exclusivamente nos cantos do tabuleiro cujas casas forem da mesma cor das controladas pelo bispo. Nesse caso, h1 e a8. Esse processo \u00e9 complexo e pode ser dividido em tr\u00eas etapas: 1) Levar o rei advers\u00e1rio at\u00e9 a borda do tabuleiro, eventualmente para o canto errado 2) For\u00e7a-lo a ir para o canto desejado 3) Dar mate.",
+                    "en": "Mate with Bishop and Knight can be performed exclusively in the corners of the chessboard that are the same color as the squares the Bishop controls. In this case h1 and a8. It's a complex process and it can be divided in three steps: 1) drive the opponent's King to the border of the chessboar, occasionally to the wrong corner; 2) force it to the right corner; 3) mate.",
+                    "es": "El mate con alfil y caballo puede ser dado exclusivamente en los rincones del tablero con casillas del mismo color quee las controladas por el alfil. En este caso, h1 y a8. Este proceso es complejo y puede ser dividido en tres etapas: 1) Llevar el rey adversario hasta el borde del tablero, eventualmente para el rinc\u00f3n \"malo\". 2) Forzarlo a ir al rinc\u00f3n deseado 3) Dar mate.",
+                    "de": "Matt mit L\u00e4ufer und Springer ist nur dann m\u00f6glich, wenn der gegnerische K\u00f6nig auf einem Eckfeld der gleichen Farbe steht, wie die der Felder, die vom L\u00e4ufer beherrscht werden (h1 und a8 in unserem Beispiel). Das Verfahren ist komplex und kann in drei Fasen geteilt werden: 1) den gegnerischen K\u00f6nig an den Brettrand dr\u00e4ngen, eventuell das falsche Eckfeld; 2) den gegnerischen K\u00f6nig auf das gew\u00fcnschte Eckfeld zwingen; 3) den gegnerischen K\u00f6nig mattsetzen."
+                }
+            },
+            {
+                "move": "   1. Bg2 ",
+                "comment": {
+                    "pt": "O prim eiro objetivo das brancas \u00e9 centralizar suas pe\u00e7as e coloca-las para trabalhar harmoniosamente.",
+                    "en": "White's first goal is to centralize its pieces and let them act in harmony with each other.",
+                    "es": "El primer objetivo de las blancas es centralizar sus piezas y ubicarlas para trabajar armoniosamente.",
+                    "de": "Das erste Ziel vom Wei\u00dfen ist es, die Figuren zu zentralisieren und sie harmonisch zusammenspielen zu lassen.",
+                    "zh": "\u767d\u65b9\u7684\u9996\u8981\u76ee\u7684\u662f\u62a2\u5360\u4e2d\u5fc3\uff0c\u5b50\u529b\u534f\u540c\u3002",
+                    "ru": "\u041f\u0435\u0440\u0432\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430 \u0411\u0435\u043b\u044b\u0445 - \u044d\u0442\u043e \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u0434\u043b\u044f \u0438\u0445 \u043b\u0443\u0447\u0448\u0435\u0433\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0434\u0440\u0443\u0433 \u0441 \u0434\u0440\u0443\u0433\u043e\u043c.",
+                    "pl": "Podstawowym celem Bia\u0142ych jest centralizacja figur i doprowadzenie do harmonijne ich wsp\u00f3\u0142pracy."
+                }
+            },
+            {
+                "move": "   Kd4 ",
+                "comment": {
+                    "pt": "As pretas tentar\u00e3o manter-se o maior tempo poss\u00edvel no centro.",
+                    "en": "Black will try to stay as long as possible in the center.",
+                    "es": "Las negras intentar\u00e1n mantenerse el mayor tiempo posible en el centro.",
+                    "de": "Schwarz versucht, so lange wie m\u00f6glich im Zentrum zu bleiben.",
+                    "zh": "\u9ed1\u65b9\u529b\u6c42\u66f4\u4e45\u7684\u5446\u5728\u4e2d\u5fc3\u3002",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0441\u0442\u0430\u0440\u0430\u0442\u044c\u0441\u044f \u043e\u0441\u0442\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e, \u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u044d\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.",
+                    "pl": "Czarne spr\u00f3buj\u0105 pozosta\u0107 w centrum tak d\u0142ugo, jak to mo\u017cliwe."
+                }
+            },
+            {
+                "move": "   2. Ke2 ",
+                "comment": {
+                    "pt": "H\u00e1 outras jogadas poss\u00edveis, como 1-Rd2 ou 1-Rf2. Em fun\u00e7\u00e3o da grande variedade de lances que podem ser efetuados levando a vit\u00f3ria, vamos nos abster desse tipo de coment\u00e1rio. Lembrando sempre que o importante n\u00e3o \u00e9 decorar a sequ\u00eancia exata dos lances, mas sim fixar a id\u00e9ia e observar como as pe\u00e7as precisam ser coordenadas para chegar a vit\u00f3ria.",
+                    "en": "There are other possible moves, such as 1-Kd2 or 1-Kf2. Since there is a great variety of possible moves that lead to victory, this kind of comment will not be included here any longer. Notice that it is more important to remember the main idea and observe how pieces have to be coordinated in order to win, rather than to learn an exact sequence by heart.",
+                    "es": "Hay otras jugadas posibles, como: 1-Rd2 o 1-Rf2. Debido a la gran variedad de jugadas que pueden ser efectuadas para ganar , vamos a abstenernos comentar todas. Recordemos siempre que lo importante no es aprender de memoria la secuencia exacta de jugadas, sino fijar la idea y observar c\u00f3mo hay que coordinar las piezas para llegar al triunfo.",
+                    "de": "Andere Z\u00fcge wie 1. Kd2 und 1. Kf2 sind auch m\u00f6glich. Da die Anzahl von M\u00f6glichkeiten sehr gro\u00df ist, werden wie sie nicht alle kommentieren. Es ist wichtig, dass der Lerner sich die Idee einpr\u00e4gt und beobachtet, wie die Figuren koordiniert werden, anstatt Zugfolgen auswendig zu lernen.",
+                    "zh": "\u8fd8\u6709\u5176\u4ed6\u7684\u8d70\u6cd5\uff0c\u59821-Kd2 \u6216\u8005 1-Kf2\uff0c\u4e5f\u662f\u53ef\u4ee5\u7684\u3002\u56e0\u4e3a\u8d70\u6cd5\u592a\u591a\uff0c\u6240\u4ee5\u8fd9\u91cc\u5c31\u4e0d\u4e00\u4e00\u8bb2\u89e3\u4e86\u3002\u6700\u91cd\u8981\u7684\u662f\u8981\u8bb0\u4f4f\u4e3b\u8981\u7684\u601d\u7ef4\u65b9\u5f0f\u548c\u89c2\u5bdf\u5b50\u529b\u5982\u4f55\u534f\u540c\uff0c\u800c\u4e0d\u662f\u8981\u6b7b\u8bb0\u786c\u80cc\u6bcf\u4e00\u7740\u7684\u8d70\u6cd5\u3002",
+                    "ru": "\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0435\u0441\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0445\u043e\u0434\u043e\u0432, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, 1-Kd2 \u0438 1-Kf2. \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0442\u0443\u0442 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0445\u043e\u0434\u043e\u0432, \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u043a \u043f\u043e\u0431\u0435\u0434\u0435, \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u0442\u0443\u0442 \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c. \u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0441\u043e\u0432\u0435\u0442 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u0412\u044b \u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0438 \u0441\u043b\u0435\u0434\u0438\u043b\u0438 \u0437\u0430 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0435\u0439 \u0444\u0438\u0433\u0443\u0440, \u0430 \u043d\u0435 \u0437\u0430\u0443\u0447\u0438\u0432\u0430\u043b\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0445\u043e\u0434\u043e\u0432 \u043d\u0430\u0438\u0437\u0443\u0441\u0442\u044c.",
+                    "pl": "S\u0105 r\u00f3wnie\u017c inne mo\u017cliwe posuni\u0119cia jak 1. Kd2 lub 1. Kf2. Z powodu wielu mo\u017cliwo\u015bci posuni\u0119\u0107 prowadz\u0105cych do zwyci\u0119stwa, tego typu komentarze nie b\u0119d\u0105 ju\u017c umieszczane. Zauwa\u017c, \u017ce wa\u017cniejsze jest zapami\u0119tanie podstawowej idei i obserwacja jak figury powinny by\u0107 skoordynowane, aby doprowadzi\u0107 do wygranej, ni\u017c wyucza\u0107 si\u0119 na pami\u0119\u0107 dok\u0142adnej sekwencji ruch\u00f3w."
+                }
+            },
+            {
+                "move": "   Ke5 3. Ke3 Kf5 4. Nd3 Kg5 5. Be4 ",
+                "comment": {
+                    "pt": "Com esse lance as brancas formam uma parede, que restringe o espa\u00e7o do rei advers\u00e1rio. Observe o alinhamento do bispo em rela\u00e7\u00e3o ao cavalo e as casas que os dois juntos s\u00e3o capazes de controlar: f3, f4, f5, e5, d5.",
+                    "en": "With this move, White is able to build a wall that restrains the space of the opponent's King. Notice the alignment of the Bishop with the Knight and the squares they are able to control together: f3, f4, f5, e5, d5.",
+                    "es": "Con esta jugada las blancas forman una barrera que restringe el espacio del rey adversario. Obs\u00e9rvese el alineamiento del alfil en relaci\u00f3n al caballo y las casillas que juntos son capaces de controlar: f3, f4, f5, e5, d5.",
+                    "de": "Mit diesem Zug baut Wei\u00df eine Sperre auf, die die Bewegungsfreiheit vom gegnerischen K\u00f6nig einschr\u00e4nkt. Passen Sie auf die Aufstellung von L\u00e4ufer und Springer und die Felder, die sie unter Kontrolle haben: f3, f4, f5, e5, d5.",
+                    "zh": "\u4e0b\u8fd9\u4e00\u7740\u767d\u65b9\u5c31\u8bbe\u597d\u969c\u788d\u9650\u5236\u9ed1\u738b\u7684\u6d3b\u52a8\u7a7a\u95f4\u3002\u6ce8\u610f\u9a6c\u548c\u8c61\u8054\u5408\u8d77\u6765\u5c31\u53ef\u4ee5\u63a7\u5236\u5982\u4e0b\u683c\uff1af3\u3001f4\u3001f5\u3001e5\u3001d5\u3002",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u044e\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0444\u0438\u0433\u0443\u0440 \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b  \u0441\u0443\u0437\u0438\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430. \u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0421\u043b\u043e\u043d\u0430 \u0438 \u041a\u043e\u043d\u044f. \u0421\u043e\u043e\u0431\u0449\u0430 \u043e\u043d\u0438 \u043c\u043e\u0433\u0443\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0442\u0430\u043a\u0438\u0435 \u043f\u043e\u043b\u044f: f3, f4, f5, e5, d5.",
+                    "pl": "Dzi\u0119ki temu posuni\u0119ciu Bia\u0142e s\u0105 w stanie zbudowa\u0107 mur ograniczaj\u0105cy przestrze\u0144 wrogiego Kr\u00f3la. Zauwa\u017c, \u017ce Goniec wraz ze Skoczkiem s\u0105 w stanie razem kontrolowa\u0107: f3, f4, f5, e5, d5."
+                }
+            },
+            {
+                "move": "   Kf6 ",
+                "comment": {
+                    "pt": "A resposta das pretas 5... Rg4 ser\u00e1 vista em outro exerc\u00edcio.",
+                    "en": "The black answer 5...Kg4 will be studied in another exercise.",
+                    "es": "La respuesta de las negras 5...Rg4 ser\u00e1 vista en otro ejercicio.",
+                    "de": "Die schwarze Fortsetzung 5... Kg4 wird in einer anderen \u00dcbung analysiert.",
+                    "zh": "\u9ed1\u65b9\u5e94 5...Kg4\u7684\u8d70\u6cd5\u4f1a\u5728\u5176\u4ed6\u7ec3\u4e60\u4e2d\u8fdb\u884c\u5206\u6790\u3002",
+                    "ru": "\u041e\u0442\u0432\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0445\u043e\u0434\u043e\u043c \u043d\u0430 5...Kg4 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d \u043d\u0430 \u0434\u0440\u0443\u0433\u043e\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435.",
+                    "pl": "Odpowied\u017a czarnych 5. ... Kg4 b\u0119dzie przestudiowana w innym \u0107wiczeniu."
+                }
+            },
+            {
+                "move": "   6. Kd4 ",
+                "comment": {
+                    "pt": "Construida a parede, o rei branco volta ao centro e se prepara para controlar outras casas, obrigando o rei advers\u00e1rio a recuar.",
+                    "en": "Once the wall is built, the white King returns to the center and prepares to control other squares in order to force the opponent's King to retreat.",
+                    "es": "Construida la barrera, el rey blanco vuelve al centro y se prepara para controlar otras casillas, obligando al rey adversario a retroceder.",
+                    "de": "Nach dem Aufbau der Sperre, kehrt der wei\u00dfe K\u00f6nig zum Zentrum zur\u00fcck und zwingt den schwarzen K\u00f6nig zum R\u00fcckmarsch.",
+                    "zh": "\u4e00\u65e6\u8bbe\u597d\u969c\u788d\uff0c\u767d\u738b\u9a6c\u4e0a\u56de\u5230\u4e2d\u5fc3\uff0c\u4ee5\u4fbf\u63a7\u5236\u5176\u4ed6\u683c\u5b50\u6765\u903c\u9ed1\u738b\u64a4\u9000\u3002",
+                    "ru": "\u041a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u0431\u0430\u0440\u044c\u0435\u0440 \u0432\u044b\u0441\u0442\u0440\u043e\u0435\u043d, \u0431\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u0446\u0435\u043d\u0442\u0440 \u0434\u043b\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043f\u043e\u043b\u044f\u043c\u0438, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0442\u044c.",
+                    "pl": "Kiedy mur zosta\u0142 zbudowany, bia\u0142y Kr\u00f3l wraca do centrum i przygotowuje si\u0119 do kontroli innych p\u00f3l, aby zmusi\u0107 wrogiego Kr\u00f3la do wycofania si\u0119."
+                }
+            },
+            {
+                "move": "   Ke6 7. Kc5 Ke7 8. Kd5 Kf6 ",
+                "comment": {
+                    "pt": "As pretas v\u00e3o sendo obrigadas a recuar, mas se aproximam do canto errado para dificultar a tarefa das brancas.",
+                    "en": "The black King is forced to retreat more and more but it is getting closer to the wrong corner in order to make things harder for the white side.",
+                    "es": "Las negras van siendo obligadas a retroceder, pero van hacia el rinc\u00f3n \"malo\" para dificultarle la tarea a las blancas.",
+                    "de": "Schwarz sucht das falsche Eckfeld, um die Aufgabe von Wei\u00df zu erschweren.",
+                    "zh": "\u9ed1\u738b\u88ab\u8feb\u4e0d\u65ad\u64a4\u9000\uff0c\u4f46\u662f\u5b83\u6ca1\u6709\u9000\u5230\u767d\u68cb\u5e0c\u671b\u7684\u89d2\u843d\uff0c\u4f7f\u767d\u68cb\u7684\u8ba1\u5212\u6ca1\u6709\u90a3\u4e48\u5bb9\u6613\u5f97\u901e\u3002",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d \u0432\u0441\u0435 \u0434\u0430\u043b\u044c\u0448\u0435 \u0438 \u0434\u0430\u043b\u044c\u0448\u0435 \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0442\u044c. \u041e\u043d \u043e\u0442\u0445\u043e\u0434\u0438\u0442 \u043d\u0435 \u043a \u0442\u043e\u043c\u0443 \u0443\u0433\u043b\u0443 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f, \u0432\u043c\u0435\u0441\u0442\u043e \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u0411\u0435\u043b\u044b\u0445.",
+                    "pl": "Czarny Kr\u00f3l zosta\u0142 zmuszony do wycofania si\u0119 coraz dalej, a na dodatek zmierza w z\u0142y r\u00f3g, z kt\u00f3rego nie b\u0119dzie w stanie utrudni\u0107 bia\u0142ym zadania."
+                }
+            },
+            {
+                "move": "   9. Kd6 Kf7 10. Ke5 Kg7 ",
+                "comment": {
+                    "pt": "Se 10...Re7, ent\u00e3o 1...Bd5 e as pretas teriam o acesso a h8 cortado.",
+                    "en": "If 10...Ke7, then 1... Bd5 and Black would have its access to h8 closed.",
+                    "es": "Si 10...Re7, entonces 1...Bd5 y las negras terian el acceso a h8 cortado.",
+                    "de": "Auf 10...Ke7 k\u00e4me 11. Ld5 und Schwarz k\u00f6nnte nicht mehr nach h8.",
+                    "zh": "\u5982\u679c\u4e0b 10...Ke7\uff0c\u7136\u540e 1... Bd5\uff0c\u90a3\u4e48\u9ed1\u68cb\u5230h8\u7684\u9000\u8def\u5c31\u88ab\u622a\u65ad\u4e86\u3002",
+                    "ru": "\u0415\u0441\u043b\u0438 10...Ke7, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 1... Bd5 \u0438 \u0427\u0435\u0440\u043d\u044b\u043c \u043e\u0442\u0440\u0435\u0437\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u0435 h8.",
+                    "pl": "Je\u015bli 10. ... Ke7, wtedy 10. ... Gd5 i Czarne uzyskaj\u0105 dost\u0119p do zamkni\u0119tego h8."
+                }
+            },
+            {
+                "move": "   11. Ke6 Kg8 12. Ne5 ",
+                "comment": {
+                    "pt": "Terminou a primeira etapa do processo. As brancas devem agora obrigar o rei preto a ir para o outro flanco.",
+                    "en": "The first step of the process is finished. White must now force the black King to the other side.",
+                    "es": "Termin\u00f3 la primera etapa del proceso. Las blancas deben ahora obligar al rey negro a ir para al otro flanco.",
+                    "de": "Der erste Teil des Verfahrens ist beendet. Nun muss der K\u00f6nig auf den anderen Fl\u00fcgel gezwungen werden.",
+                    "zh": "\u653b\u52bf\u7684\u7b2c\u4e00\u6b65\u5df2\u7ecf\u5b8c\u6210\u3002\u767d\u68cb\u5fc5\u987b\u5df2\u7ecf\u5c06\u9ed1\u738b\u903c\u5230\u53e6\u4e00\u4fa7\u3002",
+                    "ru": "\u041f\u0435\u0440\u0432\u044b\u0439 \u044d\u0442\u0430\u043f \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d. \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0440\u0443\u0433\u0443\u044e \u0441\u0442\u043e\u0440\u043e\u043d\u0443.",
+                    "pl": "Pierwszy krok wykonany. Bia\u0142e musz\u0105 teraz zmusi\u0107 czarnego Kr\u00f3la do przemieszczenia si\u0119 na drug\u0105 stron\u0119."
+                }
+            },
+            {
+                "move": "   Kf8 13. Kf6 Kg8 14. Nf7 ",
+                "comment": {
+                    "pt": "Imped indo que o rei preto ocupe h8.",
+                    "en": "Preventing the black King from occupying h8.",
+                    "es": "Impidiendo que el rey negro ocupe h8.",
+                    "de": "Verhindert, dass der schwarze K\u00f6nig h8 besetzt.",
+                    "zh": "\u963b\u6b62\u9ed1\u738b\u62a2\u5360h8\u3002",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0434\u043b\u044f \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u041a\u043e\u0440\u043e\u043b\u0435\u043c \u043f\u043e\u043b\u044f h8.",
+                    "pl": "Nie dopuszczaj\u0105c czarnego Kr\u00f3la do zaj\u0119cia h8."
+                }
+            },
+            {
+                "move": "   Kf8 15. Bh7 ",
+                "comment": {
+                    "pt": "Impedindo que o rei volte para o canto errado.",
+                    "en": "Preventing the King from returning to the center.",
+                    "es": "Impidiendo que el rey vuelva hacia el rinc\u00f3n errado.",
+                    "de": "Verhindert, dass sich der K\u00f6nig zum falschen Eckfeld wendet.",
+                    "zh": "\u963b\u6b62\u738b\u9000\u56de\u4e2d\u5fc3\u3002",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044e \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u043a \u0446\u0435\u043d\u0442\u0440\u0443.",
+                    "pl": "Nie dopuszczaj\u0105c Kr\u00f3la do powrotu do centrum."
+                }
+            },
+            {
+                "move": "   Ke8 16. Ne5 ",
+                "comment": {
+                    "pt": "Com esse t\u00edpico movimento de cavalo, as brancas controlam a casa d7 e constroem uma parede para manter o rei na oitava fila.",
+                    "en": "With this typical Knight move, White controls d7 and builds a wall to hold the King in the backrank.",
+                    "es": "Con ese t\u00edpico movimiento de caballo, las blancas controlan a casilla d7 y construyen una barrera para mantener el rey en la octava l\u00ednea.",
+                    "de": "Mit diesem charakteristischen Springerzug kontrolliert Wei\u00df das Feld d7 und baut eine Sperre auf, um den K\u00f6nig auf der achten Reihe abzuschneiden.",
+                    "zh": "\u901a\u8fc7\u8d70\u9a6c\u767d\u68cb\u63a7\u5236\u4e86d7\uff0c\u8bbe\u597d\u969c\u788d\u4ee5\u514d\u9ed1\u738b\u9000\u5230\u5e95\u7ebf\u3002",
+                    "ru": "\u041f\u0440\u0438 \u0442\u0430\u043a\u043e\u043c \u0445\u043e\u0434\u0435 \u041a\u043e\u043d\u044f, \u0411\u0435\u043b\u044b\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u044e\u0442 \u043f\u043e\u043b\u0435 d7 \u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0442 \u041a\u043e\u0440\u043e\u043b\u044f \u043d\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438.",
+                    "pl": "Tym typowym ruchem Skoczka Bia\u0142e kontroluj\u0105 d7 i buduj\u0105 mur, aby zatrzyma\u0107 Kr\u00f3la w tyle."
+                }
+            },
+            {
+                "move": "   Kd8 17. Ke6 ",
+                "comment": {
+                    "pt": "O rei branco dirige-se para o canto correto.",
+                    "en": "The white King moves towards the correct corner.",
+                    "es": "El rey blanco va hacie el rinc\u00f3n \"correcto\".",
+                    "de": "Der wei\u00dfe K\u00f6nig wendet sich zum richtigen Eckfeld.",
+                    "zh": "\u767d\u738b\u8d70\u5230\u6b63\u786e\u7684\u76d8\u89d2\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044f \u043f\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e \u043a \u043d\u0443\u0436\u043d\u043e\u043c\u0443 \u0443\u0433\u043b\u0443.",
+                    "pl": "Bia\u0142y Kr\u00f3l maszeruje do odpowiedniego rogu."
+                }
+            },
+            {
+                "move": "   Kc7 ",
+                "comment": {
+                    "pt": "Aparenteme nte as pretas escaparam, mas...",
+                    "en": "It seems as if Black escaped, but...",
+                    "es": "Aparentemente las negras se escapan, pero...",
+                    "de": "Schwarz scheint die Flucht gelungen zu sein, aber...",
+                    "zh": "\u770b\u8d77\u6765\u9ed1\u738b\u8981\u9003\u8131\u4e86\uff0c\u4f46\u662f...",
+                    "ru": "\u0412\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u0431\u0443\u0434\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0445\u043e\u0434\u044f\u0442, \u043d\u043e...",
+                    "pl": "Wygl\u0105da na to, \u017ce Czarne uciek\u0142y, lecz..."
+                }
+            },
+            {
+                "move": "   18. Nd7 ",
+                "comment": {
+                    "pt": "O cavalo branco se prepara para construir uma outra barreira. Note que agora ele controla as casas pretas b6 e c5, enquanto o bispo controlar\u00e1 as brancas.",
+                    "en": "The white Knight prepares to build another barrier. Notice that now it controls the dark b6 and c5, while the Bishop controls the light squares.",
+                    "es": "El caballo blanco se prepara para construir otra barrera. Obsserve que ahora el caballo controla las casillas negras b6 y c5, mientras que el alfil controla las casillas blancas.",
+                    "de": "Der wei\u00dfe Springer steht schon bereit, eine weitere Sperre aufzubauen. Er kontrolliert jetzt die schwarzen Felder b6 und c5, w\u00e4hrend der L\u00e4ufer die wei\u00dfen Felder kontrolliert.",
+                    "zh": "\u767d\u9a6c\u51c6\u5907\u7740\u624b\u5efa\u7acb\u53e6\u5916\u4e00\u9053\u5c4f\u969c\u3002\u6ce8\u610f\u5b83\u73b0\u5728\u63a7\u5236\u4e86b6\u548cc5\u4e24\u4e2a\u9ed1\u683c\uff0c\u4f46\u662f\u8c61\u63a7\u5236\u7684\u662f\u767d\u683c\u3002",
+                    "ru": "\u041a\u043e\u043d\u044c \u0431\u0435\u043b\u044b\u0445 \u0442\u0435\u043f\u0435\u0440\u044c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0447\u0435\u0440\u043d\u044b\u0435 b6 \u0438 c5, \u0442\u043e\u0433\u0434\u0430 \u043a\u0430\u043a \u0421\u043b\u043e\u043d \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0431\u0435\u043b\u044b\u0435 \u043f\u043e\u043b\u044f.",
+                    "pl": "Bia\u0142y Skoczek jest przygotowuje kolejn\u0105 barier\u0119. Zauwa\u017c, \u017ce kontroluje teraz czarne b6 i c5, podczas gdy Goniec kontroluje jasne pola."
+                }
+            },
+            {
+                "move": "   Kb7 ",
+                "comment": {
+                    "pt": "Contra 18. ..Rc6, seria praticamente a mesma continua\u00e7\u00e3o.",
+                    "en": "Against 18...Kc6 the continuation would be practically the same.",
+                    "es": "Contra 18...Rc6, ser\u00eda pr\u00e1cticamente la misma continuaci\u00f3n.",
+                    "de": "Gegen 18...Tc6 w\u00e4re praktisch die gleiche Fortsetzung.",
+                    "zh": "\u5bf9\u4e8e18...Tc6\u63a5\u4e0b\u6765\u7684\u8d70\u6cd5\u662f\u540c\u6837\u7684\u3002",
+                    "ru": "\u041d\u0430 \u0445\u043e\u0434 18...Kc6, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0442\u0430\u043a\u0438\u043c \u0436\u0435.",
+                    "pl": "Przeciwko 18. ... Kc6 kontynuacja wygl\u0105da\u0142aby praktycznie tak samo."
+                }
+            },
+            {
+                "move": "   19. Bd3 ",
+                "comment": {
+                    "pt": "Impedindo que o rei preto escape atrav\u00e9s da casa a6.",
+                    "en": "Preventing the black King from escaping through a6.",
+                    "es": "Impidiendo que el rey negro escape a trav\u00e9s de la casilla a6.",
+                    "de": "Verhindert, dass der schwarze K\u00f6nig \u00fcber Feld a6 flieht.",
+                    "zh": "\u9632\u6b62\u9ed1\u738b\u901a\u8fc7a6\u9003\u7a9c\u3002",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u043e\u0442\u0445\u043e\u0434 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0447\u0435\u0440\u0435\u0437 a6.",
+                    "pl": "Nie dopuszczaj\u0105c czarnego Kr\u00f3la do ucieczki przez a6."
+                }
+            },
+            {
+                "move": "   Kc6 20. Bc4 ",
+                "comment": {
+                    "pt": "Esse \u00e9 um lance de espera. As brancas precisam de um tempo para que o rei preto recue, j\u00e1 que todas as casas que permitiriam o seu avan\u00e7o est\u00e3o controladas pelas brancas.",
+                    "en": "This is a waiting move. White needs one tempo so that the black King retreats, since White controls all squares that enable Black to advance.",
+                    "es": "\u00c9sta es una jugada de espera. Las blancas necesitan un tiempo para que el rey negro retroceda, ya que todas las casillas que permitirian su avance est\u00e1n controladas por las blancas.",
+                    "de": "Mit diesem Wartezug gewinnt Wei\u00df ein Tempo.",
+                    "zh": "\u8fd9\u662f\u4e00\u4e2a\u7b49\u7740\uff0c\u5229\u7528\u7b49\u7740\u5f3a\u8feb\u9ed1\u738b\u64a4\u9000\uff0c\u56e0\u4e3a\u767d\u68cb\u5df2\u7ecf\u63a7\u5236\u4e86\u6240\u6709\u9ed1\u68cb\u53ef\u4ee5\u8d70\u7684\u8def\u7ebf\u3002",
+                    "ru": "\u042d\u0442\u043e \u0432\u044b\u0436\u0438\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0434. \u0411\u0435\u043b\u044b\u043c \u043d\u0443\u0436\u0435\u043d \u0442\u0430\u043a\u043e\u0439 \u0442\u0435\u043c\u043f, \u043f\u0440\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0447\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0442\u044c. \u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u0411\u0435\u043b\u044b\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u044e\u0442 \u0432\u0441\u0435 \u043f\u043e\u043b\u044f, \u043f\u043e \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0427\u0435\u0440\u043d\u044b\u0445.",
+                    "pl": "To ruch wyczekuj\u0105cy. Bia\u0142e potrzebuj\u0105 dodatkowego tempa, wi\u0119c czarny Kr\u00f3l wycofuje si\u0119, podczas gdy Bia\u0142e kontroluj\u0105 wszystkie pola umo\u017cliwiaj\u0105ce Czarnym jakikolwiek progres."
+                }
+            },
+            {
+                "move": "   Kc7 21. Bb5 ",
+                "comment": {
+                    "pt": "Agora as brancas dominam boa parte da sexta fila: a6, b6, c6, d6, e6, f6.",
+                    "en": "Now White dominates most squares of the 6th rank: a6, b6, c6, d6, e6, f6.",
+                    "es": "Ahora las blancas dominan buena parte de la sexta l\u00ednea: a6, b6, c6, d6, e6, f6.",
+                    "de": "Nun beherrscht Wei\u00df einen guten Teil der sechsten Reihe: a6, b6, c6, d6, e6, f6.",
+                    "zh": "\u73b0\u5728\u767d\u68cb\u5df2\u7ecf\u7edf\u6cbb\u4e86\u516d\u7ebf\u4e0a\u5927\u90e8\u5206\u7684\u683c\u5b50\uff1aa6\u3001b6\u3001c6\u3001d6\u3001e6\u3001f6\u3002",
+                    "ru": "\u0422\u0435\u043f\u0435\u0440\u044c \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u0430\u0434 \u0432\u0441\u0435\u043c\u0438 \u043f\u043e\u043b\u044f\u043c\u0438 \u0448\u0435\u0441\u0442\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438: a6, b6, c6, d6, e6, f6.",
+                    "pl": "Teraz Bia\u0142e dominuj\u0105 wi\u0119kszo\u015b\u0107 p\u00f3l z sz\u00f3stej linii: a6, b6, c6, d6, e6, f6."
+                }
+            },
+            {
+                "move": "   Kd8 22. Nf6 ",
+                "comment": {
+                    "pt": "Evitando ...Re8.",
+                    "en": "Preventing ...Ke8.",
+                    "es": "Evitando ...Re8.",
+                    "de": "Verhindert ...Ke8.",
+                    "zh": "\u963b\u6b62...Ke8.",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 ...Ke8.",
+                    "pl": "Zatrzymuj\u0105c ... Ke8."
+                }
+            },
+            {
+                "move": "   Kc7 23. Nd5+ ",
+                "comment": {
+                    "pt": "O ca valo volta a controlar a casa b6, impedindo a fuga do rei preto.",
+                    "en": "The Knight has b6 under its control again, preventing the escape of the black King.",
+                    "es": "el caballo vuelve a controlar a casilla b6, impidiendo la fuga del rey negro.",
+                    "de": "Der Springer kontrolliert das Feld b6 und verhindert die Flucht vom schwarzen K\u00f6nig.",
+                    "zh": "\u9a6c\u518d\u6b21\u63a7\u5236b6\uff0c\u963b\u6b62\u9ed1\u738b\u9003\u7a9c\u3002",
+                    "ru": "\u041a\u043e\u043d\u044c \u043e\u043f\u044f\u0442\u044c \u0431\u0435\u0440\u0435\u0442 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u043e\u043b\u0435 b6, \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0432\u0430\u044f \u043e\u0442\u0445\u043e\u0434 \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u041a\u043e\u0440\u043e\u043b\u044e.",
+                    "pl": "Skoczek ma ponownie pole b6 pod swoj\u0105 kontrol\u0105, uniemo\u017cliwiaj\u0105c ucieczk\u0119 czarnemu Kr\u00f3lowi."
+                }
+            },
+            {
+                "move": "   Kd8 24. Kd6 Kc8 25. Ke7 ",
+                "comment": {
+                    "pt": "Com suas pe\u00e7as protegendo a sexta fila, o rei branco vai \"empurrando\" o advers\u00e1rio para tr\u00e1s.",
+                    "en": "With the support of its pieces protecting the 6th rank, the white King \"pushes\" the opponent backwards.",
+                    "es": "Con sus piezas protegendo a sexta l\u00ednea, el rey blanco va \"empujando\" el adversario hacia atr\u00e1s.",
+                    "de": "W\u00e4hrend die wei\u00dfen Figuren die sechste Reihe kontrollieren, dr\u00e4ngt der wei\u00dfe K\u00f6nig seinen schwarzen Kollegen an den Brettrand.",
+                    "zh": "\u5728\u5df1\u65b9\u68cb\u5b50\u5bf9\u516d\u7ebf\u7684\u4e25\u5bc6\u4fdd\u62a4\u4e0b\uff0c\u767d\u738b\u8feb\u4f7f\u654c\u65b9\u540e\u9000\u3002",
+                    "ru": "\u041f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u044e\u0442 \u0448\u0435\u0441\u0442\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c, \u0431\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \"\u043e\u0442\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u0435\u0442\" \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430 \u043d\u0430\u0437\u0430\u0434.",
+                    "pl": "Z pomoc\u0105 swoich figur na sz\u00f3stej linii bia\u0142y Kr\u00f3l \"odpycha\" oponenta."
+                }
+            },
+            {
+                "move": "   Kb8 26. Kd8 Kb7 27. Kd7 Kb8 28. Ba6 ",
+                "comment": {
+                    "pt": "Controlando a casa b7.",
+                    "en": "Controlling b7.",
+                    "es": "Controlando la casilla b7.",
+                    "de": "Kontrolliert das Feld b7.",
+                    "zh": "\u63a7\u5236b7\u3002",
+                    "ru": "\u0411\u0435\u0440\u0435\u0442 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u043e\u043b\u0435 b7.",
+                    "pl": "Kontroluj\u0105c b7."
+                }
+            },
+            {
+                "move": "Ka7 29. Bc8 Kb8 30. Ne7 Ka7 31. Kc7 Ka8 32. Bb7+ Ka7 33. Nc6#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a5\u00a4 71",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5k2\/7B\/5K2\/4N3\/8\/8\/8\/8 w - - 0 17",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "Tente achar o caminho mais r\u00e1pido para o mate.",
+                    "en": "Try to find the fastest way to mate.",
+                    "es": "Trate de encontrar el camino m\u00e1s r\u00e1pido para el mate.",
+                    "de": "Finden Sie den schnellsten Weg zum Matt!"
+                }
+            },
+            {
+                "move": "   17. Nd7+ Ke8 18. Ke6 Kd8 19. Kd6 Ke8 20. Bg6+ ",
+                "comment": {
+                    "pt": "Im o que o rei escape via f7.",
+                    "en": "Preventing the King from escaping through f7.",
+                    "es": "Impidiendo que el rey escape v\u00eda f7.",
+                    "de": "Damit der K\u00f6nig nicht \u00fcber f7 flieht.",
+                    "zh": "\u963b\u6b62\u738b\u4ecef7\u9003\u79bb\u3002",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044f \u043e\u0442 \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u043b\u0435 f7.",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Kr\u00f3lowi ucieczk\u0119 przez f7."
+                }
+            },
+            {
+                "move": "   Kd8 21. Nc5 ",
+                "comment": {
+                    "pt": "Con trolando as casas b7 e a6.",
+                    "en": "Controlling b7 and a6.",
+                    "es": "Controlando las casillas b7 y a6.",
+                    "de": "Kontrolliert die Felder b7 und a6.",
+                    "zh": "\u63a7\u5236b7\u548ca6\u3002",
+                    "ru": "\u0411\u0435\u0440\u0435\u0442 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u043e\u043b\u044f b7 \u0438 a6.",
+                    "pl": "Kontroluj\u0105c b7 i a6."
+                }
+            },
+            {
+                "move": "   Kc8 22. Be8 ",
+                "comment": {
+                    "pt": "O bispo se aproxima para controlar as casas da diagonal a4-e8.",
+                    "en": "The Bishop gets closer to control the a4-e8 diagonal.",
+                    "es": "El alfil se acerca para controlar las casillas de la diagonal a4-e8.",
+                    "de": "Der L\u00e4ufer n\u00e4hert sich, um die Diagonale a4-e8 zu kontrollieren.",
+                    "zh": "\u8c61\u9010\u6b65\u9760\u8fd1\uff0c\u51c6\u5907\u63a7\u5236a4-e8\u659c\u7ebf\u3002",
+                    "ru": "\u0421\u043b\u043e\u043d \u0431\u0435\u0440\u0435\u0442 \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a4-e8.",
+                    "pl": "Goniec zbli\u017ca si\u0119 do kontroli przek\u0105tnej a4-e8."
+                }
+            },
+            {
+                "move": "   Kd8 23. Bc6 ",
+                "comment": {
+                    "pt": "Um lance de espera, ganhando um tempo para o rei advers\u00e1rio recuar.",
+                    "en": "A waiting move winning a tempo so that the opponent's King retreats.",
+                    "es": "Una jugada de espera, ganando un tiempo para que el rey adversario retroceda.",
+                    "de": "Mit diesem Wartezug gewinnt Wei\u00df ein Tempo.",
+                    "zh": "\u4f7f\u7528\u7b49\u7740\u8feb\u4f7f\u5bf9\u65b9\u738b\u64a4\u9000\uff0c\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "ru": "\u0412\u044b\u0436\u0438\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0434, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0442\u0435\u043c\u043f, \u0438 \u041a\u043e\u0440\u043e\u043b\u044c \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0435\u0442.",
+                    "pl": "Wyczekuj\u0105cy ruch zdobywa tempo, co zmusza Kr\u00f3la przeciwnika do odwrotu."
+                }
+            },
+            {
+                "move": "   Kc8 24. Bd7+ Kb8 ",
+                "comment": {
+                    "pt": "Evidentemente n\u00e3o Rd8 por causa de Ce6++.",
+                    "en": "Of course not Kd8, because of Ne6++.",
+                    "es": "Evidentemente no Rd8 a causa de Ce6++.",
+                    "de": "Nat\u00fcrlich nicht Kd8 wegen Se6++.",
+                    "zh": "\u5f53\u7136\u4e0d\u662f Kd8\uff0c \u56e0\u4e3aNe6++\u3002",
+                    "ru": "\u041a\u043e\u043d\u0435\u0447\u043d\u043e \u043d\u0435 Kd8, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e Ne6++.",
+                    "pl": "Oczywi\u015bcie nie Kd8, poniewa\u017c Se6++."
+                }
+            },
+            {
+                "move": "25. Kc6 Ka7 26. Kc7 Ka8 27. Kb6 Kb8 28. Na6+ Ka8 29. Bc6#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "\u00a5\u00a4 72",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/4B3\/8\/5K1k\/4N3\/8\/8 w - - 0 27",
+        "moves": [
+            {
+                "move": "",
+                "comment": {
+                    "pt": "Tente novamente achar o caminho mais r\u00e1pido para o mate.",
+                    "en": "Try again to find the fastest way to the mate.",
+                    "es": "Trate de nuevo de encontrar el camino m\u00e1s r\u00e1pido para el mate.",
+                    "de": "Versuchen Sie nochmal, den schnellsten Weg zum Matt zu finden!"
+                }
+            },
+            {
+                "move": "   27. Nf5+ Kh3 ",
+                "comment": {
+                    "pt": "\u00danico lance. Se 27...Rh5 e as brancas jogariam 28-Bf7 x\u00e9que-mate.",
+                    "en": "Only move possible. If 27...Kh5, White would finish with 28-Bf7 checkmate.",
+                    "es": "\u00danica jugada. Si 27...Rh5 las blancas jugar\u00edan 28-Bf7 mate.",
+                    "de": "Einziger Zug. Auf 27...Kh5 spielt Wei\u00df 28. Lf7#.",
+                    "zh": "\u53ea\u80fd\u8d70\u8fd9\u4e00\u6b65\u3002\u5982\u679c\u8d7027...Kh5\uff0c \u767d\u68cb\u4f1a\u572828-Bf7\u65f6\u5c06\u519b\u3002",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0445\u043e\u0434. \u0415\u0441\u043b\u0438  27...Kh5, \u0442\u043e \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0434\u044f\u0442 28-Bf7 \u0438 \u0441\u0442\u0430\u0432\u044f\u0442 \u041c\u0410\u0422.",
+                    "pl": "Jedyny mo\u017cliwy ruch. Je\u015bli 27. ... Kh5, Bia\u0142e mog\u0142yby sko\u0144czy\u0107 matem na 28. Gf7."
+                }
+            },
+            {
+                "move": "   28. Kf3 Kh2 29. Ne3 ",
+                "comment": {
+                    "pt": "Liberando o bispo, para controlar a casa h3.",
+                    "en": "Liberating the Bishop to control h3.",
+                    "es": "Liberando el alfil, para controlar a casilla h3.",
+                    "de": "Befreit den L\u00e4ufer, um das Feld h3 zu kontrollieren.",
+                    "zh": "\u89e3\u653e\u8c61\u4f7f\u4e4b\u53ef\u4ee5\u63a7\u5236h3\u3002",
+                    "ru": "\u0421\u043b\u043e\u043d \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0437\u0430 h3.",
+                    "pl": "Uwalniaj\u0105c Go\u0144ca do kontroli h3."
+                }
+            },
+            {
+                "move": "Kg1 30. Kg3 Kh1 31. Kf2 Kh2 32. Nf1+ Kh1 33. Bd5#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,991 @@
+{"4": {
+ "Mod-17/Exe-08": {"event": {
+  "de": "Variante mit ...Lc5",
+  "zh": "...Bc5变例",
+  "pl": "Wariant ... Gc5",
+  "pt": "Variante ...Bc5",
+  "en": "Variation ...Bc5 variation",
+  "ru": "Вариант ...Bc5",
+  "es": "Variante ...Ac5"
+ }},
+ "Mod-17/Exe-07": {"event": {
+  "de": "Rubinstein Variante",
+  "zh": "鲁宾斯坦变例",
+  "pl": "Wariant Rubinsteina",
+  "pt": "Variante Rubinstein",
+  "en": "Rubinstein variation",
+  "ru": "Вариант Рубинштейна",
+  "es": "Variante Rubinstein"
+ }},
+ "Mod-17/Exe-09": {"event": {
+  "de": "Variante mit ...Sf6",
+  "zh": "变例...Nf6",
+  "pl": "Wariant ... Sf6",
+  "en": "Variation...Nf6",
+  "ru": "Вариант ...Nf6"
+ }},
+ "Mod-17/Exe-10": {"event": {
+  "de": "Wiener Partie",
+  "zh": "维也纳开局",
+  "pl": "Partia wiedeńska",
+  "pt": "Abertura Vienesa",
+  "en": "Viena game",
+  "ru": "Венская партия",
+  "es": "Apertura Vienesa"
+ }},
+ "Mod-17/Exe-11": {"event": {
+  "de": "Philidor Verteidigung",
+  "zh": "菲利道尔防御",
+  "pl": "Obrona Philidora",
+  "pt": "Defesa Philidor",
+  "en": "Philidor's defense",
+  "ru": "Защита Филидора",
+  "es": "Defensa Philidor"
+ }},
+ "Mod-17/Exe-12": {"event": {
+  "de": "Lettisches Gambit",
+  "zh": "拉脱维亚弃兵",
+  "pl": "Gambit łotewski",
+  "pt": "Gambito Letão",
+  "en": "Latvian gambit",
+  "ru": "Латышский гамбит",
+  "es": "Gambito Letón"
+ }},
+ "Mod-17/Exe-13": {"event": {
+  "de": "Klassische Variante",
+  "zh": "意大利开局经典变例",
+  "pl": "Partia włoska, wariant klasyczny",
+  "pt": "Variante Clássic",
+  "en": "Italian opening classical variation",
+  "ru": "Итальянский дебют, классический вариант",
+  "es": "Variante Clásica"
+ }},
+ "Mod-17/Exe-14": {"event": {
+  "de": "Variante mit ...Sf6",
+  "zh": "3...Nf6 变例",
+  "pl": "Wariant 3. ... Sf6",
+  "pt": "Variante 3...Cf6",
+  "en": "3...Nf6 variation",
+  "ru": "Вариант 3...Nf6",
+  "es": "Variante 3...Cf6"
+ }},
+ "Mod-17/Exe-15": {"event": {
+  "de": "Evans Gambit",
+  "zh": "伊文思弃兵",
+  "pl": "Gambit Evansa",
+  "pt": "Gambito Evans",
+  "en": "Evans gambit",
+  "ru": "Гамбит Эванса",
+  "es": "Gambito Evans"
+ }},
+ "Mod-17/Exe-16": {"event": {
+  "de": "Ruy Lopez - Eröffnungskonzepte u. Abtauschvariante",
+  "zh": "西班牙开局理念",
+  "pl": "Warianty partii hiszpańskiej",
+  "pt": "Básico e variante das trocas",
+  "en": "Ruy Lopez opening concepts",
+  "ru": "Концепция дебюта Руи Лопеса",
+  "es": "Apertura Ruy Lopez-conceptos"
+ }},
+ "Mod-17/Exe-17": {"event": {
+  "de": "Offene Variante",
+  "zh": "开放变例",
+  "pl": "Wariant otwarty",
+  "pt": "Variante aberta",
+  "en": "Open variation",
+  "ru": "Открытый вариант",
+  "es": "Variante abierta"
+ }},
+ "Mod-17/Exe-01": {"event": {
+  "de": "Angenommenes Königsgambit",
+  "zh": "接受王翼弃兵",
+  "pl": "Gambit królewski przyjęty",
+  "pt": "aceito",
+  "en": "accepted",
+  "ru": "Принятый Королевский гамбит",
+  "es": "aceptado"
+ }},
+ "Mod-17/Exe-02": {"event": {
+  "de": "Fischer Variante",
+  "zh": "菲舍尔变例",
+  "pl": "Wariant Fischera",
+  "pt": "Variante Fischer",
+  "en": "Fischer variation",
+  "ru": "Вариант Фишера",
+  "es": "Variante Fischer"
+ }},
+ "Mod-17/Exe-05": {"event": {
+  "de": "Petrow-Verteidigung",
+  "zh": "彼得罗夫防御",
+  "pl": "Obrona rosyjska",
+  "pt": "Defesa Petroff",
+  "en": "Petrov's Defense",
+  "ru": "Защита Петрова",
+  "es": "Defensa Petroff"
+ }},
+ "Mod-17/Exe-06": {"event": {
+  "de": "Klassische Variante",
+  "zh": "经典变例",
+  "pl": "Klasyczna wariacja",
+  "pt": "Variante Clássica",
+  "en": "Classical variation",
+  "ru": "Классический вариант",
+  "es": "Variante Clásica"
+ }},
+ "Mod-17/Exe-03": {"event": {
+  "de": "Abgelehntes Königsgambit",
+  "zh": "拒绝王翼弃兵",
+  "pl": "Gambit królewski nieprzyjęty",
+  "pt": "recusado",
+  "en": "declined",
+  "ru": "Отказанный Королевский Гамбит",
+  "es": "rechazado"
+ }},
+ "Mod-17/Exe-04": {"event": {
+  "de": "Falkbeer Gegengambit",
+  "zh": "佛克比尔反弃兵",
+  "pl": "Kontrgambit Falkbera",
+  "pt": "Contragambito Falkber",
+  "en": "Falkber coutergambit",
+  "ru": "Контргамбит Фалькбеера",
+  "es": "Contragambito Falkber"
+ }},
+ "Mod-17/Exe-29": {"event": {
+  "de": "Vierbauernvariante",
+  "zh": "四兵变例",
+  "pl": "Wariant 4 pionów",
+  "pt": "Variante dos 4 peões",
+  "en": "4 pawns variation",
+  "ru": "Вариант четырех пешек",
+  "es": "Variante de los 4 peones"
+ }},
+ "Mod-17/Exe-36": {"event": {
+  "de": "Panow-Variante",
+  "zh": "帕诺夫进攻",
+  "pl": "Atak Panowa",
+  "pt": "Variante Panov",
+  "en": "Panov's attack",
+  "ru": "Атака Панова",
+  "es": "Variante Panov"
+ }},
+ "Mod-17/Exe-37": {"event": {
+  "de": "Vierspringervariante",
+  "zh": "四马变例",
+  "pl": "Wariant 4 Skoczków",
+  "pt": "Variante  dos 4 cavalos",
+  "en": "4 knights variation",
+  "ru": "Дебют четырех Коней",
+  "es": "Variante de los 4 Caballos"
+ }},
+ "Mod-17/Exe-38": {"event": {
+  "de": "Schweschnikow-Variante",
+  "zh": "斯威什尼科夫变例",
+  "pl": "Wariant Sveshnikowa",
+  "pt": "Variante Sveshnikov",
+  "en": "Sveshnikov variation",
+  "ru": "Вариант Свешникова",
+  "es": "Variante Sveshnikov"
+ }},
+ "Mod-17/Exe-39": {"event": {
+  "de": "Najdorf-Variante",
+  "zh": "纳道尔夫变例",
+  "pl": "Wariant Najdorfa",
+  "pt": "Variante Najdor",
+  "en": "Najdorf's variation",
+  "ru": "Вариант Найдорфа",
+  "es": "Variante Najdor"
+ }},
+ "Mod-17/Exe-32": {"event": {
+  "de": "Skandinavische Verteidigung",
+  "zh": "斯堪的纳维亚防御",
+  "pl": "Obrona skandynawska",
+  "pt": "Defensa Escandinava",
+  "en": "Scandinavian defense",
+  "ru": "Скандинавская защита",
+  "es": "Defensa Escandinava"
+ }},
+ "Mod-17/Exe-33": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante Clássica",
+  "en": "Classical variation",
+  "ru": "Классический вариант",
+  "es": "Variante Clásica"
+ }},
+ "Mod-17/Exe-34": {"event": {
+  "de": "Abtauschvariante",
+  "zh": "兑换变例",
+  "pl": "Wariant zaawansowany",
+  "pt": "Variante do avanço",
+  "en": "Advance variation",
+  "ru": "Расширенный вариант",
+  "es": "Variante del avance"
+ }},
+ "Mod-17/Exe-35": {"event": {
+  "de": "Abtauschvariante",
+  "zh": "兑换变例",
+  "pl": "Wariant wymiany",
+  "pt": "Variante das trocas",
+  "en": "Exchange variation",
+  "ru": "Разменный вариант",
+  "es": "Variante del cambio"
+ }},
+ "Mod-17/Exe-30": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante clássica",
+  "en": "Classical variation",
+  "ru": "Классический вариант",
+  "es": "Variante Clásica"
+ }},
+ "Mod-17/Exe-31": {"event": {
+  "de": "Abtauschvariante",
+  "zh": "兑换变例",
+  "pl": "Wariant wymiany",
+  "pt": "Variante das trocas",
+  "en": "Exchange variation",
+  "ru": "Разменный вариант",
+  "es": "Variante del Cambio"
+ }},
+ "Mod-17/Exe-19": {"event": {
+  "de": "Berliner Verteidigung",
+  "zh": "柏林防御",
+  "pl": "Obrona berlińska",
+  "pt": "Variante Berlinesa",
+  "en": "Berlin variation",
+  "ru": "Берлинский вариант",
+  "es": "Variante Berlinesa"
+ }},
+ "Mod-17/Exe-18": {"event": {
+  "de": "Geschlossene Variante",
+  "zh": "封闭变例",
+  "pl": "Zamknięta wariacja",
+  "pt": "Variante Fechada",
+  "en": "Closed variation",
+  "ru": "Закрытый вариант",
+  "es": "Variante cerrada"
+ }},
+ "Mod-17/Exe-27": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante clássica",
+  "en": "Classical variation",
+  "ru": "Классический вариант",
+  "es": "Variante Clásica"
+ }},
+ "Mod-17/Exe-28": {"event": {
+  "de": "Variante mit 3...dxe4",
+  "zh": "3...dxe4变例",
+  "pl": "3. ... dxe4",
+  "pt": "Variante 3...dxe4",
+  "en": "3...dxe4 variation",
+  "ru": "Вариант 3...dxe4",
+  "es": "Variante 3...dxe4"
+ }},
+ "Mod-17/Exe-25": {"event": {
+  "de": "Tarrash-Variante",
+  "zh": "塔拉什变例",
+  "pl": "Wariacja Tarrascha",
+  "pt": "Variante Tarrash",
+  "en": "Tarrasch variation",
+  "ru": "Вариант Тарраша",
+  "es": "Variante Tarrash"
+ }},
+ "Mod-17/Exe-26": {"event": {
+  "de": "Winawer-Variante",
+  "zh": "温纳维尔变例",
+  "pl": "Wariant Winawera",
+  "pt": "Variante Winawer",
+  "en": "Winawer variation",
+  "ru": "Вариант Винавера",
+  "es": "Variante Winawer"
+ }},
+ "Mod-17/Exe-23": {"event": {
+  "de": "Verzögerte Steinitz-Variante",
+  "zh": "延迟斯坦尼茨变例",
+  "pl": "Wariant 3. ... a6 4. d6",
+  "pt": "Variante  Steinitz diferida",
+  "en": "Variation 3...a6-4-d6",
+  "ru": "Вариант 3...a6-4-d6",
+  "es": "Variante Steinitz diferida"
+ }},
+ "Mod-17/Exe-24": {"event": {
+  "de": "Vorstoß-Variante",
+  "zh": "推进变例",
+  "pl": "Wariant zaawansowany",
+  "pt": "Variante do avanço",
+  "en": "Advance variation",
+  "ru": "Расширенный вариант",
+  "es": "Variante del avance"
+ }},
+ "Mod-17/Exe-21": {"event": {
+  "de": "3...f5",
+  "zh": "3...f5",
+  "pl": "Wariant 3. ... f5",
+  "pt": "3...f5",
+  "en": "3...f5",
+  "ru": "Вариант 3...f5",
+  "es": "3...f5"
+ }},
+ "Mod-17/Exe-22": {"event": {
+  "de": "3...Lc5",
+  "zh": "3...Bc5",
+  "pl": "Wariant 3. ... Gc5",
+  "pt": "3...Bc5",
+  "en": "3...Bc5",
+  "ru": "Вариант 3...Bc5",
+  "es": "3...Bc5"
+ }},
+ "Mod-17/Exe-20": {"event": {
+  "de": "Steinitz-Variante",
+  "zh": "斯坦尼茨变例",
+  "pl": "Obrona Steinitza",
+  "pt": "Variante Steinitz",
+  "en": "Steinitz defense",
+  "ru": "Защита Стейница",
+  "es": "Variante Steinitz"
+ }},
+ "Mod-17/Exe-53": {"event": {
+  "de": "Altindische Verteidigung",
+  "zh": "古印度防御",
+  "pl": "Obrona staroindyjska",
+  "pt": "Defesa India antiga",
+  "en": "Old indian defense",
+  "ru": "Староиндийская защита",
+  "es": "Defensa India antigua"
+ }},
+ "Mod-17/Exe-52": {"event": {
+  "de": "Benoni-Verteidigung",
+  "zh": "别诺尼防御",
+  "pl": "Obrona Benoni",
+  "pt": "Defesa Benoni",
+  "en": "Benoni defense",
+  "ru": "Защита Бенони",
+  "es": "Defensa Benoni"
+ }},
+ "Mod-17/Exe-51": {"event": {
+  "de": "Wolga Gambit",
+  "zh": "伏尔加/平科弃兵",
+  "pl": "Gambit wołżański/Benko",
+  "pt": "Gambito Volga",
+  "en": "Volga/Benko gambit",
+  "ru": "Волжский Гамбит",
+  "es": "Gambito Volga"
+ }},
+ "Mod-17/Exe-50": {"event": {
+  "de": "Holländische Verteidigung",
+  "zh": "荷兰防御",
+  "pl": "Obrona holenderska",
+  "pt": "Defesa Holandesa",
+  "en": "Dutch defense",
+  "ru": "Голланская защита",
+  "es": "Defensa Holandesa"
+ }},
+ "Mod-17/Exe-57": {"event": {
+  "de": "Awerbach-Variante",
+  "zh": "阿维尔巴赫变例",
+  "pl": "Wariant Averbacha",
+  "pt": "Variante Averbach",
+  "en": "Averbach variation",
+  "ru": "Вариант Авербаха",
+  "es": "Variante Averbach"
+ }},
+ "Mod-17/Exe-56": {"event": {
+  "de": "Sämisch-Variante",
+  "zh": "杰米什变例",
+  "pl": "Wariant Saemischa",
+  "pt": "Variante Saemisch",
+  "en": "Saemisch variation",
+  "ru": "Вариант Земиша",
+  "es": "Variante Saemisch"
+ }},
+ "Mod-17/Exe-55": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante clássica",
+  "en": "Classical Variation",
+  "ru": "Классический вариант",
+  "es": "Variante clásica"
+ }},
+ "Mod-17/Exe-54": {"event": {
+  "de": "Grünfeld Verteidigung",
+  "zh": "格伦菲尔德防御",
+  "pl": "Obrona Grunfelda",
+  "pt": "Defesa Grünfeld",
+  "en": "Grunfeld defense",
+  "ru": "Защита Грюнфельда",
+  "es": "Defensa Grünfeld"
+ }},
+ "mod1": {"title": {
+  "de": "Königsgambit",
+  "zh": "王翼弃兵局",
+  "it": "Gambetto di re",
+  "pt": "Gambito do rei",
+  "pl": "Gambit królewski",
+  "fr": "Gambit du roi",
+  "en": "King's gambit",
+  "ru": "Королевский гамбит",
+  "es": "Gambito de rey"
+ }},
+ "Mod-17/Exe-59": {"event": {
+  "de": "Katalanische Eröffnung",
+  "zh": "卡塔兰开局",
+  "pl": "Partia katalońska",
+  "pt": "Abertura catalana",
+  "en": "Catalan opening",
+  "ru": "Каталонское начало",
+  "es": "Apertura catalana"
+ }},
+ "Mod-17/Exe-58": {"event": {
+  "de": "Fianchetto-Variante",
+  "zh": "侧翼象变例",
+  "pl": "Wariant g3",
+  "pt": "Variante do Fianchetto",
+  "en": "g3 variation",
+  "ru": "Вариант Фианкетто",
+  "es": "Variante del Fianchetto"
+ }},
+ "mod2": {"title": {
+  "de": "Damengambit",
+  "zh": "后翼",
+  "it": "Gambetto di donna",
+  "pt": "Damengambit",
+  "pl": "Gambit duński",
+  "fr": "Gambit dame",
+  "en": "Damengambit",
+  "ru": "Ферзевый гамбит",
+  "es": "Damengambit"
+ }},
+ "mod3": {"title": {
+  "de": "Englische Eröffnung",
+  "zh": "英国式开局",
+  "it": "Partita inglese",
+  "pt": "Abertura Inglesa",
+  "pl": "Partia angielska",
+  "fr": "Partie anglaise",
+  "en": "English opening",
+  "ru": "Английское начало",
+  "es": "Apertura Inglesa"
+ }},
+ "mod4": {"title": {
+  "de": "Larsen-Eröffnung",
+  "zh": "尼姆佐维奇－拉尔森进攻",
+  "it": "Apertura Larsen",
+  "pt": "Abertura Larsen",
+  "pl": "Debiut Larsena",
+  "fr": "Début Larsen",
+  "en": "Larsen's opening",
+  "ru": "Дебют Ларсена",
+  "es": "Apertura Larsen"
+ }},
+ "mod5": {"title": {
+  "de": "Petrow-Verteidigung",
+  "zh": "俄罗斯防御",
+  "it": "Difesa russa",
+  "pt": "Defesa Petroff",
+  "pl": "Obrona rosyjska",
+  "fr": "Défense russe",
+  "en": "Petrov's Defense",
+  "ru": "Защита Петрова",
+  "es": "Defensa Petroff"
+ }},
+ "mod6": {"title": {
+  "de": "Vier-Springer-Eröffnung",
+  "zh": "四马开局",
+  "it": "Partita dei quattro cavalli",
+  "pt": "Abertura dos 4 cavalos",
+  "pl": "Debiut Czterech Skoczków",
+  "fr": "Partie des quatre cavaliers",
+  "en": "Four Knights Game",
+  "ru": "Дебют четырех коней",
+  "es": "Apertura de los 4 caballos"
+ }},
+ "mod7": {"title": {
+  "de": "Schottische Eröffnung",
+  "zh": "苏格兰开局 ",
+  "it": "Partita scozzese",
+  "pt": "Abertura escocesa",
+  "pl": "Gambit szkocki",
+  "fr": "Partie écossaise",
+  "en": "Scottish Gambit Opening",
+  "ru": "Шотландский дебют",
+  "es": "Apertura Escocesa"
+ }},
+ "mod8": {"title": {
+  "de": "Wiener Partie",
+  "zh": "维也纳开局",
+  "it": "Partita viennese",
+  "pt": "Abertura Vienesa",
+  "pl": "Partia wiedeńska",
+  "fr": "Partie viennoise",
+  "en": "Vienna game",
+  "ru": "Венский дебют",
+  "es": "Apertura Vienesa"
+ }},
+ "mod9": {"title": {
+  "de": "Philidor Verteidigung",
+  "zh": "菲立道尔防御",
+  "it": "Difesa Philidor",
+  "pt": "Defesa Philidor",
+  "pl": "Obrona Philidora",
+  "fr": "Défense Philidor",
+  "en": "Philidor Defense",
+  "ru": "Защита Филидора",
+  "es": "Defensa Philidor"
+ }},
+ "mod17": {"title": {
+  "de": "Aljechin-Verteidigung",
+  "zh": "阿列亨防御",
+  "it": "Difesa Alechin",
+  "pt": "Alekhine",
+  "pl": "Obrona Alechina",
+  "fr": "Défense Alekhine",
+  "en": "Alekhine's defense",
+  "ru": "Защита Алехина",
+  "es": "Defensa Alekhine"
+ }},
+ "Mod-17/Exe-40": {"event": {
+  "de": "Drachenvariante",
+  "zh": "龙变例",
+  "pl": "Wariant Dragona",
+  "pt": "Variante  Dragão",
+  "en": "Dragon variation",
+  "ru": "Вариант дракона",
+  "es": "Variante del Dragón"
+ }},
+ "mod18": {"title": {
+  "de": "Skandinavische Verteidigung",
+  "zh": "斯堪的纳维亚防御",
+  "it": "Difesa scandinava",
+  "pt": "Defesa Escandinava",
+  "pl": "Obrona skandynawska",
+  "fr": "Défense scandinave",
+  "en": "Scandinavian Defense",
+  "ru": "Скандинавская защита",
+  "es": "Defensa Escandinava"
+ }},
+ "mod19": {"title": {
+  "de": "Caro-Kann-Verteidigung",
+  "zh": "卡罗-卡恩防御",
+  "it": "Difesa Caro-Kann",
+  "pt": "Defesa CaroKan",
+  "pl": "Obrona Caro-Kann",
+  "fr": "Défense Caro-Kann",
+  "en": "Caro-Kann Defense",
+  "ru": "Защита Каро-Канн",
+  "es": "Defensa Caro Kan"
+ }},
+ "Mod-17/Exe-42": {"event": {
+  "de": "Scheveningen-Variante",
+  "zh": "Sheveningen 变例",
+  "pl": "Wariant Sheveningena",
+  "pt": "Variante Scheveningen",
+  "en": "Sheveningen variation",
+  "ru": "Схевенингенский вариант",
+  "es": "Variante Scheveningen"
+ }},
+ "Mod-17/Exe-41": {"event": {
+  "de": "Paulsen-Variante",
+  "zh": "保尔森变例",
+  "pl": "Wariant Paulsena",
+  "pt": "Variante Paulsen",
+  "en": "Paulsen variation",
+  "ru": "Вариант Паульсена",
+  "es": "Variante Paulsen"
+ }},
+ "mod13": {"title": {
+  "de": "Ruy Lopez Verteidigung",
+  "zh": "西班牙开局",
+  "it": "Partita spagnola",
+  "pt": "Abertura Ruy Lopez",
+  "pl": "Partia hiszpańska",
+  "fr": "Partie espagnole",
+  "en": "Ruy Lopez Opening",
+  "ru": "Дебют Руи Лопеса",
+  "es": "Apertura Ruy Lopez"
+ }},
+ "Mod-17/Exe-44": {"event": {
+  "de": "Alapin-Variante",
+  "zh": "阿拉平变例",
+  "pl": "Wariant Alapina",
+  "pt": "Variante Alapin",
+  "en": "Alapin's variation",
+  "ru": "Вариант Алапина",
+  "es": "Variante Alapin"
+ }},
+ "mod14": {"title": {
+  "de": "Ruy Lopez Verteidigung",
+  "zh": "西班牙开局",
+  "it": "Partita spagnola",
+  "pt": "Ruy Lopez",
+  "pl": "Partia hiszpańska",
+  "fr": "Partie espagnole",
+  "en": "Ruy Lopez Opening",
+  "ru": "Дебют Руи Лопеса",
+  "es": "Apertura Ruy Lopez"
+ }},
+ "Mod-17/Exe-43": {"event": {
+  "de": "Geschlossene Variante",
+  "zh": "封闭变例",
+  "pl": "Zamknięta wariacja",
+  "pt": "Variante Cerrada",
+  "en": "Closed variation",
+  "ru": "Закрытый вариант",
+  "es": "Variante Cerrada"
+ }},
+ "mod15": {"title": {
+  "de": "Französische Verteidigung",
+  "zh": "法兰西防御",
+  "it": "Difesa francese",
+  "pt": "Defesa Francesa",
+  "pl": "Obrona francuska",
+  "fr": "Défense française",
+  "en": "French Defense",
+  "ru": "Французская защита",
+  "es": "Defensa Francesa"
+ }},
+ "Mod-17/Exe-46": {"event": {
+  "de": "Angenommenes Damengambit",
+  "zh": "接受后翼弃兵",
+  "pl": "Przyjęty",
+  "pt": "Aceito",
+  "en": "Accepted",
+  "ru": "Принятый Ферзевый гамбит",
+  "es": "Aceptado"
+ }},
+ "mod16": {"title": {
+  "de": "Aljechin Verteidigung",
+  "zh": "阿列亨防御",
+  "it": "Difesa Alechin",
+  "pt": "Defesa Alekhine",
+  "pl": "Obrona Alechina",
+  "fr": "Défense Alekhine",
+  "en": "Alekhine's Defense",
+  "ru": "Защита Алехина",
+  "es": "Defensa Alekhine"
+ }},
+ "Mod-17/Exe-45": {"event": {
+  "de": "Orthodoxe Verteidigung",
+  "zh": "古典变例",
+  "pl": "Klasyczna wariacja",
+  "pt": "Defesa Ortodoxa",
+  "en": "Classical variation",
+  "ru": "Ортодоксальная защита",
+  "es": "Defensa Ortodoxa"
+ }},
+ "Mod-17/Exe-48": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante clássica",
+  "en": "Classical variation",
+  "ru": "Славянская защита",
+  "es": "Variante clásica"
+ }},
+ "mod10": {"title": {
+  "de": "Lettisches Gambit",
+  "zh": "拉脱维亚弃兵开局",
+  "it": "Gambetto lettone",
+  "pt": "Gambito Letão",
+  "pl": "Gambit łotewski",
+  "fr": "Gambit letton",
+  "en": "Latvian Gambit",
+  "ru": "Латышский гамбит",
+  "es": "Gambito Letón"
+ }},
+ "Mod-17/Exe-47": {"event": {
+  "de": "Tarrasch-Variante",
+  "zh": "塔拉什变例",
+  "pl": "Wariant Tarrascha",
+  "pt": "Variante Tarrasch",
+  "en": "Tarrash variation",
+  "ru": "Вариант Тарраша",
+  "es": "Variante Tarrasch"
+ }},
+ "mod11": {"title": {
+  "de": "Italienische Partie",
+  "zh": "意大利开局",
+  "it": "Partita italiana",
+  "pt": "Abertura Italiana",
+  "pl": "Partia włoska",
+  "fr": "Partie italienne",
+  "en": "Italian Game",
+  "ru": "Итальянский дебют",
+  "es": "Apertura Italiana"
+ }},
+ "mod12": {"title": {
+  "de": "Evans Gambit",
+  "zh": "伊文思弃兵局",
+  "it": "Gambetto Evans",
+  "pt": "Gambito Evans",
+  "pl": "Gambit Evansa",
+  "fr": "Gambit Evans",
+  "en": "Evans Gambit",
+  "ru": "Гамбит Эванса",
+  "es": "Gambito Evans"
+ }},
+ "Mod-17/Exe-49": {"event": {
+  "de": "Meran-Variante",
+  "zh": "梅兰变例",
+  "pl": "Wariant Merana",
+  "pt": "Variante Merano",
+  "en": "Meran variation",
+  "ru": "Вариант Мерано",
+  "es": "Variante Merano"
+ }},
+ "mod28": {"title": {
+  "de": "Königsindische Verteidigung",
+  "zh": "古印度防御 ",
+  "it": "Difesa est indiana",
+  "pt": "Defesa India do Rei",
+  "pl": "Obrona królewsko-indyjska",
+  "fr": "Défense est-indienne",
+  "en": "King's Indian defense",
+  "ru": "Староиндийская защита",
+  "es": "Defensa India del Rey"
+ }},
+ "mod29": {"title": {
+  "de": "Katalanische Eröffnung",
+  "zh": "卡塔龙开局",
+  "it": "Partita catalana",
+  "pt": "Abertura catalana",
+  "pl": "Partia katalońska",
+  "fr": "Partie catalane",
+  "en": "Catalan Opening",
+  "ru": "Каталонский дебют",
+  "es": "Apertura catalana"
+ }},
+ "Mod-17/Exe-71": {"event": {
+  "de": "Larsen-Eröffnung",
+  "zh": "拉尔森开局",
+  "pl": "Debiut Larsena",
+  "pt": "Apertura Larsen",
+  "en": "Larsen's opening",
+  "ru": "Дебют Ларсена",
+  "es": "Apertura Larsen"
+ }},
+ "Mod-17/Exe-70": {"event": {
+  "de": "Systeme mit ...Cf6...e6",
+  "zh": "...Nf6...e6体系",
+  "pl": "Systemy ... Sf6 ... e6",
+  "pt": "Sistemas com  ...Cf6...e6",
+  "en": "Sistems with ...Nf6...e6",
+  "ru": "Система ...Nf6...e6",
+  "es": "Sistemas con...Cf6...e6"
+ }},
+ "mod22": {"title": {
+  "de": "Holländische Verteidigung",
+  "zh": "荷兰防御",
+  "it": "Difesa olandese",
+  "pt": "Defesa Holandesa",
+  "pl": "Obrona duńska",
+  "fr": "Défense hollandaise",
+  "en": "Dutch Defense",
+  "ru": "Голландская защита",
+  "es": "Defensa Holandesa"
+ }},
+ "mod23": {"title": {
+  "de": "Wolga Gambit",
+  "zh": "伏尔加/本科弃兵",
+  "it": "Gambetto Benko",
+  "pt": "Gambito Volga",
+  "pl": "Gambit Benko",
+  "fr": "Gambit Benko",
+  "en": "Volga/Benko Gambit",
+  "ru": "Волжский гамбит",
+  "es": "Gambito Volga"
+ }},
+ "mod20": {"title": {
+  "de": "Sizilianische Verteidigung",
+  "zh": "西西里防御",
+  "it": "Difesa siciliana",
+  "pt": "Defesa Siciliana",
+  "pl": "Obrona sycylijska",
+  "fr": "Défense sicilienne",
+  "en": "Sicilian Defense",
+  "ru": "Сицилианская защита",
+  "es": "Defensa Siciliana"
+ }},
+ "mod21": {"title": {
+  "de": "Slawische Verteidigung",
+  "zh": "斯拉夫防御",
+  "it": "Difesa slava",
+  "pt": "Defesa Eslava",
+  "pl": "Obrona słowiańska",
+  "fr": "Défense slave",
+  "en": "Slav Defense",
+  "ru": "Славянская защита",
+  "es": "Defensa Eslava"
+ }},
+ "mod26": {"title": {
+  "de": "Grünfeld Verteidigung",
+  "zh": "格隆菲尔德防御",
+  "it": "Difesa Grünfeld",
+  "pt": "Defesa Grünfeld",
+  "pl": "Obrona Grünfelda",
+  "fr": "Défense Grünfeld",
+  "en": "Grunfeld Defense",
+  "ru": "Защита Грюнфельда",
+  "es": "Defensa Grünfeld"
+ }},
+ "mod27": {"title": {
+  "de": "Königsindische Verteidigung",
+  "zh": "古印度防御 ",
+  "it": "Difesa est indiana",
+  "pt": "Defesa India do Rei",
+  "pl": "Obrona królewsko-indyjska",
+  "fr": "Défense est-indienne",
+  "en": "King's Indian Defense",
+  "ru": "Староиндийская защита",
+  "es": "Defensa India del Rey"
+ }},
+ "mod24": {"title": {
+  "de": "Benoni-Verteidigung",
+  "zh": "别诺尼防御",
+  "it": "Difesa Benoni",
+  "pt": "Defesa Benoni",
+  "pl": "Obrona Benoni",
+  "fr": "Défense Benoni",
+  "en": "Benoni Defense",
+  "ru": "Защита Бенони",
+  "es": "Defensa Benoni"
+ }},
+ "mod25": {"title": {
+  "de": "Altindische Verteidigung",
+  "zh": "旧式印度防御",
+  "it": "Difesa indiana antica",
+  "pt": "Defesa India antiga",
+  "pl": "Obrona staro-indyjska",
+  "fr": "Défense vieille-indienne",
+  "en": "Old Indian Defense",
+  "ru": "Староиндийская защита",
+  "es": "Defensa India antigua"
+ }},
+ "mod30": {"title": {
+  "de": "Bogo-Indische Verteidigung",
+  "zh": "波刚-印度防御",
+  "it": "Difesa Bogo-indiana",
+  "pt": "Defesa Bogoindia",
+  "pl": "Obrona Bogo-indyjska",
+  "fr": "Défense Bogo-indienne",
+  "en": "Bogo-Indian Defense",
+  "ru": "Бого-Индийская защита",
+  "es": "Defensa Bogoindia"
+ }},
+ "Mod-17/Exe-62": {"event": {
+  "de": "Petrosjan-System",
+  "zh": "Petrossian体系",
+  "pl": "System Petrossiana",
+  "pt": "Variante Petrosia",
+  "en": "Petrossian sistem",
+  "ru": "Система Петросяна",
+  "es": "Variante Petrosian"
+ }},
+ "Mod-17/Exe-61": {"event": {
+  "de": "Fianchetto-Variante",
+  "zh": "侧翼象变例",
+  "pl": "Wariant g3",
+  "pt": "Variante do Fianchetto",
+  "en": "g3 variation",
+  "ru": "Вариант Фианкетто",
+  "es": "Variante del Fianchetto"
+ }},
+ "Mod-17/Exe-64": {"event": {
+  "de": "Capablanca-Variante",
+  "zh": "卡帕布兰卡变例",
+  "pl": "Wariant Capablanki",
+  "pt": "Variante Capablanca",
+  "en": "Capablanca variation",
+  "ru": "Вариант Капабланки",
+  "es": "Variante Capablanca"
+ }},
+ "Mod-17/Exe-63": {"event": {
+  "de": "Klassische Variante",
+  "zh": "古典变例",
+  "pl": "Wariant klasyczny",
+  "pt": "Variante clássica",
+  "en": "Classical variation",
+  "ru": "Классический вариант",
+  "es": "Variante clásica"
+ }},
+ "Mod-17/Exe-60": {"event": {
+  "de": "Bogo-Indische Verteidigung",
+  "zh": "波刚-印度防御",
+  "pl": "Obrona Bogo-indyjska",
+  "pt": "Defensa Bogoindia",
+  "en": "Bogo indian defense",
+  "ru": "Бого-Индийская защита",
+  "es": "Defensa Bogoindia"
+ }},
+ "mod31": {"title": {
+  "de": "Damen-Indische Verteidigung",
+  "zh": "新印度防御",
+  "it": "Difesa ovest indiana",
+  "pt": "Defesa India da dama",
+  "pl": "Obrona hetmańsko-indyjska",
+  "fr": "Défense ouest-indienne",
+  "en": "Queens Indian Defense",
+  "ru": "Новоиндийская защита",
+  "es": "Defensa India de dama"
+ }},
+ "Mod-17/Exe-69": {"event": {
+  "de": "Variante mit 1...e5",
+  "zh": "1...e5 变例",
+  "pl": "1. ... e5",
+  "pt": "Variante 1...e5",
+  "en": "1...e5 variation",
+  "ru": "Вариант 1...e5",
+  "es": "Variante 1...e5"
+ }},
+ "mod32": {"title": {
+  "de": "Nimzo-Indische-Verteidigung",
+  "zh": "尼姆佐-印度防御",
+  "it": "Difesa Nimzo-indiana",
+  "pt": "Nimzoindia",
+  "pl": "Obrona Nimzo-indyjska",
+  "fr": "Défense Nimzo-indienne",
+  "en": "Nimzo Indian Defense",
+  "ru": "Индийская защита Нимцовича",
+  "es": "Defensa Nimzoindia"
+ }},
+ "Mod-17/Exe-66": {"event": {
+  "de": "Varianten 4-Db3/4-f3/4-g3",
+  "zh": "4-Qb3/4-f3/4-g3变例",
+  "pl": "4. Hb3/4. f3/4. g3",
+  "pt": "Variantes 4-Db3/4-f3/4-g3",
+  "en": "4-Qb3/4-f3/4-g3 variations",
+  "ru": "Вариант 4-Qb3 / 4-f3 / 4-g3",
+  "es": "Variantes 4-Db3/4-f3/4-g3"
+ }},
+ "Mod-17/Exe-65": {"event": {
+  "de": "Sämisch-Variante",
+  "zh": "杰米什变例",
+  "pl": "Wariant Saemischa",
+  "pt": "Variante Saemisch",
+  "en": "Saemich variation",
+  "ru": "Вариант Саевича",
+  "es": "Variante Saemisch"
+ }},
+ "Mod-17/Exe-68": {"event": {
+  "de": "Symetrische Variante",
+  "zh": "对称变例",
+  "pl": "Wariacja symetryczna",
+  "pt": "Variante simétrica",
+  "en": "Simetric variation",
+  "ru": "Симметричный вариант",
+  "es": "Variante simétrica"
+ }},
+ "Mod-17/Exe-67": {"event": {
+  "de": "Rubinstein-Variante",
+  "zh": "鲁宾斯坦变例",
+  "pl": "Wariant Rubinsteina",
+  "pt": "Variante Rubinstein",
+  "en": "Rubinstein variation",
+  "ru": "Вариант Рубинштейна",
+  "es": "Variante Rubinstein"
+ }}
+}}

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "colunas",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/5ppp\/p7\/1p1p4\/1P1P4\/P7\/5PPP\/2RR1K2 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rc5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando dobrar as torres nesta coluna e ocup\u00e1-la. Caso as pretas troquem as torres ...Txc5 , segue 2-dxc5, atacando o peao d e criando um pe\u00e3o passado protegido em c5.",
+                    "en": "Threatening to double Rooks in this file and occupy it. If Black trades Rooks ... Rxc5, 2-dxc5 will follow attacking the d-pawn and creating a protected passed pawn on c5.",
+                    "es": "Amenazando doblar las torres en esta columna y ocuparla. Si las negras cambian las torres ...Txc5, sigue 2-dxc5, atacando el pe\u00f3n \"d\" y creando un pe\u00f3n pasado protegido en c5.",
+                    "de": "Droht, die T\u00fcrme auf der c-Linie zu verdoppeln. Auf ...Txc5 folgt 2. dxe5, was den schwarzen d-Bauern droht und einen unterst\u00fctzen Freibauern auf der c-Linie schafft.",
+                    "zh": "\u5a01\u80c1\u5728c-\u7ebf\u4e0a\u5236\u9020\u53cc\u8f66\uff0c\u5e76\u5c06\u4e4b\u5360\u636e\u3002\u5982\u679c\u9ed1\u65b9\u8d70... Rxc5\u5151\u8f66\uff0c\u767d\u65b9\u4f1a\u5e942-dxc5\uff0c\u653b\u51fb\u9ed1d-\u5175\uff0c\u5728c-\u7ebf\u5236\u9020\u53d7\u4fdd\u62a4\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Zagra\u017caj\u0105c zdublowaniem Wie\u017c na kolumnie, by j\u0105 przej\u0105\u0107. Je\u015bli Czarne wymieni\u0105 Wie\u017ce ... Wxc5, nast\u0105pi 2. dxc5 z atakiem na piona d i tworz\u0105c chronionego wolnego piona na c5.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u043d\u0438\u0435\u043c \u041b\u0430\u0434\u0435\u0439 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u044e\u0442 \u041b\u0430\u0434\u044c\u044e ...Rxc5, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0430\u0442\u0430\u043a\u0430 2-dxc5 \u043d\u0430 d-\u043f\u0435\u0448\u043a\u0443 \u0438, \u0432 \u0441\u0432\u043e\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c, \u043f\u043e\u043b\u0443\u0447\u0430\u0442 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 c5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "colunas",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r5k1\/p1p3pp\/1p6\/8\/8\/1P5P\/PKP3P1\/3R4 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rd7 ",
+                "comment": {
+                    "pt": "A s\u00e9tima fila \u00e9 important\u00edssima porque geralmente os pe\u00f5es advers\u00e1rios est\u00e3o situados nela e ficar\u00e3o atacados.",
+                    "en": "The 7th rank is very important because, generally, the opponent's pawns are there and will now be under attack.",
+                    "es": "La s\u00e9ptima l\u00ednea es important\u00edsima porque generalmente los peones adversarios est\u00e1n all\u00ed y quedar\u00e1n atacados.",
+                    "de": "Normalerweise ist die Besetzung der siebten Reihe durch einen Turm sehr wichtig, denn er kann die dort stehenden gegnerischen Bauern.",
+                    "zh": "\u7528\u8f66\u7262\u7262\u63a7\u5236\u4e03\u7ebf\u975e\u5e38\u91cd\u8981\uff0c\u56e0\u4e3a\u654c\u5175\u901a\u5e38\u5904\u5728\u4e03\u7ebf\uff0c\u8fd9\u6837\u5c31\u80fd\u5411\u5176\u53d1\u52a8\u653b\u51fb\u3002",
+                    "pl": "Si\u00f3dma linia jest istotna poniewa\u017c, g\u0142\u00f3wnie, piony przeciwnika znajduj\u0105 si\u0119 na niej i b\u0119d\u0105 pod atakiem.",
+                    "ru": "\u0421\u0435\u0434\u044c\u043c\u0430\u044f \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u0430, \u0442\u0430\u043a \u043a\u0430\u043a \u043d\u0430 \u043d\u0435\u0439 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u0438 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0431\u0443\u0434\u0443\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "colunas",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r3k1\/3R3p\/6p1\/1P6\/8\/8\/8\/7K w - - 0 1",
+        "moves": [
+            {
+                "move": "1. b6 ",
+                "comment": {
+                    "pt": "O dom\u00ednio absoluto da s\u00e9tima fila, aliada a um pe\u00e3o passado, tamb\u00e9m na s\u00e9tima, \u00e9 decisivo.",
+                    "en": "It's decisive to have absolute control over the 7th rank allied with a passed pawn in the same rank.",
+                    "es": "El dominio absoluto de la s\u00e9ptima l\u00ednea, aliada a un pe\u00f3n pasado, tambi\u00e9n en la s\u00e9ptima, es decisivo.",
+                    "de": "Die absolute Beherrschung der siebten Reihe im Zusammenhang mit dem Freibauern ist entscheidend.",
+                    "zh": "\u62e5\u6709\u4e03\u7ebf\u7684\u7edd\u5bf9\u63a7\u5236\u6743\uff0c\u540c\u65f6\u914d\u5408\u8be5\u7ebf\u4e0a\u7684\u901a\u8def\u5175\uff0c\u8fd9\u5bf9\u68cb\u5c40\u8f93\u8d62\u662f\u81f3\u5173\u91cd\u8981\u7684\u3002",
+                    "pl": "Decyduj\u0105ca kontrola nad si\u00f3dm\u0105 lini\u0105 wraz z wolnym pionem na tej samej linii to wielka bro\u0144.",
+                    "ru": "\u0420\u0435\u0448\u0430\u044e\u0449\u0438\u0439 \u0445\u043e\u0434\u044f \u0434\u043b\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u0441\u0435\u0434\u044c\u043c\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u044e \u0438 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "colunas",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r4k\/3R4\/8\/1Pp5\/8\/8\/8\/3K4 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Rb8 ",
+                "comment": {
+                    "pt": "As pretas n\u00e3o podem permitir que as brancas joguem b6 - b7 e com esta jogada ganham o pe\u00e3o e garantem o empate.",
+                    "en": "Black mustn't allow White to play b6 - b7. Black wins the pawn with this move and guarantees a draw.",
+                    "es": "Las negras no pueden permitir que las blancas jueguen b6 - b7 y con esta jugada ganan el pe\u00f3n y se aseguran el empate.",
+                    "de": "Schwarz darf b6-b7 nicht zulassen. Mit dem Textzug gewinnt Schwarz den Bauern und erreicht Remis.",
+                    "zh": "\u9ed1\u65b9\u5fc5\u987b\u963b\u6b62\u767d\u65b9\u8d70b6-b7\u3002\u9ed1\u65b9\u8fd9\u6837\u8d70\u7684\u8bdd\u8d62\u5f97\u5175\u5e76\u6c42\u5f97\u548c\u5c40\u3002",
+                    "pl": "Czarne nie mog\u0105 pozwoli\u0107 Bia\u0142ym na zagranie b6-b7. Czarne wygrywaj\u0105 piona tym ruchem i gwarantuj\u0105 remis.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442\u044c \u0411\u0435\u043b\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c b6 - b7. \u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u044e\u0442 \u0441\u0435\u0431\u0435 \u043d\u0438\u0447\u0435\u0439\u043d\u044b\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "colunas",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/p4ppp\/1p6\/3p4\/3P4\/P7\/1P3PPP\/R5K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rc1 ",
+                "comment": {
+                    "pt": "Ocupando a coluna mais importante e amea\u00e7ando penetrar na s\u00e9tima. A outra jogada natural ,Te1, seria pior porque as pretas poderiam defender a penetra\u00e7\u00e3o na s\u00e9tima fila jogando ...Rf8.",
+                    "en": "Occupying the most important file and threatening to enter the 7th rank. The other natural move Re1 would be worse because Black could defend against this penetration in the 7th rank by playing ...Kf8.",
+                    "es": "Ocupando la columna m\u00e1s importante y amenazando penetrar en la s\u00e9ptima. La otra jugada natural,Te1, no ser\u00eda tan buena porque las negras podr\u00edan defender la penetraci\u00f3n en la s\u00e9ptima l\u00ednea jugando ...Rf8.",
+                    "de": "Besetzt die wichtigste Linie und droht, auf die siebte Reihe einzudringen. Der andere nat\u00fcrliche Zug (Te1) w\u00e4re nicht so gut, weil Schwarz das Eindringen auf die siebte Reihe mit Kf8 verhindern k\u00f6nnte.",
+                    "zh": "\u5360\u636e\u6700\u91cd\u8981\u7684\u7ebf\uff0c\u5a01\u80c1\u4fb5\u5360\u4e03\u7ebf\u3002\u53e6\u5916\u4e00\u6b65Re1\u6548\u679c\u6ca1\u6709\u90a3\u4e48\u597d\uff0c\u56e0\u4e3a\u9ed1\u65b9\u53ef\u4ee5\u8d70...Kf8\u9632\u5fa1\u8fd9\u6b21\u5728\u4e03\u7ebf\u4e0a\u7684\u5165\u4fb5\u3002",
+                    "pl": "Okupowanie najwa\u017cniejszej kolumny i gro\u017aba wkroczenia na si\u00f3m\u0105 lini\u0119. Inny naturalny ruch We1 m\u00f3g\u0142by by\u0107 gorszy, poniewa\u017c Czarne mog\u0142yby obroni\u0107 si\u0119 przed penetracj\u0105 si\u00f3dmej linii graj\u0105c ... Kf8.",
+                    "ru": "\u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0441 \u0443\u0433\u0440\u043e\u0437\u043e\u0439 \u0432\u0445\u043e\u0434\u0430 \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c. \u0414\u0440\u0443\u0433\u043e\u0439 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 Re1 \u0431\u044b\u043b \u0431\u044b \u0445\u0443\u0436\u0435, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u0432\u043e\u0439\u0442\u0438 \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c, \u0437\u0430\u0449\u0438\u0442\u0438\u0432\u0448\u0438\u0441\u044c \u0438\u0433\u0440\u043e\u0439 ...Kf8."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(40)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r1k\/pppb2bp\/2q1n1p1\/4p3\/8\/1BPPBN2\/PP2QPP1\/R3K2R w KQ - 0 19",
+        "moves": [
+            {
+                "move": "19. O-O-O ",
+                "comment": {
+                    "pt": "Terminando o desenvolvimento, conectando as torres e preparando um ataque atrav\u00e9s da coluna h.",
+                    "en": "Completing development, connecting Rooks and preparing for a kingside attack through the h-file.",
+                    "de": "Beendet die Entwicklung, verbindet die T\u00fcrme und bereitet einen Angriff \u00fcber die h-Linie vor.",
+                    "es": "Terminando el desarrollo, conectando las torres y preparando un ataque a trav\u00e9s de la columna h.",
+                    "zh": "\u7ed3\u675f\u51fa\u5b50\uff0c\u534f\u540c\u53cc\u8f66\u5e76\u51c6\u5907\u901a\u8fc7h-\u7ebf\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Uko\u0144czenie rozwoju, po\u0142\u0105czenie Wie\u017c i przygotowanie ataku na skrzyd\u0142o kr\u00f3lewskie przez kolumn\u0119 h.",
+                    "ru": "\u0417\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435, \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0447\u0435\u0440\u0435\u0437 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(79)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/4kp2\/p1rp2p1\/1p2p1bp\/n1P5\/R4P2\/PP4PP\/1K3B1R w - - 0 26",
+        "moves": [
+            {
+                "move": "26. Be2 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando tomar em b5, uma vez que a primeira fila est\u00e1 defendida pela torre de h1.",
+                    "en": "Threatening to capture on b5, since the 1st rank is defended by the h1-Rook.",
+                    "de": "Droht auf b5 zu schlagen, da jetzt die Grundreihe verteidigt ist.",
+                    "es": "Amenazando tomar en b5, ya que la primera l\u00ednea est\u00e1 defendida por la torre de h1.",
+                    "zh": "\u5a01\u80c1\u653b\u51fbb5\uff0c\u56e0\u4e3a\u5e95\u7ebf\u53d7\u5230h1-\u8f66\u7684\u9632\u536b\u3002",
+                    "pl": "Gro\u017aba wzi\u0119cia na b5 z powodu obrony pierwszej linii przez Wie\u017c\u0119 h1.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0432\u0437\u044f\u0442\u0438\u0435\u043c b5, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043f\u0435\u0440\u0432\u0430\u044f \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u0430 \u041b\u0430\u0434\u044c\u0435\u0439 h1."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(55)",
+            "zh": "Event 1"
+        },
+        "fen": "7r\/4k1p1\/p1p2r2\/2n1p3\/1p2n3\/1B2R1P1\/PPP1N3\/5RK1 b - - 0 38",
+        "moves": [
+            {
+                "move": "38... Rfh6 ",
+                "comment": {
+                    "pt": "Dobrando as torres na coluna aberta e criando uma s\u00e9rie de amea\u00e7as ao rei inimigo.",
+                    "en": "Doubling Rooks in the open file and creating a series of threats to the enemy King.",
+                    "de": "Verdoppelt die T\u00fcrme auf der offenen Linie und schafft Drohungen gegen den gegnerischen K\u00f6nig.",
+                    "es": "Doblando las torres en la columna abierta y creando una serie de amenazas al rey enemigo.",
+                    "zh": "\u5728\u5f00\u653e\u7ebf\u83b7\u5f97\u53cc\u8f66\uff0c\u7ed9\u654c\u738b\u5236\u9020\u4e00\u7cfb\u5217\u7684\u5a01\u80c1\u3002",
+                    "pl": "Zdublowanie Wie\u017c na otwartej kolumnie i tworzenie serii zagro\u017ce\u0144 wobec wrogiego Kr\u00f3la.",
+                    "ru": "\u0421\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u044f \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0440\u044f\u0434 \u0443\u0433\u0440\u043e\u0437 \u0434\u043b\u044f \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(116)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/1p5p\/p3k1p1\/P1P2p2\/4bP2\/2P3PB\/3K3P\/8 w - - 0 39",
+        "moves": [
+            {
+                "move": "39. c4 ",
+                "comment": {
+                    "pt": "Evitando ...Rd5 e preparando Rc3-Rd4.",
+                    "en": "Preventing ...Kd5 and preparing Kc3-Kd4.",
+                    "de": "Verhindert ...Kd5 und bereitet Kc3-Kd4 vor.",
+                    "es": "Evitando ...Rd5 y preparando Rc3-Rd4.",
+                    "zh": "\u963b\u6b62...Kd5\uff0c\u51c6\u5907Kc3-Kd4\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c ... Kd5 i przygotowuj\u0105c Kc3-Kd4.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 ...Kd5 \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a Kc3-Kd4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(90)",
+            "zh": "Event 1"
+        },
+        "fen": "r3kb1r\/p2q1ppp\/1pn1pn2\/1N1p4\/Q1P5\/6P1\/PP2PPKP\/RNB2R2 w kq - 0 11",
+        "moves": [
+            {
+                "move": "11. cxd5 ",
+                "comment": {
+                    "pt": "Abrindo o centro e esperando as pretas decidirem por uma retomada, para definirem seu plano de a\u00e7\u00e3o.",
+                    "en": "Opening the center and waiting for Black's pieces to decide about a recapture in order to determinate a plan of action.",
+                    "de": "\u00d6ffnet das Zentrum und wird seinen Plan erst dann bestimmen, wenn Schwarz zur\u00fcckgeschlagen hat.",
+                    "es": "Abriendo el centro y esperando ver c\u00f3mo recapturan las negras, para definir su plan de acci\u00f3n.",
+                    "zh": "\u5f00\u653e\u4e2d\u5fc3\uff0c\u7b49\u5f85\u9ed1\u68cb\u53cd\u51fb\u4e4b\u540e\u518d\u51b3\u5b9a\u884c\u52a8\u8ba1\u5212\u3002",
+                    "pl": "Otwarcie centrum i oczekiwanie na decyzj\u0119 czy Czarne figury odzyskaj\u0105 piona, czy nie, aby wyznaczy\u0107 plan akcji.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0430 \u0427\u0435\u0440\u043d\u044b\u043c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

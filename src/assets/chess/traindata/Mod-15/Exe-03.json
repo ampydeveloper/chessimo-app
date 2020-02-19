@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(29)",
+            "zh": "Event 1"
+        },
+        "fen": "4kb2\/2p5\/1p4p1\/2pPp3\/P3P1P1\/8\/1P1B4\/1K6 w - - 0 36",
+        "moves": [
+            {
+                "move": "36. a5 ",
+                "comment": {
+                    "pt": "Para debilitar a cadeia de pe\u00f5es negros na ala da dama.",
+                    "en": "In order to weaken the black pawn chain on the queenside.",
+                    "de": "Um die schwarze Bauernkette am Damenfl\u00fcgel zu schw\u00e4chen.",
+                    "es": "Para debilitar la cadena de peones negros en el ala dama.",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u540e\u7ffc\u9ed1\u5175\u5175\u94fe\u3002",
+                    "pl": "W celu os\u0142abienia \u0142a\u0144cucha czarnych pion\u00f3w na skrzydle hetma\u0144skim.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0446\u0435\u043f\u043e\u0447\u043a\u0443 \u043f\u0435\u0448\u0435\u043a \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(72)",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/4r1pp\/2p5\/p7\/1p2b3\/5P2\/PPPRR1PP\/6K1 w - - 0 26",
+        "moves": [
+            {
+                "move": "26. Rd4 ",
+                "comment": {
+                    "pt": "Com o objetivo de retomar de torre em e4 e n\u00e3o permitir que o pe\u00e3o branco fique isolado.",
+                    "en": "In order to retake with the Rook on e4 and prevent the white pawn from getting isolated.",
+                    "de": "Um den L\u00e4ufer mit einem Turm zu schlagen, damit ein Isolani auf e4 vermieden wird.",
+                    "es": "Con el objetivo de tomar con la torre en e4 y no permitir que el pe\u00f3n blanco quede aislado.",
+                    "zh": "\u4e3a\u4e86\u7528\u8f66\u6765\u653b\u51fb\u8c61\u4ee5\u6b64\u907f\u514d\u5728e4\u5904\u4ea7\u751f\u5b64\u5175\u3002",
+                    "pl": "W celu wzi\u0119cia na e4 poprzez Wie\u017c\u0119 oraz unikni\u0119cia izolowania bia\u0142ego piona.",
+                    "ru": "\u0414\u043b\u044f \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0430 \u041b\u0430\u0434\u044c\u0435\u0439 \u043d\u0430 e4 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u0431\u0435\u043b\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(39)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r2\/1p1bppkp\/2np2p1\/p1qN1P2\/4P3\/8\/PP1QB1PP\/3R1R1K w - - 0 19",
+        "moves": [
+            {
+                "move": "19. Nxe7 ",
+                "comment": {
+                    "pt": "Para seguir com f6 e enfraquecer a estrutura de pe\u00f5es que defende o rei preto.",
+                    "en": "In order to continue with f6 and weaken the structure that defends the black King.",
+                    "de": "Um f6 folgen zu lassen und die Bauernstruktur zu schw\u00e4chen, die den schwarzen K\u00f6nig verteidigt.",
+                    "es": "Para seguir con f6 y debilitar la estructura de peones que defiende el rey negro.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u4e0bf6\u5e76\u4e14\u524a\u5f31\u9632\u5fa1\u9ed1\u738b\u7684\u5175\u5f62\u3002",
+                    "pl": "W celu kontynuacji przez f6 i os\u0142abienia struktury broni\u0105cej czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c f6 \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0437\u0430\u0449\u0438\u0442\u044b \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(93)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5b2\/1p2kpp1\/p2p3p\/PP1K1P1P\/4P1N1\/6P1\/8 w - - 0 40",
+        "moves": [
+            {
+                "move": "40. b5 ",
+                "comment": {
+                    "pt": "Reduzindo a mobilidade do bispo advers\u00e1rio. No caso de bxa5 as pretas jogariam ...bxa5 e mais tarde atacariam o pe\u00e3o de a4 com o bispo em e8.",
+                    "en": "Reducing the mobility of the opponent's Bishop. If bxa5, Black would play ...bxa5 and attack the a4-pawn with the e8- Bishop later on.",
+                    "de": "Schr\u00e4nkt die Mobilit\u00e4t des L\u00e4ufers ein. Auf bxa5 w\u00fcrde Schwarz den Bauern zur\u00fcckgewinnen und dann den Bauern auf a4 mit Le8 angreifen.",
+                    "es": "Reduciendo la movilidad del alfil adversario. En el caso de bxa5 las negras jugar\u00edan ...bxa5 y m\u00e1s tarde atacar\u00edan el pe\u00f3n de a4 con el alfil en e8.",
+                    "zh": "\u9650\u5236\u5bf9\u65b9\u8c61\u7684\u673a\u52a8\u6027\u3002\u5982\u679c\u767d\u68cb\u4e0bbxa5\uff0c\u9ed1\u68cb\u4f1a\u4e0b ...bxa5\u5e76\u4e14\u6b64\u540e\u7528e8-\u8c61\u653b\u51fba4-\u5175\u3002",
+                    "pl": "Zmniejszenie mobilno\u015bci wrogiego Go\u0144ca. Je\u015bli bxa5, Czarne mog\u0142yby zagra\u0107 ... bxa5 i zaatakowa\u0107 piona a45 przez Go\u0144ca e8 w p\u00f3\u017aniejszym czasie.",
+                    "ru": "\u0414\u043b\u044f \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e\u0434\u0432\u0438\u0436\u043d\u043e\u0441\u0442\u0438 \u0421\u043b\u043e\u043d\u0430 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430. \u041d\u0430 \u0445\u043e\u0434 bxa5, \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u044b\u0433\u0440\u0430\u0442\u044c ...bxa5 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u0437\u0436\u0435 \u043f\u0435\u0448\u043a\u0443 a4, \u0421\u043b\u043e\u043d\u043e\u043c \u043d\u0430 e8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(102)",
+            "zh": "Event 1"
+        },
+        "fen": "r3rbk1\/p2n1pp1\/2p4p\/1p1P1N2\/2P5\/2B3P1\/P4P1P\/R3R1K1 b - - 0 23",
+        "moves": [
+            {
+                "move": "23... bxc4 ",
+                "comment": {
+                    "pt": "A tomada deste pe\u00e3o \u00e9 mais importante que a tomada do pe\u00e3o de d5, pois o pe\u00e3o branco que ir\u00e1 a c6 pode ser considerado uma debilidade. Se ... cxd5, seguiria cxb5 e as brancas teriam a possibilidade de criar um forte pe\u00e3o passado.",
+                    "en": "It is more important to capture this pawn than the d5-pawn, because the white one moving to c6 can be considered a weakness. If .. .cxd5, cxb5 will follow and White would be able to create a strong passed pawn.",
+                    "de": "Dieser Bauer ist wichtiger als der auf d5. Nach dxc6 kann der wei\u00dfe Bauer auf c6 als Schw\u00e4che betrachtet werden. Auf ...cxd5 andererseits w\u00fcrde cxb5 folgen, wonach Wei\u00df die Chance eines Freibauern erhielte.",
+                    "es": "La captura de este pe\u00f3n es m\u00e1s importante que el pe\u00f3n de d5, pues el pe\u00f3n blanco que va a c6 puede ser considerado una debilidad. Si ... cxd5, seguir\u00eda cxb5 y las blancas tendr\u00edan la possibilidad de crear un fuerte pe\u00f3n pasado.",
+                    "zh": "\u8fd9\u4e2a\u5175\u8981\u6bd4d5\u5175\u91cd\u8981\u7684\u591a\uff0c\u56e0\u4e3a\u767d\u5175\u79fb\u5411c6\u7684\u8bdd\u4f1a\u88ab\u8ba4\u4e3a\u662f\u4e00\u4e2a\u5f31\u70b9\u3002\u5982\u679c\u4e0b..cxd5\uff0c\u4f1a\u8ddfcxb\u5e76\u4e14\u767d\u68cb\u5f97\u4ee5\u5236\u9020\u4e00\u4e2a\u5f3a\u5927\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Wa\u017cniejsze jest zbicie tego piona, ni\u017c piona d5, poniewa\u017c doj\u015bcie przez bia\u0142e na c6 mo\u017ce by\u0107 uznawane za s\u0142abo\u015b\u0107. Je\u015bli ... cxd5, nast\u0105pi cxb5 i Bia\u0142e b\u0119d\u0105 w stanie stworzy\u0107 silnego wolnego piona.",
+                    "ru": "\u0412\u0430\u0436\u043d\u0435\u0435 \u0432\u0437\u044f\u0442\u044c \u044d\u0442\u0443 \u043f\u0435\u0448\u043a\u0443, \u0430 \u043d\u0435 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 d5, \u0442\u0430\u043a \u043a\u0430\u043a \u0445\u043e\u0434 \u0411\u0435\u043b\u044b\u0445 c6, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c. \u0415\u0441\u043b\u0438 ...cxd5, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 cxb5, \u0438 \u0411\u0435\u043b\u044b\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u0443\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

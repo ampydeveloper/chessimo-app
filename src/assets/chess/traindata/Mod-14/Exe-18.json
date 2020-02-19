@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(48)",
+            "zh": "Event 1"
+        },
+        "fen": "2k4r\/p4pp1\/2p4p\/4p3\/2n4q\/1NPrnP1P\/PP2Q1BP\/R1K4R b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Rhd8 ",
+                "comment": {
+                    "pt": "Dobrando as torres na coluna aberta.",
+                    "en": "Doubling Rooks on the open file.",
+                    "de": "Verdoppelt die T\u00fcrme auf der offenen Linie.",
+                    "es": "Doblando las torres en la columna abierta.",
+                    "zh": "\u5728\u5f00\u653e\u7ebf\u4e0a\u5236\u9020\u53cc\u8f66\u3002",
+                    "pl": "Dubluj\u0105c Wie\u017ce na otwartej kolumnie.",
+                    "ru": "\u0421\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(34)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/1b2bpp1\/pn2pn1p\/qp1pN3\/3P3B\/P2BP3\/1P2NPPP\/1Q1R1RK1 b - - 0 17",
+        "moves": [
+            {
+                "move": "17... Nc4 ",
+                "comment": {
+                    "pt": "O cavalo passa a ocupar um posto avan\u00e7ado, de onde exercer\u00e1 forte press\u00e3o sobre a posi\u00e7\u00e3o inimiga.",
+                    "en": "The Knight occupies an outpost now from which it can exert strong pressure on the enemy position.",
+                    "de": "Der Springer besetzt einen Vorposten, von wo aus er starken Druck auf die gegnerische Stellung aus\u00fcben wird.",
+                    "es": "El caballo pasa a ocupar un puesto avanzado, desde donde ejercer\u00e1 fuerte presi\u00f3n sobre la posici\u00f3n enemiga.",
+                    "zh": "\u9a6c\u76ee\u524d\u5360\u636e\u524d\u54e8\uff0c\u7ed9\u654c\u519b\u65bd\u52a0\u5f3a\u5927\u538b\u529b\u3002",
+                    "pl": "Skoczek okupuje plac\u00f3wk\u0119, z kt\u00f3rej mo\u017ce wywiera\u0107 mocn\u0105 presj\u0119 na pozycj\u0119 przeciwnika.",
+                    "ru": "\u041a\u043e\u043d\u044c \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0444\u043e\u0440\u043f\u043e\u0441\u0442, \u0441 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(154)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp1qppbp\/2np2pn\/8\/2P5\/1PN1P1Pb\/PB1QNPBP\/R4RK1 w - - 0 14",
+        "moves": [
+            {
+                "move": "14. Nd5 ",
+                "comment": {
+                    "pt": "Ocupando um ponto importante e disputando a grande diagonal.",
+                    "en": "Occupying an important point and disputing the big diagonal.",
+                    "de": "Besetzt einen wichtigen Punkt und bestreitet die lange Diagonale.",
+                    "es": "Ocupando un punto importante y disputando la gran diagonal.",
+                    "zh": "\u5360\u636e\u4e00\u4e2a\u8981\u70b9\u3001\u4e89\u593a\u5927\u659c\u7ebf\u3002",
+                    "pl": "Okupuj\u0105c wa\u017cny punkt i wzniecaj\u0105c sp\u00f3r o d\u0142ug\u0105 przek\u0105tn\u0105.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0432\u0430\u0436\u043d\u0443\u044e \u0442\u043e\u0447\u043a\u0443 \u0438 \u043e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(94)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp2qppp\/2p5\/8\/8\/PQ1RP3\/1P3PPP\/3R2K1 b - - 0 19",
+        "moves": [
+            {
+                "move": "19... Rad8 ",
+                "comment": {
+                    "pt": "Disputando a coluna aberta.",
+                    "en": "Disputing the open file.",
+                    "de": "Bestreitet die offene Linie.",
+                    "es": "Disputando la columna abierta.",
+                    "zh": "\u4e89\u593a\u5f00\u653e\u7ebf\u3002",
+                    "pl": "Sp\u00f3r o otwart\u0105 kolumn\u0119.",
+                    "ru": "\u041e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(24)",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/5pp1\/7p\/1p1q4\/1PnNp3\/1Q2P1BP\/1b3PP1\/1R4K1 b - - 0 31",
+        "moves": [
+            {
+                "move": "31... Bxd4 ",
+                "comment": {
+                    "pt": "Eliminando esta pe\u00e7a e ganhando material.",
+                    "en": "Eliminating this piece and winning material.",
+                    "de": "Beseitigt den Springer und gewinnt Material.",
+                    "es": "Eliminando esta pieza y ganando material.",
+                    "zh": "\u6d88\u706d\u9a6c\u3001\u8d62\u5f97\u5b50\u529b\u4f18\u52bf\u3002",
+                    "pl": "Eliminuj\u0105c t\u0105 figur\u0119 i wygrywaj\u0105c materia\u0142.",
+                    "ru": "\u0411\u044c\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

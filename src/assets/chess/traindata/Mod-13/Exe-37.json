@@ -1,0 +1,149 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqr1k1\/pp3ppp\/2pb1nn1\/3p2B1\/1P1P4\/2NBPN2\/P1Q2PPP\/1R3RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. b5 ",
+                "comment": {
+                    "pt": "Para enfraquecer a estrutura de pe\u00f5es contr\u00e1ria. Qualquer decis\u00e3o das pretas, seja tomar, avan\u00e7ar ou manter a situa\u00e7\u00e3o , criar\u00e1 uma debilidade em sua posi\u00e7\u00e3o.",
+                    "en": "In order to weaken the opponent's pawn structure. Any decision Black takes will create a weakness in its position, whether it advances or not.",
+                    "es": "Para debilitar la estructura de peones contraria. Cualquier decisi\u00f3n de las negra (tomar, avanzar o mantener el status quo), crear\u00e1 una debilidad en su posici\u00f3n.",
+                    "de": "Um die schwarze Bauernstruktur zu schw\u00e4chen. Eine Schw\u00e4che wird unvermeidlich entstehen, abgesehen von welcher Entscheidung Schwarz trifft (Schlagen, Vorr\u00fccken oder keinen Bauernzug).",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u5bf9\u624b\u7684\u5175\u5f62\u3002\u9ed1\u65b9\u4e0d\u8bba\u524d\u8fdb\u4e0e\u5426\u90fd\u4f1a\u5728\u8fd9\u4e2a\u4f4d\u7f6e\u4ea7\u751f\u5f31\u70b9\u3002",
+                    "pl": "Os\u0142abienie struktury pion\u00f3w przeciwnika. Jakikolwiek ruch Czarnych stworzy s\u0142abo\u015b\u0107 w ich pozycji.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430. \u041b\u044e\u0431\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0427\u0435\u0440\u043d\u044b\u0445 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0432 \u0438\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3q1r1k\/r2b2bn\/3p4\/2p1p1pp\/p1Q1Pp2\/R1NP3P\/P1PB1PP1\/1R3KN1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g4 ",
+                "comment": {
+                    "pt": "Para abrir linhas , ganhar espa\u00e7o neste flanco e atacar o rei branco.",
+                    "en": "In order to open lines, win space on this flank and attack the white King.",
+                    "es": "Para abrir l\u00edneas, ganar espacio en este flanco y atacar el rey blanco.",
+                    "de": "Um Linien zu \u00f6ffnen, Raum auf dem K\u00f6nigsfl\u00fcgel zu gewinnen und den wei\u00dfen K\u00f6nig anzugreifen.",
+                    "zh": "\u4e3a\u4e86\u6253\u901a\u5f00\u653e\u7ebf\uff0c\u5728\u8fd9\u4e00\u4fa7\u7ffc\u8d62\u5f97\u7a7a\u95f4\u5e76\u653b\u51fb\u767d\u738b\u3002",
+                    "pl": "Otwarcie linii, zdobycie przestrzeni na tej flance i atak bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438, \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u044d\u0442\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/p7\/8\/1p2p2p\/1P2P1p1\/P6k\/5P1P\/7K b - - 0 1",
+        "moves": [
+            {
+                "move": "1... h4 ",
+                "comment": {
+                    "pt": "Para vencer, as pretas devem aproveitar sua vantagem de espa\u00e7o e o plano iniciado agora lhes levar\u00e1 a ganhar um pe\u00e3o e a partida.",
+                    "en": "In order to win, Black must use its space advantage and start a plan now, winning a pawn and the game afterwards.",
+                    "es": "Para ganar, las negras deben aprovechar su ventaja de espacio; el plan iniciado ahora las llevar\u00e1 a ganar un pe\u00f3n y la partida.",
+                    "de": "Um zu gewinnen, muss Schwarz seinen Raumvorteil ausnutzen. Mit dem gestarteten Plan wird Schwarz einen Bauern und somit die Partie gewinnen.",
+                    "zh": "\u4e3a\u4e86\u83b7\u80dc\u9ed1\u65b9\u5fc5\u987b\u5229\u7528\u5b83\u7684\u7a7a\u95f4\u4f18\u52bf\uff0c\u5f00\u59cb\u8ba1\u5212\u5148\u8d62\u5f97\u4e00\u4e2a\u5175\u4e4b\u540e\u518d\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Aby wygra\u0107, Czarne musz\u0105 wykorzysta\u0107 przewag\u0119 przestrzeni i zacz\u0105\u0107 teraz, wygrywaj\u0105c piona i gr\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443."
+                }
+            },
+            {
+                "move": "   2. Kg1 g3 3. hxg3 hxg3 4. fxg3 Kxg3 5. Kf1 Kf3 ",
+                "comment": {
+                    "pt": "ou 5...Rf4 ganhando um pe\u00e3o e partida.",
+                    "en": "or 5... Kf4 winning a pawn and the game.",
+                    "es": "O 5...Rf4 ganando un pe\u00f3n y la partida.",
+                    "de": "$ Oder auch 5...Kf4. Schwarz gewinnt den Bauern und die Partie.",
+                    "zh": "\u6216\u80055... Kf4\u8d62\u5f97\u4e00\u4e2a\u5175\u548c\u6700\u7ec8\u7684\u80dc\u5229\u3002",
+                    "pl": "Lub 5. ... Kf4 wygrywaj\u0105c piona i gr\u0119.",
+                    "ru": "\u0415\u0441\u043b\u0438 5... Kf4, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u0430 \u0438 \u043f\u0430\u0440\u0442\u0438\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "6k1\/p4p1p\/4b1p1\/1p6\/2p1B3\/P1R1P1P1\/1P3PKP\/3r4 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... a5 ",
+                "comment": {
+                    "pt": "Para jogar ...b4 e criar um pe\u00e3o passado.",
+                    "en": "In order to play ...b4 and create a passed pawn.",
+                    "es": "Para jugar ...b4 y crear un pe\u00f3n pasado.",
+                    "de": "Um ...b4 zu spielen und einen Freibauern zu schaffen.",
+                    "zh": "\u4e3a\u4e86\u4e0b ...b4\u5236\u9020\u901a\u8def\u5175\u3002",
+                    "pl": "Aby zagra\u0107 ... b4 i stworzy\u0107 wolnego piona.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c ...b4 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/3nbppp\/p1p1pn2\/1p4B1\/3P4\/2NBPN2\/PPQ2PPP\/2R1K2R w K - 0 1",
+        "moves": [
+            {
+                "move": "1. Ne5 ",
+                "comment": {
+                    "pt": "Duplo ataque! As brancas amea\u00e7am o pe\u00e3o em c6 e tamb\u00e9m o pe\u00e3o em h7, ap\u00f3s trocas em d7 e f6.",
+                    "en": "Double attack! White threatens both the c6 and the h7-pawn, after the exchanges on d7 and f6.",
+                    "es": "!Ataque doble! Las blancas amenazan el pe\u00f3n en c6 y tambi\u00e9n el pe\u00f3n en h7, despu\u00e9s de los cambios en d7 y f6.",
+                    "de": "Doppelangriff! Wei\u00df droht sowohl den Bauern auf c6 als auch den auf h7, der nach den Abt\u00e4uschen auf d7 bzw. f6 fallen wird.",
+                    "zh": "\u53cc\u51fb\uff01\u5728d7\u548cf6\u4e0a\u8fdb\u884c\u5151\u6362\u4e4b\u540e\uff0c\u767d\u65b9\u540c\u65f6\u5a01\u80c1c5\u548ch7\u4e0a\u7684\u9ed1\u5175\u3002",
+                    "pl": "Podw\u00f3jny atak! Bia\u0142e gro\u017c\u0105 zar\u00f3wno pionowi na c6, jak i h7 - po wymianach na d7 i f6.",
+                    "ru": "\u0414\u0432\u043e\u0439\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430! \u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u043d\u0430 \u043f\u0435\u0448\u043a\u0438 c6 \u0438 h7, \u043f\u043e\u0441\u043b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u043d\u0430 d7 \u0438 f6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

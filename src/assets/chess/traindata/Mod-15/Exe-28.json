@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(172)",
+            "zh": "Event 1"
+        },
+        "fen": "5k2\/1p3pp1\/p6p\/3P4\/1q6\/4Q2P\/PP2KPP1\/8 w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Qa3 ",
+                "comment": {
+                    "pt": "Para for\u00e7ar a troca de damas e entrar num final de pe\u00f5es ganho.",
+                    "en": "In order to force the Queen exchange and enter a winning pawn endgame.",
+                    "de": "Um den Damenabtausch zu erzwingen und in ein gewonnenes Bauernendspiel \u00fcberzugehen.",
+                    "es": "Para forzar el cambio de damas y entrar en un final de peones ganado.",
+                    "zh": "\u4e3a\u4e86\u5f3a\u5151\u540e\u8fdb\u5165\u4e00\u4e2a\u5175\u6b8b\u5c40\u3002",
+                    "pl": "W celu wymuszenia wymiany Hetman\u00f3w i wej\u015bcie w zwyci\u0119sk\u0105 ko\u0144c\u00f3wk\u0119 pionow\u0105.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0424\u0435\u0440\u0437\u044f \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0440\u0430\u0437\u043c\u0435\u043d \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u044b\u0439 \u044d\u043d\u0434\u0448\u043f\u0438\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(35)",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qkb1r\/p3pppp\/1p3n2\/3p4\/3N4\/6P1\/PPP1PPKP\/RNBQ1R2 w kq - 0 8",
+        "moves": [
+            {
+                "move": "8. c4 ",
+                "comment": {
+                    "pt": "Abrindo o centro e preparando Da4, para explorar a posi\u00e7\u00e3o central do rei preto.",
+                    "en": "Opening the center and preparing Qa4 in order to explore the black King's central position.",
+                    "de": "\u00d6ffnet das Zentrum und bereitet Da4 vor, um die zentrale Stellung vom schwarzen K\u00f6nig auszunutzen.",
+                    "es": "Abriendo el centro y preparando Da4, para explotar la posici\u00f3n central del rey negro.",
+                    "zh": "\u5f00\u653e\u4e2d\u5fc3\u5e76\u51c6\u5907\u4e0bQa4\uff0c\u4e3a\u4e86\u80fd\u5145\u5206\u5229\u7528\u9ed1\u738b\u7684\u4e2d\u5fc3\u4f4d\u7f6e\u3002",
+                    "pl": "Otwarcie centrum i przygotowanie Ha4 w celu wykorzystania centralnej pozycji czarnego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0445\u043e\u0434\u0443 Qa4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(135)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1npbp\/3p1np1\/3Pp3\/2P1P3\/2N5\/PP2BPPP\/R1BQNRK1 b - - 0 9",
+        "moves": [
+            {
+                "move": "9... Nd7 ",
+                "comment": {
+                    "pt": "Para jogar f5 e ao mesmo tempo controlar uma futura ruptura branca em c5.",
+                    "en": "In order to play f5 and, at the same time, control the future white rupture on c5.",
+                    "de": "Um f5 zu spielen und zur gleichen Zeit einen eventuellen wei\u00dfen Hebel auf c5 unter Kontrolle zu haben.",
+                    "es": "Para jugar f5 y al mismo tiempo controlar una futura ruptura blanca en c5.",
+                    "zh": "\u4e3a\u4e86\u4e0bf5\u540c\u65f6\u9650\u5236\u5c06\u6765\u767d\u68cb\u5728c5\u5904\u7a81\u7834\u3002",
+                    "pl": "W celu zagrania f5 i w tym samym czasie kontroli przysz\u0142ego p\u0119kni\u0119cia Bia\u0142ych na c5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c f5 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c, \u043f\u0440\u043e\u0440\u044b\u0432 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 c5."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(85)",
+            "zh": "Event 1"
+        },
+        "fen": "3r4\/2q2pk1\/5bp1\/pp5p\/2p5\/P1P2QP1\/1PB2P1P\/2K1R3 b - - 0 29",
+        "moves": [
+            {
+                "move": "29... b4 ",
+                "comment": {
+                    "pt": "Valorizando o bispo de f6 e preparando um ataque ao rei branco.",
+                    "en": "Improving the value of the f6-Bishop and preparing for an attack on the white King.",
+                    "de": "Verwertet den L\u00e4ufer auf f6 und bereitet einen Angriff auf den wei\u00dfen K\u00f6nig vor.",
+                    "es": "Valorando el alfil de f6 y preparando un ataque al rey blanco.",
+                    "zh": "\u589e\u52a0f6-\u8c61\u7684\u4ef7\u503c\u5e76\u51c6\u5907\u653b\u51fb\u767d\u738b\u3002",
+                    "pl": "Powi\u0119kszenie warto\u015bci Go\u0144ca f6 i przygotowanie ataku na bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 f6, \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(67)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1rk1\/p1q2pb1\/2p3pp\/1p2n3\/8\/1B2N1Q1\/PPP2PPP\/2KR3R b - - 0 20",
+        "moves": [
+            {
+                "move": "20... a5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando a4 e for\u00e7ando as brancas a debilitarem seu flanco da dama.",
+                    "en": "Threatening a4 and forcing White to weaken its queenside.",
+                    "de": "Droht a4 und zwingt Wei\u00df, den Damenfl\u00fcgel zu schw\u00e4chen.",
+                    "es": "Amenazando a4 y forzando a las blancas a debilitar su flanco dama.",
+                    "zh": "\u7325\u4eb5a4\u5e76\u8feb\u4f7f\u767d\u68cb\u7684\u540e\u7ffc\u53d8\u5f31\u3002",
+                    "pl": "Gro\u017c\u0105c a4 i wymuszaj\u0105c na bia\u0142ych os\u0142abienie skrzyd\u0142a hetma\u0144skiego.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 a4 \u0438 \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0438\u0445 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

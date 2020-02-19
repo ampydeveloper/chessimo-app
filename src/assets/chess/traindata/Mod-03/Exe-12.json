@@ -1,0 +1,272 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(940)"
+        },
+        "fen": "r2q1r1k\/pb3p1p\/2n1p2Q\/5p2\/8\/3B2N1\/PP3PPP\/R3R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf5 exf5 2. Nxf5 Rg8 3. Re8 Qxe8 4. Qf6+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(944)"
+        },
+        "fen": "1r2r1k1\/p4p1p\/6pB\/q7\/8\/3Q2P1\/PbP2PKP\/1R3R2 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rxb2 Rxb2 2. Qd4 Qe5 3. Re1 Qxe1 4. Qg7#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(950)"
+        },
+        "fen": "r3n3\/pp2q1pk\/2p1BnRp\/8\/5P2\/1P5P\/PB4QK\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rxh6+ Kxh6 2. Qg5+ Kh7 3. Qh4+ Kg6 4. f5#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(954)"
+        },
+        "fen": "2q1bbk1\/1p4rp\/4pQ2\/1P6\/3B2P1\/3B4\/2P4R\/6K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxh7+ (1. Rxh7) 1... Rxh7 2. Rxh7 Kxh7 3. Qh8+ Kg6 4. Qh5#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(955)"
+        },
+        "fen": "2r2rn1\/pp3p1p\/5qpk\/2p1Q3\/3pPNP1\/3P1R2\/PPP4P\/R5K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ne6 Qxe5 2. Rh3+ Qh5 3. g5#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(957)"
+        },
+        "fen": "4r1k1\/ppq3bp\/2n1rnp1\/5p2\/2P2P2\/4BBN1\/PP3K1P\/RQ2R3 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Rxe3 22. Rxe3 Rxe3 23. Kxe3 Qxf4+ 24. Kxf4 Bh6#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(958)"
+        },
+        "fen": "1rbq4\/2b1kp2\/2R4R\/pp3r2\/3p1N2\/5QP1\/PP2PP1P\/6K1 w - - 0 30",
+        "moves": [
+            {
+                "move": "30. Qe4+ Re5 31. Ng6+ fxg6 32. Rh7+ Kf8 33. Qxg6 (33. Qf4+)",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(962)"
+        },
+        "fen": "2k2b1r\/1p3ppp\/p1n1pn2\/3r4\/P2P4\/2N1BP1q\/1PQ1BP1P\/R2R2K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Bd6 2. f4 Rg5+ 3. fxg5 Qxh2+ 4. Kf1 Qh1#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(966)"
+        },
+        "fen": "3r2k1\/2q2p1p\/3N1bp1\/r1P5\/8\/3p1QP1\/5P1P\/2R1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qxf6 d2 2. Ne8 (2. Nxf7) 2... dxe1=Q+ 3. Rxe1 Rxe8 4. Rxe8#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(973)"
+        },
+        "fen": "N4rk1\/ppQ2ppp\/3q1n2\/3ppb2\/3n4\/P4P2\/1PP3PP\/2KR1BNR b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Rc8 2. Qxd6 Rxc2+ 3. Kb1 Rc1+ 4. Kxc1 Nb3#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(982)"
+        },
+        "fen": "3rb1k1\/1p2r1pp\/5p2\/R1Rp4\/pP1P4\/P3B3\/5PPP\/6K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... b6 2. Rxd5 Rc8 3. Ra6 Rc1+ 4. Bxc1 Re1#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(983)"
+        },
+        "fen": "8\/p3q1k1\/1p4r1\/2pQ4\/4NbP1\/4P3\/PP5r\/2RKR3 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Qxe4 2. Qxe4 Rd6+ 3. Qd4+ Rxd4+ 4. exd4 Rd2#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(984)"
+        },
+        "fen": "r1b2r2\/1p2qppk\/p3p3\/2n5\/3N4\/5R2\/PPP1Q1PP\/R6K w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rh3+ Kg8 2. Nf5 Qg5 3. Qh5 Qxh5 4. Ne7+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(986)"
+        },
+        "fen": "2br1r1k\/pp2n2p\/2n3p1\/2N2p1q\/4pB2\/1BP1Q2P\/PP3PP1\/3RR1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nd7 Rxd7 2. Rxd7 Bxd7 3. Qd4+ Nxd4 4. Be5+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(988)"
+        },
+        "fen": "2k5\/pb1n1B1r\/1prP4\/n1p1p1B1\/2P1P3\/P1P3Pq\/5R1P\/3Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Be6 Qxe6 2. Rf8+ Nxf8 3. Rxf8+ Kd7 4. Rd8#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

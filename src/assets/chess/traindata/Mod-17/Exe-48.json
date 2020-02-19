@@ -1,0 +1,130 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Eslava",
+        "white_sort": "",
+        "black": "Variante cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Classical variation",
+            "de": "Klassische Variante",
+            "es": "Variante cl\u00e1sica",
+            "pt": "Variante cl\u00e1ssica",
+            "zh": "\u53e4\u5178\u53d8\u4f8b",
+            "pl": "Wariant klasyczny",
+            "ru": "\u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 d5 2. c4 c6 ",
+                "comment": {
+                    "pt": "Este lance caracteriza a defesa eslava e sua principal vantagem , com rela\u00e7\u00e3o a defesa ortodoxa ,no gambito da dama , \u00e9 a facilidade para desenvolver o bispo dama. Por esta raz\u00e3o \u00e9 poss\u00cdvel compar\u00e1-la com a defesa Caro-Kan.",
+                    "en": "This move is characteristic for the Slavic defense. Its main advantage over the orthodox Queen's gambit is the easy development of the Queen-Bishop, therefore it is comparable to the Caro Kan defense.",
+                    "es": "Este jugada caracteriza la Defensa Eslava y su principal ventaja, en relaci\u00f3n a la Defensa Ortodoxa en el Gambito de Dama, es la facilidad para desarrollar el alfil dama. Por esta raz\u00f3n es posible compararla a la Defensa Caro-Kann.",
+                    "de": "Dieser Zug kennzeichnet die Slawische Verteidigung. Der gr\u00f6sste Vorteil der Slawischen Verteidigung gegen\u00fcber der Orthodoxen ist, dass der wei\u00dffeldrige L\u00e4ufer nicht blockiert wird. Deswegen hat die Slawische Verteidigung \u00c4hnlichkeiten mit der Caro-Kann-Verteidigung",
+                    "zh": "\u8fd9\u4e00\u6b65\u662f\u5178\u578b\u7684\u65af\u62c9\u592b\u9632\u5fa1\u3002\u76f8\u5bf9\u6b63\u7edf\u7684\u540e\u7ffc\u5f03\u5175\u4f18\u52bf\u5728\u4e8e\u66f4\u5bb9\u6613\u51fa\u540e\u7ffc\u8c61\uff0c\u56e0\u6b64\u8ddf\u5361\u7f57-\u5eb7\u9632\u5fa1\u76f8\u5ab2\u7f8e\u3002",
+                    "pl": "Ten ruch charakteryzuje obron\u0119 s\u0142owia\u0144sk\u0105 gambitu hetma\u0144skiego nieprzyj\u0119tego. Jej g\u0142\u00f3wn\u0105 przewag\u0105 wobec ortodoksyjnego gambita hetma\u0144skiego jest \u0142atwe wyprowadzenie hetma\u0144skiego Go\u0144ca, dzi\u0119ki czemu jest por\u00f3wnywalna do obrony Caro-Kann.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442 \u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a\u0443\u044e \u0437\u0430\u0449\u0438\u0442\u0443. \u0415\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 \u041e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u043e\u0439, \u0432 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u0430 \u0441\u043e\u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043c\u0430 \u0441 \u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u041a\u0430\u0440\u043e-\u041a\u0430\u043d\u043d."
+                }
+            },
+            {
+                "move": "   3. Nc3 ",
+                "comment": {
+                    "pt": "A variante das torcas 3-exd5 e pouco ambiciosa, mas as brancas mantem certa vantagem devido ao tempo extra. Um belo exemplo desta abertura ocorre na partida 542 de nossa base.",
+                    "en": "The exchange variation 3-exd5 is not very ambitious but White maintains a certain advantage due to extra tempo. Game 542 of our database presents a beautiful example of this opening.",
+                    "es": "La variante del cambio 3-exd5 es poco ambiciosa, pero las blancas mantienen cierta ventaja debido al tiempo extra por tener la primera jugada de la partida. Un lindo ejemplo de esta apertura ocurre en la partida 542 de nuestra base.",
+                    "de": "Die Abtauschvariante 3. exd5  ist wenig ehrgeizig, Wei\u00df beh\u00e4lt jedoch einen leichten Vorteil wegen des Mehrtempos. Ein sch\u00f6nes Beispiel dieser Er\u00f6ffnung geschieht in der Partie 542 unserer Datenbank.",
+                    "zh": "\u5151\u6362\u53d8\u4f8b3-exd5\u4e0d\u662f\u975e\u5e38\u5177\u6709\u91ce\u5fc3\uff0c\u4f46\u662f\u9274\u4e8e\u989d\u5916\u4e00\u624b\u767d\u65b9\u4ecd\u65e7\u4fdd\u6301\u4e00\u4e2a\u76f8\u5f53\u7684\u4f18\u52bf\u3002\u68cb\u5e93\u4e2d\u68cb\u5c40542\u5448\u73b0\u4e86\u8fd9\u79cd\u5f00\u5c40\u4e00\u4e2a\u975e\u5e38\u5b8c\u7f8e\u7684\u4f8b\u5b50\u3002",
+                    "pl": "Wariant wymiany 3. exd5 nie jest zbyt ambitny, ale Bia\u0142e utrzymuj\u0105 pewn\u0105 przewag\u0119 z uwagi na ekstra tempo. Partia 542 z naszej bazy prezentuje pi\u0119kny przyk\u0142ad tego otwarcia.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 3-exd5 \u043d\u0435 \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0430\u043c\u0431\u0438\u0446\u0438\u043e\u0437\u043d\u044b\u043c, \u043d\u043e \u0411\u0435\u043b\u044b\u0435 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438\u0437-\u0437\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0442\u0435\u043c\u043f\u0430. \u0418\u0433\u0440\u0430 542, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u043e\u0442\u043b\u0438\u0447\u043d\u043e \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u0440 \u044d\u0442\u043e\u0433\u043e \u0434\u0435\u0431\u044e\u0442\u0430."
+                }
+            },
+            {
+                "move": "   Nf6 4. Nf3 dxc4 ",
+                "comment": {
+                    "pt": "Est a \u00e9 a variante cl\u00e1ssica. Os sistemas com 4...e6 ser\u00e3o analisados separadamente, enquanto os sistemas com ...g6 (variante Schlekter) s\u00e3o pouco jogados e para estuda-los \u00e9 poss\u00edvel analisar as partidas 539 a 541 de nossa base.",
+                    "en": "This is the classic variation. The systems with 4...e6 will be analyzed separately while the systems with ...g6 (Schlekter variation) are rarely used. In order to study them it's recommended to study games 539 to 541 of our database.",
+                    "es": "Esta es la variante cl\u00e1sica. Los sistemas con 4...e6 ser\u00e1n analizados por separado, mientras que los sistemas con ...g6 (variante Schlechter) son poco jugados y para estudiarlos es posible analizar las partidas 539 a 541 de nuestra base.",
+                    "de": "Das ist die Klassische Variante. Systeme mit 4...e6 werden getrennt analysiert. Systeme mit ...g6 (Schlechter-Variante) werden selten gespielt (Partien Nr. 539 bis 541 unserer Datenbank).",
+                    "zh": "\u8fd9\u662f\u53e4\u5178\u53d8\u4f8b\u3002\u8d704...e6\u7684\u4f53\u7cfb\u4f1a\u5355\u72ec\u5206\u6790\uff0c\u800c\u8d70...g6\u7684\u4f53\u7cfb\uff08\u65bd\u83b1\u5207\u7279\u53d8\u4f8b\uff09\u5f88\u5c11\u88ab\u7528\u5230\u3002\u4e3a\u4e86\u7814\u7a76\u4ed6\u4eec\uff0c\u63a8\u8350\u4ed4\u7ec6\u7814\u7a76\u4e00\u4e0b\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40539\u5230541\u3002",
+                    "pl": "Oto klasyczna wariacja. System 4. ... e6 b\u0119dzie analizowany osobno, za\u015b system ... g6 (wariant Schlektera) jest rzadko u\u017cywany. Aby zapozna\u0107 si\u0119 z nimi nale\u017cy przejrze\u0107 partie 539-541 z naszej bazy.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442. \u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c 4...e6 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u0440\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u043e, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b ...g6 (\u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0428\u043b\u0435\u0445\u0442\u0435\u0440\u0430) \u0440\u0435\u0434\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f. \u0414\u043b\u044f \u0438\u0445 \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u044f, \u043c\u044b \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0433\u0440\u044b 539 \u0438 541, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   5. a4 ",
+                "comment": {
+                    "pt": "Para evitar que as pretas defendam o pe\u00e3o, o que ocorreria ap\u00f3s as jogadas 5-e4 b5.",
+                    "en": "In order to prevent Black from defending the pawn after 5-e4 b5.",
+                    "es": "Para evitar que las negras defiendan el pe\u00f3n, lo que ocurrir\u00eda despu\u00e9s de las jugadas 5-e4 b5.",
+                    "de": "Um zu verhindern, dass Schwarz den Bauern deckt, was nach 5. e4 b5 der Fall w\u00e4re.",
+                    "zh": "\u4e3a\u4e86\u963b\u6b62\u9ed1\u65b9\u57285-e4 b5\u4e4b\u540e\u9632\u5fa1\u5175\u3002",
+                    "pl": "W celu uniemo\u017cliwienia Czarnym obrony piona po 5. e4 b5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u0427\u0435\u0440\u043d\u044b\u043c \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043f\u043e\u0441\u043b\u0435  5-e4 b5."
+                }
+            },
+            {
+                "move": "   Bf5 ",
+                "comment": {
+                    "pt": "Aproveitando para desenvolver o bispo antes de jogar ...e6. Tamb\u00e9m seria poss\u00edvel 5...Bg4.",
+                    "en": "Developing the Bishop before ...e6. 5...Bg4 would also be possible.",
+                    "es": "Aprovechando para desarrollar el alfil antes de jugar ...e6. Tambi\u00e9n ser\u00eda posible 5...Ag4.",
+                    "de": "Entwickelt den L\u00e4ufer, ums sp\u00e4ter ...e6 zu spielen, ohnen ihn zu blockieren. 5 ...Lg4 ginge auch.",
+                    "zh": "\u5728...e6\u4e4b\u524d\u51fa\u8c61\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Wyprowadzaj\u0105c Go\u0144ca przed ... e6. 5. ... Gg4 jest r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0434\u043e \u0445\u043e\u0434\u0430 ...e6. \u0425\u043e\u0434 5...Bg4 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d."
+                }
+            },
+            {
+                "move": "   6. e3 ",
+                "comment": {
+                    "pt": "Alguns jogadores preferem a jogada 6-Ce5 (partidas 532 , 534 e 536) para recuperar o pe\u00e3o e ter a possibilidade de construir o centro com \"f3-e4\".",
+                    "en": "Some prefer 6-Ne5 (games 532, 534 and 536) in order to retake the pawn and have the possibility to build up a center with f3-e4.",
+                    "es": "Algunos jugadores prefieren la jugada 6-Ce5 (partidas 532, 534 y 536) para recuperar el pe\u00f3n y tener a posibilidad de construir el centro con \"f3-e4\".",
+                    "de": "Einige Spieler ziehen 6. Se5 vor (Partien  532, 534 und 536), um den Bauern zur\u00fcckzugewinnen und ein Zentrum mit f3-e4 aufzubauen.",
+                    "zh": "\u6709\u4e9b\u4eba\u66f4\u504f\u54116-Ne5\uff08\u68cb\u5c40532\u3001534\u548c536\uff09\u4e3a\u4e86\u91cd\u65b0\u593a\u56de\u5175\uff0c\u5e76\u4e14\u6709\u673a\u4f1a\u7528f3-e4\u5efa\u7acb\u4e2d\u5fc3\u3002",
+                    "pl": "Niekt\u00f3rzy preferuj\u0105 6. Se5 (partie 532, 534 i 536) w celu odbioru straconego piona i posiadania mo\u017cliwo\u015bci zbudowania centrum przez f3-e4.",
+                    "ru": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u044e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 6-Ne5 (\u0438\u0433\u0440\u044b 532, 534 \u0438 536), \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u0438 \u043f\u043e\u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0441 f3-e4."
+                }
+            },
+            {
+                "move": "   e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a jogada mais l\u00f3gica amea\u00e7ando e4 ,para aumentar o dom\u00ednio central. 9-Ce2 aparece na partida 533 de nossa base.",
+                    "en": "This is the most logical move, threatening e4 and increasing central dominance. 9-Ne2 is presented in game 533 of our database.",
+                    "es": "Esta es la jugada m\u00e1s l\u00f3gica, amenazando jugar e4 y aumentar el dominio central. La jugada 9-Ce2 ocurri\u00f3 en la partida 533 de nuestra base.",
+                    "de": "Das ist der logischste Zug, der e4 mit Kontrolle des Zentrums droht. 9. Se2 wird in der  Partie 533 unserer Datenbank gespielt.",
+                    "zh": "\u8fd9\u662f\u6700\u7b26\u5408\u903b\u8f91\u7684\u4e00\u6b65\uff0c\u5a01\u80c1e4\u5e76\u4e14\u589e\u5f3a\u5bf9\u4e2d\u5fc3\u7684\u7edf\u6cbb\u30029-Ne2\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40533\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Najbardziej logiczny ruch, zagra\u017caj\u0105cy e4 i zwi\u0119kszaj\u0105cy dominacj\u0119 w centrum. 9. Se2 jest prezentowany w partii 533 w naszej bazie.",
+                    "ru": "\u042d\u0442\u043e \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 e4 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 9-Ne2 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 533, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   Nbd7 ",
+                "comment": {
+                    "pt": "Na partida 537 as pretas tentaram evitar e4 jogando ... Ce4.",
+                    "en": "In game 537 Black tries to prevent e4 with ...Ne4.",
+                    "es": "En la partida 537 las negras intentaron evitar e4 jugando ...Ce4.",
+                    "de": "In der Partie 537 versuchte Schwarz, e4 anhand mittels ...Se4 zu verhindern.",
+                    "zh": "\u5728\u68cb\u5c40537\u4e2d\u9ed1\u65b9\u4f01\u56fe\u7528...Ne4\u6765\u963b\u6b62e4\u3002",
+                    "pl": "W partii 537 Czarne pr\u00f3buj\u0105c zapobiec e4 przez ... Se4.",
+                    "ru": "\u0412 \u0438\u0433\u0440\u0435 537 \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044e\u0442 e4 \u0445\u043e\u0434\u043e\u043c ...Ne4."
+                }
+            },
+            {
+                "move": "   10. e4 Bg6 11. Bd3 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam certa vantagem, devido ao maior dom\u00ednio central, mas a posi\u00e7\u00e3o preta n\u00e3o apresenta fraquezas. As partidas 535 e 538 de nossa base seguiram a partir desta posi\u00e7\u00e3o.",
+                    "en": "White has a certain advantage due to greater central dominance but Black's position doesn't show any weakness. Games 535 and 538 of our database continue from this position on.",
+                    "es": "Las blancas tienen cierta ventaja debido al mayor dominio central, pero la posici\u00f3n negra no presenta debilidades. Las partidas 535 y 538 de nuestra base siguieron a partir de esta posici\u00f3n.",
+                    "de": "Zwar hat Wei\u00df aufgrund seiner Kontrolle des Zentrums einen gewissen Vorteil, die schwarze Stellung zeigt aber keine Schw\u00e4chen auf. Die Partien 535 und 538 unserer Datenbank zeigen verschiedene Fortsetzungen dieser Stellung.",
+                    "zh": "\u767d\u65b9\u56e0\u4e3a\u5bf9\u4e2d\u5fc3\u7684\u7edd\u5bf9\u7edf\u6cbb\u6240\u4ee5\u5177\u6709\u76f8\u5f53\u7684\u4f18\u52bf\uff0c\u4f46\u662f\u9ed1\u65b9\u7684\u5c40\u9762\u4e5f\u6ca1\u6709\u51fa\u73b0\u4efb\u4f55\u5f31\u70b9\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40535\u548c538\u4ecb\u7ecd\u4e86\u8fd9\u4e2a\u5c40\u9762\u4e0d\u540c\u7684\u5ef6\u7eed\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 pewn\u0105 przewag\u0119 z powodu wi\u0119kszej centralnej dominacji, ale pozycja Czarnych nie ukazuje \u017cadnej s\u0142abo\u015bci. Partie 535 i 538 z naszej bazy kontynuuj\u0105 t\u0119 pozycj\u0119.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0431\u043e\u043b\u044c\u0448\u0435\u043c\u0443 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u043d\u043e \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0435\u0442 \u0432\u0438\u0434\u0438\u043c\u044b\u0445 \u0441\u043b\u0430\u0431\u044b\u0445 \u043c\u0435\u0441\u0442. \u0418\u0433\u0440\u044b 535 \u0438 538, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442\u0441\u044f \u0441 \u044d\u0442\u0438\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u0439."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

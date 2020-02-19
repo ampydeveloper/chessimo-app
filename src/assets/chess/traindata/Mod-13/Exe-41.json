@@ -1,0 +1,225 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/p1r1ppbp\/3p1np1\/1q6\/1p1BP2P\/1B3P2\/PPPQ2P1\/1K1R3R w - - 0 1",
+        "moves": [
+            {
+                "move": "1. h5 ",
+                "comment": {
+                    "pt": "Em posi\u00e7\u00f5es onde os reis est\u00e3o em flancos opostos \u00e9 importante atacar o rei contr\u00e1rio o mais r\u00e1pido poss\u00edvel. As brancas sacrificam um pe\u00e3o para abrir a coluna h e acelerar o ataque. Na partida em que esta posi\u00e7\u00e3o ocorreu, as pretas responderam 1....Tfc8, mas como exerc\u00edcio tente atacar supondo que as pretas aceitem o pe\u00e3o.",
+                    "en": "It is important to attack the opponent's King as fast as possible when the Kings are in opposite flanks. White sacrifices a pawn in order to open the h-file and accelerate the attack. In the game where this position occurred, Black answered with 1...Rfc8, but let's assume that Black will accept the pawn here.",
+                    "es": "En posiciones donde los reyes est\u00e1n en flancos opuestos es importante atacar el rey contrario lo m\u00e1s r\u00e1pido posible. Las blancas sacrifican un pe\u00f3n para abrir la columna \"h\" y acelerar el ataque. En la partida en que ocurri\u00f3 esta posici\u00f3n, las negras respondieron 1....Tfc8, pero - para practicar - trate de atacar suponiendo que las negras acetan el pe\u00f3n.",
+                    "de": "Bei entgegengesetzten Rochaden muss man versuchen, so schnell wie m\u00f6glich anzugreifen. Wei\u00df opfert einen Bauern, um die h-Linie zu \u00f6ffnen und den Angriff zu beschleunigen. In der Partie spielte Schwarz 1...Tfc8, versuchen Sie aber als \u00dcbung den Angriff nach der Annahme des Bauernopfesrs fortzusetzen.",
+                    "zh": "\u5982\u679c\u53cc\u65b9\u5728\u76f8\u53cd\u7684\u4e24\u4e2a\u4fa7\u7ffc\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\uff0c\u90a3\u4e48\u5c3d\u5feb\u653b\u51fb\u654c\u738b\u662f\u975e\u5e38\u91cd\u8981\u7684\u3002\u767d\u65b9\u5f03\u5175\u6765\u5f00\u653eh-\u7ebf\u6765\u52a0\u901f\u8fdb\u653b\u3002\u5728\u68cb\u5c40\u4e2d\u5982\u679c\u51fa\u73b0\u8fd9\u4e2a\u5c40\u9762\uff0c\u9ed1\u68cb\u4f1a\u5e941...Rfc8\uff0c\u4f46\u662f\u6211\u4eec\u5047\u8bbe\u9ed1\u68cb\u4f1a\u63a5\u53d7\u5f03\u5175\u3002",
+                    "pl": "Wa\u017cnym jest atak Kr\u00f3la przeciwnika tak szybko jak to mo\u017cliwe, kiedy Kr\u00f3le znajduj\u0105 si\u0119 na przeciwnych flankach. Bia\u0142e po\u015bwi\u0119caj\u0105 piona w celu otwarcia kolumny h i przyspieszenia ataku. W grze, gdzie pozycja wyst\u0105pi\u0142a, Czarne odpowiedzia\u0142y 1. ... Wfc8, ale przypu\u015b\u0107my, \u017ce Czarne akceptuj\u0105 ofiar\u0119.",
+                    "ru": "\u041e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u043e \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u0441\u0442\u0440\u0435\u0435, \u043a\u043e\u0433\u0434\u0430 \u041a\u043e\u0440\u043e\u043b\u0438 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043d\u0430 \u0440\u0430\u0437\u043d\u044b\u0445 \u0444\u043b\u0430\u043d\u0433\u0430\u0445. \u0411\u0435\u043b\u044b\u0435 \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u0443, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0443\u0441\u043a\u043e\u0440\u0438\u0442\u044c \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f. \u0412 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 1...Rfc8, \u043d\u043e \u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u0441\u0435-\u0442\u0430\u043a\u0438 \u0431\u0435\u0440\u0443\u0442 \u043f\u0435\u0448\u043a\u0443."
+                }
+            },
+            {
+                "move": "   Nxh5 2. Bxg7 ",
+                "comment": {
+                    "pt": "Eliminando um dos defensores do rei.",
+                    "en": "Eliminating one of the King's defenders.",
+                    "es": "Eliminando uno de los defensores del rey.",
+                    "de": "$ Beseitigt einen der Verteidiger des K\u00f6nigs.",
+                    "zh": "\u6d88\u706d\u738b\u7684\u4e00\u4e2a\u536b\u5175\u3002",
+                    "pl": "Eliminuj\u0105c jednego z obro\u0144c\u00f3w Kr\u00f3la.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0437 \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u0430 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   Kxg7 3. g4 ",
+                "comment": {
+                    "pt": "Expulsa ndo o cavalo para penetrar pela coluna torre.",
+                    "en": "Chasing the Knight away in order to enter the file.",
+                    "es": "Expulsando el caballo para penetrar por la columna torre.",
+                    "de": "$ Vertreibt den Springer, um \u00fcber die h-Linie einzudringen.",
+                    "zh": "\u5c06\u9a6c\u8d76\u8d70\uff0c\u4ee5\u4fbf\u4fb5\u5165h\u7ebf\u3002",
+                    "pl": "Przeganiaj\u0105c Skoczka w celu wej\u015bcia w kolumn\u0119.",
+                    "ru": "\u041f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u041a\u043e\u043d\u044f, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u043d\u0430 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            },
+            {
+                "move": "   Nf6 4. Qh6+ Kg8 5. g5 ",
+                "comment": {
+                    "pt": "For\u00e7ando a pr\u00f3xima jogada preta.",
+                    "en": "Forcing the next black move.",
+                    "es": "Forzando la pr\u00f3xima jugada negra.",
+                    "de": "$ Erzwingt den n\u00e4chsten schwarzen Zug.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u68cb\u8d70\u4e0b\u4e00\u6b65\u3002",
+                    "pl": "Wymuszaj\u0105c nast\u0119pny ruch Czarnych.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043a \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c\u0443 \u0445\u043e\u0434\u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   Nh5 6. Rxh5 gxh5 7. g6 ",
+                "comment": {
+                    "pt": "Utilizando o tema da cravada na diagonal a2-g8 para for\u00e7ar a abertura de linhas contra o rei preto.",
+                    "en": "Using the theme of the pin on the a2-g8 diagonal in order force open lines for the attack against the black King.",
+                    "es": "Utilizando el tema de la clavada en la diagonal a2-g8 para forzar la apertura de l\u00edneas contra el rey negro.",
+                    "de": "$ Nutzt die Fesselung aus, um Linien auf den K\u00f6nig zu \u00f6ffnen",
+                    "zh": "\u5145\u5206\u5229\u7528\u5728a2-g8\u7684\u7275\u5236\u5f20\u6570\uff0c\u4e3a\u4e86\u5f00\u653e\u653b\u51fb\u9ed1\u738b\u7684\u8def\u7ebf\u3002",
+                    "pl": "Wykorzystuj\u0105c przygwo\u017cd\u017cenie na przek\u0105tnej a2-g8 w celu wymuszenia otwarcia linii dla ataku przeciwko czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0438\u0434\u0435\u044e \u0441\u0432\u044f\u0437\u043a\u0438 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a2-g8 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u044f \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "hxg6 8. Qxg6+ Kh8 9. Qh6+ Kg8 10. Rg1+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/nb2ppbp\/q2p1np1\/2p5\/1p2PPP1\/1P1PBN1P\/r1P1NQB1\/2R2RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f5 ",
+                "comment": {
+                    "pt": "Iniciando um forte ataque contra o rei preto, que poder\u00e1 ser intensificado com o avan\u00e7o de outros pe\u00f5es (g5) ou atrav\u00e9s de um ataque direto com as pe\u00e7as pesadas (fxg6- Dh4-Cg5-Cf4). Se ao inv\u00e9s da jogada 1-f5 as brancas tivessem optado por g5, perderiam a op\u00e7\u00e3o de atacar com as pe\u00e7as pesadas.",
+                    "en": "Starting a strong offensive against the black King, which can be intensified by the advance of other pawns (g5) or by a direct attack with major pieces (fxg6-Qh4-Ng5-Nf4). If White had chosen to play g5, instead, it would lose the opportunity to use major pieces in the attack.",
+                    "es": "Iniciando un fuerte ataque contra el rey negro, que podr\u00e1 ser intensificado con el avance de otros peones (g5) o a trav\u00e9s de un ataque directo con las piezas pesadas (fxg6- Dh4-Cg5-Cf4). Si en vez de la jugada 1-f5 las blancas hubieran optado por g5, perder\u00edan la opci\u00f3n de atacar con las piezas pesadas.",
+                    "de": "Leitet einen starken Angriff gegen den schwarzen K\u00f6nig ein, der entweder durch Vorr\u00fccken von Bauern (g5) oder durch einen direkten Angriff mit Schwerfiguren (fxg6-Dh4-Sg5-Sf4) verst\u00e4rkt werden kann. Wenn Wei\u00df 1. g5 statt 1. f5 gespielt h\u00e4tte, h\u00e4tte er nicht mehr die M\u00f6glichkeit, mit Schwerfiguren anzugreifen.",
+                    "zh": "\u5f00\u59cb\u731b\u70c8\u7684\u8fdb\u653b\u9ed1\u738b\uff0c\u653b\u52bf\u53ef\u4ee5\u901a\u8fc7\u633a\u5175\uff08g5\uff09\u6216\u7528\u91cd\u5b50\u76f4\u63a5\u653b\u51fb\uff08fxg6-Qh4-Ng5-Nf4\uff09\u6765\u589e\u5f3a\u3002\u5982\u679c\u767d\u65b9\u9009\u62e9\u4e0bg5\u800c\u4e0d\u662ff5\uff0c\u5219\u4f1a\u5931\u53bb\u7528\u91cd\u5b50\u653b\u51fb\u7684\u673a\u4f1a\u3002",
+                    "pl": "Rozpoczynaj\u0105c mocn\u0105 ofensyw\u0119 przeciwko czarnemu Kr\u00f3lowi, kt\u00f3ra mo\u017ce zosta\u0107 wzmocniona przez marsz innych pion\u00f3w (g5) lub dok\u0142adny atak silnymi figurami (fxg6-Hh4-Sg5-Sf4). Je\u015bli Bia\u0142e wybior\u0105 zagranie g5 zamiast tego, strac\u0105 szans\u0119 u\u017cycia silnych figur w ataku.",
+                    "ru": "\u041d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0440\u0435\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0443\u0441\u0438\u043b\u0435\u043d\u0430 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 g5 \u0438\u043b\u0438 \u043f\u0440\u044f\u043c\u043e\u0439 \u0430\u0442\u0430\u043a\u043e\u0439 \u0442\u044f\u0436\u0435\u043b\u044b\u043c\u0438 \u0444\u0438\u0433\u0443\u0440\u0430\u043c\u0438 (fxg6-Qh4-Ng5-Nf4). \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0431\u0435\u0440\u0443\u0442 \u0434\u043b\u044f \u0438\u0433\u0440\u044b g5, \u043e\u043d\u0438 \u043f\u043e\u0442\u0435\u0440\u044f\u044e\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432 \u0430\u0442\u0430\u043a\u0435 \u0442\u044f\u0436\u0435\u043b\u044b\u0435 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/pbqnbp1p\/1p2p3\/2ppP1p1\/1P6\/2PBPNB1\/P4PPP\/R2Q1RK1 b kq - 0 1",
+        "moves": [
+            {
+                "move": "1... h5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando ganhar o bispo (...h4) e desta forma for\u00e7ando que as brancas movam seu pe\u00e3o h, permitindo a abertura de linhas no flanco rei.",
+                    "en": "Threatening to win the Bishop with ...h4 and forcing White to allow the opening of the lines on the kingside.",
+                    "es": "Amenazando ganar el alfil (... h4) y forzando - de esta manera - a las blancas a mover su pe\u00f3n \"h\", permitiendo la apertura de l\u00edneas en el flanco rey.",
+                    "de": "Droht, den L\u00e4ufer zu gewinnen (...h4) und zwingt Wei\u00df dazu, den h-Bauern vorzur\u00fccken, was die \u00d6ffnung von Linien am K\u00f6nigsfl\u00fcgel erm\u00f6glicht.",
+                    "zh": "\u4e0b...h4\u5a01\u80c1\u6740\u8c61\uff0c\u8feb\u4f7f\u767d\u65b9\u5f00\u653e\u738b\u7ffc\u8def\u7ebf\u3002",
+                    "pl": "Zagra\u017caj\u0105c zbicie Go\u0144ca przez ... h4 i wymuszaj\u0105c otwarcie linii na skrzydle kr\u00f3lewskim Bia\u0142ych.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0432\u0437\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0438\u0433\u0440\u043e\u0439 ...h4 \u0438 \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u0411\u0435\u043b\u044b\u0445 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   2. h4 gxh4 ",
+                "comment": {
+                    "pt": "Como as pretas pretendem atacar no flanco rei o correto \u00e9 abrir linhas. A jogada 2...g4 seria um erro ,por permitir que o rei branco fique mais protegido.",
+                    "en": "It is correct to open lines, because Black intends to attack on the kingside. 2...g4 would be a mistake, because it allows more protection for the white King.",
+                    "es": "Como las negras pretenden atacar en el flanco rey, lo correcto es abrir l\u00edneas. La jugada 2...g4 ser\u00eda un error, porquepermitir\u00eda que el rey blanco se proteja mejor.",
+                    "de": "$ Schwarz muss Linien \u00f6ffnen, da er angreifen will. 2...g4 w\u00e4re ein grober Fehler, weil dadurch der wei\u00dfe K\u00f6nig gesch\u00fctzter w\u00e4re",
+                    "zh": "\u56e0\u4e3a\u9ed1\u68cb\u610f\u56fe\u653b\u51fb\u738b\u7ffc\uff0c\u6240\u4ee5\u5fc5\u987b\u5f00\u653e\u8def\u7ebf\u3002\u8d702...g4\u662f\u9519\u8bef\u7684\uff0c\u56e0\u4e3a\u4f1a\u4f7f\u767d\u738b\u53d7\u5230\u66f4\u591a\u7684\u4fdd\u62a4\u3002",
+                    "pl": "Poprawnie jest otworzy\u0107 linie, poniewa\u017c Czarne przygotowuj\u0105 si\u0119 do ataku na skrzyd\u0142o kr\u00f3lewskie. 1. ... g4 by\u0142oby b\u0142\u0119dem, poniewa\u017c zezwala na lepsz\u0105 ochron\u0119 bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u043b\u0438\u043d\u0438\u0438, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u0425\u043e\u0434 2...g4 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u043e\u0439, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2kr3r\/pbqnbp2\/1p2p3\/2ppP2p\/PP3B1p\/2PBPN2\/5PP1\/R2Q1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... c4 ",
+                "comment": {
+                    "pt": "As pretas pretendem atacar no flanco rei e j\u00e1 conseguiram abrir linhas neste setor (coluna g), mas tamb\u00e9m \u00e9 muito importante proteger o pr\u00f3prio rei e com a sequ\u00eancia de lances iniciada com 1...c4 as pretas mant\u00e9m seu rei o mais protegido poss\u00edvel.",
+                    "en": "Black intends to attack on the kingside and has already been able to open lines in this section (g-file). But with the initiated sequence of 1...c4, Black protects its King as much as possible, which is also very important.",
+                    "es": "Las negras pretenden atacar en el flanco rey y ya consiguieron abrir l\u00edneas en este sector (columna \"g\"), pero tambi\u00e9n es muy importante proteger el propio rey y con la secuencia de jugadas iniciada con 1...c4 las negras mantiene su rey lo m\u00e1s protegido posible.",
+                    "de": "Schwarz hat Linien am K\u00f6nigsfl\u00fcgel ge\u00f6ffnet, muss aber versuchen, die eigene K\u00f6nigsstellung m\u00f6glichst geschlossen zu halten. Das ist der Zweck des Textzuges.",
+                    "zh": "\u9ed1\u65b9\u610f\u56fe\u653b\u51fb\u738b\u7ffc\uff0c\u5e76\u4e14\u5df2\u7ecf\u5728\u6b64\u5904\u5f00\u653e\u4e86\u8def\u7ebf\uff08g-\u7ebf\uff09\u3002\u4f46\u662f\u8fd9\u4e00\u6b65\u7684\u76ee\u524d\u662f\u4e3a\u4e86\u5c3d\u53ef\u80fd\u7684\u4fdd\u62a4\u738b\uff0c\u8fd9\u4e2a\u4e5f\u662f\u975e\u5e38\u91cd\u8981\u7684\u3002",
+                    "pl": "Czarne zamierzaj\u0105 atakowa\u0107 skrzyd\u0142o kr\u00f3lewskie i s\u0105 w stanie otworzy\u0107 linie w tej sekcji (kolumna g). Ale inicjuj\u0105c sekwencj\u0119 od 1. ... c4 Czarne chroni\u0105 Kr\u00f3la jak tylko si\u0119 da, co r\u00f3wnie\u017c jest bardzo istotne.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0443\u0436\u0435 \u0432 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c g-\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c (\u0432 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435). \u041d\u043e \u0427\u0435\u0440\u043d\u044b\u0435, \u0441\u0435\u0440\u0438\u0435\u0439 \u0445\u043e\u0434\u043e\u0432 1...c4, \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0442 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   2. Be2 a6 ",
+                "comment": {
+                    "pt": "Par a responder aos avan\u00e7os brancos: 2-a5 com b5 e 2-b5 com a5, protegendo o rei da melhor maneira poss\u00edvel.",
+                    "en": "In order to answer to the white advances; 2-a5 with b5 and 2-b5 with a5 protects the King as much as possible.",
+                    "es": "Para responder a los avances blancos: 2-a5 con b5 y 2-b5 con a5, protegiendo el rey de la mejor manera posible.",
+                    "de": "$ Um nach dem Vorr\u00fccken eines beliebigen wei\u00dfen Bauern die K\u00f6nigsstellung geschlossen zu halten: auf b5 folgt a5 und b5 auf a5",
+                    "zh": "\u4e3a\u4e86\u5728\u767d\u5175\u633a\u8fdb\u4e4b\u540e\u4fdd\u6301\u9ed1\u738b\u7684\u5b89\u5168\uff1a 2-a5\u548cb5\u30012-b5\u548ca5\u5c3d\u53ef\u80fd\u7684\u4fdd\u62a4\u738b\u3002",
+                    "pl": "W celu odpowiedzi na marsze bia\u0142ych; 2. a5 z b5 i 2. b5 z a5 chroni\u0105 Kr\u00f3la dostatecznie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0411\u0435\u043b\u044b\u0445:  2-a5 \u0441 b5, \u0438 2-b5 \u0441 a5, \u0441\u0438\u043b\u044c\u043d\u0435\u0435 \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2rqr1k1\/pb2bp1p\/1p2n1pB\/3pPN2\/6Q1\/3B4\/P4PPP\/3R1RK1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. f4 ",
+                "comment": {
+                    "pt": "Para atacar, as brancas necessitam abrir linhas e enfraquecer as defesas do rei preto. A participa\u00e7\u00e3o da torre ser\u00e1 muito importante.",
+                    "en": "White needs to open lines and weaken the defenses of the black King. The participation of the Rook will be very important.",
+                    "es": "Para atacar, las blancas necesitan abrir l\u00edneas y debilitar las defensas del rey negro. La participaci\u00f3n de la torre ser\u00e1 muy importante.",
+                    "de": "Wei\u00df muss Linien \u00f6ffnen und die gegenerische K\u00f6nigsstellung schw\u00e4chen, um erfolgreich anzugreifen. Das Eingreifen des Turms ist sehr wichtig.",
+                    "zh": "\u767d\u65b9\u5fc5\u987b\u5f00\u653e\u8def\u7ebf\u5e76\u524a\u5f31\u9ed1\u738b\u7684\u9632\u5fa1\uff0c\u4ee5\u4fbf\u6210\u529f\u8fdb\u653b\u3002\u8f66\u53c2\u4e0e\u8fdb\u653b\u5728\u6b64\u5904\u975e\u5e38\u91cd\u8981\u3002",
+                    "pl": "Bia\u0142e potrzebuj\u0105 otworzy\u0107 linie i os\u0142abi\u0107 obron\u0119 czarnego Kr\u00f3la. Udzia\u0142 WIe\u017cy jest bardzo istotny.",
+                    "ru": "\u0411\u0435\u043b\u044b\u043c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0423\u0447\u0430\u0441\u0442\u0438\u0435 \u041b\u0430\u0434\u044c\u0438 - \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0430\u044f \u0443\u0441\u043f\u0435\u0445\u0430."
+                }
+            },
+            {
+                "move": "   Rc3 24. Nxe7+ Qxe7 25. f5 ",
+                "comment": {
+                    "pt": "E as brancas t\u00eam um forte ataque, onde praticamente todas as suas pe\u00e7as participam.",
+                    "en": "Now White owns a very strong attack and almost all its pieces are involved.",
+                    "es": "Y las blancas tienen un fuerte ataque, en el que pr\u00e1cticamente participan todas sus piezas.",
+                    "de": "Und Wei\u00df hat einen starken Angriff, an dem praktisch all seine Figuren beteiligt sind.",
+                    "zh": "\u767d\u65b9\u8fdb\u653b\u975e\u5e38\u6fc0\u70c8\uff0c\u51e0\u4e4e\u6240\u6709\u7684\u68cb\u5b50\u90fd\u53c2\u4e0e\u5176\u4e2d\u3002",
+                    "pl": "Teraz Bia\u0142e maj\u0105 bardzo silny atak, w kt\u00f3re zaanga\u017cowa\u0142y prawie wszystkie figury.",
+                    "ru": "\u0422\u0435\u043f\u0435\u0440\u044c \u0411\u0435\u043b\u044b\u0435 \u0432\u043b\u0430\u0434\u0435\u044e\u0442 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c, \u0433\u0434\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u044e\u0442 \u043f\u043e\u0447\u0442\u0438 \u0432\u0441\u0435 \u0438\u0445 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

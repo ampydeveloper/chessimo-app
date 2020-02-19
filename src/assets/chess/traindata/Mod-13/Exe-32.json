@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2ppbp\/2n3p1\/2P5\/8\/2P1BNP1\/P3PPBP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nd4 ",
+                "comment": {
+                    "pt": "Para pressionar o flanco dama preto. Note que as brancas utilizam os pr\u00f3prios pe\u00f5es dobrados favoravelmente, servindo de apoio para suas pe\u00e7as.",
+                    "en": "In order to put pressure on the black queenside. Note that White uses its own doubled pawns for its benefit as a support for its pieces.",
+                    "es": "Para presionar el flanco dama negro. Observe que las blancas utilizan los propios peones doblados favorablemente, sirviendo de apoyo para sus piezas.",
+                    "de": "Um Druck auf den Damenfl\u00fcgel auszu\u00fcben. Bemerken Sie, da\u00df Wei\u00df die Doppelbauern zu seinem eigenen Gunsten ausnutzt, indem er sie als St\u00fctzpunkte f\u00fcr seine Figuren benutzt.",
+                    "zh": "\u4e3a\u4e86\u7ed9\u9ed1\u65b9\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002\u6ce8\u610f\u767d\u65b9\u5c06\u81ea\u5df1\u7684\u53e0\u5175\u4f5c\u4e3a\u5176\u4ed6\u7684\u68cb\u5b50\u652f\u6491\u70b9\u3002",
+                    "pl": "Wywieranie presji na czarne skrzyd\u0142o hetma\u0144skie. Zauwa\u017c, \u017ce Bia\u0142\u0119 u\u017cywaj\u0105 w\u0142asnych zdublowanych pion\u00f3w dla korzy\u015bci wynikaj\u0105cych ze wspomagania przez nie figury.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0427\u0435\u0440\u043d\u044b\u0445. \u0417\u0430\u043c\u0435\u0442\u044c\u0442\u0435, \u0447\u0442\u043e \u0411\u0435\u043b\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438, \u0434\u043b\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp3pp1\/5q1p\/2p1pP2\/2P5\/2PBP3\/P1Q3PP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Be4 ",
+                "comment": {
+                    "pt": "Para ocupar a casa d5 com esta pe\u00e7a, que estar\u00e1 apoiada pelo pe\u00e3o em c4. Note que o fato das brancas terem pe\u00f5es dobrados \u00e9 favor\u00e1vel neste caso devido a abertura das colunas, principamente a coluna b, por onde as brancas poder\u00e3o atuar em conjunto com a torre e o bispo (Tb1-Bd5).",
+                    "en": "In order to occupy d5 with this piece, supported by the c4-pawn. Note that White has doubled pawns, which is positive in this case, due to open files, especially the b-file, where White will be able to act both with its Rook and Bishop (Rb1-Bd5).",
+                    "es": "Para ocupar la casilla d5 con esta pieza, que estar\u00e1 apoyada por el pe\u00f3n en c4. Observe que el hecho de que las blancas tienen peones doblados es favorable en este caso debido a la apertura de las columnas, principamente la columna \"b\", por donde las blancas podr\u00e1n actuar en conjunto con la torre y el alfil (Tb1-Bd5).",
+                    "de": "Um das Feld d5 mit dem L\u00e4ufer zu besetzen, der vom Bauern auf c4 unterst\u00fctzt werden wird. Bemerken Sie, da\u00df in diesem Fall die Doppelbauern f\u00fcr Wei\u00df g\u00fcnstig sind, da dadurch die b-Linie offen bleibt, auf der der Turm mit dem L\u00e4ufer gut zusammen spielen k\u00f6nnen (Tb1-Ld5).",
+                    "zh": "\u901a\u8fc7c4-\u5175\u7684\u652f\u6301\uff0c\u8ba9\u8c61\u6765\u5360\u636ed5\u3002\u6ce8\u610f\u767d\u68cb\u7684\u53e0\u5175\u5728\u8fd9\u4e2a\u4f8b\u5b50\u662f\u6709\u5229\u7684\uff0c\u56e0\u4e3a\u5f00\u653e\u7ebf\u7684\u539f\u56e0\uff0c\u7279\u522b\u662fb-\u7ebf\uff0c\u53e0\u5175\u53ef\u4ee5\u548c\u8f66\u8c61\u8054\u5408\u884c\u52a8\u3002",
+                    "pl": "Aby zaj\u0105\u0107 d5 t\u0105 figur\u0105, wspomagan\u0105 przez piona c4. Zauwa\u017c, \u017ce Bia\u0142e maj\u0105 zdublowane piony, kt\u00f3re stanowi\u0105 w tym przypadku przewag\u0119 z uwagi na otwarte kolumny, szczeg\u00f3lnie b, gdzie Bia\u0142e s\u0105 w stanie operowa\u0107 zar\u00f3wno Wie\u017c\u0105, jak Go\u0144cem (Wb1-Gd5).",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u044f d5 \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u043e\u0439, \u043f\u0440\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 c4. \u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e \u0443 \u0411\u0435\u043b\u044b\u0445 \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u043e\u043c, \u0438\u0437-\u0437\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0435\u0439, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e b-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0435\u0439 \u041b\u0430\u0434\u044c\u0435\u0439 \u0438\u043b\u0438 \u0421\u043b\u043e\u043d\u043e\u043c (Rb1-Bd5)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r2rk1\/2p1qppp\/p3b3\/1p1pP3\/3n4\/1NP4P\/PP1Q1PP1\/2R1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. cxd4 ",
+                "comment": {
+                    "pt": "Para atacar atrav\u00e9s da coluna c, onde as pretas ter\u00e3o um pe\u00e3o atrasado. Qualquer outra retomada em d4 permitiria a jogada ...c5.",
+                    "en": "In order to attack through the c-file, where Black owns a passed pawn. Any other retake on d4 would allow ...c5.",
+                    "es": "Para atacar a trav\u00e9s de la columna \"c,\" donde las negras tendr\u00e1n un pe\u00f3n retrasado. Cualquier otra manera de recapturar en d4 permitir\u00eda la jugada ...c5.",
+                    "de": "Um auf der c-Linie anzugreifen, auf der ein schwarzer r\u00fcckst\u00e4ndiger Bauer steht. Mit der Dame bzw. dem Springer auf d4 zur\u00fcckzuschlagen w\u00fcrde 1...c5 zulassen.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fbc-\u7ebf\uff0c\u56e0\u4e3a\u6b64\u7ebf\u4e0a\u9ed1\u68cb\u6709\u4e00\u4e2a\u843d\u540e\u5175\u3002\u7528\u540e\u6216\u9a6c\u53cd\u51fbd4\uff0c\u4f1a\u4f7f\u5f97\u8d70...c5\u6210\u4e3a\u53ef\u80fd\u3002",
+                    "pl": "Atak kolumny c, gdzie Czarne posiadaj\u0105 wolnego piona. Ka\u017cde inne wzi\u0119cie na d4 pozwoli\u0142oby na ... c5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u0435\u0437 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0433\u0434\u0435 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0430\u044f \u043f\u0435\u0448\u043a\u0430. \u041d\u0430 \u043b\u044e\u0431\u043e\u0439 \u0434\u0440\u0443\u0433\u043e\u0439 \u043e\u0442\u044b\u0433\u0440\u044b\u0448 \u043d\u0430 d4, \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c ...c5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "dom\u00ednio",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1r2kr2\/R7\/b2ppp2\/2p1n3\/2P1P3\/P4PP1\/1PR3P1\/4KB2 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Bb7 ",
+                "comment": {
+                    "pt": "Para jogar ...Cc6 e deixar a torre branca fora de jogo.",
+                    "en": "In order to play ...Nc6 and leave the white Rook out of the game.",
+                    "es": "Para jugar ...Cc6 y dejar la torre blanca fuera de juego.",
+                    "de": "Um ...Sc5 zu spielen und den wei\u00dfen Turm auf a7 au\u00dfer Spiel zu lassen.",
+                    "zh": "\u4e3a\u4e86\u4e0b...Nc6\u8ba9\u767d\u8f66\u51fa\u5c40\u3002",
+                    "pl": "Aby zagra\u0107 Sc6 i zdj\u0105\u0107 z gry bia\u0142\u0105 Wie\u017c\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0438\u0433\u0440\u044b ...Nc6, \u0438 \u0441\u043a\u043e\u0432\u044b\u0432\u0430\u043d\u0438\u044f \u0431\u0435\u043b\u043e\u0439 \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4r1k\/1b4p1\/p1p4p\/1p2B1q1\/3P4\/P1P1P3\/B1Q3PP\/3R2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bb1 ",
+                "comment": {
+                    "pt": "As brancas planejam um ataque contra o rei preto e montam uma bateria com sua dama e bispo para penetrar na casa h7.",
+                    "en": "White is planning to attack the black King and is gathering the forces of the Queen and Bishop to enter h7.",
+                    "es": "Las blancas planean un ataque contra el rey negro y montan una bater\u00eda con su dama y alfil para penetrar en la casilla h7.",
+                    "de": "Wei\u00df bereitet einen Angriff auf den schwarzen K\u00f6nig vor und droht, mit der Dame (vom L\u00e4ufer unterstutzt) auf h7 einzudringen.",
+                    "zh": "\u767d\u65b9\u8ba1\u5212\u51c6\u5907\u653b\u51fb\u9ed1\u738b\uff0c\u6b63\u5728\u4e3a\u6b64\u79ef\u805a\u540e\u548c\u8c61\u7684\u529b\u91cf\u6765\u5165\u4fb5h7\u3002",
+                    "pl": "Bia\u0142e planuj\u0105 atak na czarnego Kr\u00f3la i zbieraj\u0105 si\u0142y Hetmana i Go\u0144ca, by wkroczy\u0107 na h7.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u0443\u044e\u0442 \u0441\u0438\u043b\u044b \u0424\u0435\u0440\u0437\u044f \u0438 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

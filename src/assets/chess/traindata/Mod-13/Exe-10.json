@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pppp1ppp\/8\/4N3\/4n3\/8\/PPPP1PPP\/RNBQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. Qe2 ",
+                "comment": {
+                    "pt": "Aproveitando a cravada. As pretas nao podem retirar o cavalo devido ao x\u00e9que descoberto. Se o defendenrem com um pe\u00e3o, as brancas seguem com d3, atacando novamente esta pe\u00e7a.",
+                    "en": "Taking advantage of the pin. Black can't withdraw its Knight due to uncovered check. If it defends itself with a pawn, White will continue with d3 attacking the same piece again.",
+                    "es": "Aprovechando la clavada. Las negras no pueden retirar el caballo debido al jaque descubierto. Si defienden con un pe\u00f3n, las blancas siguen con d3, atacando esta pieza una vez m\u00e1s.",
+                    "de": "Nutzt die Fesselung aus. Der Springer auf e4 kann wegen des R\u00fcckzugs nicht weg. Wenn er von einem Bauern verteidigt wird, w\u00fcrde d3 den Angriff auf diesen Springer verst\u00e4rken.",
+                    "zh": "\u5145\u5206\u5229\u7528\u7275\u5236\u672f\u3002\u51fa\u4e8e\u4e0d\u80fd\u5e94\u5c06\u7684\u539f\u56e0\u9ed1\u65b9\u4e0d\u80fd\u64a4\u56de\u9a6c\u3002\u5982\u679c\u5b83\u7528\u5175\u9632\u5fa1\uff0c\u767d\u65b9\u53ef\u4ee5\u7528d3\u7ee7\u7eed\u653b\u51fb\u540c\u4e00\u4e2a\u5b50\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia. Czarne nie mog\u0105 zabra\u0107 Skoczka z powodu mo\u017cliwo\u015bci szacha. Je\u015bli obroni\u0105 go pionem, Bia\u0142e ponownie zaatakuj\u0105 go przez d3.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443. \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0432\u0435\u0441\u0442\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f \u0438\u0437-\u0437\u0430 \u0448\u0430\u0445\u0430. \u0415\u0441\u043b\u0438 \u043e\u043d\u0438 \u0437\u0430\u0449\u0438\u0442\u044f\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u043e\u0439, \u0411\u0435\u043b\u044b\u0435 \u043e\u043f\u044f\u0442\u044c \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438\u0433\u0440\u043e\u0439 \u043d\u0430 d3."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/1p1nbppp\/2pp1n2\/p3p3\/P1BPP3\/2N2N2\/1PP1QPPP\/R1BR2K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Qc7 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam dxe5 explorando a posi\u00e7\u00e3o da dama preta na mesma coluna que a torre branca em d1 e portanto, a melhor defesa para as pretas \u00e9 retirar a dama. Nesta casa (c7) ela n\u00e3o pode ser atacada e ainda protege o pe\u00e3o e5.",
+                    "en": "White threatened dxe5, exploring the position of the black Queen in relation to the d1-Rook. Therefore it's best for Black to move the Queen to a place where it can't be attacked and protects the e5-pawn, at the same time.",
+                    "es": "Las blancas amenazaban dxe5, explotando la posici\u00f3n de la dama negra en la misma columna que a torre blanca en d1. La mejor defensa para las negras es, por lo tanto retirar la dama. En esta casilla (c7) no puede ser atacada y adem\u00e1s protege el pe\u00f3n e5.",
+                    "de": "Wei\u00df drohte, mit 1. dxe5 die d-Linie zu \u00f6ffnen, auf der die schwarze Dame steht. Die beste Verteidigung besteht darin, die Dame auf ein Feld zu ziehen (c7), auf dem sie nicht angegriffen werden kann.",
+                    "zh": "\u767d\u65b9\u8d70dxe5\u5a01\u80c1\u5f00\u653e\u9ed1\u540e\u6240\u5728\u7684d\u7ebf\u3002\u6700\u4f73\u7684\u9632\u5fa1\u662f\u5c06\u9ed1\u540e\u79fb\u5230\u4e00\u4e2a\u65e2\u4e0d\u4f1a\u906d\u5230\u653b\u51fb\u540c\u65f6\u53c8\u80fd\u4fdd\u62a4e5-\u5175\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Bia\u0142e zagra\u017caj\u0105 dxe5, wykorzystuj\u0105c umieszczenie Hetmana naprzeciwko Wie\u017cy d1. Wi\u0119c najlepiej dla Czarnych jest uciec Hetmanem w miejsce, gdzie nie b\u0119dzie atakowany, a b\u0119dzie jednocze\u015bnie broni\u0142 piona e5.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 dxe5, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 d1. \u041f\u043e\u044d\u0442\u043e\u043c\u0443, \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u043b\u0443\u0447\u0448\u0435 \u0445\u043e\u0434\u0438\u0442\u044c \u0424\u0435\u0440\u0437\u0435\u043c \u0438 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0435\u0433\u043e \u0442\u0430\u043c, \u0433\u0434\u0435 \u0431\u044b \u0435\u0433\u043e \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0438 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1kb1r\/pp1n1ppp\/2p1p3\/q2n2B1\/3P4\/2N1PN2\/PP1Q1PPP\/R3KB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Bb4 ",
+                "comment": {
+                    "pt": "Intensificando o ataque ao cavalo de c3 atrav\u00e9s da cravada.",
+                    "en": "Intensifying the attack against the c3-Knight with a pin.",
+                    "es": "Intensificando el ataque al caballo de c3 a trav\u00e9s de la clavada.",
+                    "de": "Verst\u00e4rkt den Angriff auf den Springer auf c3 durch eine Fesselung.",
+                    "zh": "\u7528\u7275\u5236\u6218\u672f\u52a0\u5f3a\u5bf9c3-\u9a6c\u7684\u653b\u52bf\u3002",
+                    "pl": "Zwi\u0119kszaj\u0105c szanse powodzenia ataku przygwo\u017cd\u017ceniem Skoczka c3.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u041a\u043e\u043d\u044f c3."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/2p2ppp\/p1n5\/1p1p4\/3pn3\/1B3N2\/PPP2PPP\/RNBQR1K1 w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. Nc3 ",
+                "comment": {
+                    "pt": "Para explorar a cravada na coluna e. Se as pretas jogarem 1... dxc3 segue 2-Bxd5 recuperando a pe\u00e7a e criando novas amea\u00e7as.",
+                    "en": "In order to explore the pin in the e-file. If Black plays 1...dxc3, 2-Bxd5 will follow, which retakes the piece and creates new threats.",
+                    "es": "Para explotar la clavada en la columna \"e\". Si las negras juegan 1...dxc3 sigue 2-Axd5, recuperando la pieza y creando nuevas amenazas.",
+                    "de": "Um die Fesselung auf der e-Linie auszunutzen. Auf 1...dxc3 folgt 2. Lxd5, was die Figur zur\u00fcckgewinnt und neue Bedrohung erm\u00f6glicht.",
+                    "zh": "\u4e3a\u4e86\u5145\u5206\u5229\u7528\u5bf9e\u7ebf\u7275\u5236\u3002\u5982\u679c\u9ed1\u65b9\u8d701...dxc3\uff0c\u4f1a\u8ddf2-Bxd5\uff0c\u65e2\u80fd\u593a\u56de\u5931\u53bb\u7684\u68cb\u5b50\u53c8\u80fd\u5236\u9020\u65b0\u7684\u5a01\u80c1\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia na kolumnie e. Je\u015bli Czarne zagraj\u0105 1. ... dxc3, wtedy 2. Gxd5, co odzyska figur\u0119 i stworzy nowe zagro\u017cenia.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u043a\u0443 \u043d\u0430 e-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 1...dxc3, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 2-Bxd5, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0443\u0433\u0440\u043e\u0437\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1br2k1\/pp2ppbp\/2n3p1\/2pq4\/8\/3PBNP1\/PP2PPBP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nd4 ",
+                "comment": {
+                    "pt": "Explorando o ataque descoberto contra a dama preta, para debillitar a estrututra de pe\u00f5es , ap\u00f3s a pr\u00f3xima jogada branca que ser\u00e1 Cxc6.",
+                    "en": "Exploring the uncovered attack against the black Queen that will be forced to retreat. This will weaken the pawn structure after White's next move Nxc6.",
+                    "es": "Explotando el ataque descubierto contra la dama negra, para debillitar la estructura de peones, despu\u00e9s de la pr\u00f3xima jugada blanca que ser\u00e1 Cxc6.",
+                    "de": "Durch diesen Abzug zerst\u00f6rt Wei\u00df die schwarze Bauernstruktur, weil nach dem Abzug der schwarzen Dame Sxc6 folgen wird.",
+                    "zh": "\u731b\u70c8\u653b\u51fb\u9ed1\u540e\uff0c\u8feb\u4f7f\u5b83\u540e\u9000\u3002\u8fd9\u6837\u767d\u540e\u4e0b\u4e00\u6b65\u8d70Nxc6\u53ef\u4ee5\u7834\u574f\u5bf9\u65b9\u5175\u5f62\u3002",
+                    "pl": "Wykorzystuj\u0105c atak przeciwko czarnemu Hetmanowi, co zmusi go do ucieczki. Os\u0142abi to struktur\u0119 pion\u00f3w po nast\u0119pnym ruchu Bia\u0142ych Sxc6.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0442\u044c. \u042d\u0442\u043e \u043e\u0441\u043b\u0430\u0431\u0438\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0445\u043e\u0434\u0443 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 Nxc6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

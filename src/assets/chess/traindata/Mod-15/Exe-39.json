@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(7)",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/5pp1\/4p2p\/1p1q4\/1Pn5\/1Q2PNBP\/1b3PP1\/4R1K1 b - - 0 29",
+        "moves": [
+            {
+                "move": "29... e5 ",
+                "comment": {
+                    "pt": "Ganhando espa\u00e7o, fechando o bispo branco e preparando ...e4, para expulsar o cavalo de f3.",
+                    "en": "Gaining space, blocking the white Bishop and preparing for ...e4 in order to chase the Knight out of f3.",
+                    "de": "Gewinnt Raum, blockiert den wei\u00dfen L\u00e4ufer und bereitet e4 vor, um den Springer aus f3 zu vertreiben.",
+                    "es": "Ganando espacio, cerrando el alfil blanco y preparando ...e4, para expulsar el caballo de f3.",
+                    "zh": "\u8d62\u5f97\u7a7a\u95f4\uff0c\u9650\u5236\u767d\u8c61\u7684\u6d3b\u52a8\u5e76\u4e14\u51c6\u5907\u8d70...e4\u4ece\u800c\u628a\u9a6c\u4ecef3\u8d76\u8d70\u3002",
+                    "pl": "Zagarniaj\u0105c przestrze\u0144, blokuj\u0105c bia\u0142ego Go\u0144ca i przygotowuj\u0105c ... e4 w celu przegonienia Skoczka z f3.",
+                    "ru": "\u041f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a ...e4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0441 \u043f\u043e\u043b\u044f f3."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(85)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/pp2pp1p\/3b2p1\/3P1n2\/1n6\/P1N2R2\/1PP2BPP\/2R1QBK1 b - - 0 19",
+        "moves": [
+            {
+                "move": "19... Rxc3 ",
+                "comment": {
+                    "pt": "Para voltar o cavalo de b4 favoravelmente e ainda tomar um pe\u00e3o central caso as brancas retomem de pe\u00e3o. Qualquer retomada de pe\u00e7a permite que as brancas recuperem a qualidade.",
+                    "en": "In order to place the b4-Knight favorably back and capture a central pawn in case White retakes with the pawn. Any piece retaking enables White to recover quality.",
+                    "de": "Um den Bauern auf d5 zu schlagen, falls Wei\u00df mit dem Bauern zur\u00fcckschl\u00e4gt. Sollte Wei\u00df mit einer Figur zur\u00fcckschlagen, gewinnt Schwarz die Qualit\u00e4t sofort zur\u00fcck.",
+                    "es": "Para volver con el caballo de b4 favorablemente y adem\u00e1s tomar un pe\u00f3n central si las blancas recapturan con pe\u00f3n. Cualquier recaptura con pieza en vez de pe\u00f3n permite que las blancas recuperen la calidad.",
+                    "zh": "\u4e3a\u4e86\u5c06b4-\u8c61\u987a\u5229\u64a4\u56de\u5e76\u4e14\u6349\u4e2d\u5fc3\u5175\uff0c\u4ee5\u514d\u767d\u68cb\u5229\u7528\u5175\u6536\u590d\u5931\u5730\u3002\u6536\u590d\u4efb\u4f55\u68cb\u5b50\u90fd\u4f1a\u4f7f\u767d\u68cb\u6062\u590d\u5b50\u529b\u3002",
+                    "pl": "W celu umieszczenia Skoczka b4 korzystnie z ty\u0142u oraz pochwycenie centralnego piona w przypadku, gdy Bia\u0142e wezm\u0105 pionem. Inna wymiana umo\u017cliwia Bia\u0142ym odzyskanie jako\u015bci.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f b4 \u0441\u0437\u0430\u0434\u0438, \u0438 \u0432\u0437\u044f\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0435\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0435\u0448\u043a\u043e\u0439. \u0412\u0437\u044f\u0442\u0438\u0435 \u043b\u044e\u0431\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u0443 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(14)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/3nbppp\/p1p1p1n1\/1p1p4\/PP1PP3\/1QP2PB1\/3NN1PP\/4RRK1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. a5 ",
+                "comment": {
+                    "pt": "Impedindo a manobra Cb6-c4.",
+                    "en": "Preventing the Nb6-c4 maneuver.",
+                    "de": "Verhindert das Man\u00f6ver Sb6-c4.",
+                    "es": "Impidiendo la maniobra Cb6-c4.",
+                    "zh": "\u963b\u6b62Nb6-c4\u7684\u7b56\u7565\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c manewr Sb6-c4.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043c\u0430\u043d\u0435\u0432\u0440 Nb6-c4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(97)",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/pbr1q1pp\/4p3\/2PpP3\/8\/2Q2pPB\/P4P1P\/2RR2K1 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Ba6 ",
+                "comment": {
+                    "pt": "Com a id\u00e9ia de jogar Bc4 para obstruir a defesa do pe\u00e3o c5 e ao mesmo tempo atacar a2.",
+                    "en": "Intending to play Bc4 in order to block the c5-pawn's defense and, at the same time, attack a2.",
+                    "de": "Mit der Idee, Lc4 zu spielen, um den Bauern c5 von seinen Verteidigern abzusperren und zur gleichen Zeit auf a2 anzugreifen.",
+                    "es": "Con la idea de jugar Ac4 para obstruir la defensa del pe\u00f3n c5 y al mismo tiempo atacar a2.",
+                    "zh": "\u76ee\u7684\u662f\u4e3a\u4e86\u4e0bBc4\u6765\u963b\u6b62c5-\u5175\u7684\u9632\u5fa1\u7684\u540c\u65f6\u653b\u51fba2\u3002",
+                    "pl": "Z zamiarem zagrania Gc4 w celu zablokowania obrony piona c5 i w tym samym czasie atak na a2.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u0438\u0433\u0440\u0430\u0442\u044c Bc4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 c5 \u0438, \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e, \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c a2."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(135)",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r3r\/p1qn1p1p\/1p2pb2\/5p2\/3p4\/2P2NP1\/PP1NQP1P\/1K1RR3 w - - 0 19",
+        "moves": [
+            {
+                "move": "19. cxd4 ",
+                "comment": {
+                    "pt": "Para controlar e5, onde pretendem alojar o cavalo de f3 e abrir a coluna c para atacar o rei preto.",
+                    "en": "In order to control e5, where the f3-Knight intends to move to, and open the c-file for the attack against the black King.",
+                    "de": "Um e5 unter Kontrolle zu haben, wo Wei\u00df einen Vorposten f\u00fcr den Springer auf f3 errichten und die c-Linie \u00f6ffnen will, um den schwarzen K\u00f6nig anzugreifen.",
+                    "es": "Para controlar e5, donde pretenden alojar el caballo de f3 y abrir la columna c para atacar el rey negro.",
+                    "zh": "\u4e3a\u4e86\u63a7\u5236e5\uff0c\u6b64\u5904\u767d\u68cb\u610f\u56fe\u4e3a\u9a6c\u8bbe\u7f6e\u4e00\u4e2a\u524d\u54e8\uff0c\u5e76\u4e14\u5f00\u653ec-\u7ebf\u6765\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "W celu kontroli e5, gdzie Skoczek f3 zamierza przej\u015b\u0107, a tak\u017ce otwarcie kolumny c dla ataku przeciw czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u043e\u043b\u0435 e5, \u043a\u0443\u0434\u0430 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u0445\u043e\u0434\u0438\u0442\u044c \u041a\u043e\u043d\u044c f3, \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "title": "",
+        "white": "Gambito do rei",
+        "white_sort": "",
+        "black": "aceito",
+        "date": "",
+        "event": {
+            "en": "accepted",
+            "de": "Angenommenes K\u00f6nigsgambit",
+            "es": "aceptado",
+            "pt": "aceito",
+            "zh": "\u63a5\u53d7\u738b\u7ffc\u5f03\u5175",
+            "pl": "Gambit kr\u00f3lewski przyj\u0119ty",
+            "ru": "\u041f\u0440\u0438\u043d\u044f\u0442\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. f4 ",
+                "comment": {
+                    "pt": "Com esta jogada, muito popular no s\u00e9culo 19, as brancas querem eliminar o pe\u00e3o central preto e ainda abrir a coluna bispo rei para atacar o ponto f7. Os inconvenientes s\u00e3o o sacrif\u00edcio de pe\u00e3o e o enfraquecimento da pr\u00f3pria posi\u00e7\u00e3o do rei. Em nossa base de partidas voc\u00ea encontrara 29 exemplos desta abertura (partidas 1 a 29).",
+                    "en": "With this move that was very popular in the 19th century, White wants to eliminate the central black pawn and open the file of the kingside Bishop for an attack against f7. The inconvenience is the pawn sacrifice and the weakness in the King's position. In our game database you can find 29 examples of this kind of opening (games 1 to 29).",
+                    "es": "Con esta jugada, muy popular en el siglo 19, las blancas quieren eliminar el pe\u00f3n central negro, adem\u00e1s de abrir la columna alfil rey para atacar el punto f7. Los inconvenientes son el sacrificio de un pe\u00f3n y el debilitamiento de la posici\u00f3n del rey. En nuestra base de partidas usted encontrar\u00e1 29 ejemplos de esta apertura (partidas 1 a 29).",
+                    "de": "Mit diesem im 19. Jahrhundert sehr popul\u00e4ren Zug versucht Wei\u00df, den schwarzen Zentralbauern zu beseitigen und dazu noch die f-Linie zu \u00f6ffnen, um den Punkt f7 anzugreifen. Schattenseiten sind das Opfer einen Bauern sowie die  Schw\u00e4chung der eigenen K\u00f6nigsstellung. Auf unserer Partiendatenbank finden Sie 29 Beispiele dieser Er\u00f6ffnung (Partien 1 bis 29).",
+                    "zh": "\u8fd9\u4e00\u7740\u572819\u4e16\u7eaa\u975e\u5e38\u6d41\u884c\uff0c\u767d\u65b9\u5e0c\u671b\u53ef\u4ee5\u6d88\u706d\u4e2d\u5fc3\u9ed1\u5175\u5e76\u4e14\u4e3a\u738b\u7ffc\u8c61\u653b\u51fbf7\u5f00\u653e\u7ebf\u8def\u3002\u4e0d\u5229\u4e4b\u5904\u662f\u8981\u5f03\u5175\u5e76\u4e14\u4f1a\u524a\u5f31\u738b\u7684\u4f4d\u7f6e\u3002\u5728\u6211\u4eec\u6e38\u620f\u6570\u636e\u5e93\u4e2d\u4f60\u53ef\u4ee5\u627e\u523029\u8fd9\u79cd\u5f00\u5c40\u7684\u4f8b\u5b50\uff08\u6e38\u620f1-29\uff09\u3002",
+                    "pl": "Tym popularnym w XIX stuleciu posuni\u0119ciem, Bia\u0142e d\u0105\u017c\u0105 do eliminacji centralnego piona czarnych i otwarcia kolumny kr\u00f3lewskiego Go\u0144ca, aby zaatakowa\u0107 przeciwko f7. Niedogodno\u015bci\u0105 jest ofiara piona i s\u0142abo\u015b\u0107 kr\u00f3lewskiej pozycji. W naszym archiwum partii znajdziesz 29 przyk\u0142ad\u00f3w tej pozycji (gry od 1 do 29).",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0431\u044b\u043b \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0435\u043d \u0432 19 \u0432\u0435\u043a\u0435. \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 f7. \u0421\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0436\u0435\u0440\u0442\u0432\u0435 \u043f\u0435\u0448\u043a\u0438 \u0438 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u041a\u043e\u0440\u043e\u043b\u044f. \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 29 \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u0432 \u043f\u043e\u0445\u043e\u0436\u0438\u0445 \u0434\u0435\u0431\u044e\u0442\u043e\u0432 (\u0438\u0433\u0440\u044b 1-29), \u0432 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u0435 \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   exf4 ",
+                "comment": {
+                    "pt": "Recusar o gambito com 2...Bc5 ou realizar um contra-gambito 2...d5 tamb\u00e9m s\u00e3o poss\u00edveis variantes e aparecem nos pr\u00f3ximos exemplos.",
+                    "en": "Refusing the gambit with 2...Bc5 or performing a counter gambit 2...d5 are possible variations that will be shown in the next examples.",
+                    "es": "Rehusar el gambito con 2...Ac5 o realizar un contragambito con 2...d5 tambi\u00e9n son variantes posibles y aparecen en los pr\u00f3ximos ejemplos.",
+                    "de": "Das Gambit abzulehnen bzw. ein Gegengambit mit ...d5 zu spielen sind m\u00f6gliche Alternativen, die in den n\u00e4chsten Beispielen gezeigt werden.",
+                    "zh": "\u4e0b2...Bc5\u62d2\u7edd\u5f03\u5175\uff0c\u6216\u8005\u75282...d5\u53cd\u5f03\u5175\u90fd\u662f\u53ef\u884c\u7684\u53d8\u6362\uff0c\u8fd9\u5c06\u5728\u4e0b\u4e2a\u4f8b\u5b50\u4e2d\u89e3\u91ca\u3002",
+                    "pl": "Odmowa przyj\u0119cia gambitu przez 2. ... Gc5 lub zagranie kontrgambitu 2. ... d5 s\u0105 mo\u017cliwymi wariacjami pokazanymi w kolejnych przyk\u0142adach.",
+                    "ru": "\u041e\u0442\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0433\u0430\u043c\u0431\u0438\u0442 \u043d\u0430 2...Bc5 \u0438\u043b\u0438 \u043a\u043e\u043d\u0442\u0440\u0433\u0430\u043c\u0431\u0438\u0442 \u043d\u0430 2...d5 - \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043f\u0430\u0440\u0442\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u0440\u0430\u0445."
+                }
+            },
+            {
+                "move": "   3. Nf3 ",
+                "comment": {
+                    "pt": "3-d4 permitiria o xeque de dama em h4. 3- Bc4 tamb\u00e9m permite o xeque , mas \u00e9 superior e d4 e as partidas 1,6, 14 e 15 de nossa base tratam desta posi\u00e7\u00e3o.",
+                    "en": "3-d4 would allow the Queen check on h4. 3- Bc4 would also allow check but it is superior to d4. The games 1,6, 14 and 15 of our database address this issue.",
+                    "es": "3-d4 permitir\u00eda el jaque de dama en h4. 3- Ac4 tambi\u00e9n permite el jaque, pero es superior a d4. Las partidas 1, 6, 14 y 15 de nuestra base tratan esta posici\u00f3n.",
+                    "de": "3.d4 w\u00fcrde das Schachgebot der Dame auf h4 zulassen. 3. Lc4 l\u00e4sst es auch zu, ist aber st\u00e4rker. Die Partien 1, 6, 14 und 15 behandeln diese Stellung.",
+                    "zh": "3-d4\u4f1a\u8ba9\u540e\u6709\u673a\u4f1a\u518dh4\u5c06\u519b\u30023-Bc4\u4e5f\u6709\u673a\u4f1a\u88ab\u5c06\u4f46\u662f\u8981\u6bd4d4\u597d\u3002\u6e38\u620f1\u30016\u300115\u548c15\u8ba8\u8bba\u8fd9\u4e2a\u95ee\u9898\u3002",
+                    "pl": "3. d4 mog\u0142oby pozwoli\u0107 Hetmanowi szachowa\u0107 na h4. 3. Gc4 r\u00f3wnie\u017c mog\u0142oby pozwoli\u0107 na szachowanie, ale jest lepsze ni\u017c d4. Pokazuj\u0105 to gry 1, 6, 14 i 15 z naszej bazy.",
+                    "ru": "3-d4 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0424\u0435\u0440\u0437\u044e \u0448\u0430\u0445\u043e\u0432\u0430\u0442\u044c \u043d\u0430 h4. 3-Bc4 \u0442\u043e\u0436\u0435 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u0448\u0430\u0445\u0443. \u0418\u0433\u0440\u044b 1, 6, 14 \u0438 15 \u0432 \u0431\u0430\u0437\u0435 \u0438\u0433\u0440, \u043f\u043e\u043a\u0430\u0436\u0443\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438."
+                }
+            },
+            {
+                "move": "   g5 ",
+                "comment": {
+                    "pt": "Para defender o pe\u00e3o e eventualmente avan\u00e7a-lo iniciando um ataque. Estamos seguindo a partida 28 de nossa base de dados onde Bobby Fischer , jogando com as pretas perdeu para Boris Spassky. Ap\u00f3s esta partida o americano afirmou que a melhor jogada para as pretas \u00e9 3. ..d6 e este lance esta analisado em nosso pr\u00f3ximo exemplo.",
+                    "en": "In order to defend the pawn and occasionally advance it to start an attack. We are following the game 28 of our database where Bobby Fischer, playing Black, lost to Boris Spassky. After this game the American said the best move for Black is 3...d6 and this will be analyzed in our next example.",
+                    "es": "Para defender el pe\u00f3n y eventualmente avanzarlo e iniciar un ataque. Estamos siguiendo la partida 28 de nuestra base de datos, en la que Bobby Fischer, jugando con las negras, perdi\u00f3 ante Boris Spassky. Despu\u00e9s de esta partida el norteamericano afirm\u00f3 que la mejor jugada para las negras es 3...d6. Esta jugada es analizada en nuestro pr\u00f3ximo ejemplo.",
+                    "de": "Um den Bauern zu decken und ihn eventuell vorzur\u00fccken, um einen Angriff zu starten. Wir folgen Partie 28 unserer Partiendatenbank, die Fischer (Schwarz) gegen Spasskij verlor. Nach der Partie sagte Fischer, der beste Zug f\u00fcr Schwarz sei 3...d6, der in unserem n\u00e4chsten Beispiel analysiert wird.",
+                    "zh": "\u4e3a\u4e86\u9632\u5fa1\u5175\u5e76\u4e14\u5c3d\u53ef\u80fd\u7684\u4f7f\u4e4b\u524d\u8fdb\u5f00\u59cb\u653b\u51fb\u3002\u6211\u4eec\u6e38\u620f\u5e93\u4e2d\u7684\u6e38\u620f28\u5c31\u662f\u518d\u73b0\u4e86\u7531\u9c8d\u6bd4.\u83f2\u820d\u5c14\u6267\u9ed1\u8f93\u7ed9\u9c8d\u91cc\u65af.\u65af\u5e15\u65af\u57fa\u7684\u4e00\u5c40\u3002\u8fd9\u5c40\u4e4b\u540e\u7f8e\u56fd\u4eba\u83f2\u820d\u5c14\u8ba4\u4e3a\u6700\u4f73\u4e00\u7740\u662f3...d6\uff0c\u4e0b\u4e00\u4e2a\u4f8b\u5b50\u4f1a\u5177\u4f53\u5206\u6790\u3002",
+                    "pl": "W celu ochrony piona i mo\u017cliwo\u015bci jego poruszenia dalej, by rozpocz\u0105\u0107 atak. Ogl\u0105damy gr\u0119 28 z naszej bazy, gdzie Bobby Fischer, graj\u0105c Czarnymi, przegra\u0142 z Borysem Spasskim. Po tej grze Amerykanin uzna\u0142 za najlepszy ruch Czarnych 3. ... d6, co b\u0119dzie analizowane w naszym nast\u0119pnym przyk\u0142adzie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443, \u043d\u0430\u0447\u0438\u043d\u0430\u0439\u0442\u0435 \u0430\u0442\u0430\u043a\u0443. \u041c\u044b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u043c \u044d\u0442\u0443 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0432 \u0438\u0433\u0440\u0435 28 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0433\u0434\u0435 \u0411\u043e\u0431\u0431\u0438 \u0424\u0438\u0448\u0435\u0440, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0427\u0435\u0440\u043d\u044b\u0445, \u043f\u0440\u043e\u0438\u0433\u0440\u0430\u043b \u0411\u043e\u0440\u0438\u0441\u0443 \u0421\u043f\u0430\u0441\u0441\u043a\u043e\u043c\u0443. \u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0439 \u0438\u0433\u0440\u044b, \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0446\u044b \u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u0447\u0442\u043e \u043b\u0443\u0447\u0448\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u0431\u044b\u043b 3...d6."
+                }
+            },
+            {
+                "move": "   4. h4 ",
+                "comment": {
+                    "pt": "Fo r\u00e7ando as pretas a avan\u00e7arem o pe\u00e3o para atacar os dois pe\u00f5es na quinta fila.",
+                    "en": "Forcing Black to advance the pawn in order to attack both pawns on the 5th rank.",
+                    "es": "Forzando a las negras a avanzar el pe\u00f3n para atacar los dos peones en la quinta fila.",
+                    "de": "Zwingt Schwarz, den Bauern  vorzur\u00fccken, um sp\u00e4ter beide Bauern auf der f\u00fcnften Linien anzugreifen.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u65b9\u633a\u5175\u4e3a\u4e86\u540c\u65f6\u653b\u51fb\u4e94\u7ebf\u4e0a\u7684\u4e24\u4e2a\u5175\u3002",
+                    "pl": "Zmuszaj\u0105c Czarne do marszu pionem, aby zaatakowa\u0107 oba piony na pi\u0105tej linii.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u0432\u043c\u0435\u0441\u0442\u043e \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043e\u0431\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 \u043f\u044f\u0442\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438."
+                }
+            },
+            {
+                "move": "   g4 5. Ne5 Nf6 6. d4 ",
+                "comment": {
+                    "pt": "Para controlar o centro e desenvolver rapidamente.",
+                    "en": "In order to control the center and develop quickly.",
+                    "es": "Para controlar el centro y desarrollarse r\u00e1pidamente.",
+                    "de": "Um das Zentrum zu kontrollieren und schnell die Entwicklung zu vollenden.",
+                    "zh": "\u4e3a\u4e86\u63a7\u5236\u4e2d\u5fc3\u5e76\u4e14\u5feb\u901f\u51fa\u5b50\u3002",
+                    "pl": "W celu uzyskania kontroli nad centrum i szybszego rozwoju.",
+                    "ru": "\u0412 \u0446\u0435\u043b\u044f\u0445 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440."
+                }
+            },
+            {
+                "move": "   d6 7. Nd3 Nxe4 8. Bxf4 Bg7 9. Nc3 Nxc3 10. bxc3 c5 ",
+                "comment": {
+                    "pt": "Pressiona ndo o centro.",
+                    "en": "Placing pressure on the center.",
+                    "es": "Presionando el centro.",
+                    "de": "Mit Druck auf das Zentrum.",
+                    "zh": "\u7ed9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Wywieranie presji w centrum.",
+                    "ru": "\u041e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   11. Be2 cxd4 12. O-O Nc6 13. Bxg4 ",
+                "comment": {
+                    "pt": "Terminando o desenvolvimento e iniciando um ataque. As brancas tem boas perspectivas em troca do material sacrificado, mas \u00e9 dif\u00edcil afirmar quem tem vantagem nesta posi\u00e7\u00e3o.",
+                    "en": "Completing development and starting an attack. White has good prospective in exchange for the sacrificed material but it's hard to say who has advantage in this position.",
+                    "es": "Terminando el desarrollo e iniciando un ataque. Las blancas tiene buenas perspectivas a cambio del material sacrificado, pero es dif\u00edcil afirmar qui\u00e9n tiene ventaja en esta posici\u00f3n.",
+                    "de": "Vollendet die Entwicklung und startet einen Angriff. Obwohl Wei\u00df als Kompensation f\u00fcr das geopferte Material gute Aussichten hat, ist es schwer zu sagen wer auf dieser Stellung besser steht.",
+                    "zh": "\u7ed3\u675f\u51fa\u5b50\u5e76\u4e14\u5f00\u59cb\u653b\u51fb\u3002\u767d\u65b9\u5bf9\u4e8e\u5f03\u5b50\u56de\u62a5\u7684\u9884\u671f\u6bd4\u8f83\u4e50\u89c2\uff0c\u4f46\u662f\u5f88\u96be\u8bf4\u76ee\u524d\u8fd9\u4e2a\u5f62\u52bf\u7a76\u7adf\u8c01\u5360\u4f18\u52bf\u3002",
+                    "pl": "Uko\u0144czenie wyprowadzenia figur i rozpocz\u0119cie ataku. Bia\u0142e maj\u0105 dobre perspektywy w zamian za po\u015bwi\u0119cony materia\u0142, ale ci\u0119\u017cko powiedzie\u0107 kto posiada przewag\u0119 w tej pozycji.",
+                    "ru": "\u0417\u0430\u0432\u0435\u0440\u0448\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0444\u0438\u0433\u0443\u0440 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443. \u0423 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0430 \u043f\u0440\u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u0435, \u043d\u043e \u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0432\u0441\u0435-\u0442\u0430\u043a\u0438 \u0442\u044f\u0436\u0435\u043b\u043e \u0441\u043a\u0430\u0437\u0430\u0442\u044c \u0443 \u043a\u043e\u0433\u043e \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

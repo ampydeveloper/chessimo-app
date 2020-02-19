@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(51)",
+            "zh": "Event 1"
+        },
+        "fen": "r6r\/1n1bk1p1\/p1pp4\/1p2p1N1\/4Pn2\/1BN5\/PPP2PPP\/R2R2K1 b - - 0 20",
+        "moves": [
+            {
+                "move": "20... Rh5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando o cavalo e ao mesmo tempo dobrar as torres na coluna h.",
+                    "en": "Threatening the Knight and, at the same time, doubling Rooks in the h-file.",
+                    "de": "Droht den Springer und bereitet die Verdoppelung der T\u00fcrme auf der h-Linie.",
+                    "es": "Amenazando el caballo y al mismo tiempo doblar las torres en la columna h.",
+                    "zh": "\u5a01\u80c1\u9a6c\u540c\u65f6\u5728h-\u7ebf\u4e0a\u53d6\u5f97\u53cc\u8f66\u3002",
+                    "pl": "Zagro\u017cenie dla Skoczka i w tym samym czasie zdublowanie Wie\u017c na kolumnie h.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u041a\u043e\u043d\u044e \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(53)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/ppp2ppp\/2np3n\/8\/2B1P3\/BQp2N2\/P4PPP\/R4RK1 w kq - 0 11",
+        "moves": [
+            {
+                "move": "11. Qxc3 ",
+                "comment": {
+                    "pt": "Recuperando material e impedindo o roque das pretas, devido a jogada Bb2.",
+                    "en": "Recovering material and preventing Black from castling, due to the Bb2 threat.",
+                    "de": "Gewinnt Material zur\u00fcck und verhindert die schwarze Rochade, da sie mit Lb2 erwidert werden w\u00fcrde.",
+                    "es": "Recuperando material e impidiendo el enroque de las negras, debido a la jugada Ab2.",
+                    "zh": "\u6062\u590d\u5b50\u529b\u5e76\u963b\u6b62\u9ed1\u68cb\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\uff0c\u56e0\u4e3aBb2\u7684\u5a01\u80c1\u3002",
+                    "pl": "Odzyskanie materia\u0142u i uniemo\u017cliwienie Czarnym roszowania z powodu gro\u017aby Gb2.",
+                    "ru": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u0438 \u043b\u0438\u0448\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443, \u0438\u0437-\u0437\u0430 \u0443\u0433\u0440\u043e\u0437\u044b Bb2."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(75)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r2\/1q3pk1\/n1p3p1\/p3p2p\/P1Q1P2b\/2P1B2P\/1P2R1PK\/1N3R2 w - - 0 28",
+        "moves": [
+            {
+                "move": "28. Nd2 ",
+                "comment": {
+                    "pt": "Para levar o cavalo at\u00e9 f3.",
+                    "en": "In order to take the Knight to f3.",
+                    "de": "Um den Springer auf f3 zu ziehen.",
+                    "es": "Para llevar el caballo hasta f3.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u79fb\u5230f3\u3002",
+                    "pl": "W celu przemieszczenia Skoczka na f3.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u0443\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 f3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(129)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/4ppbp\/3pb1p1\/p3n3\/P3P3\/2N3P1\/1PP1QPBP\/R1BR2K1 b - - 0 15",
+        "moves": [
+            {
+                "move": "15... Nc4 ",
+                "comment": {
+                    "pt": "Ocupando a melhor casa dispon\u00edvel para esta pe\u00e7a e exercendo forte press\u00e3o no flanco da dama branco.",
+                    "en": "Occupying the best possible square available for this piece and creating great pressure on the white queenside.",
+                    "de": "Besetzt das beste Feld f\u00fcr diese Figur und \u00fcbt starken Druck auf den wei\u00dfen Damenfl\u00fcgel aus.",
+                    "es": "Ocupando la mejor casilla disponible para esta pieza y ejerciendo fuerte presi\u00f3n en el flanco dama blanco.",
+                    "zh": "\u4e3a\u4e86\u8ba9\u8fd9\u4e2a\u68cb\u5b50\u5360\u636e\u6700\u6709\u5229\u7684\u4f4d\u7f6e\u5e76\u4e14\u7ed9\u767d\u68cb\u7684\u540e\u7ffc\u65bd\u52a0\u5f3a\u5927\u7684\u538b\u529b\u3002",
+                    "pl": "Okupuj\u0105c najlepsze mo\u017cliwe pole dost\u0119pne dla tej figury i kreuj\u0105c wielk\u0105 presj\u0119 na bia\u0142ym skrzydle hetma\u0144skim.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043b\u0443\u0447\u0448\u0435\u0435 \u0438\u0437 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u0434\u043b\u044f \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b \u0438 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0411\u0435\u043b\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(58)",
+            "zh": "Event 1"
+        },
+        "fen": "4rbk1\/5pp1\/2b1qn1p\/2p1pN2\/r1P1P3\/1pQ2P1N\/1P4PP\/2BRR2K w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Ne3 ",
+                "comment": {
+                    "pt": "Defendendo c4 e preparando a ocupa\u00e7\u00e3o de d5.",
+                    "en": "Defending c4 and preparing to occupy d5.",
+                    "de": "Verteidigt c4 und bereitet die Besetzung von d5 vor.",
+                    "es": "Defendiendo c4 y preparando la ocupaci\u00f3n de d5.",
+                    "zh": "\u9632\u5fa1c4\u5e76\u4e14\u51c6\u5907\u5360\u636ed5\u3002",
+                    "pl": "Obrona c4 i przygotowanie do zaj\u0119cia d5.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 c4 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0437\u0430\u043d\u044f\u0442\u0438\u044e \u043f\u043e\u043b\u044f d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

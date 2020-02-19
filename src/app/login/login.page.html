@@ -1,0 +1,49 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Login
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content force-overscroll class="ion-padding">
+  
+  <ion-row class="form-box">
+    <ion-col>
+     
+      <h1>Login Here</h1>
+
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col>
+                <ion-input [(ngModel)]="loginForm.email" placeholder="Email"></ion-input>
+          </ion-col>
+        </ion-row>
+      </div>
+
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col>
+                <ion-input [(ngModel)]="loginForm.password" placeholder="Password" type="password"></ion-input>
+          </ion-col>
+        </ion-row>
+      </div>
+    
+      <ion-button color="dark" (click)="login(loginForm.email, loginForm.password)" >Login</ion-button>
+
+      <ion-row>
+        <ion-col>
+          <a href="http://www.chessimo.com/r.php?action=register"><ion-button color="dark" >New Here?<br/>Register Now</ion-button></a>
+        </ion-col>
+        <ion-col>
+          <a href="http://www.chessimo.com/r.php?action=forgetpwd"><ion-button color="dark" >Forget Your <br/> Email/Password</ion-button></a>
+        </ion-col>
+      </ion-row>
+
+    </ion-col>
+  </ion-row>
+
+</ion-content>

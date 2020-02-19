@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp2bppp\/2n1p3\/q7\/3PN3\/P2BnN2\/1P2QPPP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. fxe3 ",
+                "comment": {
+                    "pt": "Refor\u00e7ando o centro, abrindo a coluna f para a torre e evitando que o pe\u00e3o dama continue isolado.",
+                    "en": "Reinforcing the center, opening the f-file for the Rook and preventing that the Queen-pawn continues isolated.",
+                    "es": "Reforzando el centro, abriendo la columna \"f \" para la torre y evitando que el pe\u00f3n dama continue aislado.",
+                    "de": "Verst\u00e4rkt das Zentrum, \u00f6ffnet die f-Linie f\u00fcr den Turm und unterst\u00fctzt den d-Bauern, der jetzt kein Isolani mehr ist.",
+                    "zh": "\u5f3a\u5316\u4e2d\u5fc3\uff0c\u4e3a\u8f66\u5f00\u653ef-\u7ebf\u5e76\u652f\u6301\u5df2\u7ecf\u4e0d\u518d\u662f\u5b64\u5175\u7684d-\u5175\u3002",
+                    "pl": "Wzmacnianie centrum, otwarcie kolumny f dla Wie\u017cy i zapobieganie izolacji hetma\u0144skiego piona.",
+                    "ru": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u0435\u0442 \u0446\u0435\u043d\u0442\u0440, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044e \u0424\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pb3pbp\/1pn1p1p1\/8\/2BP4\/2n2NB1\/PP1Q1PPP\/3RR1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. bxc3 ",
+                "comment": {
+                    "pt": "Refor\u00e7ando o centro e ao mesmo tempo defendendo o pe\u00e3o em d4, que j\u00e1 n\u00e3o est\u00e1 isolado.",
+                    "en": "Reinforcing the center and, at the same time, defending the d4-pawn that isn't isolated anymore.",
+                    "es": "Reforzando el centro y al mismo tiempo defendiendo el pe\u00f3n en d4, que ahora no est\u00e1 m\u00e1s aislado.",
+                    "de": "Verst\u00e4rkt das Zentrum und unterst\u00fctzt den Bauern auf d4, der jetzt kein Isolani mehr ist.",
+                    "zh": "\u5f3a\u5316\u4e2d\u5fc3\uff0c\u540c\u65f6\u9632\u5fa1\u4e0d\u518d\u662f\u5b64\u5175\u7684d4-\u5175\u3002",
+                    "pl": "Wzmacnianie centrum i w tym samym czasie obrona piona d4, kt\u00f3ry przestaje by\u0107 izolowany.",
+                    "ru": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u0435\u0442 \u0446\u0435\u043d\u0442\u0440, \u0438, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 d4, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pb1nbppp\/1p2p3\/4N3\/2PP4\/8\/PB2BPPP\/R2QR1K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Nxe5 ",
+                "comment": {
+                    "pt": "For\u00e7ando as brancas a retomarem em e5 e desta forma debilitando consideravelmente sua estrutura de pe\u00f5es. Ap\u00f3s a retomada, as brancas ter\u00e3o pe\u00f5es isolados em c4 e a2, al\u00e9m de terem bloqueado a diagonal para o pr\u00f3prio bispo em b2.",
+                    "en": "Forcing White to retake on e5 and thus weakening considerably its pawn structure that will own isolated c4- and a2-pawns after the retake. Besides, the diagonal will be blocked for the b2-Bishop.",
+                    "es": "Forzando a las blancas a tomar en e5 y debilitando de esta forma de manera considerable la estructura de peones. Despu\u00e9s de capturar el pe\u00f3n, las blancas tendr\u00e1n peones aislados en c4 y a2, adem\u00e1s de haber bloqueado la diagonal del propio alfil en b2.",
+                    "de": "Schw\u00e4cht wesentlich die wei\u00dfe Bauernstruktur. Nach 2. dxe5 werden die Bauern auf c4 und a2 zu Isolanis und die Diagonale des L\u00e4ufers auf b2 ist blockiert.",
+                    "zh": "\u8feb\u4f7f\u767d\u65b9\u5728e5\u53cd\u51fb\uff0c\u8fd9\u6837\u4e0d\u4ec5\u53ef\u4ee5\u5927\u5927\u524a\u5f31\u5b83\u7684\u5175\u5f62\uff0c\u8fd8\u80fd\u5728c4\u548ca2\u4ea7\u751f\u5b64\u5175\uff0c\u6b64\u5916\u8fd8\u5835\u4f4f\u4e86d2-\u8c61\u7684\u8c61\u8def\u3002",
+                    "pl": "Wymuszenie wzi\u0119cia przez Bia\u0142e na e5 i co za tym idzie znaczne os\u0142abienie ich struktury pion\u00f3w, kt\u00f3re teraz pozostan\u0105 izolowane na c4 i a2 po wzi\u0119ciu. Poza tym przek\u0105tna b\u0119dzie blokowana dla Go\u0144ca b2.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u0442\u044c e5, \u0438, \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u0441 \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a \u043d\u0430 c4 \u0438 a2. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 b2."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pb1nbppp\/4pn2\/1p6\/2PP4\/3B1N2\/PB1N1PPP\/R2Q1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... bxc4 ",
+                "comment": {
+                    "pt": "Destruindo parcialmente o centro branco , abrindo a diagonal para o bispo, deixando o pe\u00e3o dama isolado e conquistando a casa d5 para uma de suas pe\u00e7as, preferencialmente o cavalo.",
+                    "en": "Partially destroying the white center, leaving the Queen-pawn isolated and conquering d5, preferably for the Knight.",
+                    "es": "Destruyendo parcialmente el centro blanco, abriendo la diagonal para el alfil, dejando el pe\u00f3n dama aislado y conquistando la casilla d5 para una de sus piezas, preferentemente el caballo.",
+                    "de": "Zerst\u00f6rt teilweise das wei\u00dfe Zentrum, isoliert den wei\u00dfen d-Bauern und erobert das Feld d5 f\u00fcr eine Figur (vorzugsweise den Springer).",
+                    "zh": "\u90e8\u5206\u6467\u6bc1\u767d\u68cb\u4e2d\u5fc3\uff0c\u5b64\u7acb\u767d\u65b9d-\u5175\uff0c\u593a\u53d6d5\u683c\uff08\u7279\u522b\u7ed9\u9a6c\uff09\u3002",
+                    "pl": "Cz\u0119\u015bciowo burz\u0105c bia\u0142e centrum, pozostawienie hetma\u0144skiego piona izolowanego i podb\u00f3j d5 nadaj\u0105cego si\u0119 dla Skoczka.",
+                    "ru": "\u0427\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445, \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043f\u043e\u043b\u0435 d5, \u041a\u043e\u043d\u0435\u043c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2bppp\/4p3\/8\/3PQ3\/3B1N2\/PP3PPP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g6 ",
+                "comment": {
+                    "pt": "A outra op\u00e7\u00e3o para defender h7 seria jogar 1...f5 , mas este avan\u00e7o enfraqueceria consideravelmente o pe\u00e3o preto em e6 e a casa e5, que poderia ser ocupada pelo cavalo branco.",
+                    "en": "The other option to defend h7 would be 1...f5, but this would considerably weaken the black e6-pawn and the e5 square that could be occupied by the white Knight.",
+                    "es": "La otra opci\u00f3n para defender h7 ser\u00eda jugar 1...f5, pero este avance debilitar\u00eda considerablemente el pe\u00f3n negro en e6 y la casilla e5, que podr\u00eda ser ocupada por el caballo blanco.",
+                    "de": "Die Alternative w\u00e4re 1...f5, die ebenfalls den Punkt h7 verteidigen w\u00fcrde, daf\u00fcr aber sowohl den Bauern auf e6 und das Feld e5 wesentlich schw\u00e4chen w\u00fcrde. Das Feld e5 k\u00f6nnte vom weissen Springer besetzt werden.",
+                    "zh": "\u53e6\u5916\u53ef\u4ee5\u9632\u5fa1h7\u7684\u8d70\u6cd5\u662f1...f5\uff0c\u4f46\u662f\u8fd9\u6837\u4f1a\u5927\u5927\u524a\u5f31e6-\u5175\u548ce5\u683c\u3002e5\u683c\u5f88\u6709\u53ef\u80fd\u88ab\u767d\u9a6c\u653b\u5360\u3002",
+                    "pl": "Inn\u0105 opcj\u0105 obrony h7 by\u0142oby 1. ... f5, ale to znacznie os\u0142abi\u0142oby czarnego piona e6 i pole e5 m\u00f3g\u0142by zaj\u0105\u0107 bia\u0142y Skoczek.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c h7 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0438\u0433\u0440\u0430\u0442\u044c 1...f5, \u043d\u043e \u044d\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0441\u043b\u0430\u0431\u0438\u0442 \u0447\u0435\u0440\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e6, \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u0431\u0435\u043b\u044b\u043c \u041a\u043e\u043d\u0435\u043c \u043f\u043e\u043b\u0435 e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

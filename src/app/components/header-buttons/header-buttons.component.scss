@@ -1,0 +1,22 @@
+.headerButtons{
+    height: 55px;
+    width: 102px;
+    ion-col{
+        width: 51px;
+        height: 55px;
+    }
+    .profilepic{
+        width: 36px;
+        padding-top: 36px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        background-size: cover !important;
+        box-sizing: content-box;
+    }
+    
+    .setting_icon{
+        width: 100%;
+    }
+}

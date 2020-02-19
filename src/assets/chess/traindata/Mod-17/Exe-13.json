@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Italiana",
+        "white_sort": "",
+        "black": "Variante Cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Italian opening classical variation",
+            "de": "Klassische Variante",
+            "es": "Variante Cl\u00e1sica",
+            "pt": "Variante Cl\u00e1ssic",
+            "zh": "\u610f\u5927\u5229\u5f00\u5c40\u7ecf\u5178\u53d8\u4f8b",
+            "pl": "Partia w\u0142oska, wariant klasyczny",
+            "ru": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0434\u0435\u0431\u044e\u0442, \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bc4 ",
+                "comment": {
+                    "pt": "Nesta casa o bispo aponta para o ponto mais vulner\u00e1vel da posi\u00e7\u00e3o preta, o pe\u00e3o f7. As brancas est\u00e3o prontas para rocar e tentar aumentar seu dom\u00ednio central com c3 e d4.",
+                    "en": "On this square the Bishop points to the most vulnerable point of Black's position: the f7-pawn. White is ready to castle and tries to increase its central dominance with c3 and d4.",
+                    "es": "En esta casilla el alfil apunta al punto m\u00e1s vulnerable de la posici\u00f3n negra, el pe\u00f3n f7. Las blancas est\u00e1n listas para enrocar e intentar aumentar su dominio central con c3 y d4.",
+                    "de": "Von hier aus greift der L\u00e4ufer den anf\u00e4lligsten Punkt der schwarzen Stellung, n\u00e4mlich den Bauern auf f7. Wei\u00df bereitet die Rochade nebst c3 und d4 mit Beherrschung des Zentrums.",
+                    "zh": "\u4ece\u8fd9\u91cc\u8c61\u53ef\u4ee5\u8fdb\u653b\u9ed1\u65b9\u6700\u6613\u53d7\u653b\u51fb\u7684\u68cb\u5b50\uff1af7-\u5175\u3002\u767d\u65b9\u5df2\u7ecf\u51c6\u5907\u597d\u738b\u8f66\u6613\u4f4d\u5e76\u8bd5\u56fe\u901a\u8fc7c3\u548cd4\u52a0\u5f3a\u5bf9\u4e2d\u5fc3\u7edf\u6cbb\u3002",
+                    "pl": "Na tym polu Goniec wymierza w najbardziej wra\u017cliwy punkt pozycji Czarnych: piona f7. Bia\u0142e s\u0105 gotowe do roszady i pr\u00f3buj\u0105 zwi\u0119kszy\u0107 dominacj\u0119 w centrum przez c3 i d4.",
+                    "ru": "\u041d\u0430 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0435 \u0421\u043b\u043e\u043d \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0443\u044f\u0437\u0432\u0438\u043c\u044b\u0435 \u043c\u0435\u0441\u0442\u0430  \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445 \u0427\u0435\u0440\u043d\u044b\u0445 - \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 f7. \u0411\u0435\u043b\u044b\u0435 \u0433\u043e\u0442\u043e\u0432\u044b \u043a \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0435 \u0438 \u043f\u0440\u043e\u0431\u0443\u044e\u0442 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u043d\u0430 c3 \u0438 d4."
+                }
+            },
+            {
+                "move": "   Bc5 ",
+                "comment": {
+                    "pt": "3... Cf6 est\u00e1 analisado em outro exemplo.",
+                    "en": "3...Nf6 is analyzed in another example.",
+                    "es": "3...Cf6 es analizada en otro ejemplo.",
+                    "de": "3...Sf6 wird in einem anderen Beispiel analysiert.",
+                    "zh": "3...Nf6\u4f1a\u5728\u5176\u4ed6\u4f8b\u5b50\u4e2d\u5206\u6790\u3002",
+                    "pl": "3. ... Sf6 jest analizowane w innym przyk\u0142adzie.",
+                    "ru": "3...Nf6 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u043d\u0430 \u0434\u0440\u0443\u0433\u043e\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435."
+                }
+            },
+            {
+                "move": "   4. c3 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o \"super agressiva\" 4-b4, est\u00e1 analisada no pr\u00f3ximo exemplo.",
+                    "en": "The super aggressive option 4-b4 is analyzed in the next example.",
+                    "es": "La opci\u00f3n \"super agresiva\" 4-b4, ser\u00e1 analizada en el pr\u00f3ximo ejemplo.",
+                    "de": "Der sehr agressive 4. b4 wird auch im n\u00e4chsten Beispiel analysiert.",
+                    "zh": "\u8fd9\u4e2a\u6781\u5177\u653b\u51fb\u529b\u76844-b4\u8d70\u6cd5\u4f1a\u5728\u4e0b\u4e00\u4e2a\u4f8b\u5b50\u4e2d\u5206\u6790\u3002",
+                    "pl": "Ultra agresywna opcja 4. b4 jest analizowana w nast\u0119pnym przyk\u0142adzie.",
+                    "ru": "\u041e\u0447\u0435\u043d\u044c \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043d\u0430 4-b4 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435."
+                }
+            },
+            {
+                "move": "   Nf6 ",
+                "comment": {
+                    "pt": "4...d6 permite que as brancas construam o centro com d4 e obtenham vantagem, conforme demonstra a partida 66 de nossa base.",
+                    "en": "4... d6 allows White to build up the center with d4 and obtain advantage, as described in game 66 of our database.",
+                    "es": "4...d6 permite que las blancas construyan el centro con d4 y obtengan ventaja, como lo demuestra la partida 66 de nuestra base.",
+                    "de": "4...d6 l\u00e4sst d4 zu, was ein starkes Zentrum bildet und Wei\u00df Vorteil gibt (Partie 66 unserer Datenbank).",
+                    "zh": "4... d6\u4f1a\u4f7f\u767d\u65b9\u7528d4\u5efa\u7acb\u4e2d\u5fc3\u5e76\u4e14\u83b7\u5f97\u4f18\u52bf\uff0c\u6b63\u5982\u68cb\u5c4066\u6240\u5448\u73b0\u7684\u3002",
+                    "pl": "4. ... d6 pozwala Bia\u0142ym zbudowa\u0107 centrum przez d4 i utrzyma\u0107 przewag\u0119, jak opisano w grze 66 w naszej bazie.",
+                    "ru": "\u0418\u0433\u0440\u0430 4...d6 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0441 d4 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0447\u0442\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 66 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 ",
+                "comment": {
+                    "pt": "7-Rf1 n\u00e3o parece uma boa id\u00e9ia, mas foi jogado com sucesso na partida 62 de nossa base. Possivelmente a melhor resposta para as pretas \u00e9 7...d5 ,mas 7...0-0 e 7... Cxe4 tamb\u00e9m s\u00e3o poss\u00edveis. 7- Cc3 \u00e9 uma jogada muito interessante e deve ser respondida com 7. ..Cxe4 8-0-0 Bxc3 9-d5! (9-bxc3 d5 ocorreu na partida 61) ... Bf6 10-Te1 Ce7 11-Txe4 d6 e as brancas t\u00eam certo ataque em troca do pe\u00e3o sacrificado.",
+                    "en": "7-Rf1 doesn't seem to be a good idea but was played successfully in game 62 of our database. Possibly the best answer for Black is 7...d5 but 7...0-0 and 7... Nxe4 are also options. 7-Nc3 is a very interesting move and should be answered with 7...Nxe4 8-0-0 Bxc3 9-d5! (9-bxc3 d5 happened in game 61) ...Bf6 10-Re1 Ne7 11-Rxe4 d6 and White conquers attack in exchange for the sacrificed pawn.",
+                    "es": "7-Rf1 no parece una buena idea, pero fue jugado con \u00e9xito en la partida 62 de nuestra base.  Posiblemente la mejor respuesta para las negras es 7...d5 ,pero 7...0-0 y 7...Cxe4 tambi\u00e9n son posibles. 7- Cc3 es una jugada muy interesante y debe ser respondida con 7... Cxe4 8-0-0 Axc3 9-d5! (9-bxc3 d5 ocurri\u00f3 en la partida 61) ...Af6 10-Te1 Ce7 11-Txe4 d6 y las blancas tienen un cierto ataque a cambio del pe\u00f3n sacrificado.",
+                    "de": "Kf1 sieht nicht gut aus, wurde aber mit Erfolg in der Partie 62 gespielt. Wahrscheinlich ist 7...d5 das Beste f\u00fcr Schwarz, wobei 7...0-0 und 7...Sxe4 auch m\u00f6glich sind. 7. Sc3 ist ein sehr interessanter Zug und muss mit 7...Se4 8 0-0 Lxc3 9. d5! (9. bxc3 geschah in Partie 61) ...Lf6 10. Te1 Se7 11. Txe4 d6 beantwortet werden. Wei\u00df hat einen gewissen Angriff f\u00fcr den geopferten Bauern.",
+                    "zh": "7-Rf1\u770b\u8d77\u6765\u4e0d\u662f\u4e00\u4e2a\u597d\u4e3b\u610f\uff0c\u4f46\u662f\u5728\u68cb\u5c4062\u4e2d\u8fd8\u662f\u53d6\u5f97\u4e86\u6210\u529f\u3002\u9ed1\u65b9\u6700\u597d\u7684\u9009\u62e9\u662f\u8d707...d5\uff0c\u4f46\u662f7...0-0\u548c7... Nxe4\u4e5f\u662f\u4e00\u79cd\u9009\u62e9\u30027-Nc3\u662f\u4e00\u4e2a\u975e\u5e38\u6709\u8da3\u7684\u8d70\u6cd5\uff0c\u5e94\u8be5\u5e947...Nxe4 8-0-0 Bxc3 9-d5\uff01\uff089-bxc3 d5\u51fa\u73b0\u5728\u68cb\u5c4061\u4e2d\uff09...Bf6 10-Re1 Ne7 11-Rxe4 d6\u3002\u767d\u65b9\u51fb\u9000\u8fdb\u653b\u8865\u507f\u5f03\u5175\u4ed8\u51fa\u7684\u4ee3\u4ef7\u3002",
+                    "pl": "7. Wf1 nie wydaje si\u0119 dobrym pomys\u0142em, ale zosta\u0142a zagrana skutecznie w partii 62 z naszego archiwum. Najprawdopodobniej najlepsz\u0105 odpowiedzi\u0105 Czarnych jest 7. ... d5, ale 7. ... 0-0 i 7. ... Sx4 s\u0105 r\u00f3wnie\u017c mo\u017cliwe. 7. Sc3 jest interesuj\u0105cym ruchem i powinno napotka\u0107 7. ... Sxe4 8. 0-0 Gxc3 9. d5! (9. bxc3 d5 zdarzy\u0142o si\u0119 w grze 61) ... Gf6 10. We1 Se7 11. Wxe4 d6 i Bia\u0142e maj\u0105 silny atak w zamian za po\u015bwi\u0119cenie piona.",
+                    "ru": "\u0425\u043e\u0434 7-Rf1 \u043d\u0435 \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u0441\u043e\u0432\u0441\u0435\u043c \u0445\u043e\u0440\u043e\u0448\u0435\u0439 \u0438\u0434\u0435\u0435\u0439, \u043d\u043e \u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u043e \u043e\u0442\u044b\u0433\u0440\u0430\u043d \u0432 \u0438\u0433\u0440\u0435 62 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043b\u0443\u0447\u0448\u0438\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0445 \u0431\u0443\u0434\u0435\u0442 7...d5, \u043d\u043e 7...0-0 \u0438 7...Nxe4, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442. 7-Nc3 \u043e\u0447\u0435\u043d\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0445\u043e\u0434, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 7...Nxe4 8-0-0 Bxc3 9-d5! (9-bxc3 d5 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 61) ...Bf6 10-Re1 Ne7 11-Rxe4 d6 \u0438 \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u044e\u0442, \u0432 \u043e\u0431\u043c\u0435\u043d \u043d\u0430 \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            },
+            {
+                "move": "   Bxd2+ 8. Nbxd2 d5 ",
+                "comment": {
+                    "pt": "Uma jogada fundamental para destruir o centro branco. Tamb\u00e9m seria poss\u00edvel 8...Cxe4 9-Cxe4 d5, com a mesma id\u00e9ia.",
+                    "en": "A fundamental move in order to destroy the white center. 8...Nxe4 9-Nxe4 d5 would also be possible with the same idea.",
+                    "es": "Una jugada fundamental para destruir el centro blanco. Tambi\u00e9n ser\u00eda posible 8...Cxe4 9-Cxe4 d5, con la misma idea.",
+                    "de": "Notwendig, um das wei\u00dfe Zentrum zu zerst\u00f6ren. 8... Sxe4 9. Sxe4 d5 mit der gleichen Idee w\u00e4re auch m\u00f6glich.",
+                    "zh": "\u5fc5\u987b\u6467\u6bc1\u767d\u65b9\u4e2d\u5fc3\u30028...Nxe4 9-Nxe4 d5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u60f3\u6cd5\u4e00\u81f4\u3002",
+                    "pl": "Fundamentalny ruch, aby zniszczy\u0107 bia\u0142e centrum. 8. ... Sxe4 9. Sxe4 d5 r\u00f3wnie\u017c by\u0142oby mo\u017cliwe z tym samym zamiarem.",
+                    "ru": "\u0424\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0434 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0411\u0435\u043b\u044b\u0445 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. 8...Nxe4 9-Nxe4 d5 \u0442\u043e\u0436\u0435 \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u044d\u0442\u0443 \u0446\u0435\u043b\u044c."
+                }
+            },
+            {
+                "move": "   9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O ",
+                "comment": {
+                    "pt": "Com igualdade, conforme demonstrado na partida 169 de nossa base.",
+                    "en": "Equaling, as shown in game 169 of our database.",
+                    "es": "Con igualdad, como queda demostrado en la partida 169 de nuestra base.",
+                    "de": "Mit gleichem Spiel, wie in der Partie 169 unserer Datenbank gezeigt wird.",
+                    "zh": "\u8ddf\u68cb\u5c40169\u6240\u5448\u73b0\u7684\u662f\u4e00\u6837\u7684\u3002",
+                    "pl": "Wyr\u00f3wnanie, jak pokazano w grze 169 z naszej bazy.",
+                    "ru": "\u042d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u043d\u043e \u0442\u043e\u043c\u0443, \u0447\u0442\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 169, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(35)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq2k1\/1pp2rb1\/2Pp1nn1\/p2Pp1pp\/PP2Pp2\/2NN1P1P\/4BBP1\/R2Q1RK1 b - - 0 18",
+        "moves": [
+            {
+                "move": "18... b6 ",
+                "comment": {
+                    "pt": "A melhor jogada para retardar o ataque branco no flanco da dama.",
+                    "en": "The best move in order to delay the white attack on the queenside.",
+                    "de": "Der beste Zug, um den wei\u00dfen Angriff am Damenfl\u00fcgel zu verz\u00f6gern.",
+                    "es": "La mejor jugada para retardar el ataque blanco en el flanco dama.",
+                    "zh": "\u6700\u4f73\u7684\u4e00\u6b65\u80fd\u62d6\u5ef6\u767d\u68cb\u8fdb\u653b\u540e\u7ffc\u3002",
+                    "pl": "Najlepszy ruch w celu oddalenia ataku bia\u0142ych na skrzyd\u0142o hetma\u0144skie.",
+                    "ru": "\u042d\u0442\u043e \u043b\u0443\u0447\u0448\u0438\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(59)",
+            "zh": "Event 1"
+        },
+        "fen": "1b1r2k1\/r4pp1\/p2q1n1p\/n2p1B2\/Np1P2P1\/4B1P1\/1P3P2\/R2QR1K1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. g5 ",
+                "comment": {
+                    "pt": "Abrindo a posi\u00e7\u00e3o do rei preto.",
+                    "en": "Opening the black King's position.",
+                    "de": "\u00d6ffnet die Stellung vom schwarzen K\u00f6nig.",
+                    "es": "Abriendo la posici\u00f3n del rey negro.",
+                    "zh": "\u5f00\u653e\u9ed1\u738b\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Otwarcie pozycji czarnego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(4)",
+            "zh": "Event 1"
+        },
+        "fen": "1r1b1r2\/1p3pk1\/3p2p1\/p2Bp3\/P3P1PP\/1P1K4\/1P6\/2R4R w - - 0 26",
+        "moves": [
+            {
+                "move": "26. h5 ",
+                "comment": {
+                    "pt": "Abrindo a coluna para atacar o rei preto.",
+                    "en": "Opening the file in order to attack the black King.",
+                    "de": "\u00d6ffnet die Linie, um den schwarzen K\u00f6nig anzugreifen.",
+                    "es": "Abriendo la columna para atacar el rey negro.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u8fd9\u6761\u7ebf\u6765\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Otwarcie kolumny w celu ataku czarnego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(74)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/1p1b1ppp\/pn2pn2\/8\/Pb1P4\/1BN2N2\/1P2QPPP\/R1BR2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rd3 ",
+                "comment": {
+                    "pt": "Defendendo o cavalo e preparando a transfer\u00eancia da torre para a ala do rei, ap\u00f3s a jogada Ce5.",
+                    "en": "Defending the Knight and preparing to transfer the Rook to the kingside.",
+                    "de": "Verteidigt den Springer und bereitet den \u00dcbergang vom Turm zum K\u00f6nigsfl\u00fcgel (nach Se5).",
+                    "es": "Defendiendo el caballo y preparando el traslado de la torre al ala rey, despu\u00e9s de la jugada Ce5.",
+                    "zh": "\u9632\u5fa1\u9a6c\u5e76\u51c6\u5907\u5c06\u8f66\u8f6c\u5411\u738b\u7ffc\u3002",
+                    "pl": "Obrona Skoczka i przygotowanie przemieszczenia Wie\u017cy na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u041a\u043e\u043d\u044f \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(18)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/2qbbppp\/pn1p1n2\/1ppPp3\/P3P3\/1PP2N1P\/2B2PP1\/RNBQR1K1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. a5 ",
+                "comment": {
+                    "pt": "Para for\u00e7ar o cavalo preto a ocupar uma casa ruim e deixar o flanco da dama fechado.",
+                    "en": "In order to force the black Knight to occupy a bad square and leave the queenside closed.",
+                    "de": "Zwingt den schwarzen Springer, ein schlechtes Feld zu besetzen und schlie\u00dft den Damenfl\u00fcgel.",
+                    "es": "Para forzar el caballo negro a ocupar una casilla mala y mantener cerrado el flanco dama.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u9a6c\u8d70\u9053\u4e00\u4e2a\u4e0d\u5229\u7684\u683c\u5b50\u5e76\u5c01\u9501\u540e\u7ffc\u3002",
+                    "pl": "W celu wymuszenia na czarnym Skoczku zaj\u0119cia s\u0142abego pola i zamkni\u0119cie skrzyd\u0142a hetma\u0144skiego.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0437\u0430\u043d\u044f\u0442\u044c \u043f\u043b\u043e\u0445\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u043c \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

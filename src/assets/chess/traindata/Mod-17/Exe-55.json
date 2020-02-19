@@ -1,0 +1,142 @@
+[
+    {
+        "title": "",
+        "white": "India do Rei",
+        "white_sort": "",
+        "black": "Variante cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Classical Variation",
+            "de": "Klassische Variante",
+            "es": "Variante cl\u00e1sica",
+            "pt": "Variante cl\u00e1ssica",
+            "zh": "\u53e4\u5178\u53d8\u4f8b",
+            "pl": "Wariant klasyczny",
+            "ru": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 ",
+                "comment": {
+                    "pt": "A defesa India do rei permite que as brancas ocupem totalmente o centro, mas depois este ser\u00e1 atacado. Ela foi a defesa favorita de v\u00e1rios campe\u00f5es mundias como Fischer, Tal e Kasparov.",
+                    "en": "The King's Indian defense allows White occupies the center completely but afterwards the center will be attacked. This was the favorite defense of World Champions like Fischer, Tal and Kasparov.",
+                    "es": "La defensa India de Rey permite que las blancas ocupen totalmente el centro, pero despu\u00e9s \u00e9ste ser\u00e1 atacado. Fue la defensa favorita de varios campeones mundiales como Fischer, Tal y Kasparov.",
+                    "de": "Die K\u00f6nigsindische Verteidigung \u00fcberl\u00e4sst Wei\u00df die Kontrolle vom Zentrum, dieses wird aber sp\u00e4ter angegriffen. Sie war die Lieblingsverteidigung von mehreren Weltmeistern wie Fischer, Tal und Kasparow.",
+                    "zh": "\u738b\u7ffc\u5370\u5ea6\u9632\u5fa1\u4f7f\u5f97\u767d\u65b9\u53ef\u4ee5\u5b8c\u5168\u5360\u636e\u4e2d\u5fc3\uff0c\u4f46\u662f\u540e\u6765\u4e2d\u5fc3\u4f1a\u6536\u5230\u653b\u51fb\u3002\u8fd9\u662f\u4e16\u754c\u51a0\u519b\u83f2\u820d\u5c14\u3001\u5854\u5c14\u548c\u5361\u65af\u5e15\u7f57\u592b\u949f\u7231\u7684\u4e00\u79cd\u9632\u5fa1\u3002",
+                    "pl": "Obrona kr\u00f3lewsko-indyjska pozwala Bia\u0142ym zaj\u0105\u0107 centrum ca\u0142kowicie, ale p\u00f3\u017aniej zostanie ono zaatakowane. By\u0142a to ulubiona defensywa Mistrz\u00f3w \u015awiata takich jak Fischer, Tal i Kasparow.",
+                    "ru": "\u0421\u0442\u0430\u0440\u043e\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0411\u0435\u043b\u044b\u043c \u0437\u0430\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0446\u0435\u043d\u0442\u0440, \u043d\u043e \u043f\u043e\u0437\u0434\u043d\u0435\u0435, \u0446\u0435\u043d\u0442\u0440 \u0431\u0443\u0434\u0435\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u0427\u0435\u0440\u043d\u044b\u043c\u0438. \u042d\u0442\u043e \u043b\u044e\u0431\u0438\u043c\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u041c\u0438\u0440\u0430 \u0424\u0438\u0448\u0435\u0440\u0430, \u0422\u0430\u043b\u044f, \u0438 \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432\u0430."
+                }
+            },
+            {
+                "move": "   4. e4 d6 5. Nf3 O-O 6. Be2 ",
+                "comment": {
+                    "pt": "Este \u00e9 o sistema cl\u00e1ssico. Outras op\u00e7\u00f5es ser\u00e3o analisadas separadamente.",
+                    "en": "This is the classic system. Other options will be analyzed separately.",
+                    "es": "Este es el sistema cl\u00e1sico. Otras opciones ser\u00e1n analizadas por separado.",
+                    "de": "Das ist das Klassische System. Andere M\u00f6glichkeiten werden getrennt analysiert.",
+                    "zh": "\u8fd9\u662f\u53e4\u5178\u4f53\u7cfb\u3002\u53e6\u5916\u7684\u9009\u62e9\u5c06\u5355\u72ec\u8fdb\u884c\u5206\u6790\u3002",
+                    "pl": "Klasyczny system. Inne opcje b\u0119d\u0105 analizowane oddzielnie.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430. \u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e."
+                }
+            },
+            {
+                "move": "   e5 7. O-O ",
+                "comment": {
+                    "pt": "Ap\u00f3s 7-dxe5 dxe5 8-Dxd8 Txd8 9-Bg5 (9-Cxe5 Cxe4) Te8 \u00e9 a jogada correta e a posi\u00e7\u00e3o est\u00e1 equilibrada. A op\u00e7\u00e3o 7-Be3 ocorre nas partidas 605, 606, 607, 610 e 618. Outra possibilidade \u00e9 fechar o centro imediatamente com 7-d5 (partidas 611, 614 e 617)",
+                    "en": "After 7-dxe5 dxe5 8-Qxd8 Rxd8 9-Bg5 (9-Nxe5 Nxe4), Re8 is the correct move and the position is balanced. 7-Be3 is an option that appears in games 605, 606, 607, 610 and 618. Another possibility is to close the center immediately with 7-d5 (games 611, 614 and 617).",
+                    "es": "Despu\u00e9s de 7-dxe5 dxe5 8-Dxd8 Txd8 9-Ag5 (9-Cxe5 Cxe4) Te8 es la jugada correcta; la posici\u00f3n est\u00e1 equilibrada. La opci\u00f3n 7-Ae3 ocurre en las partidas 605, 606, 607, 610 y 618. Otra posibilidad es cerrar el centro inmediatamente con 7-d5 (partidas 611, 614 y 617).",
+                    "de": "Nach 7. dxe5 dxe5 8. Dxd8 Txd8 9. Lg5 (9. Sxe5 Sxe4) ist Te8 der richtige Zug; die Stellung ist ausgeglichen. 7. Le3 geschieht in den Partien 605, 606, 607, 610 und 618. Eine andere M\u00f6glichkeit ist, sofort das Zentrum mit 7. d5 zu schlie\u00dfen (Partien N. 611, 614 und 617).",
+                    "zh": "\u8d70\u4e867-dxe5 dxe5 8-Qxd8 Rxd8 9-Bg5\uff089-Nxe5 Nxe4\uff09\u4e4b\u540e\uff0cRe8\u662f\u6b63\u786e\u7684\u8d70\u6cd5\uff0c\u5e76\u4e14\u5c40\u9762\u5e73\u8861\u3002 7-Be3\u8fd9\u4e2a\u9009\u62e9\u51fa\u73b0\u5728\u68cb\u5c40605\u3001606\u3001607\u548c618\u4e2d\u3002\u53e6\u5916\u4e00\u79cd\u53ef\u80fd\u662f\u75287-d5\u9a6c\u4e0a\u5c01\u95ed\u4e2d\u5fc3\uff08\u68cb\u5c40611\u3001614\u548c617\uff09\u3002",
+                    "pl": "Po 7. dxe5 dxe5 8. Hxd8 Wxd8 9. Gg5 (9. Sxe5 Sxe4), W e8 jest poprawnym posuni\u0119ciem, co balansuje pozycj\u0119. 7. Ge3 jest opcj\u0105 pojawiaj\u0105c\u0105 si\u0119 w partiach 605, 606, 607, 610 i 618. Inn\u0105 mo\u017cliwo\u015bci\u0105 jest momentalne zamkni\u0119cie centrum przez 7. d5 (partie 611, 614 i 617).",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 7-dxe5 dxe5 8-Qxd8 Rxd8 9-Bg5 (9-Nxe5 Nxe4), Re8  \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 \u0445\u043e\u0434, \u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 7-Be3 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0430\u0445 605, 606, 607, 610 \u0438 618. \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0431\u0443\u0434\u0435\u0442 - \u0437\u0430\u043a\u0440\u044b\u0442\u044c \u043d\u0435\u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e \u0446\u0435\u043d\u0442\u0440 \u0441 7-d5 (\u0438\u0433\u0440\u044b 611, 614 \u0438 617)."
+                }
+            },
+            {
+                "move": "   Nc6 ",
+                "comment": {
+                    "pt": "Para for\u00e7ar as brancas a definirem o centro.",
+                    "en": "In order to force White to define the center.",
+                    "es": "Para forzar las blancas a definir el centro.",
+                    "de": "Um Wei\u00df zu einer Entscheidung im Zentrum zu zwingen.",
+                    "zh": "\u8feb\u4f7f\u767d\u65b9\u786e\u5b9a\u4e2d\u5fc3\u3002",
+                    "pl": "W celu zdefiniowania przez Bia\u0142e kszta\u0142tu centrum.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u0411\u0435\u043b\u044b\u0445 \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   8. d5 ",
+                "comment": {
+                    "pt": "A tentativa de manter a tens\u00e3o central ocorre nas partidas 613 e 615, mas cedo ou tarde as brancas dever\u00e3o defini-lo.",
+                    "en": "The attempt to maintain central tension happens in games 613 and 615 but sooner or later White must define it.",
+                    "es": "La tentativa de mantener la tensi\u00f3n central ocurre en las partidas 613 y 615, pero tarde o temprano las blancas deber\u00e1n definirlo.",
+                    "de": "In den Partien 613 und 615 kann man einen Versuch sehen, die Spannung im Zentrum aufrechtzuerhalten, aber fr\u00fcher oder sp\u00e4ter muss Wei\u00df eine Entscheidung treffen.",
+                    "zh": "\u8fd9\u79cd\u5c1d\u8bd5\u4fdd\u6301\u4e2d\u5fc3\u5f20\u529b\u51fa\u73b0\u5728\u68cb\u5c40613\u548c615\u4e2d\uff0c\u4f46\u662f\u8fdf\u65e9\u8fd8\u662f\u8981\u786e\u5b9a\u4e2d\u5fc3\u7684\u3002",
+                    "pl": "Pr\u00f3ba utrzymania centralnej presji wydarza si\u0119 w partiach 613 i 615, ale pr\u0119dzej czy p\u00f3\u017aniej Bia\u0142e musz\u0105 zdefiniowa\u0107 dzia\u0142ania.",
+                    "ru": "\u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0435, \u0447\u0442\u043e \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0430\u0445 613 \u0438 615, \u043d\u043e \u0411\u0435\u043b\u044b\u043c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0440\u0435\u0448\u0438\u0442\u044c \u043a\u043e\u0433\u0434\u0430, \u0441\u0435\u0439\u0447\u0430\u0441 \u0438\u043b\u0438 \u043f\u043e\u0437\u0434\u043d\u0435\u0435."
+                }
+            },
+            {
+                "move": "   Ne7 ",
+                "comment": {
+                    "pt": "Esta \u00e9 uma posi\u00e7\u00e3o que ocorreu in\u00fameras vezes na hist\u00f3ria do xadrez e \u00e9 muito importante do ponto de vista estrat\u00e9gico. O centro esta fechado e as brancas t\u00eam vantagem de espa\u00e7o no flanco dama, portanto devem atacar neste setor, preparando a jogada c5, enquanto as pretas devem atacar no flanco rei preparando a jogada ...f5.",
+                    "en": "This position was used in countless occasions during chess history and it is very important form the strategic point of view. The center is closed and White has space advantage on the queenside therefore it should attack in this sector preparing c5, while Black must attack on the kingside preparing ...f5.",
+                    "es": "Esta es una posici\u00f3n que ocurri\u00f3 incontables veces en la historia del ajedrez y es muy importante desde el punto de vista estrat\u00e9gico. El centro est\u00e1 cerrado y las blancas tienen ventaja de espacio en el flanco dama, por lo tanto deben atacar en este sector, preparando la jugada c5, mientras que las negras deben atacar en el flanco rey preparando la jugada ...f5.",
+                    "de": "Das ist eine Stellung, die unz\u00e4hlige Male in der Schachgeschichte vorgekommen und aus strategischem Gesichtspunkt sehr wichtig ist. Das Zentrum ist geschlossen und Wei\u00df hat Raumvorteil am Damenfl\u00fcgel, muss also da angreifen. Dazu bereitet er den Zug c5 vor, w\u00e4hrend Schwarz am K\u00f6nigsfl\u00fcgel angreifen und dazu den Zug ...f5 vorbereiten muss.",
+                    "zh": "\u5728\u56fd\u9645\u8c61\u68cb\u5386\u53f2\u4e0a\u6709\u65e0\u6570\u7684\u573a\u5408\u7528\u5230\u8fd9\u4e2a\u5c40\u9762\uff0c\u4ece\u6218\u7565\u89d2\u5ea6\u6765\u770b\u662f\u975e\u5e38\u91cd\u8981\u7684\u3002\u4e2d\u5fc3\u88ab\u5c01\u95ed\uff0c\u767d\u65b9\u5728\u540e\u7ffc\u62e5\u6709\u7a7a\u95f4\u4f18\u52bf\uff0c\u56e0\u6b64\u5b83\u5e94\u8be5\u653b\u51fb\u8fd9\u4e2a\u533a\u57df\u51c6\u5907c5\uff0c\u76f8\u53cd\u9ed1\u65b9\u5fc5\u987b\u653b\u51fb\u738b\u7ffc\u51c6\u5907...f5\u3002",
+                    "pl": "Pozycja ta by\u0142a u\u017cyta w niezliczonej liczbie okazji w szachowej historii i jest bardzo istotna ze strategicznego punktu widzenia. Centrum jest zamkni\u0119te, Bia\u0142e posiadaj\u0105 przewag\u0119 przestrzenn\u0105 na skrzydle hetma\u0144skim, dlatego te\u017c powinny atakowa\u0107 ten sektor przygotowuj\u0105c c5, podczas gdy Czarne musz\u0105 atakowa\u0107 na skrzydle kr\u00f3lewskim przygotowuj\u0105c ... f5.",
+                    "ru": "\u042d\u0442\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0448\u0430\u0445\u043c\u0430\u0442, \u0438 \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u0430, \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0438 \u0438\u0433\u0440\u044b. \u0426\u0435\u043d\u0442\u0440 \u0437\u0430\u043a\u0440\u044b\u0442 \u0438 \u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u0438 \u0434\u043e\u043b\u0436\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432 \u044d\u0442\u043e\u043c \u0441\u0435\u043a\u0442\u043e\u0440\u0435 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u044f c5, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u044f ...f5."
+                }
+            },
+            {
+                "move": "   9. b4 ",
+                "comment": {
+                    "pt": "Outras boas op\u00e7\u00f5es s\u00e3o; 9-Ce1 para ir a d3 e apoiar c5 (partida 612) 9-Cd2 para jogar b4, c5 e Cc4, sem permitir que as pretas joguem ...Ch5 (partidas 608, 616, 619 e 620).",
+                    "en": "Other good optios are: 9-Ne1 in order to reach d3 and support c5 (game 612); 9-Nd2 intending b4, c5 and Nc4 without allowing Black to play .. . Nh5 (games 608, 616, 619 and 620).",
+                    "es": "Otras buenas opciones son: 9-Ce1 para ir a d3 y apoyar c5 (partida 612); 9-Cd2 para jugar b4, c5 y Cc4, sin permitir que las negras jueguen ...Ch5 (partidas 608, 616, 619 y 620).",
+                    "de": "Andere gute M\u00f6glichkeiten sind: 9. Se1, um von d3 aus den Punkt c5 zu st\u00fctzen (Partie 612); 9. Sd2, um b4-c5-Sc4 spielen zu k\u00f6nnen, ohne dass Schwarz ...Sh5 spielt (Partien 608, 616, 619 und 620).",
+                    "zh": "\u53e6\u5916\u597d\u7684\u9009\u62e9\u662f\uff1a9-Ne1\u4e3a\u4e86\u5230\u8fbed3\u5e76\u4e14\u652f\u6301c5\uff08\u68cb\u5c40612\uff09\uff1b 9-Nd2\u76ee\u7684\u662fb4\u3001c5\u548cNc4\uff0c\u4e0d\u8ba9\u9ed1\u65b9\u8d70.. . Nh5\uff08\u68cb\u5c40608\u3001619\u548c620\uff09\u3002",
+                    "pl": "Innymi dobrymi opcjami s\u0105: 9. Se1 w celu osi\u0105gni\u0119cia d3 i wsparcia c5 (612); 9. Sd2 z zamiarem b4, c5 i Sc4 bez zezwolenia na zagranie Czarnych ... Sh5 (partie 608, 616, 619 i 620).",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u043c\u0438 \u0445\u043e\u0440\u043e\u0448\u0438\u043c\u0438 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c\u0438 \u0431\u0443\u0434\u0443\u0442: 9-Ne1, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c d3 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c c5 (\u0438\u0433\u0440\u0430 612); 9-Ne1 \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c b4, c5 \u0438 Nc4, \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c ...Nh5 (\u0438\u0433\u0440\u044b 608, 616, 619 \u0438 620)."
+                }
+            },
+            {
+                "move": "   Nh5 ",
+                "comment": {
+                    "pt": "A tentativa de quebrar a estrutura branca no flanco dama com 9... a5 ( partida 621) \u00e9 respondida com 10-bxa5 Txa5 11-Cd2, para jogar Cb3 e continuar o ataque no flanco dama.",
+                    "en": "The attempt to destroy the white structure on the queenside with 9... a5 (game 621) is answered with 10-bxa5 Rxa5 11-Nd2 intending Nb3 in order to continue the attack on the queenside.",
+                    "es": "La tentativa de quebrar la estructura blanca en el flanco dama con 9... a5 (partida 621) es respondida con 10-bxa5 Txa5 11-Cd2, para jugar Cb3 y continuar el ataque en el flanco dama.",
+                    "de": "Der Versuch, die wei\u00dfe Bauernstruktur am Damenfl\u00fcgel mit 9...  a5 ( Partie 621) zu brechen wird mit 10. bxa5 Txa5 11. Sd2 beantwortet, um Sb3 zu spielen und den Angriff am Damenfl\u00fcgel fortzusetzen.",
+                    "zh": "\u4f01\u56fe\u75289... a5\u6467\u6bc1\u767d\u65b9\u5728\u540e\u7ffc\u7684\u7ed3\u6784\uff08\u68cb\u5c40621\uff09\u4f1a\u5e94\u4ee510-bxa5 Rxa5 11-Nd2\uff0c\u76ee\u7684\u662fNb3\u6765\u7ee7\u7eed\u653b\u51fb\u540e\u7ffc\u3002",
+                    "pl": "Pr\u00f3ba zniszczenia bia\u0142ej struktury na skrzydle hetma\u0144skim przez 9. ... a5 (621) spotyka si\u0119 z 10. Bxa5 Wxa5 11. Sd2 z zamiarem Sb3 w celu kontynuacji ataku na skrzydle hetma\u0144skim.",
+                    "ru": "\u041d\u0430 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u044c \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0441 9...a5 (\u0438\u0433\u0440\u0430 621), \u0441\u043b\u0435\u0434\u0443\u0435\u0442 10-bxa5 Rxa5 11-Nd2, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c Nb3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   10. Nd2 ",
+                "comment": {
+                    "pt": "10-Te1 para responder a ...Cf4 com Bf1 \u00e9 uma excelente op\u00e7\u00e3o.",
+                    "en": "10-Re1 intending to respond to . ..Nf4 with Bf1 is an excellent option.",
+                    "es": "10-Te1 para responder a ...Cf4 con Af1 es una excelente opci\u00f3n.",
+                    "de": "10. Te1, um ...Sf4 mit Lf1 zu beantworten ist eine ausgezeichnete M\u00f6glichkeit.",
+                    "zh": "10-Re1\u76ee\u7684\u662f\u5e94 . ..Nf4\u8ddf Bf1\u662f\u4e00\u4e2a\u5f88\u597d\u7684\u9009\u62e9\u3002",
+                    "pl": "10. We1 z zamiarem odpowiedzi na ... Sf4 przez Gf1 jest \u015bwietn\u0105 opcj\u0105.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 10-Re1, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c ...Nf4 \u0441 Bf1."
+                }
+            },
+            {
+                "move": "   Nf4 11. a4 f5 ",
+                "comment": {
+                    "pt": "A posi\u00e7\u00e3o \u00e9 complexa e ambos t\u00eam perspectivas de ataque no seu setor. A excelente partida 609 seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "The position is complex and both sides have the prospective to attack in their sectors. This excellent game continues from this position on, in 609 of our database.",
+                    "es": "La posici\u00f3n es compleja y ambos tienen perspectivas de ataque en su sector. La excelente partida 609 sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Die Stellung ist komplex und beide Spieler haben gute Angriffschancen. Die ausgezeichnete Partie Nr. 609 zeigt eine m\u00f6gliche Fortsetzung.",
+                    "zh": "\u5c40\u9762\u590d\u6742\uff0c\u53cc\u65b9\u5bf9\u81ea\u5df1\u7684\u533a\u57df\u6709\u8fdb\u653b\u7684\u9884\u671f\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40609\u4ece\u8fd9\u4e2a\u5c40\u9762\u7ee7\u7eed\u3002",
+                    "pl": "Skomplikowana pozycja, a obie strony posiadaj\u0105 perspektywy ataku w swoich sektorach. Ta \u015bwietna gra, kontynuowana od tej pozycji, znajduje si\u0119 pod numer 609 w naszej bazie.",
+                    "ru": "\u042d\u0442\u043e \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f, \u0438 \u0443 \u043e\u0431\u0435\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u0435\u0441\u0442\u044c \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0430 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0432 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u0435\u043a\u0442\u043e\u0440\u0435. \u041e\u0442\u043b\u0438\u0447\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0432 \u043f\u0430\u0440\u0442\u0438\u0438 609, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

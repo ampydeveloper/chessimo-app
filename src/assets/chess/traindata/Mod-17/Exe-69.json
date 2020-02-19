@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Inglesa",
+        "white_sort": "",
+        "black": "Variante 1...e5",
+        "date": "",
+        "event": {
+            "en": "1...e5 variation",
+            "de": "Variante mit 1...e5",
+            "es": "Variante 1...e5",
+            "pt": "Variante 1...e5",
+            "zh": "1...e5 \u53d8\u4f8b",
+            "pl": "1. ... e5",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 1...e5"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. c4 e5 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a mesma posi\u00e7\u00e3o da defesa Siciliana, por\u00e9m com um tempo de vantagem para as brancas.",
+                    "en": "This is the same position as the Sicilian defense but White has the advantage of one tempo.",
+                    "es": "Esta es la misma posici\u00f3n de la defensa Siciliana, pero con un tiempo de ventaja para las blancas.",
+                    "de": "Das ist die gleiche Stellung wie in der Sizilianischen Verteidigung, aber mit einen Tempo Vorsprung f\u00fcr Wei\u00df.",
+                    "zh": "\u8fd9\u662f\u8ddf\u897f\u897f\u91cc\u9632\u5fa1\u540c\u6837\u7684\u5c40\u9762\uff0c\u4f46\u767d\u65b9\u9886\u5148\u4e00\u624b\u3002",
+                    "pl": "Analogiczna pozycja do obrony sycylijskiej, ale Bia\u0142e posiadaj\u0105 przewag\u0119 tempa.",
+                    "ru": "\u042d\u0442\u0430 \u0442\u0430\u043a\u0430\u044f \u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u043a\u0430\u043a \u0438 \u0432 \u0421\u0438\u0446\u0438\u043b\u0438\u0430\u043d\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u0435, \u043d\u043e \u0442\u0443\u0442 \u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u0432 \u0442\u0435\u043c\u043f\u0435."
+                }
+            },
+            {
+                "move": "   2. Nc3 Nf6 ",
+                "comment": {
+                    "pt": "As pretas t\u00eam outros 3 planos diferentes; Jogar uma posi\u00e7\u00e3o fechada fazendo jogadas como ...g6-Bg7-d6-f5 , n\u00e3o necessariamente nesta ordem (partidas 767, 769, 770, 771, 772, 773, 778, 779, 780 e 783). Jogar...c6-d5 (partida 782). Jogar...d5 diretamente (partidas 766 e 768)",
+                    "en": "Black has other three different plans: to play a closed position with moves like ... g6-Bg7-d6-f5, not necessarily in this order(games 767, 769, 770, 771, 772, 773, 778, 779, 780 and 783); or ...c6-d5 (game 782); or...d5 directly (games 766 and 768).",
+                    "es": "Las negras tienen otros 3 planes diferentes: jugar una posici\u00f3n cerrada haciendo jugadas como ...g6-Ag7-d6-f5, no necesariamente en este orden (partidas 767, 769, 770, 771, 772, 773, 778, 779, 780 y 783). Jugar...c6-d5 (partida 782).  Jugar...d5 directamente (partidas 766 y 768).",
+                    "de": "Schwarz kann zwischen 3 Pl\u00e4nen w\u00e4hlen: 1) eine geschlossene Stellung spielen (...g6-Lg7-d6-f5, nicht unbedingt in dieser Reihenfolge, wie in den Partien Nr. 767, 769, 770, 771, 772, 773, 778, 779, 780 und 783); 2)....c6-d5 (Partie Nr. 782) spielen; 3) sofort ...d5 spielen (Partien Nr. 766 und 768).",
+                    "zh": "\u9ed1\u65b9\u6709\u4e09\u4e2a\u4e0d\u540c\u7684\u8ba1\u5212\u53ef\u4f9b\u9009\u62e9\uff1a1.\u5728\u5c01\u95ed\u5c40\u9762\u4e0b\u8d70... g6-Bg7-d6-f5\uff0c\u672a\u5fc5\u8981\u8d70\u540c\u6837\u7684\u68cb\u5e8f\uff08\u89c1\u68cb\u5c40767\u3001769\u3001770\u3001771\u3001772\u3001773\u3001778\u3001779\u3001780\u548c783\uff09\uff1b2....c6-d5\uff08\u89c1\u68cb\u5c40783\uff09\uff1b3.\u76f4\u63a5\u8d70...d5 \uff08\u89c1\u68cb\u5c40766\u548c768\uff09\u3002",
+                    "pl": "Czarne posiadaj\u0105 trzy r\u00f3\u017cne plany: zagra\u0107 zamkni\u0119t\u0105 pozycj\u0119 ruchami takimi jak ... g6-Gg7-d6-f5, niekoniecznie w tej kolejno\u015bci (partie 767, 769-773, 778-780 oraz 783); lub ... c6-d5 (782); lub ... d5 (partia 766 i 768).",
+                    "ru": "\u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u0435\u0441\u0442\u044c \u0442\u0440\u0438 \u0440\u0430\u0437\u043d\u044b\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430: \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0445\u043e\u0434\u0430\u043c\u0438 ...g6-Bg7-d6-f5 (\u0438\u0433\u0440\u044b 767, 769, 770, 771, 772, 773, 778, 779, 780 \u0438 783); \u0438\u043b\u0438 ...c6-d5 (\u0438\u0433\u0440\u0430 782); \u0438\u043b\u0438 ...d5 \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e (\u0438\u0433\u0440\u044b 766 \u0438 768)."
+                }
+            },
+            {
+                "move": "   3. Nf3 Nc6 4. g3 ",
+                "comment": {
+                    "pt": "4-d4 tamb\u00e9m \u00e9 uma boa op\u00e7\u00e3o (partida 765).",
+                    "en": "4-d4 is also a good option (game 765).",
+                    "es": "4-d4 tambi\u00e9n es una buena opci\u00f3n (partida 765).",
+                    "de": "4. d4 ist auch eine gute M\u00f6glichkeit (Partie Nr. 765).",
+                    "zh": "4-d4\u4e5f\u662f\u4e00\u4e2a\u4e0d\u9519\u7684\u9009\u62e9\uff08\u68cb\u5c40765\uff09\u3002",
+                    "pl": "4. d4 jest r\u00f3wnie\u017c dobrym wyborem (partia 765).",
+                    "ru": "\u0425\u043e\u0440\u043e\u0448\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 4-d4 (\u0438\u0433\u0440\u0430 765)."
+                }
+            },
+            {
+                "move": "   Bb4 ",
+                "comment": {
+                    "pt": "Outras op\u00e7\u00f5es s\u00e3o ...d5, d6, Bc5, Be7 e g6.",
+                    "en": "Other options are ...d5, d6, Bc5, Be7 and g6.",
+                    "es": "Otras opciones son ...d5, d6, Ac5, Ae7 y g6.",
+                    "de": "Andere M\u00f6glichkeiten sind ...d5, d6, Lc5, Le7 und g6.",
+                    "zh": "\u53e6\u5916\u7684\u9009\u62e9\u662f...d5, d6, Bc5, Be7\u548cg6\u3002",
+                    "pl": "Innymi mo\u017cliwo\u015bciami s\u0105 ... d5, d6, Gc5, Ge7 i g6.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b, ...d5, d6, Bc5, Be7 \u0438 g6."
+                }
+            },
+            {
+                "move": "   5. Bg2 ",
+                "comment": {
+                    "pt": "5-Cd5 e4 6-Ch4 \u00e9 bastante arriscado para as brancas devido a posi\u00e7\u00e3o do seu cavalo (partida 781).",
+                    "en": "5-Nd5 e4 6-Nh4 is very risky for White due to the position of its Knight (game 781).",
+                    "es": "5-Cd5 e4 6-Ch4 es bastante arriesgado para las blancas debido a la posici\u00f3n de su caballo (partida 781).",
+                    "de": "5. Sd5 e4 6. Sh4 ist wegen der Stellung seines Springers zu riskant f\u00fcr Wei\u00df (Partie Nr. 781).",
+                    "zh": "5-Nd5 e4 6-Nh4\u5bf9\u767d\u65b9\u6765\u8bf4\u9274\u4e8e\u5b83\u9a6c\u7684\u4f4d\u7f6e\u975e\u5e38\u5192\u9669\u3002",
+                    "pl": "5. Sd5 e4 6. Sh4 jest bardzo ryzykowne dla Bia\u0142ych z powodu pozycji w\u0142asnego Skoczka (781).",
+                    "ru": "\u0425\u043e\u0434\u044b 5-Nd5 e4 6-Nh4 \u043e\u0447\u0435\u043d\u044c \u0440\u0438\u0441\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0434\u043b\u044f \u0411\u0435\u043b\u044b\u0445, \u0438\u0437-\u0437\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438\u0445 \u041a\u043e\u043d\u044f (\u0438\u0433\u0440\u0430 781)."
+                }
+            },
+            {
+                "move": "   O-O 6. O-O e4 ",
+                "comment": {
+                    "pt": "6.. .Te8 , mantendo a situa\u00e7\u00e3o central ,\u00e9 uma boa op\u00e7\u00e3o e ocorre nas partidas 776 e 777.",
+                    "en": "6...Re8, maintaining the central position, is a good option presented in games 776 and 777.",
+                    "es": "6... Te8, manteniendo la situaci\u00f3n central, es una buena opci\u00f3n y ocurre en las partidas 776 y 777.",
+                    "de": "6... Te8 h\u00e4lt die zentrale Spannung aufrecht und ist eine gute M\u00f6glichkeit (Partien Nr. 776 und 777).",
+                    "zh": "\u8d706...Re8\u4fdd\u6301\u4e2d\u5fc3\u5c40\u9762\u662f\u4e2a\u597d\u7684\u9009\u62e9\uff0c\u5728\u68cb\u5c40776\u548c777\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "6. ... We8, utrzymuj\u0105c centraln\u0105 pozycj\u0119, jest dobrym wyborem, zaprezentowanym w partiach 776 i 777.",
+                    "ru": "\u0425\u043e\u0434 6...Re8, \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0430\u0445 776 \u0438 777, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   7. Ng5 Bxc3 8. bxc3 Re8 9. f3 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a partida Kasparov-Karpov (774). As brancas t\u00eam o par de bispos e maioria central, mas falta um pouco de desenvolvemento e as pretas n\u00e3o t\u00eam fraquezas em sua posi\u00e7\u00e3o.",
+                    "en": "This is Kasparov-Karpov (game 774). White has the pair of Bishops and central majority but lacks in development and Black presents no weaknesses in its position.",
+                    "es": "Esta es la partida Kasparov-Karpov (774). Las blancas tienen la pareja de alfiles y mayor\u00eda central, pero est\u00e1n un poco retrasadas en el desarrollo, mientras que las negras no tienen debilidades en su posici\u00f3n.",
+                    "de": "Das ist die Partie Kasparow - Karpow (Nr. 774). Wei\u00df besitzt das L\u00e4uferpaar und Bauenmehrheit im Zentrum, steht mit seiner Entwicklung etwas im R\u00fcckstand; dazu noch weist Schwarz keine Schw\u00e4chen auf.",
+                    "zh": "\u8fd9\u662f\u5361\u65af\u5e15\u7f57\u592b\u5bf9\u5361\u5c14\u6ce2\u592b\u65f6\u7528\u5230\u7684\uff08\u89c1\u68cb\u5c40774\uff09\u3002\u767d\u65b9\u62e5\u6709\u53cc\u8c61\u548c\u4e2d\u5fc3\u591a\u5175\uff0c\u4f46\u662f\u51fa\u5b50\u843d\u540e\uff0c\u9ed1\u65b9\u9635\u5f62\u6ca1\u6709\u5f31\u70b9\u3002",
+                    "pl": "To partia Kasparow \u2013 Karpow (774). Bia\u0142e posiadaj\u0105 par\u0119 Go\u0144c\u00f3w i centraln\u0105 wi\u0119kszo\u015b\u0107, ale nie doko\u0144czy\u0142y wyprowadzania figur, za\u015b Czarne nie posiadaj\u0105 s\u0142abo\u015bci w swojej pozycji.",
+                    "ru": "\u042d\u0442\u043e \u043f\u0430\u0440\u0442\u0438\u044f \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432-\u041a\u0430\u0440\u043f\u043e\u0432 (\u0438\u0433\u0440\u0430 774). \u0423 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u043f\u0430\u0440\u0430 \u0421\u043b\u043e\u043d\u043e\u0432 \u0438 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e, \u043d\u043e \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043e\u043d\u0438 \u0438\u0441\u043f\u044b\u0442\u044b\u0432\u0430\u044e\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u043a \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0444\u0438\u0433\u0443\u0440, \u0432 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Abertura dos 4 cavalos",
+        "white_sort": "",
+        "black": "Variante Rubinstein",
+        "date": "",
+        "event": {
+            "en": "Rubinstein variation",
+            "de": "Rubinstein Variante",
+            "es": "Variante Rubinstein",
+            "pt": "Variante Rubinstein",
+            "zh": "\u9c81\u5bbe\u65af\u5766\u53d8\u4f8b",
+            "pl": "Wariant Rubinsteina",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0420\u0443\u0431\u0438\u043d\u0448\u0442\u0435\u0439\u043d\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 ",
+                "comment": {
+                    "pt": "Est\u00e1 \u00e9 uma das muitas id\u00e9ias de Akiba Rubinstein e \u00e9 considerada , ao lado de 4...Bb4 , a melhor jogada das pretas.",
+                    "en": "This is one of the many ideas of Akiba Rubinstein and, together with 4...Bb4, it is considered Black's best move.",
+                    "es": "Esta es una de las muchas ideas de Akiba Rubinstein y es considerada, junto a 4...Ab4, la mejor jugada de las negras..",
+                    "de": "Das ist eine der vielen Ideen von Akiba Rubinstein und wird neben 4...Lb4 f\u00fcr den besten schwarzen Zug auf dieser Stellung gehalten.",
+                    "zh": "\u8fd9\u662f\u9c81\u5bbe\u65af\u5766\u5f88\u591a\u601d\u60f3\u4e4b\u4e00\uff0c\u8ddf4...Bb4\u4e00\u8d77\u88ab\u8ba4\u4e3a\u9ed1\u68cb\u6700\u4f73\u7684\u4e00\u7740\u3002",
+                    "pl": "Jeden z wielu pomys\u0142\u00f3w Akiby Rubinsteina i wraz z 4. ... Gb4 uwa\u017cany jest za najlepszy ruch Czarnych.",
+                    "ru": "\u042d\u0442\u043e \u043e\u0434\u043d\u0430 \u0438\u0437 \u043c\u043d\u043e\u0433\u0438\u0445 \u0438\u0434\u0435\u0439 \u0410\u043a\u0438\u0431\u0430 \u0420\u0443\u0431\u0438\u043d\u0448\u0442\u0435\u0439\u043d, \u0430 \u0445\u043e\u0434 4 ... Bb4 - \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043b\u0443\u0447\u0448\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   5. Ba4 ",
+                "comment": {
+                    "pt": "5-Bc4 Bc5 6-Cxe5 De7 7-Cd3 d5 ocorreu em Nimzowitsch - Alekhine (partida 39) e as pretas t\u00eam forte iniciativa. 5- Cxe5 n\u00e3o \u00e9 perigoso e as pretas devem jogar 5...De7 (5...Bb4 foi jogado na partida 45 e tamb\u00e9m \u00e9 razo\u00e1vel) recuperando o pe\u00e3o(partida 38). 5-Cxd4 exd4 6-e5 dxc3 7-exf6 Dxf6 8-dxc3 leva a uma posi\u00e7\u00e3o igualada (partida 42).",
+                    "en": "5-Bc4 Bc5 6-Nxe5 Qe7 7-Nd3 d5 happened in Nimzowitsch - Alekhine (game 39) and Black has strong initiative. 5- Nxe5 isn't dangerous and Black should play 5...Qe7 (5...Bb4 was used in game 45 and is also reasonable) retaking the pawn (game 38). 5-Nxd4 exd4 6-e5 dxc3 7-exf6 Qxf6 8-dxc3 leads to a balanced position (game 42).",
+                    "es": "5-Ac4 Ac5 6-Cxe5 De7 7-Cd3 d5 ocurri\u00f3 en Nimzowitsch - Alekhine (partida 39) con fuerte iniciativa de las negras.  5- Cxe5 no es peligroso y las negras deben jugar 5...De7 (5...Ab4 fue jugado en la partida 45 y tambi\u00e9n es aceptable) recuperando el pe\u00f3n (partida 38).  5-Cxd4 exd4 6-e5 dxc3 7-exf6 Dxf6 8-dxc3 lleva a una posici\u00f3n igualada (partida 42).",
+                    "de": "5-Lc4 Lc5 6-Sxe5 De7 7-Sd3 d5 mit starker Initiative von Schwarz geschah in Nimzowitsch - Aljechin (Partie 39). 5. Sxe5 ist nicht gef\u00e4hrlich: Schwarz muss 5...Dxe7 mit R\u00fcckgewinn des Bauern ziehen (Partie 39). 5...Lb4 ist auch akzeptabel und wurde in der Partie 45 gespielt. 5-Sxd4 exd4 6-e5 dxc3 7-exf6 Dxf6 8-dxc3 f\u00fchrt zum Ausgleich (Partie 42).",
+                    "zh": "5-Bc4 Bc5 6-Nxe5 Qe7 7-Nd3 d5\u51fa\u73b0\u5728\u5c3c\u59c6\u4f50\u7ef4\u5947\u5bf9\u963f\u5217\u4ea8\u7684\u5bf9\u5c40\u4e2d\uff08\u68cb\u5c4039\uff09\uff0c\u9ed1\u65b9\u62e5\u6709\u76f8\u5f53\u5927\u7684\u4e3b\u52a8\u6743\u30025- Nxe5\u4e0d\u5371\u9669\uff0c\u9ed1\u65b9\u5e94\u8be5\u4e0b5...Qe7\uff085...Bb4\u5728\u68cb\u5c4045\u4e2d\u8fd0\u7528\u5230\uff0c\u5e76\u4e14\u4e5f\u662f\u5408\u7406\u7684\uff09\u593a\u56de\u5175\uff08\u68cb\u5c4038\uff09\u30025-Nxd4 exd4 6-e5 dxc3 7-exf6 Qxf6 8-dxc3 \u5c40\u9762\u5e73\u8861\u3002",
+                    "pl": "5. Gc4 Gc5 6. Sxe5 He7 7. Sd3 d5 zdarzy\u0142o si\u0119 w spotkaniu Nimzowitsch - Alechin (partia 39); Czarne posiadaj\u0105 siln\u0105 inicjatyw\u0119. 5. Sxe5 nie jest gro\u017ane i Czarne powinny zagra\u0107 5. ... He7 (5. ... Gb4 zosta\u0142o u\u017cyte w partii 45 i jest r\u00f3wnie\u017c rozs\u0105dne) odbieraj\u0105c piona (partia 38). 5. Sxd4 exd4 6. e5 dxc3 7. exf6 Hxf6 8. dxc3 prowadzi do zbalansowanej pozycji (partia 42).",
+                    "ru": "\u0421\u0438\u0442\u0443\u0430\u0446\u0438\u044f 5-Bc4 Bc5 6-Nxe5 Qe7 7-Nd3 d5 \u0431\u044b\u043b\u0430 \u0432 \u043f\u0430\u0440\u0442\u0438\u0438 \u041d\u0438\u043c\u0446\u043e\u0432\u0438\u0447 - \u0410\u043b\u0435\u0445\u0438\u043d (\u0438\u0433\u0440\u0430 39), \u0433\u0434\u0435 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0435\u0441\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0430. \u0425\u043e\u0434 5- Nxe5 \u043d\u0435 \u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0438\u0433\u0440\u0430\u0442\u044c  5...Qe7 (5...Bb4 \u0432 \u0438\u0433\u0440\u0435 45, \u0447\u0442\u043e \u0442\u043e\u0436\u0435 \u0440\u0430\u0437\u0443\u043c\u043d\u043e),  \u043e\u0442\u044b\u0433\u0440\u044b\u0448 \u043f\u0435\u0448\u043a\u0438 (\u0438\u0433\u0440\u0430 38). 5-Nxd4 exd4 6-e5 dxc3 7-exf6 Qxf6 8-dxc3 \u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u043c\u0443 \u0431\u0430\u043b\u0430\u043d\u0441\u0443 (\u0438\u0433\u0440\u0430 42)."
+                }
+            },
+            {
+                "move": "   Nxf3+ ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel sacrificar um pe\u00e3o jogando 5...c6 ou 5...Bc5.",
+                    "en": "It is also possible to sacrifice a pawn with 5...c6 or 5...Bc5.",
+                    "es": "Tambi\u00e9n es posible sacrificar un pe\u00f3n jugando 5. ..c6 o 5...Ac5.",
+                    "de": "Es ist auch m\u00f6glich, einen Bauern mit 5...c6 oder 5...Lc5 zu opfern.",
+                    "zh": "\u8d705...c6\u62165...Bc5\u5f03\u5175\u4e5f\u662f\u53ef\u884c\u3002",
+                    "pl": "Mo\u017cliwe jest r\u00f3wnie\u017c po\u015bwi\u0119cenie piona 5. ... c6 lub 5. ... Gc5.",
+                    "ru": "\u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 5...c6 \u0438\u043b\u0438 5...Bc5."
+                }
+            },
+            {
+                "move": "   6. Qxf3 c6 7. d3 d6 8. Bb3 ",
+                "comment": {
+                    "pt": "7-0-0 foi jogado na partida 157 de nossa base.",
+                    "en": "7-0-0 was used in game 157 of our database.",
+                    "es": "7-0-0 fue jugado en la partida 157 de nuestra base.",
+                    "de": "7-0-0 wurde in der Partie 157 gespielt.",
+                    "zh": "7-0-0\u5728\u68cb\u5c40157\u4e2d\u5f97\u5230\u8fd0\u7528\u3002",
+                    "pl": "7. 0-0 zosta\u0142o u\u017cyte w partii 157 w naszej bazie.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 7-0-0 \u0431\u044b\u043b \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 157 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   Be7 9. Qe2 O-O 10. f4 Bg4 11. Qf2 Be6 ",
+                "comment": {
+                    "pt": "Com posi\u00e7\u00e3o equilibrada, como se pode comprovar na partida 156 de nossa base.",
+                    "en": "With balanced position, as demonstrated in game 156 of our database.",
+                    "es": "Con posici\u00f3n equilibrada, como se puede comprobar en la partida 156 de nuestra base.",
+                    "de": "Mit ausgeglichener Stellung, wie die Partie 156 unserer Datenbank beweist.",
+                    "zh": "\u5c31\u50cf\u5728\u68cb\u5c40156\u4e2d\u6f14\u793a\u7684\u5c40\u9762\u5e73\u8861\u3002",
+                    "pl": "Ze zbalansowan\u0105 pozycj\u0105, jak demonstruje partia 156 w naszej bazie.",
+                    "ru": "\u0414\u043b\u044f \u0431\u0430\u043b\u0430\u043d\u0441\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0439, \u043a\u0430\u043a \u043f\u0440\u043e\u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 156 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

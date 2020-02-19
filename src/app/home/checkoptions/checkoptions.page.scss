@@ -1,0 +1,118 @@
+.checkoptionpage{
+    .form-box{
+        background: rgba($color: #fff, $alpha: 0.7);
+        padding: 20px 15px;
+        margin: 10px;
+        h1{
+            color: #000;
+            margin: 0;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .input-group {
+            margin: 10px 0 0 0;
+            input {
+                width: 100%;
+                border: none;
+                border-radius: 1px;
+                color: #000;
+                padding: 10px;
+            }
+            .input-row{
+                width: 100%;
+                min-height: 45px;
+                border: none;
+                border-radius: 1px;
+                color:#000;
+                margin-bottom: 15px;
+                background:#fff;
+                ion-col{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    &:first-child {
+                        justify-content: flex-start;
+                    }
+                    &:last-child {
+                        justify-content: flex-end;
+                    }
+                    label {
+                        text-align: left;
+                    }
+                }
+                
+            }
+        }
+
+        .input-group-open {
+            margin: 0 0 20px 0;
+            .input-row{
+                width: 100%;
+                min-height: 55px;
+                border: none;
+                border-radius: 1px;
+                color:#000;
+                justify-content: space-between;
+                ion-col{
+                    display: flex;
+                    justify-content: flex-start;
+                    align-items: center;
+                    &:last-child {
+                        justify-content: flex-end;
+                    }
+                    label {
+                        text-align: left;
+                    }
+                }
+                
+            }
+        }
+
+        .profilepic{
+            width: 36px;
+            padding-top: 36px;
+            border: 2px solid #fff;
+            border-radius: 50%;
+            background-repeat: no-repeat !important;
+            background-position: center !important;
+            background-size: cover !important;
+            box-sizing: content-box;
+        }
+
+        ion-button{
+            width: 100%;
+            background: #67829F;
+            text-transform: capitalize;
+        }
+    }
+
+    .black-color{
+        color: #000;
+    }
+
+
+    .design-options-row{
+        display: flex;
+        justify-content: space-between;
+        .design-option{
+            padding-top: 15px;
+            h2{
+                margin: 0;
+                color: #000;
+                font-size: 16px;
+                font-weight: 500;
+            }
+
+            .option-set{
+                width: 94px;
+                display: flex;
+                justify-content: space-between;
+                button {
+                    padding: 7px 15px;
+                    border-radius: 3px;
+                }
+            }
+        }
+    }
+}

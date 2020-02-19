@@ -1,0 +1,102 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Train
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content no-bounce class="traingamepage page-content">
+  <!-- <div class="train-board-outer">
+    <div id="train-board-wrapper" class="board-wrapper board-E">
+      <div class="blue-check">
+        <div class="blue-check-content"></div>
+      </div>
+      <div class="pauseContent"><span class="msg">{{'Pause'}}</span></div>
+        <div id="train-board" style="width:100%;"></div>
+    </div>
+  </div> -->
+
+    <div class="gamefinishview" *ngIf="isUnitFinished">
+      <div class="content">
+        <h1 style="text-align: center;">{{finishmsg}}</h1>
+        <div class="buttons">
+          <ion-button fill="outline" color="white" (click)="playagain()"><span class="fa fa-refresh"></span>Play Again</ion-button>
+          <ion-button fill="outline" color="white" (click)="goback()"><span class="fa fa-refresh"></span>Go Back</ion-button>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="commentsview" id="commentsview">
+      <div class="contentouter">
+        <div class="content">
+          <div class="body">
+              {{comment}}
+          </div>
+          <div class="buttons">
+            <button color="white" (click)="trainService.commentOk()" class="btn btn-primary">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div class="upper-body">
+    <div class="d-flex flex-column gameScreen" style="min-height: 100%;">
+      <div class="flex-1">
+        <app-gameboard [game]="trainService" [command]="command" [extraSize]="setExtraSize()"></app-gameboard>
+
+        <ion-row class="outerBoxWrapper ion-padding" id="trainGameInfoBox">
+            <ion-col size="5" class="outerBox">
+              <div class="bgWhite fillWidth" style="margin-bottom:0.5em;">
+                <div class="defBoxPadding">
+                  <span class="fa fa-clock-o boxSymbolClock"></span> <span class="boxClockContent">{{trainService.timer.unitTimer.humanString}}</span>
+                  <div class="choclearer"></div>
+                </div>
+              </div>
+              <div class="bgWhite fillWidth">
+                <div class="defBoxPadding boxStepping">
+                  <a class="boxCurrentStepBackward choButtonNoBorder choButtonBlack choButtonNavigate" style="float:left;" (click)="this.trainService.goPre()" ><span class="fa fa-step-backward"></span></a>
+                  <span class="boxCurrentStepContent">{{this.trainService.gameState.index + 1}}/{{this.trainService.ExeList.length}}</span>
+                  <a class="boxCurrentStepForward choButtonNoBorder choButtonBlack choButtonNavigate"  style="float:right;" (click)="this.trainService.goNext()" ><span class="fa fa-step-forward"></span></a>
+                  <div class="choclearer"></div>
+                </div>
+              </div>
+            </ion-col>
+            <ion-col size="7">
+              <div class="outerBox second">
+                <div class="bgWhite fillWidth">
+                  <div class="defBoxPadding">
+                    <div class="bgWhite fillWidth">
+                      <span class="boxInstructionsText">{{trainService.instruction}}</span>
+                    </div>
+                    <div *ngIf="user.gameSetting.showSergio" class="trainCharacterWrapper">
+                    <div class="trainCharacter1 {{trainService.character}}">
+                      </div>
+                    </div>
+                    <div style="margin-top:0.5em;">Time for this exercise:</div>
+                    <div><span class="boxClockTime">{{trainService.timer.exeTimer.humanString}}</span></div>
+                    <div style="margin-top:0.5em;">Time per exercise</div>
+                    <div><span class="boxClockAvgTime">{{trainService.gameState.timeperexper}}</span></div>
+                    <div class="choclearer"></div>
+                  </div>
+                </div>
+              </div>
+            </ion-col>
+        </ion-row>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="bottom-button ion-padding" style="padding-top: 0;">
+      <ion-button fill="outline" color="white" (click)="restart()"><span class="fa fa-refresh"></span>Restart</ion-button>
+      <ion-button fill="outline" color="white" (click)="tooglePause()" *ngIf="trainService.Paused == false"><span class="fa fa-pause"></span>Pause</ion-button>
+        <ion-button fill="outline" color="white" (click)="tooglePause()" *ngIf="trainService.Paused"><span class="fa fa-play"></span>Play</ion-button>
+      <ion-button fill="outline" color="white" (click)="solution()"><span class="fa fa-lightbulb-o"></span>Solution</ion-button>
+    </div>
+  </div>
+</ion-content>

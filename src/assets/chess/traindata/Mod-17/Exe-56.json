@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Defesa India do Rei",
+        "white_sort": "",
+        "black": "Variante Saemich",
+        "date": "",
+        "event": {
+            "en": "Saemisch variation",
+            "de": "S\u00e4misch-Variante",
+            "es": "Variante Saemisch",
+            "pt": "Variante Saemisch",
+            "zh": "\u6770\u7c73\u4ec0\u53d8\u4f8b",
+            "pl": "Wariant Saemischa",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0417\u0435\u043c\u0438\u0448\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 ",
+                "comment": {
+                    "pt": "Este \u00e9 o sistema Saemich, onde as brancas consideram a possibilidade de rocar grande e atacar no flanco rei (Be3-Dd2-g4-h4-h5).",
+                    "en": "This is the Saemisch System where White considers the possibility to queencastle and attack on the kingside (Be3-Qd2-g4-h4-h5).",
+                    "es": "La posici\u00f3n es compleja y ambos tienen perspectivas de ataque en su sector. La excelente partida 609 sigui\u00f3 a partir de esta posici\u00f3n Este es el sistema Saemisch, donde las blancas consideran la posibilidad de enrocar en largo y atacar en el flanco rey (Ae3-Dd2-g4-h4-h5)  .",
+                    "de": "Das ist das S\u00e4misch-System. Wei\u00df spielt mit dem Gedanken, lang zu rochieren und am K\u00f6nigsfl\u00fcgel anzugreifen (Le3-Dd2-g4-h4-h5)",
+                    "zh": "\u8fd9\u662f\u6770\u7c73\u4ec0\u4f53\u7cfb\uff0c\u767d\u65b9\u88ab\u8ba4\u4e3a\u6709\u80fd\u529b\u8fdb\u884c\u540e\u7ffc\u6613\u4f4d\u5e76\u4e14\u653b\u51fb\u738b\u7ffc\uff08Be3-Qd2-g4-h4-h5\uff09\u3002",
+                    "pl": "Oto system Saemischa, gdzie Bia\u0142e rozwa\u017caj\u0105 mo\u017cliwo\u015b\u0107 d\u0142ugiej roszady i ataku na skrzydle kr\u00f3lewskim (Ge3-Hd2-g4-h4-h5).",
+                    "ru": "\u042d\u0442\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0417\u0435\u043c\u0438\u0448\u0430, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u0438\u043d\u043d\u043e\u0439 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0438 \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (Be3-Qd2-g4-h4-h5)."
+                }
+            },
+            {
+                "move": "   O-O 6. Be3 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel jogar 6-Cge2, mantendo a op\u00e7\u00e3o de desenvolver o bispo por g5. Em nossa base h\u00e1 dois excelentes exemplos com este lance; partida 627 , onde as brancas (M.Tal) executam um ataque espetacular sobre o rei preto e partida 629, onde as brancas (T. Petrossian) vencem uma partida estretegicamente exemplar.",
+                    "en": "It's also possible to play 6-Nge2 maintaining the option to develop the Bishop through g5. In our database, there are two excellent examples with that move, in game 627 where White (M. Tal) performs a spectacular attack on the black King and in game 629 where White (T. Petrossian) wins a strategically perfect game.",
+                    "es": "Tambi\u00e9n es posible jugar 6-Cge2, manteniendo la opci\u00f3n de desarrollar el alfil por g5. En nuestra base hay dos excelentes ejemplos con esta jugada: partida 627, en la que las blancas (M. Tal) ejecutan un ataque espectacular sobre el rey negro y la partida 629, en la que  las blancas (T. Petrosian) vencen una partida estrat\u00e9gicamente ejemplar.",
+                    "de": "6. Sge2 geht auch: Wei\u00df beh\u00e4lt die M\u00f6glichkeit, den L\u00e4ufer \u00fcber g5 zu entwickeln. Auf  unserer Datenbank gibt es zwei ausgezeichnete Beispiele mit diesem Zug: Partie Nr. 627, in der Wei\u00df (Michail Tal)  einen spektakul\u00e4ren Angriff auf den schwarzen K\u00f6nig f\u00fchrt und Partie 629, in der Wei\u00df (Tigran Petrosjan) eine strategische Partie vorbildlich gewinnt.",
+                    "zh": "\u8d706-Nge2\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4fdd\u6301\u901a\u8fc7g5\u51fa\u8c61\u7684\u9009\u62e9\u3002\u5728\u68cb\u5e93\u4e2d\u6709\u4e24\u4e2a\u6781\u597d\u7684\u4f8b\u5b50\u89e3\u91ca\u8fd9\u4e00\u7740\uff0c\u5728\u68cb\u5c40627\u4e2d\u767d\u65b9\u5bf9\u9ed1\u738b\u8fdb\u884c\u731b\u70c8\u7684\u8fdb\u653b\uff0c\u5728\u68cb\u5c40629\u4e2d\u767d\u65b9\u8d62\u5f97\u4e86\u5b8c\u7f8e\u7684\u6218\u7565\u80dc\u5229\u3002",
+                    "pl": "Mo\u017cliwe jest tak\u017ce zagranie 6. Sge2 zachowuj\u0105ce opcj\u0119 wyprowadzenia Go\u0144ca przez g5. W naszej bazie znajduj\u0105 si\u0119 dwa znakomite przyk\u0142ady tego ruchu \u2013 w partii 627, gdzie Bia\u0142e (Michai\u0142 Tal) zaprezentowa\u0142y spektakularny atak na czarnego Kr\u00f3la i w partii 629, gdzie Bia\u0142e (Tigran Petrossian) zwyci\u0119\u017cy\u0142y w strategicznie perfekcyjnej partii.",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0438\u0433\u0440\u0430\u0442\u044c 6-Nge2, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 g5. \u0412 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u0435 \u0438\u0433\u0440, \u0435\u0441\u0442\u044c \u0434\u0432\u0430 \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u0438\u043c\u0435\u0440\u0430 \u043f\u043e\u0434\u043e\u0431\u043d\u043e\u0439 \u0442\u0430\u043a\u0442\u0438\u043a\u0438, \u0430 \u0438\u043c\u0435\u043d\u043d\u043e, \u0432 \u0438\u0433\u0440\u0435 627, \u0433\u0434\u0435 \u0422\u0430\u043b\u044c \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u043b \u043e\u0442\u043b\u0438\u0447\u043d\u0443\u044e \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445, \u0438 \u0432 \u0438\u0433\u0440\u0435 629, \u0433\u0434\u0435 \u041f\u0435\u0442\u0440\u043e\u0441\u044f\u043d, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0411\u0435\u043b\u044b\u0445, \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438, \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u0443\u044e \u0438\u0433\u0440\u0443."
+                }
+            },
+            {
+                "move": "   e5 ",
+                "comment": {
+                    "pt": "6...Cc6 \u00e9 uma alternativa, com a id\u00e9ia de atacar no flanco dama com ...a6-Tb8-b5 (partidas 624 e 630) 6... Cbd7 Esta e as duas pr\u00f3ximas op\u00e7\u00f5es abaixo mostram um plano diferente das pretas, que \u00e9 romper no centro com a jogada ...c5, como ocorre na defesa Benoni. (partida 628). 6...c5 (partida 625) 6...a6 (partida 626) 6. ..c6 (partida 629).",
+                    "en": "6...Nc6 is an alternative with the idea to attack on the queenside with ...a6-Rb8-b5 (games 624 and 630); 6...Nbd7 presents, together with the next two options, a different plan of the black side: to achieve a rupture in the center with ... c5, as in the Benoni defense (game 628); 6...c5 (game 625); 6...a6 (game 626); 6. ..c6 (game 629).",
+                    "es": "6...Cc6 es una alternativa, con la idea de atacar en el flanco dama con ...a6-Tb8-b5 (partidas 624 y 630) 6...Cbd7 Esta y las dos pr\u00f3ximas opciones muestran un plan diferente de las negras, que es romper en el centro con la jugada ...c5, como ocurre en la defensa Benoni (partida 628).   6...c5 (partida 625) 6...a6 (partida 626) 6...c6 (partida 629).",
+                    "de": "6...Sc6 ist eine Alternative, und zwar mit der Idee, am Damenfl\u00fcgel mit ...a6-Tb8-b5 (Partien 624 und 630) anzugreifen. 6...  Sbd7: Diese und die n\u00e4chsten zwei M\u00f6glichkeiten bringen einen v\u00f6llig anderen Plan, der darin besteht, im Zentrum mit ...c5 durchzubrechen, wie in der Benoni-Verteidigung. (Partie 628). 6...c5 (Partie 625) 6...a6 (Partie 626) 6...c6  (Partie 629).",
+                    "zh": "6...Nc6\u662f\u53e6\u5916\u4e00\u79cd\u9009\u62e9\uff0c\u610f\u56fe\u7528...a6-Rb8-b5\u653b\u51fb\u540e\u7ffc\uff08\u68cb\u5c40624\u548c630\uff09\uff1b6...Nbd7\u8ddf\u5176\u4ed6\u4e24\u4e2a\u9009\u62e9\u4e00\u8d77\u5448\u73b0\u7684\u662f\u9ed1\u65b9\u4e00\u4e2a\u4e0d\u540c\u7684\u8ba1\u5212\uff1a\u7528... c5\u5728\u4e2d\u5fc3\u5f97\u5230\u7a81\u7834\uff0c\u5c31\u50cf\u5728\u522b\u8bfa\u5c3c\u9632\u5fa1\u4e00\u6837\uff08\u68cb\u5c40628\uff09\uff1b6...c5\uff08\u68cb\u5c40625\uff09\uff1b 6...a6\uff08\u68cb\u5c40626\uff09\uff1b 6. ..c6\uff08\u68cb\u5c40629\uff09\u3002",
+                    "pl": "6. ... Sc6 jest alternatyw\u0105 z zamiarem ataku na skrzydle hetma\u0144skim przez ... a6-Wb8-b5 (partie 624 i 630); 6. Sbd7 prezentuje, wsp\u00f3lnie z nast\u0119pnymi dwoma rozwi\u0105zaniami, inny plan dla czarnej strony: spowodowanie p\u0119kni\u0119cia w centrum przez ... c5, jak w obronie Benoni (partia 628); 6. ... c5 (625); 6. ... a6 (626); 6. ... c6 (629).",
+                    "ru": "\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0445\u043e\u0434 6...Nc6 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 ...a6-Rb8-b5 (\u0438\u0433\u0440\u044b 624 \u0438 630); 6...Nbd7 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432\u043c\u0435\u0441\u0442\u0435 \u0441\u043e \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438 \u0434\u0432\u0443\u043c\u044f \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c\u0438, \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442: \u0434\u043e\u0441\u0442\u0438\u0447\u044c \u043f\u0440\u043e\u0440\u044b\u0432\u0430 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 ...c5, \u043a\u0430\u043a \u0432 \u0437\u0430\u0449\u0438\u0442\u0435 \u0411\u0435\u043d\u043e\u043d\u0438 (\u0438\u0433\u0440\u0430 628); 6...c5 (\u0438\u0433\u0440\u0430 625); 6...a6 (\u0438\u0433\u0440\u0430 626); 6...c6 (\u0438\u0433\u0440\u0430 629)."
+                }
+            },
+            {
+                "move": "   7. d5 c6 ",
+                "comment": {
+                    "pt": "Para abrir linhas no flanco dama, onde supostamente ir\u00e1 o rei branco. A id\u00e9ia de seguir o ataque no flanco rei ... Ch5-f5, ocorreu na partida 622.",
+                    "en": "In order to open lines on the queenside where supposedly the white King is moving to. The idea to continue the attack on the kingside ...Nh5-f5, is presented in game 622.",
+                    "es": "Para abrir l\u00edneas en el flanco dama, ad\u00f3nde supuestamente ir\u00e1 el rey blanco. La idea de proseguir con el ataque en el flanco rey ...Ch5-f5, ocurri\u00f3 en la partida 622.",
+                    "de": "Um Linien am Damenfl\u00fcgel zu \u00f6ffnen, wo der wei\u00dfe K\u00f6nig offensichtlich stehen wird. Die Idee, den Angriff am K\u00f6nigsfl\u00fcgel mit ... Sh5-f5 fortzusetzen, geschah in der Partie Nr. 622.",
+                    "zh": "\u4e3a\u4e86\u5728\u540e\u7ffc\u5f00\u653e\u7ebf\u8def\uff0c\u767d\u738b\u53ef\u80fd\u4f1a\u671d\u6b64\u5904\u79fb\u52a8\u3002\u60f3\u6cd5\u662f\u7528...Nh5-f5\u7ee7\u7eed\u653b\u51fb\u738b\u7ffc\uff0c\u8fd9\u5728\u68cb\u5c40622\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Aby otworzy\u0107 linie na skrzydle hetma\u0144skim, gdzie prawdopodobnie przemie\u015bci si\u0119 bia\u0142y Kr\u00f3l. Idea kontynuacji ataku na skrzyd\u0142o kr\u00f3lewskie ... Sh5-f5, prezentuje partia 622.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043a\u0443\u0434\u0430 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f \u0431\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c. \u0418\u0434\u0435\u044f \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 ...Nh5-f5, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 622."
+                }
+            },
+            {
+                "move": "   8. Qd2 cxd5 9. cxd5 Na6 10. Bb5 ",
+                "comment": {
+                    "pt": "N\u00e3 o vale a pena entregar o bispo de casas brancas para dobrar os pe\u00f5es pretos (10-Bxa6).",
+                    "en": "To give up the light-squared Bishop in order to double black pawns (10-Bxa6) isn't worthwhile.",
+                    "es": "No vale la pena entregar el alfil de casillas blancas para doblar los peones negros (10-Axa6).",
+                    "de": "Es lohnt sich nicht, den wei\u00dffeldrigen L\u00e4ufer herzugeben, um die schwarzen Bauern zu verdoppeln (10. Lxa6).",
+                    "zh": "\u5f03\u6389\u767d\u683c\u8c61\u6765\u4f7f\u9ed1\u65b9\u4ea7\u751f\u53e0\u5175\uff0810-Bxa6\uff09\u5e76\u4e0d\u503c\u5f97\u3002",
+                    "pl": "Oddanie jasnopolowego Go\u0144ca za zdublowanie czarnych pion\u00f3w (10. Gxa6) nie jest warte przemy\u015blenia.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0436\u0435\u0440\u0442\u0432\u044b \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0432\u043e\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0438 (10-Bxa6) - \u043d\u0435 \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f."
+                }
+            },
+            {
+                "move": "   Nh5 11. Nge2 f5 ",
+                "comment": {
+                    "pt": "A partida 623 de nossa base seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "Game 623 of our database continues from this position on.",
+                    "es": "La partida 623 de nuestra base sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Partie Nr. 623 unserer Datenbank zeigt eine Fortsetzung.",
+                    "zh": "\u68cb\u5e93\u4e2d\u68cb\u5c40623\u4ecb\u7ecd\u4e86\u4e00\u79cd\u5ef6\u7eed\u3002",
+                    "pl": "Partia 623 z naszej bazy kontynuuje z tego miejsca.",
+                    "ru": "\u0418\u0433\u0440\u0430 623, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

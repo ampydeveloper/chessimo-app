@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante  dos 4 cavalos.",
+        "date": "",
+        "event": {
+            "en": "4 knights variation",
+            "de": "Vierspringervariante",
+            "es": "Variante de los 4 Caballos",
+            "pt": "Variante  dos 4 cavalos",
+            "zh": "\u56db\u9a6c\u53d8\u4f8b",
+            "pl": "Wariant 4 Skoczk\u00f3w",
+            "ru": "\u0414\u0435\u0431\u044e\u0442 \u0447\u0435\u0442\u044b\u0440\u0435\u0445 \u041a\u043e\u043d\u0435\u0439"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 ",
+                "comment": {
+                    "pt": "A defesa Siciliana \u00e9 uma das mais utilizadas pelos grandes mestres contra a abertura do pe\u00e3o rei. A id\u00e9ia e combater o centro e acelerar o desenvolvimento do flanco dama, permitindo um jogo aberto e de alto risco.",
+                    "en": "The Sicilian defense is one of the most common among grandmasters against the King-pawn opening. The idea is to fight the center and accelerate development on the queenside enabling an open and highly risky game.",
+                    "es": "La defensa Siciliana es una de las m\u00e1s utilizadas por los grandes maestros contra la apertura del pe\u00f3n rey. La idea es luchar por el centro y acelerar el desarrollo del flanco dama, lo que permite un juego abierto y de alto riesgo.",
+                    "de": "Die Sizilianische Verteidigung ist die meistgespielte unter Gro\u00dfmeistern. Schwarz m\u00f6chte um das Zentrum k\u00e4mpfen und den Damenfl\u00fcgel schnell entwickelt, was zu risikoreichen Stellungen f\u00fchrt.",
+                    "zh": "\u897f\u897f\u91cc\u9632\u5fa1\u662f\u5927\u5e08\u4eec\u6700\u5e38\u7528\u7684\u6765\u5bf9\u6297\u738b\u5175\u5f00\u5c40\u7684\u65b9\u6cd5\u4e4b\u4e00\u3002\u76ee\u7684\u662f\u4e89\u593a\u4e2d\u5fc3\u5e76\u4e14\u52a0\u901f\u540e\u7ffc\u51fa\u5b50\uff0c\u83b7\u5f97\u4e00\u4e2a\u5f00\u653e\u5e76\u9ad8\u98ce\u9669\u7684\u5c40\u9762\u3002",
+                    "pl": "Obrona sycylijska jest najcz\u0119\u015bciej grana przez arcymistrz\u00f3w wobec otwarcia pionem kr\u00f3lewskim. Ide\u0105 jest walka o centrum i przyspieszenie rozwoju na skrzydle hetma\u0144skim umo\u017cliwiaj\u0105c otwart\u0105, cho\u0107 bardzo ryzykown\u0105 gr\u0119.",
+                    "ru": "\u0421\u0438\u0446\u0438\u043b\u0438\u0430\u043d\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 - \u043e\u0434\u043d\u0430 \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u043e\u0441\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0433\u0440\u043e\u0441\u0441\u043c\u0435\u0439\u0441\u0442\u0435\u0440\u0430\u043c\u0438, \u043f\u0440\u043e\u0442\u0438\u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0418\u0434\u0435\u044f \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0431\u043e\u0440\u044c\u0431\u0435 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u043e\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0432\u0435\u0441\u0442\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0438 \u0440\u0438\u0441\u043a\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0438\u0433\u0440\u0443."
+                }
+            },
+            {
+                "move": "   2. Nf3 Nc6 3. d4 ",
+                "comment": {
+                    "pt": "Esta jogada caracteriza a variante aberta da defesa Siciliana, que \u00e9 uma das mais discutida no xadrez e in\u00fameras vezes foi utilizada em finais de campeonatos mundiais. As brancas abrem todas as linhas para o desenvolvimento e apostam no ataque r\u00e1pido, enquanto as pretas buscar\u00e3o o contraataque no flanco dama e centro. H\u00e1 v\u00e1rios sistemas defensivos para as pretas e estudaremos cada um separadamente.",
+                    "en": "This move characterizes the open variation of the Sicilian defense that is one of the most discussed ones and repeatedly used in World Championships. White opens all lines for development and bet on fast attack, while Black looks for a counter-attack on the queenside and the center. There are several defensive systems for Black and they will be discussed separately.",
+                    "es": "Esta jugada caracteriza a la variante abierta de la Defensa Siciliana, que es una de las m\u00e1s discutidas en el ajedrez y fue utilizada innumerables veces en finales de campeonatos mundiales. Las blancas abren todas las l\u00edneas para el desarrollo y apuestan a un ataque r\u00e1pido, mientras que las negras buscar\u00e1n el contraataque en el flanco dama y centro. Hay varios sistemas defensivos para las negras y estudiaremos cada uno por separado.",
+                    "de": "Dieser Zug kennzeichnet die Offene Variante der Sizilianischen Verteidigung, die oft in Weltmeisterschftspartien gespielt wurde. Wei\u00df \u00f6ffnet alle m\u00f6glichen Linien f\u00fcr die Entwicklung und baut auf einen schnellen Angriff, w\u00e4hrend Schwarz Gegenspiel am Damenfl\u00fcgel und im Zentrum sucht. Es gibt mehrere Systeme f\u00fcr Schwarz, die wir im Folgenden analysieren werden.",
+                    "zh": "\u8fd9\u4e00\u6b65\u662f\u897f\u897f\u91cc\u9632\u5fa1\u7684\u5f00\u653e\u53d8\u4f8b\uff0c\u8fd9\u662f\u8ba8\u8bba\u6700\u591a\u7684\u5e76\u4e14\u5728\u4e16\u754c\u68cb\u738b\u8d5b\u4e2d\u53cd\u590d\u4f7f\u7528\u7684\u4e00\u79cd\u53d8\u4f8b\u3002\u767d\u65b9\u4e3a\u51fa\u5b50\u5f00\u653e\u6240\u6709\u8def\u7ebf\u5e76\u4e14\u8d4c\u5feb\u653b\uff1b\u76f8\u53cd\u9ed1\u65b9\u5728\u540e\u7ffc\u548c\u4e2d\u5fc3\u5bfb\u6c42\u53cd\u653b\u3002\u9ed1\u65b9\u6709\u597d\u51e0\u4e2a\u9632\u5fa1\u7cfb\u7edf\uff0c\u4e4b\u540e\u4f1a\u5355\u72ec\u8ba8\u8bba\u3002",
+                    "pl": "Ten ruch charakteryzuje otwart\u0105 wariacj\u0119 obrony sycylijskiej, kt\u00f3ra jest jedn\u0105 z najbardziej dyskutowanych, ale r\u00f3wnie\u017c najcz\u0119\u015bciej u\u017cywanych w meczach o Mistrzostwo \u015awiata. Bia\u0142e otwieraj\u0105 wszystkie linie dla rozwoju i licz\u0105 na szybki atak, podczas gdy Czarne szukaj\u0105 kontrataku na skrzydle hetma\u0144skim i w centrum. Jest kilka defensywnych system\u00f3w dla Czarnych, wi\u0119c b\u0119d\u0105 dyskutowane oddzielnie.",
+                    "ru": "\u042d\u0442\u043e\u0442  \u0445\u043e\u0434 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0421\u0438\u0446\u0438\u043b\u0438\u0430\u043d\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b, \u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0447\u0430\u0441\u0442\u043e \u0434\u0438\u0441\u043a\u0443\u0442\u0438\u0440\u0443\u044e\u0442 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u043d\u0430 \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u0430\u0445 \u041c\u0438\u0440\u0430. \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u0432\u0441\u0435 \u0441\u0432\u043e\u0438 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438 \u0434\u0435\u043b\u0430\u044e\u0442 \u0441\u0442\u0430\u0432\u043a\u0443 \u043d\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043a \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0415\u0441\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u0449\u0438\u0442\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445, \u043e \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043d\u043e \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e."
+                }
+            },
+            {
+                "move": "   cxd4 4. Nxd4 Nf6 5. Nc3 d6 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante dos quatro cavalos, onde as pretas mant\u00e9m a op\u00e7\u00e3o de jogar .. . e6 ou ...e5 e ainda aguardam para definir a posi\u00e7\u00e3o de seus bispos.",
+                    "en": "This is the 4 Knights variation where Black maintains the option to play ... e6 or ...e5 and waits to determine the position of its Bishops.",
+                    "es": "Esta es la Variante de los Cuatro Caballos, donde las negras mantienen la opci\u00f3n de jugar ...e6 o ...e5 y aguardar para definir la posici\u00f3n de sus alfiles.",
+                    "de": "Die Vierspringervariante, in der Schwarz die M\u00f6glichkeit offen h\u00e4lt, entweder ...e6 oder ...e5 zu spielen und mit der Entwicklung der L\u00e4ufer wartet.",
+                    "zh": "\u8fd9\u662f\u56db\u9a6c\u53d8\u4f8b\uff0c\u9ed1\u65b9\u4fdd\u6301\u8d70... e6\u6216e5\u7684\u9009\u62e9\u5e76\u7b49\u5f85\u51fa\u9ed1\u8c61\u3002",
+                    "pl": "Wariacja 4 Skoczk\u00f3w, gdzie Czarne zachowuj\u0105 opcj\u0119 zagrania ... e6 lub ... e5 i oczekuj\u0105 na okre\u015blenie pozycji w\u0142asnych Go\u0144c\u00f3w.",
+                    "ru": "\u042d\u0442\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0447\u0435\u0442\u044b\u0440\u0435\u0445 \u041a\u043e\u043d\u0435\u0439, \u0433\u0434\u0435 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0435\u0441\u0442\u044c \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b ...e6 \u0438 ...e5."
+                }
+            },
+            {
+                "move": "   6. Bg5 ",
+                "comment": {
+                    "pt": "Outras op\u00e7\u00f5es s\u00e3o; 6-Bc4 a favorita de Bobby Fischer, que ocorreu nas partidas 345 a 351. 6-Be2 (partidas 352 e 353) 6-g3 6- f4 (partida 364) 6- Be36-f3",
+                    "en": "Other options are : 6-Bc4 Bobby Fischer's favorite that is presented in games 345 to 351, 6-Be2 (games 352 and 353), 6-g3, 6-f4 (game 364) , 6- Be3, 6-f3.",
+                    "es": "Otras opciones son: 6-Ac4, la favorita de Bobby Fischer, que ocurri\u00f3 en las partidas 345 a 351. 6-Ae2 (partidas 352 y 353) 6-g3 6- f4 (partida 364) 6- Ae3, 6-f3.",
+                    "de": "Andere M\u00f6glichkeiten: 6. Lc4 (Bobby Fischers Lieblingsvariante, die in den Partien 345 bis 351 zu sehen ist; 6. Le2 (Partien 352 und 353); 6. g3; 6. f4 (Partie Nr. 364) 6.  Be3 6.f3.",
+                    "zh": "\u53e6\u5916\u7684\u9009\u62e9\u662f\uff1a6-Bc4\u9c8d\u6bd4\u00b7\u83f2\u820d\u5c14\u6240\u949f\u7231\uff0c\u5728\u68cb\u5c40345\u5230351\u4e2d\u4ecb\u7ecd\uff0c6-Be2\uff08\u68cb\u5c40352\u548c353\uff09\uff0c6-g3, 6-f4\uff08\u68cb\u5c40364\uff09\uff0c6- Be3, 6-f3\u3002",
+                    "pl": "Innymi opcjami s\u0105: 6. Gc4, ulubiony ruch Bobbiego Fischera, prezentowany w grach od 345 do 351, 6. Ge2 (gry 352 i 353), 6. g3, 6. f4 (partia 364), 6. Ge3, 6. f3.",
+                    "ru": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442: 6-Bc4 - \u043b\u044e\u0431\u0438\u043c\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0411\u043e\u0431\u0431\u0438 \u0424\u0438\u0448\u0435\u0440\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0430\u0445 345-351, 6-Be2 (\u0438\u0433\u0440\u044b 352 \u0438 353), 6-g3, 6-f4 (\u0438\u0433\u0440\u0430 364), 6- Be3, 6-f3."
+                }
+            },
+            {
+                "move": "   e6 7. Qd2 ",
+                "comment": {
+                    "pt": "A jogada 7-Be2 n\u00e3o \u00e9 coerente com o desenvovimento Bg5 e ocorre na partida 359.",
+                    "en": "7-Be2 isn't consistent with the development Bg5 and appears in game 359.",
+                    "es": "La jugada 7-Ae2 no es coherente con el desarrollo Ag5 y ocurre en la partida 359.",
+                    "de": "7. Le2 passt zu Lg5 nicht (Partie Nr. 359).",
+                    "zh": "7-Be2\u8ddfBg5\u51fa\u5b50\u4e0d\u5339\u914d\uff0c\u51fa\u73b0\u5728\u68cb\u5c40359\u4e2d\u3002",
+                    "pl": "7. Ge2 nie przystaje do wyprowadzenia Gg5 i pojawia si\u0119 w partii 359.",
+                    "ru": "7-Be2 \u043d\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0443\u0435\u0442\u0441\u044f \u0441 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c Bg5 \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 359."
+                }
+            },
+            {
+                "move": "   Be7 ",
+                "comment": {
+                    "pt": "As pretas podem acelerar o desenvolvimento do flanco dama com ...Bd7 e . . .a6 ou ainda podem optar por ...h6 rapidamente. As partidas 356, 357 , 361, 362 e 363 tratam destas id\u00e9ias.",
+                    "en": "Black can accelerate the development on the queenside with ...Bd7 and . ..a6 or can still choose the fast ...h6. Games356, 357, 361, 362 and 363 deal with these ideas.",
+                    "es": "Las negras pueden acelerar el desarrollo del flanco dama con ...Ad7 y . . .a6 o pueden optar por ...h6 r\u00e1pidamente. Las partidas 356, 357, 361, 362 y 363 tratan estas ideas.",
+                    "de": "Schwarz kann die Entwicklung vom Damenfl\u00fcgel mit ...Ld7 und ...a6  beschleunigen oder aber kann sofort ...h6 spielen. Die Partien Nr. 356, 357, 361, 362 und 363 zeigen diese Z\u00fcge.",
+                    "zh": "\u9ed1\u65b9\u53ef\u4ee5\u8d70 ...Bd7\u548c . ..a6\u5728\u540e\u7ffc\u52a0\u901f\u51fa\u5b50\uff0c\u6216\u8005\u8fd8\u53ef\u4ee5\u9009\u62e9\u8f83\u5feb\u7684...h6\u3002\u68cb\u5c40356\u3001357\u3001361\u3001362\u548c363\u4e2d\u6709\u4ecb\u7ecd\u3002",
+                    "pl": "Czarne mog\u0105 przyspieszy\u0107 wyprowadzenie figur na skrzydle hetma\u0144skim przez ... Gd7 i ... a6 lub mog\u0105 ci\u0105gle zagra\u0107 szybkie ... h6. Partie 356, 357, 361, 362 i 363 dziel\u0105 te idee.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0443\u0441\u043a\u043e\u0440\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 ...Bd7 \u0438 ...a6 \u0438\u043b\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0435\u0449\u0435 \u0431\u043e\u043b\u0435\u0435 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u043d\u0430 ...h6. \u0418\u0433\u0440\u044b 356, 357, 361, 362 \u0438 363 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u044d\u0442\u0443 \u0438\u0434\u0435\u044e."
+                }
+            },
+            {
+                "move": "   8. O-O-O O-O ",
+                "comment": {
+                    "pt": "As brancas desenvolver\u00e3o um ataque no flanco rei avan\u00e7ando seus pe\u00f5es (f4-g4), enquanto as pretas podem avan\u00e7ar no flanco dama (...a6...b5) e utilizar a coluna \"c\" para atacar o rei branco (partidas 354, 355,358 e 360).",
+                    "en": "White will develop an attack on the kingside advancing its pawns (f4-g4), while Black can advance on the queenside (...a6...b5) and use the c-file to attack the white King (games 354, 355, 358 and 360).",
+                    "es": "Las blancas desarrollar\u00e1n un ataque en el flanco rey avanzando sus peones (f4-g4), mientras que las negras pueden  avanzar en el flanco dama (...a6...b5) y utilizar a columna \"c\" para atacar el rey blanco (partidas 354, 355,358 y 360).",
+                    "de": "Wei\u00df f\u00fchrt einen Angriff am K\u00f6nigsfl\u00fcgel mit seinen Bauern (f4-g4), w\u00e4hrend Schwarz die Bauern am Damenfl\u00fcgel (...a6...b5) vorr\u00fccken und die c-Linie benutzen kann, um den wei\u00dfen K\u00f6nig anzugreifen (Partien Nr. 354, 355, 358 und 360).",
+                    "zh": "\u767d\u65b9\u5728\u738b\u7ffc\u633a\u5175\uff08f4-\u5175\uff09\u53d1\u52a8\u8fdb\u653b\uff0c\u9ed1\u65b9\u5219\u548c\u53ef\u4ee5\u5728\u540e\u7ffc\u63a8\u8fdb\uff08...a6...b5\uff09\u5e76\u4f7f\u7528c-\u7ebf\u653b\u51fb\u767d\u738b\uff08\u68cb\u5c40354\u3001355\u3001358\u548c360\uff09\u3002",
+                    "pl": "Bia\u0142e zaatakuj\u0105 skrzyd\u0142o kr\u00f3lewskie marszem pion\u00f3w (f4-g4), podczas gdy Czarne mog\u0105 przyspieszy\u0107 na skrzydle hetma\u0144skim (... a6 ... b5) i u\u017cy\u0107 kolumny c do ataku bia\u0142ego Kr\u00f3la (partie 354, 355, 358 i 360).",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u0441\u0432\u043e\u0438\u0445 \u043f\u0435\u0448\u0435\u043a (f4-g4), \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (...a6 ...b5) \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f (\u0438\u0433\u0440\u044b 354, 355, 358 \u0438 360)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

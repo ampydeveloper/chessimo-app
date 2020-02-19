@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(8)",
+            "zh": "Event 1"
+        },
+        "fen": "2r5\/2r1kpp1\/pq1npb1p\/1p1p4\/3P4\/PP1BP3\/3QNPPP\/3R1RK1 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Rc1 ",
+                "comment": {
+                    "pt": "Para disputar a \u00fanica coluna aberta.",
+                    "en": "In order to dispute the only open file.",
+                    "de": "K\u00e4mpft um die einzige offene Linie.",
+                    "es": "Para disputar la \u00fanica columna abierta.",
+                    "zh": "\u4e89\u593a\u552f\u4e00\u4e00\u6761\u5f00\u653e\u7ebf\u3002",
+                    "pl": "W celu sporu o jedyn\u0105 otwart\u0105 kolumn\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043f\u043e\u0440\u0438\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(20)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qk1nr\/ppp2ppp\/2np4\/bB6\/3pP1b1\/2P2N2\/P4PPP\/RNBQ1RK1 w kq - 0 9",
+        "moves": [
+            {
+                "move": "9. cxd4 ",
+                "comment": {
+                    "pt": "Dominando o centro.",
+                    "en": "Controlling the center.",
+                    "de": "Beherrscht das Zentrum.",
+                    "es": "Dominando el centro.",
+                    "zh": "\u63a7\u5236\u4e2d\u5fc3\u3002",
+                    "pl": "Kontroluj\u0105c centrum.",
+                    "ru": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0446\u0435\u043d\u0442\u0440."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(31)",
+            "zh": "Event 1"
+        },
+        "fen": "q4rk1\/1bp1bppp\/2np4\/2n1p3\/1p2P3\/2PP1N2\/1PBN1PPP\/2BQR1K1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. d4 ",
+                "comment": {
+                    "pt": "Para expulsar o cavalo de c5.",
+                    "en": "In order to chase the Knight out of c5.",
+                    "de": "Um den Springer von c5 zu vertreiben.",
+                    "es": "Para expulsar el caballo de c5.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u8d76\u51fac5\u3002",
+                    "pl": "W celu przegonienia Skoczka z c5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0441 \u043f\u043e\u043b\u044f c5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(45)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/1p5p\/p1k3p1\/P1P2p2\/2P1bP2\/4K1PB\/7P\/8 w - - 0 41",
+        "moves": [
+            {
+                "move": "41. Kd4 ",
+                "comment": {
+                    "pt": "Defendendo o pe\u00e3o e centralizando o rei.",
+                    "en": "Defending the pawn and centralizing the King.",
+                    "de": "Verteidigt den Bauern und zentralisiert den K\u00f6nig.",
+                    "es": "Defendiendo el pe\u00f3n y centralizando el rey.",
+                    "zh": "\u9632\u5fa1\u5175\u5e76\u5c06\u738b\u4e2d\u5fc3\u5316\u3002",
+                    "pl": "Broni\u0105c piona i centralizuj\u0105c Kr\u00f3la.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(27)",
+            "zh": "Event 1"
+        },
+        "fen": "3b1r2\/1q4k1\/n1p1Qpp1\/p3p2p\/P3P3\/2P1BN1P\/1P4PK\/5R2 w - - 0 33",
+        "moves": [
+            {
+                "move": "33. Rd1 ",
+                "comment": {
+                    "pt": "Dominando a coluna aberta.",
+                    "en": "Dominating the open file.",
+                    "de": "Beherrscht die offene Linie.",
+                    "es": "Dominando la columna abierta.",
+                    "zh": "\u7edf\u6cbb\u5f00\u653e\u7ebf\u3002",
+                    "pl": "Dominacja nad otwart\u0105 kolumn\u0105.",
+                    "ru": "\u0414\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

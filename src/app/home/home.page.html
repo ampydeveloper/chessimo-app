@@ -1,0 +1,73 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-title>
+      <img class="logo_toolbar" src="../../assets/images/chessimo_logo.png"/>
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content no-bounce class="page-content homepage">
+  <div class="d-flex flex-column upper-body">
+    <div class="d-flex flex-1 align-items-center">
+        <div class="circleTab" style="padding:8px">
+          <div class="tag-icon-outer" (click)="gotoTrainOverview()">
+            <div class="tag-icon">
+              <img class="icon" src="../../assets/images/big_knight.png" />
+            </div>
+            <div class="grey-border"></div>
+            <div class="green-border"></div>
+          </div>
+        </div>
+        <div class="tag-content-col">
+          <div class="tag-content">
+            <h1>TRAIN</h1>
+            <p>Improve your chess with the chessimo method.</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="d-flex flex-1 align-items-center">
+        <div class="circleTab" style="padding:8px">
+          <div class="tag-icon-outer" (click)="gotoCheckOptions()">
+            <div class="tag-icon">
+              <img class="icon" src="../../assets/images/big_rook.png" />
+            </div>
+            <div class="grey-border"></div>
+            <div class="green-border"></div>
+          </div>
+        </div>
+        <div class="tag-content-col">
+          <div class="tag-content">
+            <h1>CHECK</h1>
+            <p>Test your skills against the Stockfish Chess engine.</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="d-flex flex-1 align-items-center">
+        <div class="circleTab" style="padding:8px">
+          <div class="tag-icon-outer" (click)="gotoPlayOptions()">
+            <div class="tag-icon">
+              <img class="icon" src="../../assets/images/big_queen.png" />
+            </div>
+            <div class="grey-border"></div>
+            <div class="green-border"></div>
+          </div>
+        </div>
+        <div class="tag-content-col">
+          <div class="tag-content">
+            <h1>PLAY</h1>
+            <p>Compete with partner, One-on-One</p>
+          </div>
+        </div>
+    </div>
+  </div>
+  <div style="padding: 0 10px;"> 
+    <div class="bottom-button">
+      <ion-button fill="outline" color="white" (click)="gotoShop()"><img src="../../assets/images/shopping-cart.png" />Shop</ion-button>
+      <ion-button fill="outline" color="white" (click)="gotoHelp()"><img src="../../assets/images/light-bulb.png" />Help</ion-button>
+      <ion-button fill="outline" color="white" (click)="gotoAbout()"><img src="../../assets/images/info.png" />About Chessimo</ion-button>
+    </div>
+  </div>
+</ion-content>

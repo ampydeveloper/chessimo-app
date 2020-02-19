@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Defesa India antiga",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Old indian defense",
+            "de": "Altindische Verteidigung",
+            "es": "Defensa India antigua",
+            "pt": "Defesa India antiga",
+            "zh": "\u53e4\u5370\u5ea6\u9632\u5fa1",
+            "pl": "Obrona staroindyjska",
+            "ru": "\u0421\u0442\u0430\u0440\u043e\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 ",
+                "comment": {
+                    "pt": "A defesa India antiga \u00e9 parecida com a defesa Philidor contra a abertura do pe\u00e3o rei. As pretas ficar\u00e3o restringidas, por\u00e9m numa posi\u00e7\u00e3o s\u00f3lida.Se decidirem fianchetar seu bispo (...g6-Bg7) ir\u00e3o transpor para a defesa India do Rei. Tamb\u00e9m \u00e9 poss\u00edvel a jogada 3...Cbd7 para depois jogar ...e5.",
+                    "en": "The old Indian defense is similar to the Philidor defense against the King-pawn opening. Black is in a restricted but solid position. If it decides to \"fianchetto\" its Bishop (...g6-Bg7) it will be transposed to the King's Indian defense. 3...Nbd7 is also possible in order to play ...e5 afterwards.",
+                    "es": "La Defensa India antigua es parecida a la Defensa Philidor contra la apertura de pe\u00f3n rey. Las negras quedar\u00e1n restringidas, pero en una posici\u00f3n s\u00f3lida. Si deciden \"fianchettar\" su alfil (. ..g6-Ag7), van a transponer a la Defensa India de Rey. Tambi\u00e9n es posible la jugada 3...Cbd7 para jugar despu\u00e9s ...e5.",
+                    "de": "Die Altindische Verteidigung hat \u00c4hnlichkeiten mit der Philidor-Verteidigung gegen 1.e4. Schwarz spielt mit wenig Raum, hat daf\u00fcr aber eine solide Stellung. Durch Fianchetto (...g6 nebst Lg7) wird in die K\u00f6nigsindiche Verteidigung \u00fcbergegangen. M\u00f6glich ist auch 3...Sbd7 mit der Idee ...e5.",
+                    "zh": "\u53e4\u5370\u5ea6\u9632\u5fa1\u8ddf\u83f2\u5229\u591a\u5c14\u9632\u5fa1\u7c7b\u4f3c\u6765\u5bf9\u4ed8\u738b\u5175\u5f00\u5c40\u3002\u9ed1\u68cb\u5728\u4e00\u4e2a\u76f8\u5bf9\u6d3b\u52a8\u53d7\u9650\uff0c\u4f46\u662f\u5f88\u7a33\u56fa\u7684\u5c40\u9762\u3002\u5982\u679c\u5b83\u51b3\u5b9a\u201c\u4fa7\u7ffc\u51fa\u52a8\u201d\u8c61\uff08...g6-Bg7\uff09\u90a3\u4e48\u4f1a\u6f14\u53d8\u6210\u738b\u7ffc\u5370\u5ea6\u9632\u5fa1\u30023...Nbd7\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4e4b\u540e\u53ef\u4ee5\u8d70...e5\u3002",
+                    "pl": "Obrona staroindyjska jest podobna do obrony Philidora u\u017cywanej przeciw otwarciom kr\u00f3lewskiego piona. Czarne s\u0105 w ograniczonej, ale solidnej pozycji. Je\u015bli zdecyduj\u0105 si\u0119 na fianchetto Go\u0144cem (... g6-Gg7) pozycja przetransponuje si\u0119 do obrony kr\u00f3lewsko-indyjskiej. 3. ... Sbd7 jest r\u00f3wnie\u017c mo\u017cliwe w celu zagrania ... e5 w p\u00f3\u017aniejszym czasie.",
+                    "ru": "\u0421\u0442\u0430\u0440\u043e\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u043f\u043e\u0445\u043e\u0436\u0430 \u043d\u0430 \u0437\u0430\u0449\u0438\u0442\u0443 \u0424\u0438\u043b\u0438\u0434\u043e\u0440\u0430, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u0430\u044f, \u043d\u043e \u043f\u0440\u043e\u0447\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f. \u0415\u0441\u043b\u0438 \u043e\u043d\u0438 \u0440\u0435\u0448\u0430\u0442 \u0444\u0438\u0430\u043d\u043a\u0438\u0442\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 (...g6-Bg7), \u044d\u0442\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u0442 \u043f\u0430\u0440\u0442\u0438\u044e \u0432 \u041d\u043e\u0432\u043e\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u0443\u044e \u0437\u0430\u0449\u0438\u0442\u0443. \u0425\u043e\u0434 3...Nbd7 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u0434\u043b\u044f \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u0439 \u0438\u0433\u0440\u044b ...e5."
+                }
+            },
+            {
+                "move": "   4. e4 ",
+                "comment": {
+                    "pt": "Jogar 4-dxe5 para trocar as damas e evitar que as pretas roquem n\u00e3o deixa as brancas em vantagem, pois neste final a perda do roque n\u00e3o \u00e9 importante. Uma boa alternativa \u00e9 4-Cf3 Cbd7 5-g3 , ou 5-e4 com maior dom\u00ednio central. Bons exemplos de como jogar esta posi\u00e7\u00e3o ocorrem nas partidas 587 e 588.",
+                    "en": "4-dxe5 in order to exchange Queens and prevent Black from castling doesn't give White advantage because in this endgame losing castling isn't important. An alternative is 4-Nf3 Nbd7 5-g3, or 5-e4 with a greater central domain. Good examples of how to play this position are in games 587 and 588.",
+                    "es": "Jugar 4-dxe5 para cambiar las damas y evitar que las negras enroquen no les da ventaja a las blancas, pues en este final la p\u00e9rdida del enroque no es importante. Una buena alternativa es 4-Cf3 Cbd7 5-g3, o 5-e4 con mayor dominio central. Buenos ejemplos de c\u00f3mo jugar esta posici\u00f3n ocurren en las partidas 587 y 588.",
+                    "de": "4. dxe5  mit der Idee, die Damen abzutauschen und die schwarze Rochade zu verhindern bringt Wei\u00df nicht in Vorteil, da auf dieser Stellung die Rochade nicht so wichtig ist. Eine gute Alternative ist 4. Sf3 Sbd7 5. g3  oder 5. e4 mit Kontrolle des Zentrums. Einige Beispiele kann man in den Partien Nr. 587 und 588 sehen.",
+                    "zh": "\u8d704-dxe5\u4e3a\u4e86\u5151\u540e\uff0c\u963b\u6b62\u9ed1\u65b9\u738b\u8f66\u6613\u4f4d\uff0c\u5e76\u6ca1\u6709\u7ed9\u767d\u65b9\u5e26\u6765\u4f18\u52bf\uff0c\u56e0\u4e3a\u5728\u6b8b\u5c40\u9519\u5931\u738b\u8f66\u6613\u4f4d\u95ee\u9898\u5e76\u4e0d\u4e25\u91cd\u3002\u53e6\u5916\u4e00\u79cd\u8d70\u6cd5\u662f4-Nf3 Nbd7 5-g3\uff0c\u6216\u80055-e4\uff0c\u62e5\u6709\u4e00\u4e2a\u7edd\u5bf9\u7684\u4e2d\u5fc3\u7edf\u6cbb\u3002\u68cb\u5c40587\u548c588\u662f\u5982\u4f55\u8d70\u597d\u8fd9\u4e2a\u5c40\u9762\u7684\u5f88\u597d\u7684\u4f8b\u5b50\u3002",
+                    "pl": "4. dxe5 w celu wymiany Hetman\u00f3w i uniemo\u017cliwienia Czarnym roszowania nie daje Bia\u0142ym przewagi, poniewa\u017c w wynikaj\u0105cej st\u0105d ko\u0144c\u00f3wce utrata tej mo\u017cliwo\u015bci nie jest wa\u017cna. Alternatyw\u0105 jest 4. Sf3 Sbd7 5. g3 lub 5. e4 z wi\u0119ksz\u0105 dominacj\u0105 w centrum. Dobrzym przyk\u0142adem jak gra\u0107 w tej pozycji s\u0105 partie 587 i 588.",
+                    "ru": "4-dxe5, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0424\u0435\u0440\u0437\u0435\u0439. \u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043d\u0435 \u0434\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043f\u043e\u0442\u0435\u0440\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0432 \u044d\u043d\u0434\u0448\u043f\u0438\u043b\u0435 \u043d\u0435 \u0442\u0430\u043a \u0432\u0430\u0436\u043d\u0430. \u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 4-Nf3 Nbd7 5-g3, \u0438\u043b\u0438 5-e4 \u0441 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c. \u0425\u043e\u0440\u043e\u0448\u0438\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u0442\u0430\u043a\u043e\u0439 \u0438\u0433\u0440\u043e\u0432\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0441\u043b\u0443\u0436\u0430\u0442 \u0438\u0433\u0440\u044b 587 \u0438 588, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   exd4 ",
+                "comment": {
+                    "pt": "Para ganhar um tempo atacando a dama branca. A op\u00e7\u00e3o \u00e9 4...Cbd7.",
+                    "en": "In order to win a tempo attacking the white Queen. The option is 4... Nbd7.",
+                    "es": "Para ganar un tiempo atacando la dama blanca. La opci\u00f3n es 4...Cbd7.",
+                    "de": "Um ein Tempo durch den Angriff auf die wei\u00dfe Dame zu gewinnen. Eine Alternative ist 4...Sbd7.",
+                    "zh": "\u4e3a\u4e86\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u653b\u51fb\u767d\u540e\u3002\u9009\u62e9\u662f4... Nbd7\u3002",
+                    "pl": "W celu zdobycia tempa atakuj\u0105c bia\u0142ego Hetmana. Opcj\u0105 jest 4. ... Sbd7.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0442\u0435\u043c\u043f, \u0430\u0442\u0430\u043a\u0443\u044e \u0431\u0435\u043b\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f. \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u0430\u0442\u044c 4...Nbd7."
+                }
+            },
+            {
+                "move": "   5. Qxd4 Nc6 6. Qd2 g6 7. b3 ",
+                "comment": {
+                    "pt": "Excelente jogada para disputar a grande diagonal.",
+                    "en": "Excellent move to fight for the big diagonal.",
+                    "es": "Excelente jugada para disputar la gran diagonal.",
+                    "de": "Ausgezeichneter Zug, um um die lange Diagonale zu k\u00e4mpfen.",
+                    "zh": "\u4e0a\u4f73\u7684\u8d70\u6cd5\u62a2\u593a\u5927\u659c\u7ebf\u3002",
+                    "pl": "Wy\u015bmienity ruch do walki o d\u0142ug\u0105 przek\u0105tn\u0105.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 \u0434\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0437\u0430 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            },
+            {
+                "move": "   Bg7 8. Bb2 O-O 9. Bd3 Ng4 ",
+                "comment": {
+                    "pt": "Para ir com o cavalo em e5 e liberar o avan\u00e7o do pe\u00e3o f, que permitir\u00e1 a abertura da coluna \"e\" , para aproveitar a situa\u00e7\u00e3o do rei branco no centro (partidas 585 e 586).",
+                    "en": "In order to take the Knight to e5 and liberate the advance of the f-pawn that allows the opening of the e-file, taking advantage of the situation of the white King in the center (games 585 and 586).",
+                    "es": "Para ir con el caballo a e5 y liberar el avance del pe\u00f3n f, lo que permitir\u00e1 la apertura de la columna \"e\", para aprovechar la situaci\u00f3n del rey blanco en el centro (partidas 585 y 586).",
+                    "de": "Die Idee ist, den Springer auf e5 nebst Vorr\u00fccken des f-Bauern zu setzen und die e-Linie zu \u00f6ffnen, um von der zentralen Stellung des wei\u00dfen K\u00f6nigs zu profitieren (Partien Nr. 585 und 586).",
+                    "zh": "\u76ee\u7684\u662f\u4e3a\u4e86\u5229\u7528\u767d\u738b\u5728\u4e2d\u5fc3\u7684\u4f4d\u7f6e\uff0c\u5c06\u9a6c\u79fb\u5230e5\uff0c\u63a8\u8fdbf-\u5175\uff0c\u4f7fe-\u7ebf\u5f00\u653e\u3002",
+                    "pl": "W celu przemieszczenia Skoczka na e5 i uwolnienia mo\u017cliwo\u015bci marszu pionem f, co pozwoli na otwarcie kolumny e, a to znowu\u017c da przewag\u0119 w sytuacji, kiedy bia\u0142y Kr\u00f3l jest w centrum (partie 585 i 586).",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c \u043f\u043e\u043b\u0435 e5 \u0438 \u043f\u043e\u043c\u043e\u0447\u044c f-\u043f\u0435\u0448\u043a\u0435 \u0432 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438, \u043e\u0442\u043a\u0440\u044b\u0442\u044c e-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0432\u0448\u0438\u0441\u044c \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0435\u0439 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u044b 585 \u0438 586)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

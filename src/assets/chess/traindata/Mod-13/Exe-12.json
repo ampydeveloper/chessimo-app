@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/pp2b1p1\/4pn1p\/n2p4\/8\/2N1B1P1\/PPQ1PPBP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qg6 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando Bxh6 e iniciando um ataque ao rei preto.",
+                    "en": "Threatening Bxh6 and starting an offensive against the black King.",
+                    "es": "Amenazando Axh6 e iniciando un ataque al rey negro.",
+                    "de": "Droht Lxh6 und leitet einen Angriff auf den schwarzen K\u00f6nig ein.",
+                    "zh": "\u5a01\u80c1Bxh6\uff0c\u5bf9\u9ed1\u738b\u53d1\u8d77\u8fdb\u653b\u3002",
+                    "pl": "Zagra\u017caj\u0105c Gxh6 i rozpoczynaj\u0105c ofensyw\u0119 przeciwko czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Bxh6 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qrnk1\/pp3pb1\/2p1b1pp\/3p2P1\/3P3P\/2NBPN2\/PPQ2P2\/2KR3R b - - 0 1",
+        "moves": [
+            {
+                "move": "1... h5 ",
+                "comment": {
+                    "pt": "Evitando a abertura de linhas contra o pr\u00f3prio rei.",
+                    "en": "Preventing the line opening against its own King.",
+                    "es": "Evitando a apertura de l\u00edneas contra el propio rey.",
+                    "de": "Verhindert die \u00d6ffnung von Linien vor der eigenen K\u00f6nigsstellung.",
+                    "zh": "\u9632\u6b62\u5f00\u653e\u5df1\u65b9\u738b\u524d\u9762\u7684\u8def\u7ebf\u3002",
+                    "pl": "Zapobiegaj\u0105c otwarciom linii na w\u0142asnego Kr\u00f3la.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u043b\u0438\u043d\u0438\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pb2bppp\/1pn1pn2\/6B1\/3P4\/P1NQ1N2\/1PB2PPP\/R3R1K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g6 ",
+                "comment": {
+                    "pt": "\u00danica jogada para defender a amea\u00e7a branca de tomar o cavalo em f6 , seguido de Dh7.",
+                    "en": "The only way to react to the white threat of taking the f6-Knight followed by Qh7.",
+                    "es": "\u00danica jugada para defender la amenaza blanca de tomar el caballo en f6, seguido de Dh7.",
+                    "de": "Einziger Zug, um die wei\u00dfe Bedrohung abzuwehren, den Springer zu schlagen nebst Dxh7.",
+                    "zh": "\u552f\u4e00\u53ef\u4ee5\u62b5\u6297\u767d\u65b9\u5a01\u80c1\u7684\u4e00\u6b65\uff0c\u8ddf\u7740\u4e0bQh7\u653b\u51fb\u767d\u9a6c\u3002",
+                    "pl": "Jedyna reakcja na atak bia\u0142ych i wzi\u0119cie Skocza f6 kontynuowane przez Hh7.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0442\u0440\u0435\u0430\u0433\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0443\u0433\u0440\u043e\u0437\u0443 \u0411\u0435\u043b\u044b\u0445 \u043f\u043e \u0432\u0437\u044f\u0442\u0438\u044e \u041a\u043e\u043d\u044f f6 - \u044d\u0442\u043e \u0438\u0433\u0440\u0430 Qh7."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1p1bbppp\/p1nppn1B\/8\/4P3\/1NNB2Q1\/PPP2PPP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Ne8 ",
+                "comment": {
+                    "pt": "A melhor defesa para o ponto g7, uma vez que nesta casa o cavalo preto n\u00e3o pode ser atacado. Se 1...Ch5 seguiria Dg4 atacando o cavalo e 1...g6 perderia a qualidade ap\u00f3s 2-Bxf8.",
+                    "en": "The best defense for g7, because the Knight can't be attacked at this place. If 1...Nh5, then Qg4 would follow attacking the Knight and1...g6 would lead to loss of quality after 2-Bxf8.",
+                    "es": "La mejor defensa para el punto g7, una vez que en esta casilla el caballo negro no puede ser atacado. Si 1...Ch5 seguiria Dg4, atacando el caballo y 1...g6 perder\u00eda la calidad despu\u00e9s de 2-Axf8.",
+                    "de": "Die beste Verteidigung f\u00fcr das Feld g7, da der Springer auf e8 nicht angegriffen werden kann. Auf 1...Sh5 wurde Dg4 mit Angriff auf den Springer folgen, w\u00e4hrend 1...g6 die Qualit\u00e4t verliert.",
+                    "zh": "\u5bf9g7\u6700\u4f73\u7684\u9632\u5fa1\uff0c\u56e0\u4e3a\u9a6c\u5728\u8fd9\u4e2a\u4f4d\u7f6e\u4e0d\u4f1a\u906d\u5230\u653b\u51fb\u3002\u5982\u679c\u4e0b1...Nh5\uff0c\u4f1a\u5e94Qg4\u653b\u51fb\u9a6c\uff0c\u800c\u4e0b1...g6\u4f1a\u4e22\u5931\u8d28\u91cf\u3002",
+                    "pl": "Najlepsza obrona g7, poniewa\u017c Skoczek nie mo\u017ce by\u0107 atakowany w tym miejscu. Je\u015bli 1. ... Sh5, wtedy Hg4 atakuj\u0105c Skoczka, za\u015b 1. ... g6 straci\u0142oby przewag\u0119 po 1. Gxf8.",
+                    "ru": "\u041b\u0443\u0447\u0448\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0434\u043b\u044f g7,\u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u041a\u043e\u043d\u044c \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043d\u0430 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u0415\u0441\u043b\u0438 1...Nh5, \u0442\u043e Qg4 \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0435 \u041a\u043e\u043d\u044f, \u0438 1...g6 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u043e\u0442\u0435\u0440\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u043e\u0441\u043b\u0435 2-Bxf8."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r2rk1\/2qbbp1p\/p1npp1p1\/1p4P1\/3NPP1Q\/1BN4R\/PPP4P\/2KR4 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... h5 ",
+                "comment": {
+                    "pt": "\u00danica defesa para o ponto h7. As pretas exploram a cravada na diagonal d8-h4.",
+                    "en": "The only way to defend h7. Black is exploring the pin on the d8-h4 diagonal.",
+                    "es": "\u00danica defensa para el punto h7. Las negras explotan la clavada en la diagonal d8-h4.",
+                    "de": "Einzige Verteidigung f\u00fcr das Feld h7. Schwarz nutzt die Fesselung auf der Diagonale d8-h4 aus.",
+                    "zh": "\u552f\u4e00\u53ef\u4ee5\u9632\u5fa1h7\u7684\u4e00\u6b65\u3002\u9ed1\u65b9\u5145\u5206\u5229\u7528d8-h4\u659c\u7ebf\u4e0a\u7684\u7275\u5236\u3002",
+                    "pl": "Jedyna droga obrony h7. Czarne wykorzystuj\u0105 przygwo\u017cd\u017cenie na przek\u0105tnej d8-h4.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c h7. \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0441\u0432\u044f\u0437\u043a\u0443 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 d8-h4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

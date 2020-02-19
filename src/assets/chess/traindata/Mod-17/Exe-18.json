@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Ruy Lopez",
+        "white_sort": "",
+        "black": "Variante Fechada",
+        "date": "",
+        "event": {
+            "en": "Closed variation",
+            "de": "Geschlossene Variante",
+            "es": "Variante cerrada",
+            "pt": "Variante Fechada",
+            "zh": "\u5c01\u95ed\u53d8\u4f8b",
+            "pl": "Zamkni\u0119ta wariacja",
+            "ru": "\u0417\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante fechada e tamb\u00e9m a abertura mais jogada na hist\u00f3ria do xadrez. H\u00e1 in\u00fameras possibilidades para ambos jogadores nesta posi\u00e7\u00e3o e mostraremos aqui apenas a variante principal. Em nossa base as partidas 93 a 153 tratam desta abertura.",
+                    "en": "This is the closed variation that is the most common opening in chess history. There are countless possibilities for both sides in this position but we will present only the main variation. Games 93 to 153 of our database deal with this opening.",
+                    "es": "Esta es la variante cerrada y tambi\u00e9n la apertura m\u00e1s jugada en la historia del ajedrez. Hay innumerables posibilidades para ambos jugadores en esta posici\u00f3n y aqu\u00ed mostraremos s\u00f3lo la variante principal. En nuestra base, las partidas 93 a 153 tratan esta apertura.",
+                    "de": "Diese ist die geschlossene Variante, die meistgespielte Er\u00f6ffnung in der Schachgeschichte. Auf dieser Stellung gibt es unz\u00e4hlige M\u00f6glichkeiten f\u00fcr beide Spieler; wir werden uns auf die Hauptvariante beschr\u00e4nken. Partien 93 bis 153 behandeln diese Er\u00f6ffnung.",
+                    "zh": "\u8fd9\u79cd\u5c01\u95ed\u53d8\u4f8b\u662f\u56fd\u9645\u8c61\u68cb\u5386\u53f2\u4e0a\u6700\u5e38\u7528\u7684\u3002\u8fd9\u79cd\u5c40\u9762\u53cc\u65b9\u90fd\u62e5\u6709\u65e0\u6570\u5e94\u5bf9\u7684\u53ef\u80fd\uff0c\u4f46\u662f\u6211\u4eec\u8fd9\u91cc\u4e3b\u8981\u8bb2\u8ff0\u4e3b\u53d8\u4f8b\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c4093\u5230153\u90fd\u662f\u8bb2\u8ff0\u8fd9\u79cd\u5f00\u5c40\u3002",
+                    "pl": "Oto wariacja zamkni\u0119ta, kt\u00f3ra jest najcz\u0119\u015bciej spotykanym otwarciem w szachowej historii. Istniej\u0105 niezliczone mo\u017cliwo\u015bci dla ka\u017cdej ze stron w tej pozycji, ale zaprezentujemy jedynie najwa\u017cniejsze z nich. Gry od 93 do 153 z naszej bazy prezentuj\u0105 te otwarcie.",
+                    "ru": "\u042d\u0442\u043e \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u043c \u0434\u0435\u0431\u044e\u0442\u043e\u043c \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0448\u0430\u0445\u043c\u0430\u0442\u0430\u0445. \u0412 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043c\u0430\u0441\u0441\u0430 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u043d\u043e \u043c\u044b \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435, \u0432 \u0438\u0433\u0440\u0430\u0445 93 \u0438 153, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   6. Re1 ",
+                "comment": {
+                    "pt": "6-De2, 6-Cc3 , 6-d4 e Bxc6 s\u00e3o as op\u00e7\u00f5es",
+                    "en": "6-Qe2, 6-Nc3, 6-d4 and Bxc6 are options.",
+                    "es": "6-De2, 6-Cc3 , 6-d4 y Axc6 son las otraspossibilidades .",
+                    "de": "6. De2, 6. Sc3, 6. d4 und Lxc6 sind m\u00f6glich.",
+                    "zh": "6-Qe2, 6-Nc3, 6-d4\u548cBxc6\u662f\u5176\u4ed6\u9009\u62e9\u3002",
+                    "pl": "6. He2, 6. Sc3, 6. D4 I Gxc6 s\u0105 r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "6-Qe2, 6-Nc3, 6-d4 \u0438 Bxc6 \u043a\u0430\u043a \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442."
+                }
+            },
+            {
+                "move": "   b5 ",
+                "comment": {
+                    "pt": "6...0-0 seria respondido por 7-Bxc6 seguido de Cxe5.",
+                    "en": "would be answered with 7-Bxc6 followed by Nxe5.",
+                    "es": "6...0-0 ser\u00eda respondido por 7-Axc6 seguido de Cxe5.",
+                    "de": "6...0-0 w\u00fcrde mit 7. Lxc6 nebst Sxe5 beantwortet werden.",
+                    "zh": "\u4f1a\u5e94\u4ee5 7-Bxc6\u968f\u540eNxe5\u3002",
+                    "pl": "Spotka\u0142by si\u0119 z 7. Gxc6 z zamiarem dalszego Sxe5.",
+                    "ru": "\u0411\u0443\u0434\u0435\u0442 \u043e\u0442\u0432\u0435\u0442\u043e\u043c 7-Bxc6, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Nxe5."
+                }
+            },
+            {
+                "move": "   7. Bb3 d6 ",
+                "comment": {
+                    "pt": "7...0-0 tamb\u00e9m \u00e9 poss\u00edvel e muito popular \u00e9 a sequ\u00eancia 8-c3 d5 ,sacrificando um pe\u00e3o. O nome deste gambito \u00e9 ataque Marshal.",
+                    "en": "7... 0-0 is also possible and the sequence 8-c3 d5, sacrificing a pawn, is very popular. The name of this gambit is Marshal attack.",
+                    "es": "7...0-0 tambi\u00e9n es posible y muy popular es la continuaci\u00f3n 8-c3 d5, sacrificando un pe\u00f3n. El nombre de este gambito es Ataque Marshall.",
+                    "de": "7...0-0 ist auch m\u00f6glich; die Antwort 8. c3 d5 - mit Bauernopfer - ist sehr popul\u00e4r. Dieses Gambit wird Marshall-Gambit genannt.",
+                    "zh": "7... 0-0\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u68cb\u5e8f\u662f8-c3 d5\uff0c\u5f03\u5175\uff0c\u8fd9\u975e\u5e38\u6d41\u884c\u3002\u8fd9\u4e2a\u5f03\u5175\u5c40\u79f0\u4e3a\u9a6c\u6b47\u5c14\u8fdb\u653b\u3002",
+                    "pl": "7. ... 0-0 jest r\u00f3wnie\u017c mo\u017cliwe, a sekwencja 8. C3 d5, ofiarowuj\u0105c piona, jest bardzo popularna. Nazw\u0105 tego gambitu jest Atak Marshala.",
+                    "ru": "7...0-0 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438 \u0441\u0435\u0440\u0438\u044f \u0445\u043e\u0434\u043e\u0432 8-c3 d5, \u0436\u0435\u0440\u0442\u0432\u0430 \u043f\u0435\u0448\u043a\u0438, \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0442\u0430\u043a\u043e\u0433\u043e \u0433\u0430\u043c\u0431\u0438\u0442\u0430 \u0437\u0432\u0443\u0447\u0438\u0442 \u043a\u0430\u043a \u0410\u0442\u0430\u043a\u0430 \u041c\u0430\u0440\u0448\u0430\u043b\u0430."
+                }
+            },
+            {
+                "move": "   8. c3 O-O 9. h3 ",
+                "comment": {
+                    "pt": "9-d4 tamb\u00e9m \u00e9 poss\u00edvel e deve ser respondido com 9.. .Bg4.",
+                    "en": "9-d4 is also possible and has to be answered with 9...Bg4.",
+                    "es": "9-d4 tambi\u00e9n es posible y debe ser respondido con 9...Ag4.",
+                    "de": "Auch 9. d4 ist m\u00f6glich und muss mit 9...Lg4 beantwortet werden.",
+                    "zh": "9-d4\u4e5f\u662f\u53ef\u80fd\u7684\uff0c\u5fc5\u987b\u5e94\u4ee59...Bg4\u3002",
+                    "pl": "9. d4 jest r\u00f3wnie\u017c mo\u017cliwe i musi napotka\u0107 9. ... Gg4.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 9-d4 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u0438 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0432\u0435\u0442\u043e\u043c 9...Bg4."
+                }
+            },
+            {
+                "move": "   Na5 ",
+                "comment": {
+                    "pt": "Outras alternativas s\u00e3o; 9...Be6, 9...Bb7, 9...Bd7,9... Cb8, 9...Te8 e 9...h6",
+                    "en": "Other alternatives are: 9...Be6, 9... Bb7, 9...Bd7, 9...Nb8, 9... Re8 and 9...h6.",
+                    "es": "Otras alternativas son: 9... Ae6, 9...Ab7, 9...Ad7,9...Cb8, 9...Te8 y 9...h6.",
+                    "de": "Alternativen:  9...Le6, 9...Lb7, 9...Ld7, 9... Sb8, 9...Te8 und 9...h6.",
+                    "zh": "\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\u662f\uff1a9...Be6, 9... Bb7, 9...Bd7, 9...Nb8, 9... Re8\u548c9...h6\u3002",
+                    "pl": "Inne opcje: 9. ... Ge5, 9. ... Gb7, 9. ... Gd7, 9. ... Sb8, 9. ... We8 i 9. ... h6.",
+                    "ru": "\u0415\u0449\u0435 \u043e\u0434\u043d\u0430 \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u0430: 9...Be6, 9...Bb7, 9...Bd7, 9...Nb8, 9...Re8 \u0438 9...h6."
+                }
+            },
+            {
+                "move": "   10. Bc2 c5 11. d4 Qc7 12. Nbd2 ",
+                "comment": {
+                    "pt": "As brancas planejam levar este cavalo para o flanco rei (Cf1-Cg3 ou Ce3) e atacar neste flanco ou no centro. Por outro lado, as pretas podem contra-atacar no flanco dama , no centro e tem bons recursos para defender seu rei.",
+                    "en": "White plans to take this Knight to the kingside (Nf1-Ng3 or Ne3) and attack there or in the center. On the other hand, Black can counter-attack on the queenside and the center and it has good resources to defend its King.",
+                    "es": "Las blancas planean llevar este caballo al flanco rey (Cf1-Cg3 o Ce3) y atacar en este flanco o en el centro. Por otro lado, las negras pueden contraatacar en el flanco dama o en el centro y tienen buenos recursos para defender su rey.",
+                    "de": "Wei\u00df plant, diesen Springer zum K\u00f6nigsf\u00fcgel zu bringen (Sf1-Sg3 oder Se3) und dort oder auch im Zentrum anzugreifen. Schwarz kann seinerseits am Damenfl\u00fcgel bzw. im Zentrum einen Gegenangriff f\u00fchren und hat zudem gute Verteidigungsressourcen.",
+                    "zh": "\u767d\u65b9\u8ba1\u5212\u5c06\u9a6c\u79fb\u5230\u738b\u7ffc\uff08Nf1-Ng3\u6216Ne3\uff09\uff0c\u653b\u51fb\u738b\u7ffc\u6216\u4e2d\u5fc3\u3002\u53e6\u4e00\u65b9\u9762\u9ed1\u65b9\u53ef\u4ee5\u5728\u540e\u7ffc\u548c\u4e2d\u5fc3\u8fdb\u884c\u53cd\u51fb\uff0c\u800c\u4e14\u5b83\u5bf9\u738b\u7684\u9632\u5fa1\u529b\u91cf\u4e5f\u5f88\u5145\u8db3\u3002",
+                    "pl": "Bia\u0142e planuj\u0105 przemieszczenie si\u0119 Skoczkiem na skrzyd\u0142o kr\u00f3lewskie (Sf1-Sg3 lub Se3 i zaatakowanie tam lub w centrum. Z drugiej strony Czarne mog\u0105 kontratakowa\u0107 na skrzydle hetma\u0144skim i w centrum, a tak\u017ce maj\u0105 wystarczaj\u0105ce zasoby do obrony w\u0142asnego Kr\u00f3la.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u0443\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 (Nf1-Ng3 \u0438\u043b\u0438 Ne3) \u0438 \u043d\u0430\u0447\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440. \u0421 \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b, \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u0438 \u044d\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043b\u0443\u0447\u0448\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0437\u0430\u0449\u0438\u0442\u044b \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

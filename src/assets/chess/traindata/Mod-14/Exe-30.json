@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(98)",
+            "zh": "Event 1"
+        },
+        "fen": "2rr2k1\/1b3p1p\/p4qpb\/2pp4\/6n1\/BP1QP3\/P4PPP\/2RR1BKN b - - 0 22",
+        "moves": [
+            {
+                "move": "22... d4 ",
+                "comment": {
+                    "pt": "Aproveitando que o pe\u00e3o e3 est\u00e1 cravado e abrindo a diagonal a8-h1 para o bispo e tamb\u00e9m a coluna dama para a torre.",
+                    "en": "Taking advantage of the fact that the e3-pawn is pinned to open the a8-h1 diagonal for the Bishop and the Queen-file for the Rook.",
+                    "de": "Nutzt die Fesselung des Bauern auf e3 und \u00f6ffnet die Diagonale a8-h1 f\u00fcr den L\u00e4ufer sowie die d-Linie f\u00fcr den Turm.",
+                    "es": "Aprovechando que el pe\u00f3n e3 est\u00e1 clavado y abriendo a la diagonal a8-h1 para el alfil y tambi\u00e9n la columna dama para la torre.",
+                    "zh": "\u5229\u7528e3-\u5175\u88ab\u7275\u5236\u7684\u673a\u4f1a\u4e3a\u8c61\u5f00\u653ea8-h1\u659c\u7ebf\u4ee5\u53ca\u4e3a\u8f66\u5f00\u653ed\u7ebf\u3002",
+                    "pl": "Wykorzystanie przewagi z przygwo\u017cd\u017cenia piona e3 do otwarcia przek\u0105tnej a8-h1 dla Go\u0144ca oraz kolumny hetma\u0144skiej dla Wie\u017cy.",
+                    "ru": "\u041f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0441\u0432\u044f\u0437\u043a\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 e3, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a8-h1, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(50)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/ppp1nppp\/1bn5\/3p2N1\/2BPP3\/2N5\/P4PPP\/R1BQ1RK1 w kq - 0 11",
+        "moves": [
+            {
+                "move": "11. Nxd5 ",
+                "comment": {
+                    "pt": "Mantendo a diagonal b3-f7 aberta e a press\u00e3o sobre f7.",
+                    "en": "Keeping the b3-f7 diagonal open and maintaining pressure on f7.",
+                    "de": "H\u00e4lt die Diagonale b3-f7 offen und erh\u00e4lt den Druck auf f7 aufrecht.",
+                    "es": "Manteniendo la diagonal b3-f7 abierta y la presi\u00f3n sobre f7.",
+                    "zh": "\u7ee7\u7eed\u4fdd\u6301b3-f7\u659c\u7ebf\u5f00\u653e\uff0c\u5e76\u4e14\u4e0d\u65ad\u7ed9f7\u4e0a\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Utrzymywanie otwartej przek\u0105tnej b3-f7 i utrzymanie presji na f7.",
+                    "ru": "\u0414\u0435\u0440\u0436\u0438\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c b3-f7 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 f7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(95)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp2qp1p\/6p1\/3p1b2\/3Q4\/4PN2\/PP3PPP\/2R1K2R b K - 0 15",
+        "moves": [
+            {
+                "move": "15... Be4 ",
+                "comment": {
+                    "pt": "Para tomar o cavalo e enfraquecer a estrutura de pe\u00f5es.",
+                    "en": "In order to capture the Knight and weaken the pawn structure.",
+                    "de": "Um den Springer zu schlagen und die gegnerischen Bauernstruktur zu schw\u00e4chen.",
+                    "es": "Para tomar el caballo y debilitar la estructura de peones.",
+                    "zh": "\u4e3a\u4e86\u6349\u9a6c\u5e76\u524a\u5f31\u5175\u5f62\u3002",
+                    "pl": "W celu wzi\u0119cia Skoczka i os\u0142abienia struktury pion\u00f3w.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u041a\u043e\u043d\u044f \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0432 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(161)",
+            "zh": "Event 1"
+        },
+        "fen": "4r3\/1p1nkp2\/p1p1b1p1\/4P2p\/5P1P\/1PN2BP1\/P2R1K2\/8 w - - 0 29",
+        "moves": [
+            {
+                "move": "29. Ne4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo, impedindo que o advers\u00e1rio melhore a posi\u00e7\u00e3o do seu cavalo (c5) e controlando as casas f6 e d6.",
+                    "en": "Centralizing the Knight, preventing the opponent from improving its Knight's position (c5) and controlling f6 and d6.",
+                    "de": "Zentralisiert den Springer und verhindert, dass der Gegner die Stellung seines Springers verbessert und die Felder f6 und d6 kontrolliert.",
+                    "es": "Centralizando el caballo, impidiendo que el adversario mejore la posici\u00f3n de su caballo (c5) y controlando las casillas f6 y d6.",
+                    "zh": "\u5c06\u9a6c\u79fb\u5411\u4e2d\u5fc3\uff0c\u963b\u6b62\u5bf9\u65b9\u6539\u5584\u9a6c\u7684\u5c40\u9762\u5e76\u7ee7\u7eed\u63a7\u5236f6\u548cd6\u3002",
+                    "pl": "Centralizacja Skoczka, uniemo\u017cliwianie oponentowi popraw\u0119 pozycji Skoczka (c5) i kontrola f6 oraz d6.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u043d\u044f (c5), \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c f6 \u0438 d6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(33)",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qkb1r\/1p3ppp\/p2pbn2\/4p3\/4PP2\/1NN5\/PPP1B1PP\/R1BQK2R b KQkq - 0 8",
+        "moves": [
+            {
+                "move": "8... Qc7 ",
+                "comment": {
+                    "pt": "Para responder a f5 com ...Bc4.",
+                    "en": "In order to respond to f5 with ...Bc4.",
+                    "de": "Um f5 mit ...Lc4 zu erwidern.",
+                    "es": "Para responder a f5 con ...Ac4.",
+                    "zh": "\u4e3a\u4e86\u7528 ...Bc4\u5e94f5\u3002",
+                    "pl": "W celu odpowiedzi na f5 poprzez ... Gc4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 f5 \u0441 ...Bc4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/2q1nppp\/p1pb4\/3p4\/8\/1P3N2\/PBP1BPPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. c4 ",
+                "comment": {
+                    "pt": "Para pressionar o centro preto e liberar a casa c2 para a dama, que poder\u00e1 pressionar atrav\u00e9s da coluna c , das diagonais b1-h7 e eventualmente a1-h8, no caso de jogarem Dc3 mais tarde.",
+                    "en": "In order to put pressure on the black center and free c2 for the Queen that will then create pressure through the c-file, the b1-h7 diagonal and, occasionally, through the a1-h8 diagonal if Qc3 is performed later on.",
+                    "es": "Para presionar el centro negro y liberarle la casilla c2 a la dama, que podr\u00e1 presionar tanto a trav\u00e9s de la columna \"c\", como de las diagonales b1-h7 y - eventualmente - a1-h8, en el caso de que jueguen Dc3 m\u00e1s tarde.",
+                    "de": "Um Druck auf das schwarze Zentrum auszu\u00fcben und das Feld c2 f\u00fcr die Dame zu r\u00e4umen, die \u00fcber die c-Linie, die Diagonale b1-h7 und eventuell a1-b8 (nach Dc3) Druck aus\u00fcben kann.",
+                    "zh": "\u4e3a\u4e86\u7ed9\u9ed1\u65b9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\uff0c\u817e\u51fac2\u7ed9\u738b\u540e\uff0c\u8ba9\u738b\u540e\u53ef\u4ee5\u901a\u8fc7c-\u7ebf\u5411b1-h7\u659c\u7ebf\u6216a1-h8\u659c\u7ebf\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Wywieranie presji na czarne centrum i uwolnienie c2 dla Hetmana, co stworzy presj\u0119 na kolumn\u0119 c, przek\u0105tn\u0105 b1-h7 oraz momentami a1-h8, je\u015bli zagrane zostanie p\u00f3\u017aniej Hc3.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043f\u043e\u043b\u0435 c2 \u0434\u043b\u044f \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0437\u0434\u0430\u0441\u0442 \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u0447\u0435\u0440\u0435\u0437 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c b1-h7, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a1-h8, \u0435\u0441\u043b\u0438 \u043f\u043e\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u0438\u0433\u0440\u0430 Qc3."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/ppnr2kp\/2pqprp1\/8\/3PR2P\/1P4P1\/P2Q1P2\/4RBK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. h5 ",
+                "comment": {
+                    "pt": "Para enfraquecer as defesas do rei preto.",
+                    "en": "In order to weaken the defenses of the black King.",
+                    "es": "Para debilitar las defensas del rey negro.",
+                    "de": "Um die K\u00f6nigsstellung zu schw\u00e4chen.",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u9ed1\u738b\u7684\u9632\u5fa1\u3002",
+                    "pl": "Os\u0142abienie obrony czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/p1p2pp1\/1p1p1nnp\/4pN2\/2PPP3\/2PQ4\/P2B1PPP\/4RRK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f4 ",
+                "comment": {
+                    "pt": "Para aumentar a press\u00e3o no centro e abrir linhas de ataque contra o rei preto.",
+                    "en": "In order to increase pressure in the center and open lines for the attack against the black King.",
+                    "es": "Para aumentar la presi\u00f3n en el centro y abrir l\u00edneas de ataque contra el rey negro.",
+                    "de": "Um den Druck auf das Zentrum zu verst\u00e4rken und Angriffslinien auf den schwarzen K\u00f6nig zu \u00f6ffnen.",
+                    "zh": "\u589e\u52a0\u4e2d\u5fc3\u7684\u538b\u529b\uff0c\u7ed9\u653b\u51fb\u9ed1\u738b\u5f00\u653e\u7ebf\u8def\u3002",
+                    "pl": "Zwi\u0119kszenie presji w centrum i otwarcie linii dla ataku przeciwko czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/1ppn3p\/3p2n1\/p2P1p2\/2P1pP2\/1PNN4\/P3B1PP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ne1 ",
+                "comment": {
+                    "pt": "Para ir a e3, via c2 , bloquear o pe\u00e3o passado das pretas, pressionar o pe\u00e3o em f5 e apoiar a poss\u00edvel ruptura em g4.",
+                    "en": "In order to reach e3 through c2, block the black passed pawn and, at the same time, put pressure on the f5-pawn and support the occasional rupture on g4.",
+                    "es": "Para ir a e3, v\u00eda c2, bloquear el pe\u00f3n pasado de las negras, presionar el pe\u00f3n en f5 y apoyar la posible ruptura en g4.",
+                    "de": "Um \u00fcber c2 das Feld e3 zu erreichen, um den schwarzen Freibauern zu blockieren. Von e3 aus wird der Springer auch Druck auf den Bauern f5 aus\u00fcben und einen eventuellen Hebel g4 unterst\u00fctzen.",
+                    "zh": "\u4e3a\u4e86\u901a\u8fc7c2\u5230\u8fbee3\uff0c\u5c01\u5835\u9ed1\u65b9\u901a\u8def\u5175\uff0c\u540c\u65f6\u5411f5-\u5175\u65bd\u52a0\u538b\u529b\uff0c\u652f\u6301\u53ef\u80fd\u5728g4\u4e0a\u7684\u7a81\u7834\u3002",
+                    "pl": "Aby osi\u0105gn\u0105\u0107 e3 poprzez c2, zablokowa\u0107 czarnego wolnego piona i w tym samym czasie wywrze\u0107 presj\u0119 na piona f5, a w tym wspom\u00f3c okazjonalnie za\u0142amanie na g4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c \u043f\u043e\u043b\u044f e3 \u0447\u0435\u0440\u0435\u0437 c2, \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043d\u0430\u043f\u0430\u0441\u0442\u044c \u043d\u0430 f5-\u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1r3n1k\/r3q1p1\/4p2p\/p1p1P3\/2Bp1P2\/1P5Q\/P5PP\/2R2RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f5 ",
+                "comment": {
+                    "pt": "Para abrir linhas de ataque (coluna c e diagonal a2-g8) contra o rei preto.",
+                    "en": "In order to open lines for the attack against the black King (c-file and a2-g8 diagonal).",
+                    "es": "Para abrir l\u00edneas de ataque (columna \"c\" y diagonal a2-g8) contra el rey negro.",
+                    "de": "Um die c-Linie sowie die Diagonale a2-g8 auf den schwarzen K\u00f6nig zu \u00f6ffnen.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u7ebf\u8def\uff0c\u653b\u51fb\u9ed1\u738b\uff08c\u7ebf\u548ca2-g8\u659c\u7ebf\uff09\u3002",
+                    "pl": "Aby otworzy\u0107 linie dla ataku przeciwko czarnemu Kr\u00f3lowi (kolumna c i przek\u0105tna a2-g8).",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f (c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

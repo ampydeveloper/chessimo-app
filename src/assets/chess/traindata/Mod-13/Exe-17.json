@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/p1p4p\/1p1p2p1\/4np2\/2P1P3\/8\/PPQ1BPPP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... f4 ",
+                "comment": {
+                    "pt": "Ap\u00f3s esta jogada as pretas garantem a perman\u00eancia de seu cavalo em e5, que estava amea\u00e7ada pela jogada f4 das brancas.",
+                    "en": "After this move, Black holds e5 for its Knight, which was threatened by White playing f4.",
+                    "es": "Despu\u00e9s de esta jugada las negras aseguran la permanencia de su caballo en e5,amenazada por la jugada f4 de las blancas.",
+                    "de": "Nach diesem Zug sichert Schwarz die Stellung seines Springers auf e5, den Wei\u00df mit f4 vertreiben k\u00f6nnte.",
+                    "zh": "\u8d70\u4e86\u8fd9\u4e00\u6b65\u4e4b\u540e\uff0c\u9ed1\u65b9\u4e3a\u9a6c\u4fdd\u4f4f\u4e86e5\uff0c\u89e3\u9664\u4e86\u767d\u65b9\u8d70f4\u5e26\u6765\u7684\u5a01\u80c1\u3002",
+                    "pl": "Po tym ruchu Czarne zatrzymuj\u0105 e5 dla Skoczka, czemu zagra\u017ca\u0142o zagranie bia\u0142ych f4.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430, \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 e5 \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0443\u0433\u0440\u043e\u0436\u0430\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044f \u043d\u0430 f4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp3ppp\/3p4\/2p1n3\/2P1P3\/8\/PP1QBPPP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Nc6 ",
+                "comment": {
+                    "pt": "Para posicionar este cavalo em d4, de onde ele n\u00e3o poder\u00e1 ser expulso e ainda obstruir\u00e1 a a\u00e7\u00e3o das pe\u00e7as contr\u00e1rias na coluna dama.",
+                    "en": "In order to place this Knight on d4, where it can't be chased away and can hinder the action of the opponent in the Queen-file.",
+                    "es": "Para posicionar este caballo en d4, de donde no podr\u00e1 ser expulsado y - adem\u00e1s - obstruir\u00e1 la acci\u00f3n de las piezas contrarias en la columna dama.",
+                    "de": "Um den Springer auf das Feld d4 zu stellen, von dem er nicht vertrieben werden kann und wo er die Wirkung der wei\u00dfen Figuren \u00fcber die d-Linie beeintr\u00e4chtigt.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u7f6e\u4e8ed4\uff0c\u8fd9\u4e2a\u4f4d\u7f6e\u5373\u4e0d\u4f1a\u88ab\u8d76\u8d70\uff0c\u53c8\u80fd\u963b\u6270\u5bf9\u624b\u5728\u540e\u7ffc\u7684\u6d3b\u52a8\u3002",
+                    "pl": "Aby umie\u015bci\u0107 Skoczka na d4, gdzie nie mo\u017ce zosta\u0107 przegoniony i znacznie utrudni akcje przeciwnikowi na kolumnie hetma\u0144skiej.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c d4, \u0433\u0434\u0435 \u0435\u043c\u0443 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442, \u0438 \u0433\u0434\u0435 \u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u043c\u0435\u0448\u0430\u0442\u044c \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0443 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/ppq1ppbp\/3p1np1\/2p5\/2P2N2\/1P2P3\/PB1P1PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf6 ",
+                "comment": {
+                    "pt": "Para seguir com Cd5 contra qualquer retomada das pretas. Se elas jogarem exf6 o cavalo ficar\u00e1 inexpugn\u00e1vel em d5 e se retomarem de bispo a id\u00e9ia branca \u00e9 jogar Cd5 , atacando a dama e tomar o bispo em seguida, dobrando os pe\u00f5es pretos.",
+                    "en": "In order to continue with Nd5 against any retake. If Black plays exf6, it won't be possible to chase away the Knight from d5. And if Black retakes with the Bishop, the idea is to play Nd5 attacking the Queen and retaking the Bishop right after, which doubles the black pawns.",
+                    "es": "Para seguir con Cd5 contra cualquier captura de las negras. Si \u00e9stas juegan exf6 el caballo quedar\u00e1 inexpugnable en d5 y ,si capturan con el alfil, la idea blanca es jugar Cd5, atacando la dama parar tomar el alfil en seguida, doblando los peones negros.",
+                    "de": "Nun folgt Sd5 entweder auf 1...exf6 oder auf 1...Lxf6. Im ersten Fall wird der schwarze Springer vom Feld d5 nicht mehr zu vertreiben sein, im zweiten Fall wird der Springer auf d5 den L\u00e4ufer nach dem R\u00fcckzug der Dame schlagen",
+                    "zh": "\u4e3a\u4e86\u63a5\u7740\u8d70Nd5\u62b5\u5fa1\u6240\u6709\u7684\u53cd\u51fb\u3002\u5982\u679c\u9ed1\u65b9\u8d70exf6\uff0c\u90a3\u4e48\u5f88\u96be\u518d\u4eced5\u5c06\u9ed1\u9a6c\u8d76\u8d70\u3002\u7b2c\u4e8c\u79cd\u53ef\u80fd\u662f\u5728\u64a4\u56de\u738b\u540e\u4e4b\u540e\u7528\u9a6c\u5728d5\u5904\u653b\u51fb\u8c61\u3002",
+                    "pl": "Aby zagra\u0107 Sd5 przeciwko ka\u017cdej sytuacji. Je\u015bli Czarne zagraj\u0105 exf6, nie b\u0119dzie mocy przegna\u0107 Skoczka z d5. Za\u015b je\u015bli wezm\u0105 Go\u0144cem, Sd5 b\u0119dzie atakowa\u0142 Hetmana i po chwili odzyska Go\u0144ca, co zdubluje czarne piony.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Nd5 \u0438 \u043d\u0435 \u0434\u0430\u0442\u044c \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u0442\u044c\u0441\u044f. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 exf6, \u0442\u043e \u0443\u0431\u0440\u0430\u0442\u044c \u041a\u043e\u043d\u044f \u0441 \u043f\u043e\u043b\u044f d5, \u0431\u0443\u0434\u0435\u0442 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u0418 \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0421\u043b\u043e\u043d\u043e\u043c, \u0438\u0434\u0435\u044f \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 Nd5, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0424\u0435\u0440\u0437\u044f \u0438 \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0435 \u0421\u043b\u043e\u043d\u0430, \u043f\u0440\u044f\u043c\u043e \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u043f\u043e\u044f\u0432\u044f\u0442\u0441\u044f \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/p1q2ppp\/1p6\/n1p1p3\/4P3\/1BP5\/PP3PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bd5 ",
+                "comment": {
+                    "pt": "Este bispo \u00e9 superior ao cavalo e ocupa um ponto central importante para ajudar as brancas a atacar em ambos os flancos.Seria um grave erro deixar o cavalo captur\u00e1-lo ou jogar Bc2 ocupando uma diagonal pouco promissora.",
+                    "en": "This Bishop is superior to the Knight and is on an important central point to help White in attacking both flanks. It would be a big mistake to let the Knight capture it or to play Bc2, placing this piece on a very little promising diagonal.",
+                    "es": "Este alfil es superior al caballo y ocupa un importante punto central para ayudar a las blancas a atacar en ambos flancos. Ser\u00eda un grave error dejar que el caballo lo capture o jugar Ac2 ocupando una diagonal con poco futuro.",
+                    "de": "Der L\u00e4ufer ist viel st\u00e4rker als der schwarze Springer und kann von diesem zentralen Feld aus auf beide Fl\u00fcgel angreifen. Sowohl der Abtausch gegen den Springer als auch der R\u00fcckzug auf c2 w\u00e4ren grobe Fehler.",
+                    "zh": "\u8c61\u8981\u6bd4\u9a6c\u5f3a\u7684\u591a\uff0c\u5b83\u5904\u5728\u4e2d\u5fc3\u4e00\u4e2a\u975e\u5e38\u91cd\u8981\u7684\u4f4d\u7f6e\uff0c\u53ef\u4ee5\u540c\u65f6\u653b\u51fb\u4e24\u7ffc\u3002\u8ba9\u9a6c\u5151\u8c61\u6216\u8005\u4e0bBc2\uff0c\u5c06\u5176\u7f6e\u4e8e\u4e00\u4e2a\u4e0d\u90a3\u4e48\u6709\u5e0c\u671b\u7684\u659c\u7ebf\uff0c\u90fd\u662f\u5f88\u5927\u7684\u5931\u8bef\u3002",
+                    "pl": "Goniec jest lepszy ni\u017c Skoczke i w tym wa\u017cnym, centralnym punkcie pomaga Bia\u0142ym atakowa\u0107 obie flanki. By\u0142oby b\u0142\u0119dem utraci\u0107 go na rzecz Skoczka lub zagra\u0107 Gc3, umieszczaj\u0105c figur\u0119 na niewiele znacz\u0105cej przek\u0105tnej.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0421\u043b\u043e\u043d \u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u0438\u0442 \u041a\u043e\u043d\u044f \u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u043e\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0441 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0432 \u0430\u0442\u0430\u043a\u0435 \u043f\u043e \u043e\u0431\u043e\u0438\u043c \u0444\u043b\u0430\u043d\u0433\u0430\u043c. \u041d\u0435\u043b\u044c\u0437\u044f \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u041a\u043e\u043d\u044c \u0437\u0430\u043d\u044f\u043b \u044d\u0442\u0443 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0438\u043b\u0438 \u0441\u044b\u0433\u0440\u0430\u043b Bc2, \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u044f\u0441\u044c \u043d\u0430 \u0432\u0442\u043e\u0440\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e\u0439, \u0434\u043b\u044f \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438, \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp3p1p\/5np1\/3p4\/8\/1P4P1\/P3PP1P\/R1BQ1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bb2 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a melhor diagonal para o bispo, que aliado a dama (Dd4 pode ser a pr\u00f3xima jogada) exercer\u00e1 uma forte press\u00e3o ao longo da grande diagonal. As outras op\u00e7\u00f5es brancas para desenvolve-lo; Bg5 e Bh6 n\u00e3o s\u00e3o t\u00e3o efetivas.",
+                    "en": "That's the best diagonal for the Bishop that will create a lot of pressure along the big diagonal allied to the Queen (Qd4 may be the next move). The other options (Bg5 and Bh6) for White to develop this piece aren't very effective.",
+                    "es": "\u00c9sta es la mejor diagonal para el alfil que, aliado a la dama (Dd4 puede ser la pr\u00f3xima jugada), ejercer\u00e1 una fuerte presi\u00f3n a lo largo de la gran diagonal. Las otras opciones blancas para desarrollarlo (Ag5 y Ah6) no son tan efectivas.",
+                    "de": "Das ist die beste Diagonale f\u00fcr den L\u00e4ufer, auf der er im Zusammenspiel mit der Dame (z.B. nach Dd4) einen starken Druck aus\u00fcben wird. Andere M\u00f6glichkeiten (Lg5 oder Lh6) sind nicht so stark.",
+                    "zh": "\u8fd9\u662f\u8c61\u7684\u6700\u4f73\u659c\u7ebf\uff0c\u8c61\u548c\u540e\u8054\u5408\u8d77\u6765\u80fd\u7ed9\u8fd9\u6761\u659c\u7ebf\u65bd\u52a0\u5de8\u5927\u7684\u538b\u529b\uff08\u8b6c\u5982\u8ddf\u7740\u4e0bDd4\uff09\u3002\u5176\u4ed6\u53ef\u80fd\uff08(Bg5\u548cBh6\uff09\u90fd\u4e0d\u5982\u8fd9\u7740\u6548\u679c\u597d\u3002",
+                    "pl": "Najlepsze miejsce dla Go\u0144ca - b\u0119dzie wywiera\u0142 presj\u0119 na d\u0142ug\u0105 przek\u0105tn\u0105 podleg\u0142\u0105 Hetmanowi (Hd4 mo\u017ce by\u0107 nast\u0119pnym ruchem). Inne opcje (Gg5 i Gh6) nie s\u0105 tak korzystne dla Bia\u0142ych.",
+                    "ru": "\u042d\u0442\u043e \u043b\u0443\u0447\u0448\u0430\u044f \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043e\u043d \u0441\u043e\u0437\u0434\u0430\u0441\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432 \u043f\u0430\u0440\u0435 \u0441 \u0424\u0435\u0440\u0437\u0435\u043c (\u0445\u043e\u0434 Qd4 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c). \u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b (Bg5 \u0438 Bh6), \u0447\u0442\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0443 \u0411\u0435\u043b\u044b\u0445, \u043c\u0430\u043b\u043e \u0437\u043d\u0430\u0447\u0438\u043c\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

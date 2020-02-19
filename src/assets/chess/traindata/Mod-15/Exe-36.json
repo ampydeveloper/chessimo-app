@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "2rrb1k1\/p3qpbp\/1pp1p1p1\/8\/1P1PP1NP\/P1Q2BP1\/5P2\/1R1R2K1 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. e5 ",
+                "comment": {
+                    "pt": "Para explorar as fraquezas nas casas pretas do advers\u00e1rio, principalmente f6 e d6.",
+                    "en": "In order to explore the weaknesses of the dark enemy squares, especially f6 and d6.",
+                    "de": "Um die Schw\u00e4chen der gegnerischen schwarzen Felder auszunutzen, vor allem f6 und d6.",
+                    "es": "Para explotar las debilidades en las casillas negras del adversario, principalmente f6 y d6.",
+                    "zh": "\u4e3a\u4e86\u5145\u5206\u5229\u7528\u654c\u65b9\u9ed1\u683c\u7684\u5f31\u70b9\uff0c\u7279\u522b\u662ff6\u548cd6\u3002",
+                    "pl": "W celu wykorzystania s\u0142abo\u015bci ciemnych p\u00f3l przeciwnika, szczeg\u00f3lnie f6 i d6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0442\u0435\u043c\u043d\u044b\u0445 \u043f\u043e\u043b\u0435\u0439 \u0443 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e f6 \u0438 d6."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(139)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp4pp\/1qnbpn2\/3p4\/3P4\/1P1B1N2\/P3NPPP\/R1BQ1RK1 w - - 0 13",
+        "moves": [
+            {
+                "move": "13. Bf4 ",
+                "comment": {
+                    "pt": "Com o objetivo de trocar os bispos das casas negras, para acentuar a fraqueza do ponto e5, onde futuramente as brancas pretendem instalar um cavalo.",
+                    "en": "Aiming to trade the dark-squared Bishops in order to increase the weakness on e5, where White intends to place a Knight in the future.",
+                    "de": "Tauscht die schwarzfeldrigen L\u00e4ufer ab, damit die Schw\u00e4che von e5, wo Wei\u00df zuk\u00fcnftig einen Springer setzen will, noch deutlicher wird.",
+                    "es": "Con el objetivo de cambiar los alfiles de casillas negras, para acentuar la debilidad del punto e5, donde futuramente las blancas pretenden instalar un caballo.",
+                    "zh": "\u76ee\u7684\u662f\u5151\u6362\u9ed1\u683c\u8c61\u6765\u5f3a\u5316e5\u7684\u5f31\u70b9\uff0c\u767d\u68cb\u5c06\u6765\u4f1a\u8bd5\u56fe\u5c06\u6765\u628a\u9a6c\u653e\u5728\u6b64\u5904\u3002",
+                    "pl": "Z zamiarem wymiany ciemnopolowych Go\u0144c\u00f3w w celu powi\u0119kszenia s\u0142abo\u015bci na e5, gdzie Bia\u0142e zamierzaj\u0105 w przysz\u0142o\u015bci umie\u015bci\u0107 Skoczka.",
+                    "ru": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u0440\u0430\u0437\u043c\u0435\u043d \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u0445 \u0421\u043b\u043e\u043d\u043e\u0432, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u043e\u043b\u0435 e5, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u043e\u0437\u0436\u0435 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(128)",
+            "zh": "Event 1"
+        },
+        "fen": "4rrk1\/ppp2pp1\/2n2q1p\/3p4\/3P2b1\/PNQ1P3\/1P3PPP\/R3KB1R b KQ - 0 13",
+        "moves": [
+            {
+                "move": "13... Re7 ",
+                "comment": {
+                    "pt": "Protegendo o pe\u00e3o de c7 para liberar o cavalo e mais tarde proteger o flanco dama jogando ...c6.",
+                    "en": "Protecting the c7-pawn in order to liberate the Knight and protect the queenside later on with ...c6.",
+                    "de": "Deckt den Bauern auf c7, damit der Springer ziehen und anschlie\u00dfend der Damenfl\u00fcgel mit ...c6 gesch\u00fctzt werden kann.",
+                    "es": "Protegiendo el pe\u00f3n de c7 para liberar el caballo y m\u00e1s tarde proteger el flanco dama jugando ...c6.",
+                    "zh": "\u4fdd\u62a4c7-\u5175\uff0c\u8fd9\u6837\u9a6c\u53ef\u4ee5\u8f6c\u79fb\u5e76\u4e14\u4e4b\u540e\u53ef\u4ee5\u7528...c6\u6765\u4fdd\u62a4\u540e\u7ffc\u3002",
+                    "pl": "Obrona piona c7 w celu uwolnienia Skoczka i p\u00f3\u017aniejsza obrona skrzyd\u0142a hetma\u0144skiego przez ... c6.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 c7, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0438 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u043f\u043e\u0437\u0436\u0435, \u0438\u0433\u0440\u043e\u0439 ...c6."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(113)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/4ppbp\/2p1n1pB\/p2q4\/P1RP4\/5N1P\/1P1Q1PP1\/2R3K1 b - - 0 20",
+        "moves": [
+            {
+                "move": "20... Bh8 ",
+                "comment": {
+                    "pt": "As pretas n\u00e3o devem trocar os bispos, para continuar pressionando d4.",
+                    "en": "Black shouldn't trade Bishops in order to maintain the pressure on d4.",
+                    "de": "Schwarz muss den Abtausch der schwarzfeldrigen L\u00e4ufer vermeiden, um den Druck auf d4 aufrechtzuerhalten.",
+                    "es": "Las negras no deben cambiar los alfiles para continuar presionando d4.",
+                    "zh": "\u9ed1\u68cb\u5e94\u8be5\u907f\u514d\u5151\u9ed1\u683c\u8c61\uff0c\u4ee5\u6b64\u6765\u4fdd\u6301d4\u5904\u7684\u538b\u529b\u3002",
+                    "pl": "Czarne nie powinny wymienia\u0107 Go\u0144c\u00f3w w celu utrzymania presji na d4.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u043e\u0432, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 d4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(29)",
+            "zh": "Event 1"
+        },
+        "fen": "2r2r1k\/5qp1\/bp2p1Rp\/2npPp1Q\/p2N1P2\/P3P3\/1P4PP\/1B2R1K1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. g4 ",
+                "comment": {
+                    "pt": "Abrindo linhas para o ataque ao rei inimigo.",
+                    "en": "Opening lines for the attack on the enemy King.",
+                    "de": "\u00d6ffnet Linien f\u00fcr den Angriff auf den gegnerischen K\u00f6nig.",
+                    "es": "Abriendo l\u00edneas para el ataque al rey enemigo.",
+                    "zh": "\u5f00\u653e\u7ebf\u8def\u6765\u653b\u51fb\u654c\u738b\u3002",
+                    "pl": "Otwarcie linii dla ataku na wrogiego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

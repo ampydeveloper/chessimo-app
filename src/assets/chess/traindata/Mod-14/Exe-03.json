@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "1b2r1k1\/4rpp1\/p2q1n2\/2Rp1BB1\/Np1P4\/nP4P1\/5PK1\/7Q w - - 0 34",
+        "moves": [
+            {
+                "move": "34. Bxf6 ",
+                "comment": {
+                    "pt": "Eliminando um defensor.",
+                    "en": "Eliminating a defender.",
+                    "de": "Beseitigt einen Verteidiger.",
+                    "es": "Eliminando un defensor.",
+                    "zh": "\u6d88\u706d\u4e00\u4e2a\u9632\u5fa1\u3002",
+                    "pl": "Elimuj\u0105c obro\u0144c\u0119.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0437\u0430\u0449\u0438\u0442\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(143)",
+            "zh": "Event 1"
+        },
+        "fen": "4Q3\/1p1r2k1\/p1nq3p\/P3p1p1\/8\/5R2\/1P3PP1\/1B4K1 w - - 0 41",
+        "moves": [
+            {
+                "move": "41. Ba2 ",
+                "comment": {
+                    "pt": "Intensificando o ataque e amea\u00e7ando mate em g8. Esta diagonal \u00e9 mais importante do que a diagonal b1-h7.",
+                    "en": "Intensifying the attack and threatening mate on g8. This diagonal is more important than the b1-h7 diagonal.",
+                    "de": "Verst\u00e4rkt den Angriff und drohen Matt auf g8. Diese Diagonale ist wichtiger als b1-h7.",
+                    "es": "Intensificando el ataque y amenazando mate en g8. Esta diagonal es m\u00e1s importante la diagonal b1-h7.",
+                    "zh": "\u52a0\u5f3a\u8fdb\u653b\u5e76\u5a01\u80c1\u5728g8\u5904\u903c\u548c\u3002\u8fd9\u6761\u659c\u7ebf\u8981\u6bd4b1-h7\u659c\u7ebf\u66f4\u52a0\u91cd\u8981\u3002",
+                    "pl": "Zwi\u0119kszaj\u0105c si\u0142\u0119 ataku i gro\u017c\u0105c matem na g8. Ta przek\u0105tna jest wa\u017cniejsza, ni\u017c b1-h7.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u0430\u0442\u0430\u043a\u0443\u044e\u0449\u0438\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u0443\u0433\u0440\u043e\u0437\u043e\u0439 \u043c\u0430\u0442\u0430 \u043d\u0430 g8. \u042d\u0442\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u0430\u044f, \u0447\u0435\u043c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c b1-h7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(78)",
+            "zh": "Event 1"
+        },
+        "fen": "1n1b1r2\/1q4k1\/2p1Qpp1\/p3p2p\/P3P3\/2P1BN1P\/1P4PK\/3R4 w - - 0 34",
+        "moves": [
+            {
+                "move": "34. Bc5 ",
+                "comment": {
+                    "pt": "Afastando a torre da defesa do pe\u00e3o f e melhorando a posi\u00e7\u00e3o do bispo.",
+                    "en": "Pushing the Rook away from its position as f-pawn defender and improving the Bishop's position.",
+                    "de": "Zwingt den Turm, sich von der Verteidigung vom f-Bauern zu entfernen und verbessert die Stellung vom L\u00e4ufer.",
+                    "es": "Alejando la torre de la defensa del pe\u00f3n f y mejorando la posici\u00f3n del alfil.",
+                    "zh": "\u8feb\u4f7f\u8f66\u8fdc\u79bbf-\u5175\u7684\u9632\u5fa1\u5e76\u4ece\u800c\u6539\u5584\u8c61\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Odsuni\u0119cie Wie\u017cy od swojej pozycji jako obro\u0144cy piona f i poprawienie pozycji Go\u0144ca.",
+                    "ru": "\u041e\u0442\u0442\u0435\u0441\u043d\u044f\u0435\u0442 \u0441 \u0435\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u041b\u0430\u0434\u044c\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 f-\u043f\u0435\u0448\u043a\u0443, \u0438 \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(31)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1bk1\/2nq2p1\/5p1p\/2p2P2\/2P2N2\/1Q6\/1P1B2PP\/4R2K w - - 0 39",
+        "moves": [
+            {
+                "move": "39. Ba5 ",
+                "comment": {
+                    "pt": "Defendendo esta pe\u00e7a e cravando o cavalo advers\u00e1rio.",
+                    "en": "Defending this piece and pinning Black's Knight.",
+                    "de": "Verteidigt diese Figur und fesselt den gegnerischen Springer.",
+                    "es": "Defendiendo esta pieza y clavando el caballo adversario.",
+                    "zh": "\u9632\u5fa1\u8fd9\u4e2a\u68cb\u5b50\uff0c\u7275\u5236\u9ed1\u9a6c\u3002",
+                    "pl": "Broni\u0105c figury i przygwo\u017cd\u017caj\u0105c czarnego Skoczka.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u041a\u043e\u043d\u044f \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(41)",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r3r\/pp2p2p\/2P1p1p1\/1BP4q\/Q3p3\/3nb2P\/PP3PP1\/R4RK1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Bxd3 ",
+                "comment": {
+                    "pt": "Desocupando a casa b5, que poder\u00e1 ser ocupada pela dama. No caso de ...Bxc5, segue Bxe4.",
+                    "en": "Leaving b5, which the Queen may occupy. If ...Bxc5, Bxe4 follows.",
+                    "de": "R\u00e4umt das Feld b5, das von der Dame besetzt werden kann. Auf Lxc5 folgt Lxe4.",
+                    "es": "Desocupando la casilla b5, que podr\u00e1 ser ocupada por la dama. En el caso de ...Axc5, sigue Axe4.",
+                    "zh": "\u79bb\u5f00b5\uff0c\u4e4b\u540e\u53ef\u80fd\u88ab\u540e\u5360\u636e\u3002\u5982\u679c\u4e0b...Bxc5\uff0c\u4f1a\u8ddfBxe4\u3002",
+                    "pl": "Opuszczaj\u0105c b5, kt\u00f3re mo\u017ce zaj\u0105\u0107 Hetman. Je\u015bli ... Gxc5, nast\u0105pi Gxe4.",
+                    "ru": "\u041e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 b5, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u0424\u0435\u0440\u0437\u044c. \u041d\u0430 ..Bxc5, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Bxe4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

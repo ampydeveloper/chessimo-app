@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(124)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/1pqnppbp\/2pp1np1\/p7\/P2PPB2\/2N2N2\/1PP1BPPP\/R2QR1K1 w - - 0 10",
+        "moves": [
+            {
+                "move": "10. e5 ",
+                "comment": {
+                    "pt": "Evitando que as pretas joguem ...e5 e ganhando espa\u00e7o no centro.",
+                    "en": "Preventing Black from playing ...e5 and gaining space in the center.",
+                    "de": "Verhindert, dass Schwarz e5 spielt und gewinnt Raum im Zentrum.",
+                    "es": "Evitando que las negras jueguen ...e5 y ganando espacio en el centro.",
+                    "zh": "\u963b\u6b62\u9ed1\u68cb\u4e0b...e5\u5e76\u5728\u4e2d\u5fc3\u8d62\u5f97\u7a7a\u95f4\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Czarnym zagranie ... e5 i zdobycie pola w centrum.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0433\u0440\u0443 \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 ...e5 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(164)",
+            "zh": "Event 1"
+        },
+        "fen": "1r6\/1q2rkpp\/3Qp3\/2Rb1p2\/1p1P4\/3B1P2\/1P4PP\/5R1K w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Rfc1 ",
+                "comment": {
+                    "pt": "Dobrando as torres na coluna aberta para refor\u00e7ar o ataque.",
+                    "en": "Doubling Rooks on the open file in order to reinforce attack.",
+                    "de": "Verdoppelt die T\u00fcrme auf der offenen Linie, um den Angriff zu verst\u00e4rken.",
+                    "es": "Doblando las torres en la columna abierta para reforzar el ataque.",
+                    "zh": "\u5728\u5f00\u653e\u7ebf\u4e0a\u9020\u6210\u53cc\u8f66\u52a0\u5f3a\u653b\u52bf\u3002",
+                    "pl": "Zdublowanie Wie\u017c na otwartej kolumnie w celu wzmocnienia ataku.",
+                    "ru": "\u0421\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0430\u0442\u0430\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(15)",
+            "zh": "Event 1"
+        },
+        "fen": "3q4\/5k1p\/1p3bpP\/p1n2p2\/P1R1p1P1\/2P1Q3\/2P1B3\/7K b - - 0 49",
+        "moves": [
+            {
+                "move": "49... Be5 ",
+                "comment": {
+                    "pt": "Centralizando o bispo e dando passagem para a dama ir a h4.",
+                    "en": "Centralizing the Bishop and making way for the Queen to h4.",
+                    "de": "Zentralisiert den L\u00e4ufer und macht der Dame den Weg nach h4 frei.",
+                    "es": "Centralizando el alfil y abri\u00e9ndole paso a  la dama hacia h4.",
+                    "zh": "\u5c06\u8c61\u79fb\u5411\u4e2d\u5fc3\u5e76\u4e3a\u540e\u8d70\u5411h4\u5f00\u8def\u3002",
+                    "pl": "Centralizacja Go\u0144ca i utworzenie drogi Hetmanowi do h4.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0443\u0442\u044c \u0424\u0435\u0440\u0437\u044e \u043d\u0430 h4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(42)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/p3npp1\/2p4p\/n1b1p3\/2P5\/3P3P\/PP2BP1P\/RNBQ1R1K b - - 0 14",
+        "moves": [
+            {
+                "move": "14... Nf5 ",
+                "comment": {
+                    "pt": "Para ocupar a casa d4.",
+                    "en": "In order to occupy d4.",
+                    "de": "Um das Feld d4 zu besetzen.",
+                    "es": "Para ocupar la casilla d4.",
+                    "zh": "\u4e3a\u4e86\u5360\u636ed4\u3002",
+                    "pl": "W celu okupacji d4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c d4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(70)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/pp2bppp\/2n1b3\/3pP3\/5B2\/1NPB4\/P1P3PP\/R2Q1R1K w - - 0 15",
+        "moves": [
+            {
+                "move": "15. Nd4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo branco. Caso as pretas troquem esta pe\u00e7a (...Cxd4) as brancas ir\u00e3o melhorar sua estrutura de pe\u00f5es .",
+                    "en": "Centralizing the white Knight. In case Black exchanges this piece (...Nxd4), White will improve its pawn structure.",
+                    "de": "Zentralisiert den wei\u00dfen Springer. Wenn Schwarz diese Figur abtauscht (...Sxd4), wird Wei\u00df seine Bauernstruktur verbessern.",
+                    "es": "Centralizando el caballo blanco. Si las negras cambian esta pieza (...Cxd4), las blancas mejorar\u00e1n su estructura de peones .",
+                    "zh": "\u5c06\u767d\u9a6c\u79fb\u5411\u4e2d\u5fc3\u3002\u5982\u679c\u9ed1\u65b9\u5151\u8fd9\u4e2a\u5b50\uff08...Nxd4\uff09\uff0c\u767d\u65b9\u5c31\u80fd\u6539\u5584\u5175\u5f62\u3002",
+                    "pl": "Centralizacja bia\u0142ego Skoczka. W przypadku wymiany tej figury przez Czarne (... Sxd4), Bia\u0142e poprawi\u0105 swoj\u0105 struktur\u0119 pion\u00f3w.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f. \u0412 \u0441\u043b\u0443\u0447\u0430\u0435, \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u044e\u0442 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 (...Nxd4), \u0411\u0435\u043b\u044b\u0435 \u0443\u043b\u0443\u0447\u0448\u0430\u0442 \u0441\u0432\u043e\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

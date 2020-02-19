@@ -1,0 +1,70 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante  Drag\u00e3o.",
+        "date": "",
+        "event": {
+            "en": "Dragon variation",
+            "de": "Drachenvariante",
+            "es": "Variante del Drag\u00f3n",
+            "pt": "Variante  Drag\u00e3o",
+            "zh": "\u9f99\u53d8\u4f8b",
+            "pl": "Wariant Dragona",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0434\u0440\u0430\u043a\u043e\u043d\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 ",
+                "comment": {
+                    "pt": "As pretas acreditam que ocupar a grande diagonal \"h8-a1\" \u00e9 de grande import\u00e2ncia , porque aumenta a defesa do pr\u00f3prio rei ao mesmo tempo em que pressiona no centro e flanco dama. Esta abertura \u00e9 recomend\u00e1vel para jogadores que gostam de posi\u00e7\u00f5es complicadas e est\u00e3o dispostos a correr muitos riscos.",
+                    "en": "Black believes that occupying the big h8-a1 diagonal is of great importance because it increases the defense of the King and puts pressure on the center and queenside at the same time. This opening is recommended for those who like complicated positions and are willing to risk themselves a lot.",
+                    "es": "Las negras creen que ocupar la gran diagonal \"h8-a1\" es muy importante, porque aumenta la defensa del propio rey al mismo tiempo en que presiona en el centro y flanco dama. Esta apertura es recomendable para jugadores a los que les gustan las posiciones complicadas y est\u00e1n dispuestos a correr muchos riesgos.",
+                    "de": "Schwarz besetzt die lange Diagonale h8-a1, einerseits um den eigenen K\u00f6nig zu verteidigen, andererseits um Druck auf das Zentrum bzw. Damenfl\u00fcgel auszu\u00fcben. Diese Er\u00f6ffnung ist gut f\u00fcr risikofreudige Spieler, die sich gern auf verwickelte Stellungen einlassen.",
+                    "zh": "\u9ed1\u65b9\u76f8\u4fe1\u5360\u636e\u5927\u659c\u7ebfh8-a1\u662f\u975e\u5e38\u91cd\u8981\u7684\uff0c\u56e0\u4e3a\u5b83\u4e00\u65b9\u9762\u589e\u5f3a\u738b\u7684\u9632\u5fa1\uff0c\u540c\u65f6\u53c8\u7ed9\u4e2d\u5fc3\u548c\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002\u8fd9\u4e2a\u5f00\u5c40\u9002\u7528\u4e8e\u90a3\u4e9b\u559c\u6b22\u590d\u6742\u5c40\u9762\u3001\u559c\u6b22\u5192\u9669\u7684\u68cb\u624b\u3002",
+                    "pl": "Czarne wierz\u0105, \u017ce okupowanie d\u0142ugiej przek\u0105tnej h8-a1 ma wielk\u0105 warto\u015b\u0107 poniewa\u017c zwi\u0119ksza obron\u0119 Kr\u00f3la i wywiera presj\u0119 na centrum i skrzyd\u0142o hetma\u0144skie w tym samym czasie. To otwarcie jest zalecane ludziom lubi\u0105cym skomplikowane pozycje i uwielbiaj\u0105cym ryzyko.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442, \u0447\u0442\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0437\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c\u044e h8-a1 \u0438\u043c\u0435\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0437\u0430\u0449\u0438\u0442\u0443 \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e. \u042d\u0442\u043e\u0442 \u0434\u0435\u0431\u044e\u0442 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0442\u0435\u043c, \u043a\u0442\u043e \u043b\u044e\u0431\u0438\u0442 \u0441\u043b\u043e\u0436\u043d\u044b\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0438\u0433\u0440\u044b \u0438 \u043c\u043d\u043e\u0433\u043e \u0440\u0438\u0441\u043a\u0443\u0435\u0442."
+                }
+            },
+            {
+                "move": "   6. Be3 ",
+                "comment": {
+                    "pt": "As brancas far\u00e3o um desenvolvimento para rocar grande, atacar no flanco rei e eventualmente trocar os bispos de casas pretas. As partidas 418 a 427 tratam desta variante.",
+                    "en": "White will develop in order to queencastle, attack on the kingside and occasionally exchange dark-squared Bishops. Games 418 to 427 present this variation.",
+                    "es": "Las blancas se desarrollar\u00e1n para enrocar largo, atacar en el flanco rey y eventualmente cambiar los alfiles de casillas negras. Las partidas 418 a 427 tratan esta variante.",
+                    "de": "Zuerst 10. h4 und dann 0-0-0 geht auch.",
+                    "zh": "\u767d\u65b9\u610f\u56fe\u8fdb\u884c\u540e\u7ffc\u6613\u4f4d\uff0c\u653b\u51fb\u738b\u7ffc\u5e76\u4e14\u5c3d\u53ef\u80fd\u5151\u6362\u9ed1\u683c\u8c61\u3002\u68cb\u5c40418\u5230427\u4ecb\u7ecd\u4e86\u8fd9\u79cd\u53d8\u4f8b\u3002",
+                    "pl": "Bia\u0142e postawi\u0105 na rozw\u00f3j prowadz\u0105cy do d\u0142ugiej roszady, ataku na skrzyd\u0142o kr\u00f3lewskie i w razie potrzeby wymian\u0119 ciemnopolowych Go\u0144c\u00f3w. Partie 418-427 reprezentuj\u0105 t\u0119 wariacj\u0119.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438 \u0434\u043b\u0438\u043d\u043d\u0443\u044e \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443, \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 \u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u0445 \u0421\u043b\u043e\u043d\u043e\u0432. \u0418\u0433\u0440\u044b 418 \u0438 428 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442 \u0442\u0430\u043a\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b."
+                }
+            },
+            {
+                "move": "   Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4 Bd7 10. O-O-O ",
+                "comment": {
+                    "pt": "\u00c9 poss\u00edvel come\u00e7ar com 10-h4 e depois rocar grande.",
+                    "en": "It's possible to start with 10-h4 and kingcastle afterwards.",
+                    "es": "Es posible comenzar con 10-h4 y despu\u00e9s enrocar en largo.",
+                    "de": "Wei\u00df plant, lang zu rochieren, am K\u00f6nigsfl\u00fcgel anzugreifen und eventuell die schwarzfeldrigen L\u00e4ufer abzutauschen. Partien Nr. 418 bis 427 zeigen diese Variante.",
+                    "zh": "\u5f00\u59cb\u8d7010-h4\u7136\u540e\u8fdb\u884c\u738b\u7ffc\u6613\u4f4d\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Mo\u017cliwe jest zacz\u0105\u0107 od 10. h4 i nast\u0119pnie wykona\u0107 kr\u00f3tk\u0105 roszad\u0119.",
+                    "ru": "\u041c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0430\u0442\u044c \u0441 10-h4, \u0441 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u043e\u0439."
+                }
+            },
+            {
+                "move": "   Rc8 11. Bb3 Ne5 12. h4 $1 ",
+                "comment": {
+                    "pt": "As brancas querem abrir linhas no flanco rei, com h5 e depois trocar os bispos de casas pretas (Bh6) tirando as defesas do rei contr\u00e1rio. As pretas pretendem atuar pela coluna \"c\" e desta forma atacar o rei branco. Esta \u00e9 uma posi\u00e7\u00e3o muito rica em combina\u00e7\u00f5es e qualquer erro pode ser fatal. A partida Karpov-Korchnoi (427) \u00e9 um excelente exemplo de como jogar esta posi\u00e7\u00e3o no ataque e na defesa.",
+                    "en": "White plans to open lines on the kingside with h5 and exchange dark-squared Bishops afterwards (Bh6) destroying the defenses of the opponent's King. Black intends to act on the c-file and attack the white King this way. This is a very rich position and any mistake can be fatal. Karpov-Korchnoi (game 427) is an excellent example of how to play this position in attack and in defense.",
+                    "es": "Las blancas quieren abrir l\u00edneas en el flanco rey con h5 y despu\u00e9s cambiar los alfiles de casillas negras (Ah6), quitando la defensa del rey contrario. Las negras pretenden actuar por la columna \"c\" y de esta forma atacar al rey blanco. Esta es una posici\u00f3n muy rica en combinaciones y cualquier error puede ser fatal. La partida Karpov-Korchnoi (427) es un excelente ejemplo de c\u00f3mo jugar esta posici\u00f3n en el ataque y en la defensa.",
+                    "de": "Wei\u00df hat vor, Linien am K\u00f6nigsfl\u00fcgel mit h5 zu \u00f6ffnen und anschlie\u00dfend den Verteidiger der schwarzen Felder (mittels \tLh6) abzutauschen. Seinerseits beabsichtigt Schwarz, auf der c-Linie den wei\u00dfen K\u00f6nig anzugreifen. Diese Stellung ist reich an Kombinationen und jeder Fehler kann zum Verlust f\u00fchren. Karpow - Kortschnoi (Partie Nr. 427) ist ein ausgezeichnetes Beispiel sowohl f\u00fcr den Angriff als auch f\u00fcr die Verteidigung.",
+                    "zh": "\u767d\u65b9\u8ba1\u5212\u7528h5\u5f00\u653e\u738b\u7ffc\u7ebf\u8def\uff0c\u5e76\u4e14\u4e4b\u540e\uff08Bh6\uff09\u518d\u5151\u6362\u9ed1\u683c\u8c61\u6765\u6467\u6bc1\u9ed1\u738b\u7684\u9632\u5fa1\u3002\u9ed1\u65b9\u610f\u56fe\u5728c-\u7ebf\u6d3b\u52a8\u5e76\u4ece\u8fd9\u91cc\u653b\u51fb\u767d\u738b\u3002\u8fd9\u662f\u4e00\u4e2a\u975e\u5e38\u4e30\u5bcc\u591a\u53d8\u7684\u5c40\u9762\uff0c\u4efb\u4f55\u5931\u8bef\u90fd\u662f\u81f4\u547d\u7684\u3002\u5361\u5c14\u6ce2\u592b\u548c\u5e93\u5c14\u5207\u8bfa\u4f0a\uff08\u68cb\u5c40427\uff09\u7684\u5bf9\u5c40\u662f\u5982\u4f55\u5728\u8fd9\u79cd\u5c40\u9762\u653b\u51fb\u548c\u9632\u5fa1\u7684\u975e\u5e38\u7cbe\u5f69\u7684\u4f8b\u5b50\u3002",
+                    "pl": "Bia\u0142e planuj\u0105 otworzy\u0107 linie na skrzydle kr\u00f3lewskim poprzez h5 i wymian\u0119 ciemnopolowych Go\u0144c\u00f3w w nast\u0119pnej kolejno\u015bci (Gh6) niszcz\u0105c obron\u0119 Kr\u00f3la przeciwnika. Czarne zamierzaj\u0105 dzia\u0142a\u0107 na kolumnie c i atakowa\u0107 bia\u0142ego Kr\u00f3la t\u0105 drog\u0105. To pe\u0142na mo\u017cliwo\u015bci pozycja i jakikolwiek b\u0142\u0105d b\u0119dzie mia\u0142 fatalne konsekwencje. Karpow-Korchnoj (partia 427) jest doskona\u0142ym przyk\u0142adem jak gra\u0107 w tej pozycji zar\u00f3wno w ataku, jak i w defensywie.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0441 h5 \u0438 \u0434\u0430\u043b\u0435\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u0445 \u0421\u043b\u043e\u043d\u043e\u0432 (Bh6), \u0440\u0430\u0441\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c, \u0437\u0430\u0449\u0438\u0442\u0443 \u041a\u043e\u0440\u043e\u043b\u044f \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430. \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043d\u0430 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u044d\u0442\u0438\u043c \u043f\u0443\u0442\u0435\u043c. \u042d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u0431\u043e\u0433\u0430\u0442\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438 \u043b\u044e\u0431\u0430\u044f \u043e\u0448\u0438\u0431\u043a\u0430 \u043c\u043e\u0436\u0435\u0442 \u0441\u0442\u0430\u0442\u044c \u0444\u0430\u0442\u0430\u043b\u044c\u043d\u043e\u0439. \u041f\u0430\u0440\u0442\u0438\u044f \u041a\u0430\u0440\u043f\u043e\u0432\u0430-\u041a\u043e\u0440\u0447\u043d\u043e\u0433\u043e (\u0438\u0433\u0440\u0430 427) \u044d\u0442\u043e \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u0430\u043a \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0442\u0430\u043a\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

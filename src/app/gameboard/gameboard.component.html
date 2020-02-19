@@ -1,0 +1,25 @@
+<div class="ion-padding"> 
+    <div class="board-outer board-wrapper board-{{userService.gameSetting.boardSet}} piece-{{userService.gameSetting.pieceSet}}">
+        <div *ngIf="game.Paused" class="pausedOuter">
+            <div class="pauseStrip">Pause</div>
+        </div>
+        <div *ngIf="game.waitForSelection" class="pausedOuter">
+            <div class="pauseStrip">
+                <div>
+                    <div style="font-size: 18px;line-height: 1;padding: 10px 0 0 0;">Promotion</div>
+                    <div style="display: inline-flex;">
+                        <div class="piece-417db wB pieceImg" (click)="game.onPromotionClick('Bishop')" data-piece="wB" style="display: block; overflow: hidden;width: 39px;height: 39px; margin: 0 10px;"></div>
+                        <div class="piece-417db wQ pieceImg" (click)="game.onPromotionClick('Queen')" data-piece="wQ" style="display: block; overflow: hidden;width: 39px;height: 39px; margin: 0 10px;"></div>
+                        <div class="piece-417db wN pieceImg" (click)="game.onPromotionClick('Knight')" data-piece="wN" style="display: block; overflow: hidden;width: 39px;height: 39px; margin: 0 10px;"></div>
+                        <div class="piece-417db wR pieceImg" (click)="game.onPromotionClick('Rook')" data-piece="wR" style="display: block; overflow: hidden;width: 39px;height: 39px; margin: 0 10px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="blue-check">
+            <div class="blue-check-content"></div>
+        </div>
+        <div #board id="board"></div>
+    </div>
+</div>
+

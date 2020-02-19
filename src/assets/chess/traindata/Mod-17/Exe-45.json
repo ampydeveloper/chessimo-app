@@ -1,0 +1,154 @@
+[
+    {
+        "title": "",
+        "white": "Gambito da dama",
+        "white_sort": "",
+        "black": "Defesa Ortodoxa",
+        "date": "",
+        "event": {
+            "en": "Classical variation",
+            "de": "Orthodoxe Verteidigung",
+            "es": "Defensa Ortodoxa",
+            "pt": "Defesa Ortodoxa",
+            "zh": "\u53e4\u5178\u53d8\u4f8b",
+            "pl": "Klasyczna wariacja",
+            "ru": "\u041e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 d5 2. c4 ",
+                "comment": {
+                    "pt": "No Gambito da Dama as brancas jogam de forma mais lenta do que nas aberturas com 1-e4 e procuram posicionar suas pe\u00e7as atr\u00e1s dos pe\u00f5es.",
+                    "en": "In the Queen's gambit, White plays more slowly than in openings with 1-e4 and it tries to place its pieces behind its pawns.",
+                    "es": "En el Gambito de Dama las blancas juegan de forma m\u00e1s lenta que en las aperturas con 1-e4 y procuran posicionar sus piezas detr\u00e1s de los peones.",
+                    "de": "Im Damengambit spielt Wei\u00df langsamer als in den Er\u00f6ffnungen mit 1. e4 und versucht, die Figuren hinter die Bauern aufzustellen.",
+                    "zh": "\u5728\u540e\u7ffc\u5f03\u5175\u4e2d\u767d\u65b9\u8981\u6bd41-e4\u5f00\u5c40\u8d70\u7684\u6162\u4e3a\u4e86\u5c06\u5b83\u7684\u68cb\u5b50\u5728\u5175\u540e\u9762\u3002",
+                    "pl": "W gambicie hetma\u0144skim Bia\u0142e graj\u0105 wolniej, ni\u017c w otwarciach e4, a tak\u017ce ustawiaj\u0105 swoje figury za pionami.",
+                    "ru": "\u0412 \u0424\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0433\u0430\u043c\u0431\u0438\u0442\u0435 \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044e \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e, \u0432 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u0434\u0435\u0431\u044e\u0442\u0430 \u0441 1-e4, \u0438 \u043f\u0440\u043e\u0431\u0443\u044e\u0442 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u043f\u043e\u0437\u0430\u0434\u0438 \u043f\u0435\u0448\u0435\u043a."
+                }
+            },
+            {
+                "move": "   e6 ",
+                "comment": {
+                    "pt": "Outras op\u00e7\u00f5es importantes como a defesa eslava (2...c6), a defesa Tarrasch e o Gambito da dama aceito (2...dxc4) ser\u00e3o analisadas separadamente. O pouco recomend\u00e1vel Contra Gambito Albin (2...e5 3-dxe5 d4) ocorre nas partidas 492 e 493 de nossa base.",
+                    "en": "Other important options such as the Slavic defense(2. ..c6), the Tarrasch defense and the accepted Queen's gambit (2...dxc4) will be analyzed separately. The less recommended Albin Counter gambit (2...e5 3-dxe5 d4) is presented in games 492 and 493 of our database.",
+                    "es": "Otras opciones importantes como la Defensa Eslava (2...c6), la Defensa Tarrasch y el Gambito de Dama Aceptado (2...dxc4) ser\u00e1n analizadas por separado. El poco recomendable Contragambito Albin (2...e5 3-dxe5 d4) ocurre en las partidas 492 y 493 de nuestra base.",
+                    "de": "Andere wichtige M\u00f6glichkeiten wie die Slawische Verteidigung (2...c6), Tarrasch- Verteidigung und das Angenommen Damengambit (2...dxc4) werden getrennt analysiert. Das kaum zu empfehlende Albin-Gegengambit (2...e5 3-dxe5 d4) ist in den Partien Nr. 492 und  493 unserer Datenbank zu sehen.",
+                    "zh": "\u53e6\u5916\u91cd\u8981\u7684\u9009\u62e9\u5982\u65af\u62c9\u592b\u9632\u5fa1\uff082. ..c6\uff09\uff0c\u5854\u62c9\u4ec0\u9632\u5fa1\u548c\u63a5\u53d7\u540e\u7ffc\u5f03\u5175\uff082...dxc4\uff09\u90fd\u4f1a\u5355\u72ec\u8fdb\u884c\u5206\u6790\u3002\u4e0d\u592a\u63a8\u8350\u7684\u963f\u5c14\u5bbe\u53cd\u5f03\u5175\uff082...e5 3-dxe5 d4\uff09\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40492\u548c493\u6709\u4ecb\u7ecd\u3002",
+                    "pl": "Innymi wa\u017cnymi opcjami, takimi jak obrona s\u0142owia\u0144ska (2. ... c6), obrona Tarrascha i gambit hetma\u0144ski przyj\u0119ty (2. ... dxc4) zajmiemy si\u0119 oddzielnie. Mniej zalecany kontrgambit Albina (2. ... e5 3. dxe5 d4) jest zaprezentowany w partiach 492 i 493 z naszej bazy.",
+                    "ru": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0421\u043b\u0430\u0432\u044f\u043d\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 (2...c6), \u0437\u0430\u0449\u0438\u0442\u0430 \u0422\u0430\u0440\u0440\u0430\u0448\u0430 \u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u044b\u0439 \u0424\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0433\u0430\u043c\u0431\u0438\u0442 (2...dxc4), \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e. \u041c\u0435\u043d\u0435\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0439, \u043a\u043e\u043d\u0442\u0440\u0433\u0430\u043c\u0431\u0438\u0442 \u0410\u043b\u044c\u0431\u0438\u043d\u0430 (2...e5 3-dxe5 d4), \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0430\u0445 492 \u0438 492, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   3. Nc3 Nf6 4. Bg5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel desenvolver o bispo por f4, onde ele exerce forte press\u00e3o central.",
+                    "en": "It's also possible to develop the Bishop through f4 where it creates great central pressure.",
+                    "es": "Tambi\u00e9n es posibledesarrollar el alfil por f4, desde donde ejerce fuerte presi\u00f3n central.",
+                    "de": "Man kann auch den L\u00e4ufer auf f4 ziehen, wo er starken Druck auf das Zentrum aus\u00fcbt.",
+                    "zh": "\u901a\u8fc7f4\u6765\u51fa\u8c61\u4e5f\u662f\u53ef\u80fd\u7684\uff0c\u53ef\u4ee5\u5236\u9020\u5f88\u5927\u7684\u4e2d\u5fc3\u538b\u529b\u3002",
+                    "pl": "Mo\u017cliwe jest r\u00f3wnie\u017c wyprowadzenie Go\u0144ca przez f4, gdzie kreuje olbrzymi\u0105 presj\u0119 na centrum.",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 f4, \u0433\u0434\u0435 \u043e\u043d \u043e\u043a\u0430\u0436\u0435\u0442 \u0441\u0438\u043b\u044c\u043d\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   Be7 ",
+                "comment": {
+                    "pt": "\u00c9 possivel jogar 4.. . Cbd7, com a id\u00e9ia de \".. .c6-Da5-Bb4\" para pressionar o cavalo de c3 (partida 494).",
+                    "en": "4...Nbd7 is possible,intending  ...c6-Qa5-Bb4 in order to put pressure on the c3-Knight (game 494).",
+                    "es": "Es posible jugar 4...Cbd7, con la idea de \"...c6-Da5-Ab4\" para presionar el caballo de c3 (partida 494).",
+                    "de": "4.. . Sbd7 ist auch m\u00f6glich, mit der Idee ...c6-Da5-Lb4, um den Springer auf c3 unter Druck zu setzen (Partie Nr. 494).",
+                    "zh": "4...Nbd7\u4e5f\u53ef\u884c\uff0c\u610f\u56fe\u662f\u7ee7\u7eed...c6-Qa5-Bb4\u6765\u7ed9c3-\u9a6c\u65bd\u52a0\u538b\u529b\uff08\u68cb\u5c40494\uff09\u3002",
+                    "pl": "4. ... Sbd7 jest mo\u017cliwe, z zamiarem ... c6-Ha5-Gb4 w celu wywarcia presji na Skoczka c3 (partia 494).",
+                    "ru": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 4...Nbd7, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c ...c6-Qa5-Bb4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u041a\u043e\u043d\u044f c3 (\u0438\u0433\u0440\u0430 494)."
+                }
+            },
+            {
+                "move": "   5. Nf3 O-O 6. e3 Nbd7 ",
+                "comment": {
+                    "pt": "A variante Tartakower \u00e9 caracterizada pelos lances 6...h6 7-Bh4 b6 (partidas 495 a 501) e uma das preferidas do ex campe\u00e3o mundial A.Karpov.",
+                    "en": "The Tartakower variation is characteristic for 6...h6 7-Bh4 b6 (games 495 to 501) and one of former World Champion A. Karpov's favorites.",
+                    "es": "La variante Tartakower se caracteriza por las jugadas 6...h6 7-Ah4 b6 (partidas 495 a 501) y es una de las preferidas del ex campe\u00f3n mundial A. Karpov.",
+                    "de": "Die Tartakower-Variante wird durch die Z\u00fcge 6...h6 7. Lh4 b6 (Partien 495 bis 501) gekennzeichnet und ist eine der Lieblingsvarianten des ehemaligen Weltmeisters Anatoly Karpow.",
+                    "zh": "\u5854\u5854\u79d1\u7ef4\u53d8\u4f8b\u7684\u7279\u70b9\u662f\u8d706...h6 7-Bh4 b6\uff08\u68cb\u5c40495\u5230501\uff09\uff0c\u662f\u524d\u4e16\u754c\u51a0\u519b\u5361\u5c14\u6ce2\u592b\u6240\u949f\u7231\u7684\u3002",
+                    "pl": "Wariant Tarkowera charakteryzowany jest przez 6. ... h6 7. Gh4 b6 (partie 495-501) i jest jednym z ulubionych by\u0142ego Mistrza \u015awiata Anatolija Karpowa.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0422\u0430\u0440\u0442\u0430\u043a\u043e\u0432\u0435\u0440\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0435\u0442\u0441\u044f 6...h6 7-Bh4 b6 (\u0438\u0433\u0440\u044b 495 \u0438 501), \u044f \u0438\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043b\u044e\u0431\u0438\u043c\u044b\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u041c\u0438\u0440\u0430 \u0410\u043d\u0430\u0442\u043e\u043b\u0438\u044f \u041a\u0430\u0440\u043f\u043e\u0432\u0430."
+                }
+            },
+            {
+                "move": "   7. Rc1 ",
+                "comment": {
+                    "pt": "As ancas t\u00eam outras boas possibilidades; 7-cxd5 , conhecida como a variante das trocas, ocorre na partida 472. As partidas 543 , 544 e 553 tamb\u00e9m s\u00e3o exemplos desta abertura, mas ocorrem a partir de outra ordem de lances. 7-Dc2 para eventualmente seguir com roque grande e atacar no centro e flanco rei ocorre na partida 473. 7-Bd3 ocorre nas partidas do ex campe\u00e3o mundial M. Botvinik (485, 486 e 491) e as duas primeiras s\u00e3o excelentes exemplos estrat\u00e9gicos de como jogar com o pe\u00e3o dama isolado.",
+                    "en": "White has other good options. 7-cxd5, known as the exchange variation, is presented in game 472. Games 543, 544 and 553 are also examples of this opening but present it in another order of moves. 7-Qc2, with occasional queencastling and attack on the center and kingside, is presented in game 473. 7-Bd3 by the former World Champion M. Botvinik (games 485, 486 and 491) and the two first ones are excellent strategic examples of how to play with an isolated pawn.",
+                    "es": "Las blancas tienen otras buenas posibilidades: 7-cxd5, conocida como Variante del Cambio, ocurre en la partida 472. Las partidas 543, 544 y 553 tambi\u00e9n son ejemplos de esta apertura, pero a partir de otro orden de jugadas. 7-Dc2, para eventualmente seguir con enroque largo y atacar en el centro y flanco rey, ocurre en la partida 473. 7-Ad3 se puede ver en las partidas del ex campe\u00f3n mundial M. Botvinnik (485, 486 y 491). Las dos primeras son excelentes ejemplos estrat\u00e9gicos de c\u00f3mo jugar con el pe\u00f3n dama aislado.",
+                    "de": "Wei\u00df hat andere gute M\u00f6glichkeiten: 7. cxd5, als Abtauschvariante bekannt, geschieht in der Partie 472. Die Partien 543, 544 und 553 sind zwar Beispiele dieser Er\u00f6ffnung, jedoch in einer verschieden Zugfolge. 7. Dc2 und eventuell lange Rochade samt Angriff auf das Zentrum bzw. K\u00f6nigsfl\u00fcgel geschieht in der Partie 473. 7. Ld3 geschieht in den Partien des ehemaligen Weltmeisters Michail Botwinnik (485, 486 und 491); die ersten beiden sind ausgezeichnete strategische Beispiele, wie man mit dem Isolani spielt.",
+                    "zh": "\u767d\u65b9\u8fd8\u6709\u5176\u4ed6\u597d\u7684\u9009\u62e9\u30027-cxd5\u4ee5\u5151\u6362\u53d8\u4f8b\u95fb\u540d\u5728\u68cb\u5c40472\u4e2d\u5448\u73b0\u3002\u68cb\u5c40543\u3001544\u548c553\u4e5f\u662f\u8fd9\u79cd\u5f00\u5c40\u5f88\u597d\u7684\u4f8b\u5b50\uff0c\u4f46\u662f\u68cb\u5e8f\u53e6\u6709\u4e0d\u540c\u30027-Qc2\uff0c\u53ef\u80fd\u7684\u540e\u7ffc\u6613\u4f4d\u548c\u653b\u51fb\u738b\u7ffc\u548c\u4e2d\u5fc3\u5728\u68cb\u5c40473\u4e2d\u6709\u4ecb\u7ecd\u3002\u524d\u4e16\u754c\u51a0\u519bBotvinik\u6240\u8d70\u76847-Bd3\uff08\u68cb\u5c40485\u3001486\u548c491\uff09\uff0c\u5c24\u5176\u662f\u7b2c\u4e00\u4e2a\u662f\u7cbe\u5f69\u7684\u6218\u7565\u5b9e\u4f8b\uff0c\u8bb2\u89e3\u4e86\u5982\u4f55\u5e94\u5bf9\u5b64\u5175\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 jeszcze inne dobre rozwi\u0105zania. 7. cxd5, zwane jako wariant wymiany, jest prezentowany w partii 472. Partie 543, 544 i 553 s\u0105 r\u00f3wnie\u017c przyk\u0142adami tego debiutu, ale w innej kolejno\u015bci ruch\u00f3w. 7. Hc2 wraz z okazjonalnym przeprowadzeniem d\u0142ugiej roszady i atakiem w centrum i na skrzyd\u0142o kr\u00f3lewskie jest prezentowany w partii 473. 7. Gd3 za by\u0142ym Mistrzem \u015awiata Michai\u0142em Botwinnikiem (partie 485, 486 oraz 491) i pierwsze dwie propozycje s\u0105 \u015bwietnymi przyk\u0142adami strategicznymi na to, jak gra\u0107 z izolowanym pionem.",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u0435\u0449\u0435 \u043e\u0434\u0438\u043d \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442. 7-cxd5, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u0430\u043a \u0440\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 472. \u0418\u0433\u0440\u044b 543, 544 \u0438 553, \u0442\u0430\u043a\u0436\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u044d\u0442\u043e\u0442 \u0434\u0435\u0431\u044e\u0442, \u043d\u043e \u0432 \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0445\u043e\u0434\u043e\u0432. 7-Qc2, \u0438\u043d\u043e\u0433\u0434\u0430 \u0441 \u0434\u043b\u0438\u043d\u043d\u043e\u0439 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u043e\u0439, \u0430\u0442\u0430\u043a\u043e\u0439 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 473. 7-Bd3 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d \u041c\u0438\u0440\u0430 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a (\u0438\u0433\u0440\u044b 485, 486 \u0438 491). \u041f\u0435\u0440\u0432\u044b\u0435 \u0434\u0432\u0430 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 - \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0435 \u043f\u0440\u0438\u043c\u0435\u0440\u044b \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0438, \u043a\u0430\u043a \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0438\u0433\u0440\u0430\u0442\u044c \u0441 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439."
+                }
+            },
+            {
+                "move": "   a6 ",
+                "comment": {
+                    "pt": "Com o objetivo de jogar ... dxc4, seguido de ...b5 e Bb7. O ex campe\u00e3o mundial ,J.R. Capablanca, preferia jogar 7...c6, para depois seguir com ... dxc4 e ...Cd5 (partidas 474, 477, 478 , 489 e 490). Outra jogada poss\u00edvel \u00e9 7.. .b6, que geralmente \u00e9 respondida com 8-cxd5 cxd5 9-Bb5 (476 e 487). A melhor forma para desenvolver o bispo por b7 \u00e9 jogando a variante Tartakower (ver comentarios da sexta jogada preta). 7... Te8 era a jogada preferida do ex campe\u00e3o mundial E. Lasker, mas nos dias de hoje \u00e9 pouqu\u00edssimo praticada (partidas 475, 480 e 484).",
+                    "en": "Aiming to play . ..dxc4, followed by ...b5 and Bb7. The former World Champion J. R. Capablanca preferred 7...c6, in order to follow with ...dxc4 and ...Cd5 afterwards (games 474, 477, 478 , 489 and 490). Another possible move is 7...b6 that is, usually answered with 8-cxd5 cxd5 9-Bb5 (games 476 and 487). The best way to develop the bishop through b7 is the Tartakower variation (see comments of the 6... move). 7... Re8 was the favorite move of the former World Champion E. Lasker, but it's barely used nowadays (games 475, 480 and 484).",
+                    "es": "Con el objetivo de jugar ...dxc4, seguido de ...b5 y Ab7. El ex campe\u00f3n mundial Jos\u00e9 Ra\u00fal Capablanca prefer\u00eda jugar 7...c6, para seguir despu\u00e9s con ...dxc4 y ...Cd5 (partidas 474, 477, 478, 489 y 490). Otra jugada posible es 7...b6, que generalmente es respondida con 8-cxd5 cxd5 9-Ab5 (476 y 487). La mejor forma para desarrollar el alfil por b7 es jugando la variante Tartakower (ver comentarios de la sexta jugada negra). 7...Te8 era la jugada preferida del ex campe\u00f3n mundial E. Lasker, pero en los d\u00edas de hoy es muy poco practicada (partidas 475, 480 y 484).",
+                    "de": "Um ...dxc4 nebst ...b5 und Lb7 zu spielen. Der ehemalige Weltmeister Jos\u00e9 Ra\u00fal Capablanca spielte am liebsten 7...c6, um ...dxc4 und ...Sd5 (Partien Nr. 474, 477, 478 , 489 und 490) folgen zu lassen. Eine weitere M\u00f6glichkeit ist 7... b6, die normalerweise mit 8. cxd5 cxd5 9. Lb5 (Partien Nr. 476 und 487) beantwortet wird. Die beste Form, den L\u00e4ufer \u00fcber b7 zu entwickeln ist die Tartakower-Variante (siehe Kommentar zum 6. Zug von Schwarz). 7... Te8 war Laskers Lieblingszug, wird aber heutzutage selten angewandt (Partien Nr. 475, 480 und 484).",
+                    "zh": "\u76ee\u7684\u662f\u4e3a\u4e86\u8d70. ..dxc4\uff0c\u968f\u540e ...b5\u548cBb7\u3002\u524d\u4e16\u754c\u51a0\u519b\u5361\u5e15\u5e03\u5170\u5361\u66f4\u503e\u5411\u4e8e7...c6\uff0c\u8ddf\u7740...dxc4\u548c..Cd5\uff08\u68cb\u5c40474\u3001477\u3001478\u3001489\u548c490\uff09\u3002\u53e6\u5916\u4e00\u4e2a\u53ef\u884c\u7684\u8d70\u6cd5\u662f7...b6\uff0c\u901a\u5e38\u4f1a\u88ab\u5e94\u4ee58-cxd5 cxd5 9-Bb5\uff08\u68cb\u5c40476\u548c487\uff09\u3002\u901a\u8fc7b7\u51fa\u8c61\u7684\u6700\u4f73\u65b9\u6cd5\u662f\u5854\u5854\u79d1\u7ef4\u53d8\u4f8b\uff08\u89c16...\u8d70\u6cd5\u8bc4\u6ce8\uff09\u30027... Re8\u662f\u524d\u4e16\u754c\u51a0\u519b\u62c9\u65af\u514b\u949f\u7231\u7684\u8d70\u6cd5\uff0c\u4f46\u662f\u73b0\u5728\u5df2\u7ecf\u5f88\u5c11\u7528\u4e86\uff08\u68cb\u5c40475\u3001480\u548c484\uff09\u3002",
+                    "pl": "Aby zagra\u0107 ... dxc4, kontynuowane przez ... b5 i Gb7. By\u0142y Mistrz \u015awiata Jose Raul Capablanca preferowa\u0142 7. ... c6 w celu kontynuacji przez ... dxc4 i Sd5 p\u00f3\u017aniej (partie 474, 477, 478, 489 i 490). Inn\u0105 mo\u017cliwo\u015bci\u0105 jest 7. ... b6 na kt\u00f3re zwykle odpowiada si\u0119 8. cxd5 cxd5 9. Gb5 (partie 476 i 487). Najlepsz\u0105 drog\u0105 wyprowadzenia Go\u0144ca przez b7 jest wariant Tarkowera (zobacz komentarz przy sz\u00f3stym ruchu). 7. ... We8 by\u0142 ulubionym ruchem by\u0142ego Mistrza \u015awiata Emmanuela Laskera, ale jest dzi\u015b rzadko u\u017cywany (partie 475, 480 i 484).",
+                    "ru": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u0441\u044b\u0433\u0440\u0430\u0442\u044c ...dxc4, \u0437\u0430\u0442\u0435\u043c ...b5 \u0438 Bb7. \u042d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d \u041c\u0438\u0440\u0430 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0430 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u043b 7...c6, \u0437\u0430\u0442\u0435\u043c ...dxc4 \u0438 ...Cd5 (\u0438\u0433\u0440\u044b 474, 477, 478, 489 \u0438 490). \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0445\u043e\u0434 7...b6, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043e\u0442\u0432\u0435\u0442 8-cxd5 cxd5 9-Bb5 (\u0438\u0433\u0440\u044b 476 \u0438 487). \u041b\u0443\u0447\u0448\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 b7, \u043a\u0430\u043a \u0432 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u0422\u0430\u0440\u0442\u0430\u043a\u043e\u0432\u0435\u0440\u0430 (\u0441\u043c. \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438 \u043a \u0445\u043e\u0434\u0443 6...). \u0418\u0433\u0440\u0430 7...Re8 \u0431\u044b\u043b\u0430 \u043b\u044e\u0431\u0438\u043c\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u041c\u0438\u0440\u0430 \u041b\u0430\u0441\u043a\u0435\u0440\u0430, \u043d\u043e \u043e\u043d \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u043d\u0430\u0448\u0435 \u0432\u0440\u0435\u043c\u044f (\u0438\u0433\u0440\u044b 475, 480 \u0438 484)."
+                }
+            },
+            {
+                "move": "   8. Qc2 ",
+                "comment": {
+                    "pt": "As brancas optam por manter a tens\u00e3o central e pressionar atrav\u00e9s da coluna c. \u00c9 poss\u00edvel jogar 8-cxd5 transpondo para a variante das trocas (partida 481) e tamb\u00e9m 8-c5 merece considera\u00e7\u00e3o.",
+                    "en": "White chooses to maintain central tension and put pressure through the c-file. 8-cxd5 is possible withtranspositi on to the exchange variation (game 481) and also 8-c5 deserves to be considered.",
+                    "es": "Las blancas optan por mantener la tensi\u00f3n central y presionar a trav\u00e9s de la columna c. Es posible jugar 8-cxd5transponie ndo para la variante del cambio (partida 481) y tambi\u00e9n 8-c5 merece consideraci\u00f3n.",
+                    "de": "Wei\u00df zieht vor, die zentrale Spannung aufrechtzuerhalten und \u00fcber die c-Linie Druck auszu\u00fcben. Es ist m\u00f6glich 8. cxd5 zu spielen, was zur Abtauschvariante f\u00fchrt (Partie Nr. 481). Auch 8. c5 ist zu ber\u00fccksichtigen.",
+                    "zh": "\u767d\u65b9\u9009\u62e9\u4fdd\u6301\u4e2d\u5fc3\u5f20\u529b\uff0c\u7ed9c-\u7ebf\u65bd\u52a0\u538b\u529b\u3002 8-cxd5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u53ef\u4ee5\u53d8\u6362\u4e3a\u5151\u6362\u53d8\u4f8b\uff08\u68cb\u5c40481\uff09\uff0c8-c5\u4e5f\u53ef\u4ee5\u8003\u8651\u3002",
+                    "pl": "Bia\u0142e wybieraj\u0105 utrzymanie centralnej presji i wywarcia kolejnej na kolumnie c. 8. cxd5 jest mo\u017cliwe z transpozycj\u0105 do wariantu wymiany (partia 481), ale te\u017c 8. c5 jest warte rozwa\u017cenia.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c. 8-cxd5 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u0438\u0433\u0440\u0443 \u0432 \u0440\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 (\u0438\u0433\u0440\u0430 481)."
+                }
+            },
+            {
+                "move": "   Re8 ",
+                "comment": {
+                    "pt": "Parece mais preciso jogar 8...c6 como ocorre na partida Grunfeld -Alekhine (partida 482) onde as pretas venceram e demonstraram como jogar este tipo de posi\u00e7\u00e3o.",
+                    "en": "8...c6 seems more precious as in Grunfeld -Alekhine (game 482) where Black demonstrates how to play this kind of position and wins.",
+                    "es": "Parece m\u00e1s preciso jugar 8...c6, como ocurre en la partida Gr\u00fcnfeld -Alekhine (partida 482) en la que las negras vencieron y demostraron c\u00f3mo jugar este tipo de posici\u00f3n.",
+                    "de": "8...c6 scheint pr\u00e4ziser zu sein, wie in Gr\u00fcnfeld - Aljechin (Partie 482) geschieht. Schwarz gewann und zeigte, wie man diesen Stellungstyp spielt.",
+                    "zh": "8...c6\u5728\u683c\u6e29\u83f2\u5fb7\u5bf9\u963f\u5ed6\u6b23\u7684\u6218\u5f79\u4e2d\uff08\u68cb\u5c40482\uff09\u663e\u5f97\u66f4\u4e3a\u91cd\u8981\uff0c\u9ed1\u65b9\u6f14\u793a\u4e86\u5982\u4f55\u8d70\u8fd9\u79cd\u5c40\u9762\u5e76\u4e14\u83b7\u80dc\u3002",
+                    "pl": "8. ... c6 zdaje si\u0119 by\u0107 precyzyjniejsze, jak w partii Grunfeld \u2013 Alechin (482), gdzie Czarne demonstruj\u0105, jak gra\u0107 w tego typu pozycji i wygrywa\u0107.",
+                    "ru": "\u0418\u0433\u0440\u0430 8...c6 \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u044f, \u043a\u0430\u043a \u0438 \u043f\u0430\u0440\u0442\u0438\u044f \u0413\u0440\u044e\u043d\u0444\u0435\u043b\u044c\u0434-\u0410\u043b\u0435\u0445\u0438\u043d (\u0438\u0433\u0440\u0430 482), \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 \u0438\u0437 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442."
+                }
+            },
+            {
+                "move": "   9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. a4 ",
+                "comment": {
+                    "pt": "Excelente jogada posicional para explorar a press\u00e3o atrav\u00e9s da coluna c.",
+                    "en": "Excellent positional move to explore pressure on the c-file.",
+                    "es": "Excelente jugada posicional para explotar la presi\u00f3n a trav\u00e9s de la columna c.",
+                    "de": "Ausgezeichneter positioneller Zug, um den Druck auf der c-Linie auszunutzen",
+                    "zh": "\u7cbe\u5f69\u7684\u4e00\u7740\u6765\u5145\u5206\u5229\u7528c-\u7ebf\u7684\u538b\u529b\u3002",
+                    "pl": "Doskona\u0142y pozycyjny ruch, aby wykorzysta\u0107 presj\u0119 na kolumnie c.",
+                    "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            },
+            {
+                "move": "   b4 13. Bxf6 Nxf6 14. Ne4 ",
+                "comment": {
+                    "pt": "E a s brancas t\u00eam vantagem devido a press\u00e3o na coluna c. A partida 483 mostra a sequ\u00eancia desta posi\u00e7\u00e3o.",
+                    "en": "And White has advantage because of the pressure on the c-file. Game 483 presents the sequence of this position.",
+                    "es": "Y las blancas tienen ventaja debido a la presi\u00f3n en la columna c. La partida 483 muestra la continuaci\u00f3n a partir de esta posici\u00f3n.",
+                    "de": "Und Wei\u00df hat Vorteil wegen des Drucks auf der c-Linie. Die Partie Nr. 483 zeigt eine Fortsetzung dieser Stellung.",
+                    "zh": "\u56e0\u4e3ac-\u7ebf\u7684\u538b\u529b\u767d\u65b9\u5360\u4f18\u3002\u68cb\u5c40483\u4ecb\u7ecd\u4e86\u8fd9\u4e2a\u5c40\u9762\u7684\u4e00\u4e2a\u5ef6\u7eed\u3002",
+                    "pl": "I Bia\u0142e posiadaj\u0105 przewag\u0119, z powodu presji na kolumnie c. Partia 483 prezentuje sekwencje tej pozycji.",
+                    "ru": "\u0418 \u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433\u0443\u044e\u0442 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c. \u0418\u0433\u0440\u0430 483 \u043d\u0430\u0433\u043b\u044f\u0434\u043d\u043e \u044d\u0442\u043e \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

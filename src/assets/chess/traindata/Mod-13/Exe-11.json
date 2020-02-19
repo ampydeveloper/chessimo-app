@@ -1,0 +1,149 @@
+[
+    {
+        "title": "",
+        "white": "cravada 2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/pp2bpp1\/2n1bn1p\/3p4\/3N4\/2N1B1P1\/PPQ1PPBP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rad1 ",
+                "comment": {
+                    "pt": "Pressionando atrav\u00e9s da coluna dama. Seria equivalente a jogada Tfd1 com o mesmo objetivo.",
+                    "en": "Creating pressure through the Queen-file. This is equivalent to playing Rfd1.",
+                    "es": "Presionando a trav\u00e9s de la columna dama. Ser\u00eda equivalente a la jugada Tfd1 con el mismo objetivo.",
+                    "de": "\u00dcbt Druck auf der d-Linie aus. 1. Tfd1 mit dem gleichen Ziel w\u00e4re gleichwertig.",
+                    "zh": "\u5bf9\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002\u4e0bRfd1\u4e5f\u662f\u4e00\u6837\u7684\u3002",
+                    "pl": "Wywieranie presji przez kolumn\u0119 Hetmana. R\u00f3wnoprawne jest te\u017c Wfd1.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0424\u0435\u0440\u0437\u044f. \u042d\u0442\u043e \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u043d\u043e \u0438\u0433\u0440\u044b Rfd1."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq3r\/p4k2\/2pbppn1\/2p3pp\/N1PpP2P\/BP1P1NP1\/P3QP2\/R3K2R b KQ - 0 16",
+        "moves": [
+            {
+                "move": "16... e5 ",
+                "comment": {
+                    "pt": "Com a terr\u00edvel amea\u00e7a de cravar o cavalo (...Bg4). Se as brancas permitirem a cravada ser\u00e1 imposs\u00edvel livrar-se dela devido a aus\u00eancia do bispo de casas brancas.",
+                    "en": "Terribly threatening to pin the Knight (... Bg4). If White allows the pin, it will be impossible to get rid of it, due to its lack of a light-squared Bishop.",
+                    "es": "Con la terrible amenaza de clavar el caballo (...Ag4). Si las blancas permiten la clavada ser\u00e1 imposible librarse de ella debido a la ausencia del alfil de casillas blancas.",
+                    "de": "Mit der furchtbaren Bedrohung, den Springer durch ...Lg4 zu fesseln. Wenn Wei\u00df das zul\u00e4sst, wird er sich nicht entfesseln k\u00f6nnen, da der wei\u00dffeldrige L\u00e4ufer bereits abgetauscht wurde.",
+                    "zh": "\u7528\u5f3a\u5927\u7684\u5a01\u80c1\u5c06\u7275\u5236\u4f4f\u9a6c\uff08... Bg4\uff09\u3002\u4e00\u65e6\u767d\u65b9\u65e0\u529b\u53cd\u6297\uff0c\u90a3\u4e48\u51e0\u4e4e\u6ca1\u6709\u53ef\u80fd\u518d\u6446\u8131\u7275\u5236\uff0c\u56e0\u4e3a\u5b83\u7684\u767d\u683c\u8c61\u5df2\u7ecf\u5151\u6389\u4e86\u3002",
+                    "pl": "Niezwykle zagra\u017caj\u0105c przygwo\u017cd\u017cenie Skoczka (... Gg4). Je\u015bli Bia\u0142e na to zezwol\u0105, niemo\u017cliwe b\u0119dzie jego uwolnienie z powodu braku jasnopolowego Go\u0144ca.",
+                    "ru": "\u0421\u0438\u043b\u044c\u043d\u0430\u044f \u0443\u0433\u0440\u043e\u0437\u0430 \u0441\u0432\u044f\u0437\u0430\u0442\u044c \u041a\u043e\u043d\u044f (... Bg4). \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0442 \u0432\u0437\u044f\u0442\u044c \u041a\u043e\u043d\u044f \u0432 \u0441\u0432\u044f\u0437\u043a\u0443, \u0442\u043e \u043e\u0442 \u043d\u0435\u0435 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f, \u0438\u0437-\u0437\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r2k2\/p1rqn1p1\/Ppn1p2p\/1B1pPp2\/1P1P1P2\/2R2N2\/2R3PP\/2Q3K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ba4 ",
+                "comment": {
+                    "pt": "Para jogar b5 e explorar a cravada ao longo da coluna c.",
+                    "en": "In order to play b5 and explore the pin along the c-file.",
+                    "es": "Para jugar b5 y explotar la clavada a lo largo de la columna \"c\".",
+                    "de": "Um b5 zu spielen und die Fesselung auf der c-Linie auszunutzen.",
+                    "zh": "\u4e3a\u4e86\u80fd\u8d70b5\u5e76\u5145\u5206\u5229\u7528c-\u7ebf\u7684\u7275\u5236\u6218\u672f\u3002",
+                    "pl": "W celu zagrania b5 i wykorzystania przygwo\u017cd\u017cenia na kolumnie c.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c b5, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443 \u0432\u0434\u043e\u043b\u044c  c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5k2\/p5pp\/r7\/2pB2p1\/b1P5\/6P1\/4PP1P\/R5K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ra2 ",
+                "comment": {
+                    "pt": "Uma brilhante jogada que tem por objetivo manter a cravada ao longo da coluna a. As pretas amea\u00e7avam ...Bb5, liberando suas pe\u00e7as e com 1-Ta2 as brancas evitam esta jogada que seria respondida com cxb5 e a torre em a2 fica defendida pelo bispo de d5.",
+                    "en": "A brilliant move, aiming to maintain the pin along the a-file. Black threatened ...Bb5 to set free its pieces. The answer would have to be cxb5, but all this is prevented by Ra2 and the Rook is under the defense of the d5-Bishop.",
+                    "es": "Una brillante jugada que tiene por objetivo mantener la clavada a lo largo de la columna \"a\". Las negras amenazaban ...Ab5, liberando sus piezas; con 1-Ta2 las blancas evitan esta jugada que ser\u00eda respondida con Cxb5 y la torre en a2 queda defendida por el alfil de d5.",
+                    "de": "Ein gl\u00e4nzender Zug, dessen Ziel ist, die Fesselung auf der a-Linie aufrechtzuerhalten. Schwarz drohte ...Lb5, um seine Figuren zu befreien. Nach 1. Ta2 geht ...Lb5 nicht mehr, da jetzt der Turm auf a2 vom L\u00e4ufer auf d5 gedeckt wird und Wei\u00df den L\u00e4ufer einfach schlagen k\u00f6nnte.",
+                    "zh": "\u8d70\u7684\u975e\u5e38\u597d\uff0c\u76ee\u7684\u662f\u4e3a\u4e86\u7ee7\u7eed\u7275\u5236a-\u7ebf\u3002\u9ed1\u65b9\u7528...Bb5\u5a01\u80c1\u89e3\u653e\u5b83\u7684\u68cb\u5b50\u3002\u672c\u6765\u53ef\u4ee5\u8d70cxb5\uff0c\u4f46\u662f\u5df2\u7ecf\u88abRa2\u963b\u6b62\uff0c\u5e76\u4e14\u8f66\u6b63\u5728\u9632\u536bd5-\u8c61\uff0c\u767d\u68cb\u53ef\u4ee5\u76f4\u63a5\u653b\u51fb\u9ed1\u9a6c\u3002",
+                    "pl": "\u015awietny ruch maj\u0105cy na celu utrzymanie przygwo\u017cd\u017cenia na kolumnie a. Czarne gro\u017c\u0105 ... Gb5, aby uwolni\u0107 swoje figury. Odpowiedzi\u0105 mog\u0142oby by\u0107 cxd5, ale wszystko to jest zapobiegane poprzez Wa2, a Wie\u017ca jest pod ochron\u0105 Go\u0144ca d5.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u043d\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0441\u0432\u044f\u0437\u043a\u0438 \u043f\u043e a-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 ...Bb5, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b. \u041e\u0442\u0432\u0435\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u0445\u043e\u0434 cxb5,\u043d\u043e \u0432\u0441\u0435\u043c\u0443 \u044d\u0442\u043e\u043c\u0443 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 Ra2 \u0438 \u041b\u0430\u0434\u044c\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043f\u043e\u0434 \u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 d5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r3r\/ppq2pp1\/3bpn1p\/7P\/5B1R\/5NP1\/PPP1QP2\/2KR4 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rxd6 ",
+                "comment": {
+                    "pt": "Para explorar o tema da cravada. As pretas dever\u00e3o perder v\u00e1rios tempos, movendo a dama e o rei para livrar-se da cravada.",
+                    "en": "In order to explore the pinning theme. Black must move its Queen and King and lose several tempos in order to unpin.",
+                    "es": "Para explotar el tema de la clavada. Las negras deber\u00e1n perder varios tiempos, moviendo la dama y el rey para librarsede la clavada.",
+                    "de": "Um die Fesselung auszunutzen. Schwarz verliert viel Tempo, um Dame und K\u00f6nig aus der Diagonale zu ziehen.",
+                    "zh": "\u4e3a\u4e86\u5145\u5206\u5229\u7528\u7275\u5236\u6218\u672f\u3002\u9ed1\u65b9\u4e3a\u4e86\u6446\u8131\u7275\u5236\u5fc5\u987b\u4e0d\u60dc\u843d\u540e\u597d\u51e0\u624b\uff0c\u5c06\u9ed1\u738b\u548c\u9ed1\u540e\u4ece\u659c\u7ebf\u8f6c\u79fb\u8d70\u3002",
+                    "pl": "W celu wykorzystania przygwo\u017cd\u017cenia. Czarne musz\u0105 ruszy\u0107 Hetmanem i Kr\u00f3lem i straci\u0107 wiele tempa, aby wyj\u015b\u0107 z sytuacji.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0445\u043e\u0434\u0438\u0442\u044c \u0441\u0432\u043e\u0438\u043c \u0424\u0435\u0440\u0437\u0435\u043c \u0438 \u041a\u043e\u0440\u043e\u043b\u0435\u043c, \u0438\u043d\u0430\u0447\u0435 \u043e\u043d\u0438 \u0443\u0442\u0440\u0430\u0442\u044f\u0442 \u0442\u0435\u043c\u043f."
+                }
+            },
+            {
+                "move": "   Rxd6 2. Ne5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando Cxf7 e Cc4.",
+                    "en": "Threatening Nxf7 and Nc4.",
+                    "es": "amenazando Cxf7 y Cc4.",
+                    "de": "Droht Sxf7 und Sc4.",
+                    "zh": "\u5a01\u80c1Nxf7\u548cNc4\u3002",
+                    "pl": "Zagra\u017caj\u0105c Sxf7 i Sc4.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Nxf7 \u0438 Nc4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

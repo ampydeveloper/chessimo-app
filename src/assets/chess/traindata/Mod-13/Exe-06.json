@@ -1,0 +1,136 @@
+[
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkbnr\/1ppp1ppp\/p1B5\/4p3\/4P3\/5N2\/PPPP1PPP\/RNBQK2R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... dxc6 ",
+                "comment": {
+                    "pt": "Abrir linhas de desenvolvimento para a dama e o bispo \u00e9 o mais importante nesta posi\u00e7\u00e3o. Se as brancas jogarem agora 2-Cxe5, segue ... Dd4 recuperando o pe\u00e3o.",
+                    "en": "Opening lines for the Queen's development is the most important in this position. If White plays 2-Nxe5 now, ...Qd4 will follow, retaking the pawn.",
+                    "es": "Abrir l\u00edneas de desarrollo para la dama y el alfil es lo m\u00e1s importante en esta posici\u00f3n. Si las blancas juegan ahora 2-Cxe5, sigue ...Dd4, recuperando el pe\u00f3n.",
+                    "de": "Das Wichtigste in dieser Stellung ist es, Linien bzw. Diagonalen f\u00fcr die Entwicklung von Dame und L\u00e4ufer. Auf 2. Sxe5 gewinnt 2... Dd4 den Bauern zur\u00fcck.",
+                    "zh": "\u8fd9\u4e2a\u5c40\u9762\u6700\u91cd\u8981\u7684\u4efb\u52a1\u662f\u4e3a\u540e\u7684\u51fa\u52a8\u626b\u6e05\u9053\u8def\u3002\u5982\u679c\u767d\u65b9\u4e0b2-Nxe5\uff0c\u5e94...Qd4 \u593a\u56de\u5175\u3002",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0424\u0435\u0440\u0437\u044f - \u0441\u0430\u043c\u043e\u0435 \u0432\u0430\u0436\u043d\u043e\u0435 \u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0438\u0433\u0440\u0430\u044e\u0442 2-Nxe5, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...Qd4, \u0432\u0437\u044f\u0442\u0438\u0435 \u043f\u0435\u0448\u043a\u0438.",
+                    "pl": "Otwieraj\u0105c linie dla wyprowadzenia Hetmana, co jest najwa\u017cniejsze w tej pozycji. Je\u015bli Bia\u0142e zagraj\u0105 teraz 2. Sxe5, nast\u0105pi ... Hd4 oraz odzyskanie piona."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkbnr\/ppp2ppp\/4p3\/3pP3\/3P4\/8\/PPP2PPP\/RNBQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... c5 ",
+                "comment": {
+                    "pt": "Para seguir com ...Cc6 e pressionar o centro branco. Esta jogada \u00e9 muito superior a ...Cc6, que bloquearia o avan\u00e7o do peao c.",
+                    "en": "In order to continue with ...Nc6 and put pressure on the white center. This move is much better than ...Nc6 that would block the advance of the c-pawn.",
+                    "es": "Para seguir con ...Cc6 y presionar el centro blanco. Esta jugada es muy superior a ...Cc6, que bloquear\u00eda el avance del pe\u00f3n c.",
+                    "de": "Um 2... Sc6 folgen zu lassen und Druck auf das wei\u00dfe Zentrum auszu\u00fcben. Der Textzug ist st\u00e4rker als das sofortige 1...Sc6, was den c-Bauern blockieren w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u80fd\u7ee7\u7eed\u8d70...Nc6\uff0c\u5bf9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u3002\u8fd9\u6837\u8d70\u8981\u6bd4\u7acb\u523b\u8d70...Nc6\u597d\u5f88\u591a\uff0c\u56e0\u4e3a\u5426\u5219\u4f1a\u5835\u4f4fc-\u5175\u3002",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c ...Nc6 \u0438 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u043b\u0443\u0447\u0448\u0435, \u0447\u0435\u043c ...Nc6, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 c-\u043f\u0435\u0448\u043a\u0438.",
+                    "pl": "W celu dalszej pr\u00f3by ... Sc6 i wywarciu presji na bia\u0142e centrum. To znacznie lepszy ruch ni\u017c ... Sc6, kt\u00f3ry zablokowa\u0142by piona na kolumnie c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkbnr\/pp3ppp\/4p3\/2ppP3\/3P4\/8\/PPP2PPP\/RNBQKBNR w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. c3 ",
+                "comment": {
+                    "pt": "Para responder a 1...cxd4 com 2-cxd4 mantendo a posi\u00e7\u00e3o central e o pe\u00e3o de e5 defendido.",
+                    "en": "In order to answer to 1...cxd4 with 2-cxd4 maintaining the central position and defending the e5-pawn.",
+                    "es": "Para responder a 1...Cxd4 con 2-Cxd4 manteniendo la posici\u00f3n central y seguir defendiendo el pe\u00f3n de e5.",
+                    "de": "Um 2. cxd4 auf 1...cxd4 zu spielen, was die zentrale Stellung aufrechterh\u00e4lt und den Bauern auf e5 gedeckt h\u00e4lt.",
+                    "zh": "\u4e3a\u4e86\u8d702-cxd4\u5e941...cxd4\uff0c\u4fdd\u6301\u4e2d\u5fc3\u5c40\u9762\uff0c\u9632\u536be5-\u5175\u3002",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c \u043d\u0430 1...cxd4, \u0438 2-cxd4 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5.",
+                    "pl": "W celu odpowiedzi na 1. ... cxd4 poprzez 2. cxd4, utrzymuj\u0105c centraln\u0105 pozycj\u0119 i broni\u0105c piona e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp1nqppp\/2pbpn2\/8\/2PP4\/2N1PN2\/P3BPPP\/R1BQ1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... e5 ",
+                "comment": {
+                    "pt": "Para abrir linhas de desenvolvimento para o bispo dama e intensificar a disputa pelo centro.",
+                    "en": "In order to open development lines for the Queen-Bishop and to intensify the dispute for the center.",
+                    "es": "Para abrir l\u00edneas de desarrollo para el alfil dama e intensificar la disputa por el centro.",
+                    "de": "Um eine Diagonale f\u00fcr den wei\u00dffeldrigen L\u00e4ufer zu \u00f6ffnen und um das Zentrum zu k\u00e4mpfen.",
+                    "zh": "\u4e3a\u4e86\u7ed9\u767d\u683c\u8c61\u626b\u6e05\u9053\u8def\uff0c\u4e89\u593a\u4e2d\u5fc3\u3002",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0434\u043b\u044f \u0424\u0435\u0440\u0437\u044f \u0438 \u0421\u043b\u043e\u043d\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0431\u043e\u0440\u044c\u0431\u0443 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440.",
+                    "pl": "W celu otwarcia linii dla Hetmana i Go\u0144ca oraz dyskutowania o centrum."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?"
+        },
+        "fen": "r1b2rk1\/p1q1bppp\/1pn1pn2\/3p4\/3PP3\/P2B1N2\/1P1N1PPP\/R1BQR1K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... dxe4 ",
+                "comment": {
+                    "pt": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "en": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "es": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "de": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "zh": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "ru": "In order to prevent white from playing e5 and give white an isolated pawn on d4.",
+                    "pl": "In order to prevent white from playing e5 and give white an isolated pawn on d4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "",
+        "white": "Q x T",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1443)"
+        },
+        "fen": "2k5\/2r5\/3K4\/8\/1Q6\/8\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qb5 Ra7 2. Qe8+ Kb7 3. Qd7+ Kb8 4. Qd8+ Kb7 5. Qc7+ Ka6 6. Qc6+ Ka5 7. Kc5",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "Q x T",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1444)"
+        },
+        "fen": "2k5\/8\/3K4\/1Q6\/8\/8\/8\/r7 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qe8+ Kb7 2. Qe4+ Kb8 3. Qb4+ Ka8 4. Kc7 Rc1+ 5. Kb6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

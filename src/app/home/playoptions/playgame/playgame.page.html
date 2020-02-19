@@ -1,0 +1,71 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Play Game
+    </ion-title>
+    <app-header-buttons slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content no-bounce  class="page-content playgamepage">
+  <div class="gamefinishview" *ngIf="playService.isFinished">
+    <div class="content">
+      <h1 style="text-align: center;">{{finishmsg}}</h1>
+      <div class="buttons">
+        <ion-button fill="outline" color="white" (click)="playagain()"><span class="fa fa-refresh"></span>Play Again</ion-button>
+        <ion-button fill="outline" color="white" (click)="goback()"><span class="fa fa-refresh"></span>Go Back</ion-button>
+      </div>
+    </div>
+  </div>
+
+  <div class="d-flex flex-column gameScreen upper-body" style="min-height: 100%;">
+    <div class="flex-1">
+
+      <app-gameboard [game]="playService" [command]="command" [extraSize]="setExtraSize()"></app-gameboard>
+      <div>
+        <ion-row class="outerBoxWrapper ion-padding">
+          <ion-col class="outerBox">
+            <div class="bgWhite fillWidth" style="margin-bottom:0.5em;">
+              <div class="defBoxPadding">
+                <span class="fa fa-clock-o boxSymbolClock"></span>
+                <span class="playerName playerNameWhite">{{getPlayer1Name()}}</span>
+                <span class="boxClockContent">{{playService.timer[player1].humanString}}</span>
+                <div class="choclearer"></div>
+              </div>
+            </div>
+          </ion-col>
+          <span style="width: 10px;"></span>
+          <ion-col class="outerBox">
+            <div class="bgWhite fillWidth" style="margin-bottom:0.5em;">
+              <div class="defBoxPadding">
+                <span class="fa fa-clock-o boxSymbolClock"></span>
+                <span class="playerName playerNameWhite">{{getPlayer2Name()}}</span>
+                <span class="boxClockContent">{{playService.timer[player2].humanString}}</span>
+                <div class="choclearer"></div>
+              </div>
+            </div>
+          </ion-col>
+        </ion-row>
+        <ion-row class="outerBoxWrapper ion-padding">
+          <ion-col class="outerBox">
+            <div class="bgWhite fillWidth" style="margin-bottom:0.5em;">
+              <div class="defBoxPadding boxPlayerState">
+                <span class="fa fa-play boxSymbolPlay white"></span><span class="boxWhoIsNext">It's {{playService[playService.turn].color}}`s turn</span>
+                <div class="choclearer"></div>
+              </div>
+            </div>
+          </ion-col>
+        </ion-row>
+      </div>
+    </div>
+    <div class="bottom-button ion-padding" style="padding-top: 0;">
+        <ion-button fill="outline" color="white" (click)="flip()"><span class="fa fa-retweet"></span>Flip</ion-button>
+        <ion-button fill="outline" color="white" (click)="restart()"><span class="fa fa-refresh"></span>Restart</ion-button>
+        <ion-button fill="outline" color="white" (click)="tooglePause()" *ngIf="playService.Paused == false"><span class="fa fa-pause"></span>Pause</ion-button>
+        <ion-button fill="outline" color="white" (click)="tooglePause()" *ngIf="playService.Paused"><span class="fa fa-play"></span>Play</ion-button>
+    </div>
+  </div>
+</ion-content>

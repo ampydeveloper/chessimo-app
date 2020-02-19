@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Ruy Lopez",
+        "white_sort": "",
+        "black": "3...Bc5",
+        "date": "",
+        "event": {
+            "en": "3...Bc5",
+            "de": "3...Lc5",
+            "es": "3...Bc5",
+            "pt": "3...Bc5",
+            "zh": "3...Bc5",
+            "pl": "Wariant 3. ... Gc5",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...Bc5"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 ",
+                "comment": {
+                    "pt": "O defeito desta jogada \u00c9 permitir que as brancas joguem \"c3-d4\" com ganho de tempo.",
+                    "en": "The defect of this move is that it allows White to play c3-d4 winning a tempo.",
+                    "es": "El defecto de esta jugada es permitir que las blancas jueguen \"c3-d4\", con ganancia de tiempo",
+                    "de": "Der Nachteil dieses Zuges ist, dass Wei\u00df c3-d4 mit Tempo spielen kann.",
+                    "zh": "\u8fd9\u4e00\u7740\u7684\u7f3a\u70b9\u662f\u767d\u65b9\u53ef\u4ee5\u4e0bc3-d4\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "S\u0142abo\u015bci\u0105 tego ruchu jest zezwolenie na zagranie Bia\u0142ych c3-d4, by wygra\u0107 tempo.",
+                    "ru": "\u0421\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u043e\u043d \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0433\u0440\u0430\u0442\u044c \u0411\u0435\u043b\u044b\u043c c3-d4, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044f \u0442\u0435\u043c\u043f."
+                }
+            },
+            {
+                "move": "   4. O-O ",
+                "comment": {
+                    "pt": "4-c3 tamb\u00e9m \u00e9 poss\u00edvel e se as pretas estiverem buscando complica\u00e7\u00f5es podem jogar 4. ..f5, como na partida 211 de nossa base.",
+                    "en": "4-c3 is also possible and if Black is looking for complications, it can continue with 4...f5, as in game 211 of our database.",
+                    "es": "4-c3 tambi\u00e9n es posible y, si buscan complicaciones, las negras pueden jugar 4...f5, como en la partida 211 de nuestra base.",
+                    "de": "4. c3 ist auch m\u00f6glich. Darauf kann Schwarz mit ...f5 Verwicklungen suchen (Partie 211 unserer Datenbank).",
+                    "zh": "4-c3\u4e5f\u662f\u53ef\u80fd\u7684\uff0c\u5982\u679c\u9ed1\u65b9\u6311\u8d77\u7ea0\u7eb7\uff0c\u4e5f\u53ef\u4ee5\u7ee7\u7eed\u8d704...f5\uff0c\u6b63\u5982\u68cb\u5e93\u4e2d\u68cb\u5c40211\u6240\u793a\u3002",
+                    "pl": "4. c3 jest r\u00f3wnie\u017c mo\u017cliwe i je\u015bli Czarne szukaj\u0105 komplikacji, powinny kontynuowa\u0107 4. ... f5, jak w grze 211 z naszej bazy.",
+                    "ru": "\u0425\u043e\u0434 4-c3 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u0438 \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0449\u0443\u0442 \u043e\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u0438\u0439, \u043e\u043d\u0438 \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c\u0441\u044f 4...f5, \u043a\u0430\u043a \u0432 \u0438\u0433\u0440\u0435 211, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   Nd4 ",
+                "comment": {
+                    "pt": "Par a a jogada 4...Qf6 , ver partida 210.",
+                    "en": "For 4...Qf6, see game 210.",
+                    "es": "Para la jugada 4...Df6, ver partida 210.",
+                    "de": "4...Df6 wurde in der Partie 210 gespielt.",
+                    "zh": "4...Qf6\u7684\u8d70\u6cd5\u89c1\u68cb\u5c40210\u3002",
+                    "pl": "Dla 4. ... Hf6, zobacz partia 210.",
+                    "ru": "\u0414\u043b\u044f 4...Qf6, \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0438\u0433\u0440\u0443 210."
+                }
+            },
+            {
+                "move": "   5. Nxd4 Bxd4 6. c3 Bb6 7. d4 c6 8. Ba4 d6 9. Na3 ",
+                "comment": {
+                    "pt": "Uma boa jogada para pressionar imediatamente o centro preto e aproveitar a falta de desenvolvimento.",
+                    "en": "A good move in order to put immediate pressure on the black center and take advantage of the lack of development.",
+                    "es": "Una buena jugada para presionar inmediatamente el centro negro y aprovechar la falta de desarrollo.",
+                    "de": "Ein guter Zug, der auf das schwarze Zentrum Druck aus\u00fcbt und den R\u00fcckstand der schwarzen Entwicklung ausnutzt.",
+                    "zh": "\u5999\u7740\u5373\u523b\u7ed9\u9ed1\u65b9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\uff0c\u5e76\u4e14\u5229\u7528\u51fa\u5b50\u843d\u540e\u3002",
+                    "pl": "Dobre posuni\u0119cie maj\u0105ce na celu wywarcie natychmiastowej presji na czerne centrum i wykorzystanie op\u00f3\u017anienia w rozwoju figur.",
+                    "ru": "\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0438\u0437-\u0437\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440."
+                }
+            },
+            {
+                "move": "   Bc7 10. d5 Bd7 11. dxc6 bxc6 12. Nc4 ",
+                "comment": {
+                    "pt": "As brancas tem melhor posi\u00e7\u00e3o e conseguiram a vit\u00f3ria na partida 212 de nossa base.",
+                    "en": "White has a better position and wins the game 212 of our database.",
+                    "es": ".Las blancas tienen mejor posici\u00f3n y lograron el triunfo en la partida 212 de nuestra base.",
+                    "de": "Wei\u00df steht besser und gewann die Partie 212 unserer Datenbank.",
+                    "zh": "\u767d\u65b9\u62e5\u6709\u66f4\u597d\u7684\u4f4d\u7f6e\u5e76\u4e14\u8d62\u5f97\u68cb\u5c40212\u7684\u80dc\u5229\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 lepsz\u0105 pozycj\u0119 i wygrywaj\u0105 parti\u0119 212 w naszej bazie.",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u043b\u0443\u0447\u0448\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438 \u043e\u043d\u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 212, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

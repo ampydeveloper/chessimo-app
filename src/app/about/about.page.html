@@ -1,0 +1,35 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      About
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content force-overscroll class="ion-padding">
+    <ion-row class="list-box">
+      <ion-col>
+        <a href="http://www.chessimo.com/r.php?action=demo">
+          <ion-button color="dark" >Demo Tour</ion-button>
+        </a>
+        <a href="https://www.chessimo.com/content/contact">
+          <ion-button color="dark" >Support</ion-button>
+        </a>
+        <ion-button color="dark" (click)="gotoImprint()">Imprint</ion-button>
+      </ion-col>
+    </ion-row>
+
+    <div class="bottom-button">
+      <a href="http://www.chessimo.com/r.php?action=home">
+        <ion-button fill="outline" color="white" ><img src="../../assets/images/shopping-cart.png" />Chessimo.com</ion-button>
+      </a>
+      <a href="http://www.chessimo.com/r.php?action=live">
+        <ion-button fill="outline" color="white" ><img src="../../assets/images/light-bulb.png" />ChessimoPlay</ion-button>
+      </a>
+      <ion-button fill="outline" color="white"  (click)="gotoLicense()" ><img src="../../assets/images/info.png" />License Information</ion-button>
+    </div>
+</ion-content>

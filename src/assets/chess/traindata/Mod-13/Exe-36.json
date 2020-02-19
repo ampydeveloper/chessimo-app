@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qk2r\/3nbppp\/p2pb3\/4p1Pn\/1p2P3\/1N2BP2\/PPPQN2P\/R3KB1R w KQkq - 0 13",
+        "moves": [
+            {
+                "move": "13. Ng3 ",
+                "comment": {
+                    "pt": "For\u00e7ando as pretas a tomarem uma decis\u00e3o desfavor\u00e1vel ,entre sacrificar um pe\u00e3o (1.. .Cf4), melhorar a estrutura branca (1...Cxg3 2-hxg3) ou arruinar a pr\u00f3pria estrutura (1...g6 2-Cxh5 gxh5).",
+                    "en": "Forcing Black to decide between sacrificing a pawn (1...Nf4) (which improves White's structure) and ruining its own structure (1...g6 2-Nxh5 gxh5).",
+                    "es": "Forzando las negras a tomar una decisi\u00f3n desfavorable , entre sacrificar un pe\u00f3n (1.. .Cf4), mejorar la estructura blanca (1...Cxg3 2-hxg3) o arruinar su propia estructura (1...g6 2-Cxh5 gxh5).",
+                    "de": "Schwarz wird gezwungen, zwischen den \u00dcbeln zu w\u00e4hlen: entweder einen Bauern opfern (1...Sf4), oder Wei\u00df helfen, die Bauernstruktur zu optimieren (1...Sxg3 2. hxg3) oder sonst die eigene Bauernstruktur zu zerst\u00f6ren (1...g6 2. Sxh5 gxh5).",
+                    "zh": "\u903c\u8feb\u9ed1\u65b9\u5728\u5f03\u5175\uff081...Nf4\uff09\uff08\u53ef\u4ee5\u6539\u5584\u767d\u68cb\u7684\u5175\u5f62\u7ed3\u6784\uff09\u548c\u7834\u574f\u81ea\u5df1\u5175\u5f62\u4e4b\u95f4\u4f5c\u9009\u62e9\u3002",
+                    "pl": "Zmuszaj\u0105c Czarne do wybrania jednego z dwojga - po\u015bwi\u0119cenia piona (1. ... Sf4) (co poprawi struktur\u0119 Bia\u0142ych) lub zrujnowania w\u0142asnej struktury (1. ... g6 2. Sxh5 gxh5).",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u043f\u0435\u0448\u043a\u0443 (1...Nf4, \u0447\u0442\u043e \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0411\u0435\u043b\u044b\u0445), \u0430 \u0442\u0430\u043a\u0436\u0435 \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u0438 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0438\u0445 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 (1...g6 2-Nxh5 gxh5)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/2q1bppp\/p2pn3\/4p1PP\/1p2P3\/4BP1R\/PPPQ4\/1KNR4 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. g6 ",
+                "comment": {
+                    "pt": "For\u00e7ando a abertura de linhas contra o rei preto.",
+                    "en": "Forcing line opening against the black King.",
+                    "es": "Forzando la apertura de l\u00edneas contra el rey negro.",
+                    "de": "Erzwingt die \u00d6ffnung von Linien auf den schwarzen K\u00f6nig.",
+                    "zh": "\u5f3a\u884c\u7ed9\u9ed1\u738b\u5f00\u653e\u8def\u7ebf\u3002",
+                    "pl": "Wymusza otwarcie linii przeciw czarnemu Kr\u00f3lowi.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u043a \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u041a\u043e\u0440\u043e\u043b\u044e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqn1k1\/pp3rbp\/n4pp1\/2pP4\/2Q2B2\/2N2N2\/PP2BPPP\/3R1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Nd6 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam avan\u00e7ar o pe\u00e3o passado e com esta jogada as pretas evitam seu avan\u00e7o.",
+                    "en": "White threatens to advance the passed pawn, which Black prevents with this move.",
+                    "es": "Las blancas amenazaban avanzar el pe\u00f3n pasado y con esta jugada las negras lo evitan.",
+                    "de": "Wei\u00df drohte, seinen Freibauern vorzur\u00fccken, was mit dem Textzug verhindert wird.",
+                    "zh": "\u767d\u65b9\u5a01\u80c1\u633a\u5175\uff0c\u9ed1\u65b9\u8d70\u8fd9\u4e00\u6b65\u8fdb\u884c\u963b\u6b62\u3002",
+                    "pl": "Bia\u0142e gro\u017c\u0105 marszem wolnego piona, co niniejszym Czarne uniemo\u017cliwiaj\u0105.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044e\u0442 \u044d\u0442\u043e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/pp3ppp\/1np1b3\/8\/3PP3\/3B4\/P2K1PPP\/1R4NR w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. a4 ",
+                "comment": {
+                    "pt": "Al\u00e9m de defender o pe\u00e3o as brancas criam uma amea\u00e7a (a5) e desta forma pressionam o flanco dama preto.",
+                    "en": "Besides defending the pawn, White creates a threat (a5) that puts pressure on the black queenside.",
+                    "es": "Adem\u00e1s de defender el pe\u00f3n las blancas crean una amenaza (a5) y presionan as\u00ed el flanco dama negro.",
+                    "de": "Wei\u00df verteidigt den Bauern und droht dazu noch a5, was Druck auf den schwarzen Damenfl\u00fcgel aus\u00fcbt.",
+                    "zh": "\u9664\u4e86\u9632\u5fa1\u5175\uff0c\u767d\u65b9\u8fd8\u5728a5\u5236\u9020\u5a01\u80c1\uff0c\u5411\u9ed1\u65b9\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Opr\u00f3cz obrony piona, Bia\u0142e tworz\u0105 gro\u017ab\u0119 (a5) wywo\u0142uj\u0105c\u0105 presj\u0119 na czarnym skrzydle hetma\u0144skim.",
+                    "ru": "\u041a\u0440\u043e\u043c\u0435 \u0437\u0430\u0449\u0438\u0442\u044b \u0441\u0432\u043e\u0435\u0439 \u043f\u0435\u0448\u043a\u0438, \u0411\u0435\u043b\u044b\u0435 \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u0443\u0433\u0440\u043e\u0437\u0443 (a5), \u0447\u0442\u043e \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4rbkn\/pp3qpp\/2pprp2\/5N2\/2P1P1PP\/1P3PR1\/PBQ5\/6RK w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g5 ",
+                "comment": {
+                    "pt": "Para abrir a coluna para as torres e a grande diagonal para o bispo.",
+                    "en": "In order to open the file for the Rooks and the big diagonal for the Bishop and attack the black King.",
+                    "es": "Para abrir la columna para las torres y la gran diagonal para el alfil.",
+                    "de": "Um die Linie f\u00fcr die T\u00fcrme zu \u00f6ffnen und die lange Diagonale f\u00fcr den L\u00e4ufer.",
+                    "zh": "\u4e3a\u4e86\u7ed9\u8f66\u6253\u901a\u5f00\u653e\u7ebf\uff0c\u7ed9\u8c61\u626b\u6e05\u8c61\u8def\uff0c\u4ee5\u4fbf\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Aby otworzy\u0107 kolumn\u0119 dla Wie\u017cy i d\u0142ug\u0105 przek\u0105tn\u0105 dla Go\u0144ca i zaatakowa\u0107 czarnego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u0435\u0439 \u0438 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

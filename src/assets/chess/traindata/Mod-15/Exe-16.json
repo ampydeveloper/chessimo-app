@@ -1,0 +1,136 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(158)",
+            "zh": "Event 1"
+        },
+        "fen": "6k1\/1pp2r1p\/3p4\/p2P1q2\/2P1Rr2\/P7\/1P2Q3\/K3R3 w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Rg1+ ",
+                "comment": {
+                    "pt": "Aproveitando que as pretas n\u00e3o podem jogar ...Tg7, para ocupar esta coluna e atacar o rei. Se 32...Tg7 33. Te8 leva ao mate.",
+                    "en": "Taking advantage of the fact that Black can't play ...Rg7, in order to occupy this file and attack the King. If 32...Rg7 33-Re8 results in a mate.",
+                    "de": "Nutzt den Umstand aus, dass Schwarz ...Tg7 nicht spielen kann, um die g-Linie zu besetzen und den K\u00f6nig anzugreifen. Auf 32...Tg7 f\u00fchrt Te8 zum Matt.",
+                    "es": "Aprovechando que las negras no pueden jugar ...Tg7 para ocupar esta columna y atacar el rey. Si 32...Tg7 33. Te8, llevando al mate.",
+                    "zh": "\u5229\u7528\u9ed1\u68cb\u4e0d\u80fd\u4e0b...Rg7\u6765\u5360\u636e\u8fd9\u6761\u7ebf\u5e76\u653b\u51fb\u738b\u3002\u5982\u679c32...Rg7 33-Re8\uff0c\u90a3\u4e48\u5bfc\u81f4\u548c\u5c40\u3002",
+                    "pl": "Wykorzystuj\u0105c fakt, \u017ce Czarne nie mog\u0105 zagra\u0107 ... Wg7, w celu okupacji tej kolumny i atak na Kr\u00f3la. Je\u015bli 32. ... Wg7 33. We8 skutkuje matem.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0442\u043e, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c ...Rg7, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f. \u041d\u0430 \u0438\u0433\u0440\u0443 32...Rg7 33-Re8, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u043c\u0430\u0442."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(62)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1ppbp\/3p1np1\/3P4\/1n2PP2\/2N2N2\/PPP1B1PP\/R1BQK2R b KQ - 0 8",
+        "moves": [
+            {
+                "move": "8... c6 ",
+                "comment": {
+                    "pt": "Para combater o centro branco e criar contra-jogo abrindo a coluna c.",
+                    "en": "In order to fight the white center and create a counterplay by opening the c-file.",
+                    "de": "Bek\u00e4mpft das wei\u00dfe Zentrum und sucht nach Gegenspiel, indem er die c- Linie \u00f6ffnen.",
+                    "es": "Para combatir el centro blanco y crear contrajuego abriendo la columna c.",
+                    "zh": "\u4e3a\u4e86\u62a2\u593a\u767d\u68cb\u4e2d\u5fc3\uff0c\u901a\u8fc7\u5f00\u653ec-\u7ebf\u6765\u5236\u9020\u53cd\u51fb\u3002",
+                    "pl": "W celu walki z bia\u0142ym centrum i tworzenie kontrataku poprzez otwarcie kolumny c.",
+                    "ru": "\u0414\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u0411\u0435\u043b\u044b\u0445 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043a\u043e\u043d\u0442\u0440\u0438\u0433\u0440\u044b, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044f c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(110)"
+        },
+        "fen": "rnbqkb1r\/pp3ppp\/3p4\/1N1Pp3\/8\/8\/PPP2PPP\/R1BQKB1R w KQkq - 0 9",
+        "moves": [
+            {
+                "move": "9. c4 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam maioria de pe\u00f5es neste setor e um de seus planos \u00e9 avan\u00e7\u00e1-los (c5) .As pretas ir\u00e3o jogar ...a6, expulsando o cavalo e este lance prepara a volta do cavalo a c3, sem que este impe\u00e7a o avan\u00e7o deste pe\u00e3o.",
+                    "en": "White has majority in this sector and one of its plans is to advance pawns (c5). Black will play ...a6, chasing the Knight away and this move prepares the return of the Knight to c3, without preventing the pawn from advancing.",
+                    "de": "Wei\u00df hat eine Bauernmehrheit am Damenfl\u00fcgel und einer seiner Pl\u00e4ne besteht darin, sie vorzur\u00fccken. Schwarz wird ...a6 spielen, um den Springer zu vertreiben; nach dem Textzug kann der Springer zur\u00fcck auf c3, ohne den c-Bauern zu blockieren.",
+                    "es": "Las blancas tienen mayor\u00eda de peones en este sector y uno de sus planes es avanzarlos (c5). Las negras van a jugar ...a6, expulsando el caballo y esta jugada prepara la vuelta del caballo a c3, sin que esto impida el avance de este pe\u00f3n.",
+                    "zh": "\u767d\u65b9\u5728\u540e\u7ffc\u591a\u5175\uff0c\u5b83\u7684\u8ba1\u5212\u4e4b\u4e00\u662f\u633a\u8fd1\u5175\u3002\u9ed1\u65b9\u4f1a\u8d70...a6\u6765\u9a71\u9010\u9a6c\uff0c\u8d70\u8fd9\u4e00\u6b65\u662f\u4e3a\u4e86\u51c6\u5907\u8ba9\u9a6c\u9000\u56de\u5230c3\u5e76\u4e14\u4e0d\u963b\u6321\u5df1\u65b9\u5175\u7684\u633a\u8fdb\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 przewag\u0119 pion\u00f3w w tym sektorze i jednym z ich plan\u00f3w jest marsz pionami (c5). Czarne mog\u0105 zagra\u0107 ... a6, przeganiaj\u0105c Skoczka oraz przygotowuj\u0105c powr\u00f3t Skoczka na c3 bez uniemo\u017cliwiania marszu pion\u00f3w.",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0432 \u044d\u0442\u043e\u043c \u0441\u0435\u043a\u0442\u043e\u0440\u0435 \u0438 \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0438\u0445 \u043f\u043b\u0430\u043d\u043e\u0432 \u0435\u0441\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043f\u0435\u0448\u043a\u0438 (c5). \u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c ...a6, \u043f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u044e \u041a\u043e\u043d\u044f \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u044f\u0441\u044c \u043a \u0432\u043e\u0437\u0432\u0440\u0430\u0442\u0443 \u041a\u043e\u043d\u044f \u043d\u0430 \u043f\u043e\u043b\u0435 c3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(133)",
+            "zh": "Event 1"
+        },
+        "fen": "2r3k1\/5p2\/5Pp1\/p4q1p\/P1p4P\/2Q2RP1\/5P1K\/8 b - - 0 41",
+        "moves": [
+            {
+                "move": "41... Qc5 ",
+                "comment": {
+                    "pt": "Para ir a b4 e pressionar a dama branca que evita o avan\u00e7o do pe\u00e3o passado.",
+                    "en": "In order to proceed to b4 and put pressure on the white Queen that prevents the passed pawn from advancing.",
+                    "de": "Um Db4 zu spielen und Druck auf die wei\u00dfe Dame auszu\u00fcben, die den Freibauern versucht zu blockieren.",
+                    "es": "Para ir a b4 y presionar la dama blanca que evita el avance del pe\u00f3n pasado.",
+                    "zh": "\u4e3a\u4e86\u80fd\u7ee7\u7eedb4\uff0c\u5e76\u7ed9\u767d\u540e\u65bd\u52a0\u538b\u529b\u6765\u963b\u6b62\u901a\u8def\u5175\u524d\u8fdb\u3002",
+                    "pl": "W celu osi\u0105gni\u0119cia b4 i wywarcia presji na bia\u0142ego Hetmana, co uniemo\u017cliwia marsz wolnego piona.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u043a b4 \u0438 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u0435\u0448\u0430\u0435\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(5)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqr1k1\/1p1nbpp1\/p1p1pn1p\/3P4\/3P3B\/P1N1PN2\/1PQ2PPP\/2R1KB1R b K - 0 11",
+        "moves": [
+            {
+                "move": "11... exd5 ",
+                "comment": {
+                    "pt": "Mantendo um pe\u00e3o no centro, abrindo a diagonal c8-h3 e evitando a abertura da coluna c.",
+                    "en": "Keeping a pawn in the center, opening the c8-h3 diagonal and preventing the c-file from opening.",
+                    "de": "Beh\u00e4lt einen Bauern im Zentrum, \u00f6ffnet die Diagonale c8-h3 und verhindert die \u00d6ffnung der c-Linie.",
+                    "es": "Manteniendo un pe\u00f3n en el centro, abriendo la diagonal c8-h3 y evitando la apertura de la columna c.",
+                    "zh": "\u5728\u4e2d\u5fc3\u4fdd\u5b58\u4e00\u4e2a\u5175\uff0c\u5f00\u653ec8-h3\u659c\u7ebf\uff0c\u963b\u6b62c-\u7ebf\u5f00\u653e\u3002",
+                    "pl": "Zachowanie piona w centrum, otwarcie przek\u0105tnej c8-h3 i uniemo\u017cliwianie otwarcia kolumny c.",
+                    "ru": "\u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c c8-h3 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

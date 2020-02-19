@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rn1q1rk1\/pbp1bppp\/1p2pn2\/3p4\/2PP4\/2N2NP1\/PP2PPBP\/R1BQ1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ne5 ",
+                "comment": {
+                    "pt": "Explorando a cravada ao longo da grande diagonal e evitando que as pretas joguem ...dxc4 abrindo a diagnal para op bispo de casas brancas.",
+                    "en": "Taking advantage of the pin on the big diagonal and preventing Black from playing ...dxc4 to open the diagonal for the light-squared Bishop.",
+                    "es": "Explotando la clavada a lo largo de la gran diagonal y evitando que las negras jueguen ...dxc4, abriendo la diagonal para el alfil de casillas blancas.",
+                    "de": "Nutzt die Fesselung auf der langen Diagonale aus und verhindert, da\u00df Schwarz mit ...dxc4 diese f\u00fcr seinen wei\u00dffeldrigen L\u00e4ufer \u00f6ffnet.",
+                    "zh": "\u5229\u7528\u5927\u659c\u7ebf\u4e0a\u7684\u7275\u5236\u6218\u672f\uff0c\u963b\u6b62\u9ed1\u65b9\u8d70...dxc4\uff0c\u7ed9\u767d\u683c\u8c61\u626b\u6e05\u9053\u8def\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia na d\u0142ugiej przek\u0105tnej i zatrzymywanie Czarnych przed zagraniem ... dxc4, aby otworzy\u0107 przek\u0105tn\u0105 dla jasnopolowego Go\u0144ca.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443 \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0438 \u043d\u0435 \u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 ...dxc4, \u0447\u0442\u043e \u043e\u0442\u043a\u0440\u043e\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/1ppp1ppp\/p1n5\/8\/B2pn3\/5N2\/PPP2PPP\/RNBQ1RK1 w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. Re1 ",
+                "comment": {
+                    "pt": "Para explorar a cravada. Se as pretas defenderem agora o cavalo com 1.. .d5, as brancas continuam com 2-Cxd4 explorando outra cravada na diagonal a4-e8 e ao mesmo tempo amea\u00e7ando ganhar o cavalo das pretas jogando f3.",
+                    "en": "In order to take advantage of the pin. If Black defends its knight now with 1...d5, White will continue with 2-Nxd4, exploring another pin on the a4-e8 diagonal and threatening to take the Knight with f3. Para explorar a cravada.",
+                    "es": "Para explotar la clavada. Si las negras defienden ahora el caballo con 1...d5, las blancas continuan con 2-Cxd4 explotando otra clavada en la diagonal a4-e8 y amenazando al mismo tiempo ganar el caballo de las negras con f3.",
+                    "de": "Nutzt die Fesselung aus. Falls Schwarz jetzt den Springer mit 1...d5 verteidigt, spielt Wei\u00df 2. Sd4, was einerseits eine andere Fesselung ausnutzt (auf der Diagonale a4-e8) und andererseits f3 mit Figurengewinn droht.",
+                    "zh": "\u5145\u5206\u5229\u7528\u7275\u5236\u6218\u672f\u3002\u5982\u679c\u9ed1\u65b9\u75281...d5\u6765\u9632\u5fa1\u9ed1\u9a6c\uff0c\u767d\u65b9\u4f1a\u5e942-Nxd4\uff0c\u4e00\u65b9\u9762\u5229\u7528a4-e8\u659c\u7ebf\u4e0a\u7684\u53e6\u5916\u4e00\u4e2a\u7275\u5236\uff0c\u53e6\u4e00\u65b9\u9762\u5a01\u80c1\u4ee5f3\u6349\u9a6c\u3002",
+                    "pl": "W celu wykorzystania przygwo\u017cd\u017cenia. Je\u015bli Czarne b\u0119d\u0105 teraz broni\u0107 Skoczka poprzez 1. ... d5, Bia\u0142e zagraj\u0105 2. Sxd4, wykorzystuj\u0105c nast\u0119pne przygwo\u017cd\u017cenie na przek\u0105tnej a4-d8 i gro\u017c\u0105c wzi\u0119cie Skoczka przez f3.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u043a\u0443. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0437\u0430\u0449\u0438\u0442\u044f\u0442 \u041a\u043e\u043d\u044f \u0445\u043e\u0434\u043e\u043c 1...d5, \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442 \u0438\u0433\u0440\u0443 \u043d\u0430 2-Nxd4, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0434\u0440\u0443\u0433\u0443\u044e \u0441\u0432\u044f\u0437\u043a\u0443 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a4-e8 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0432\u0437\u044f\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 f3."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/2pp1ppp\/p1n5\/1p2p3\/3Pn3\/1B3N2\/PPP2PPP\/RNBQ1RK1 b kq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "As pretas necessitam terminar o desenvovimento e n\u00e3o podem simplesmente tomar mais um pe\u00e3o (...exd4) , pois deixariam aberta a coluna e , onde est\u00e1 seu rei. \u00c9 necess\u00e1rio equilibrar a posi\u00e7\u00e3o central, abrir linhas para o desenvolvimento e assegurar a posi\u00e7\u00e3o de seu cavalo em e4 e para tal a \u00fanica jogada \u00e9 ...d5.",
+                    "en": "Black needs to complete development and mustn't simply take another pawn (...exd4), otherwise the file where its King is located would be open. It's necessary to balance central position, open lines for development and guarantee e4 for the Knight. Therefore the only possible move is ...d5.",
+                    "es": "Las negras necesitan terminar el desarrollo y no pueden simplemente tomar otro pe\u00f3n (...exd4) , pues dejar\u00edan abierta la columna e, donde est\u00e1 el rey. Es necesario equilibrar la posici\u00f3n central, abrir l\u00edneas para el desarrollo y asegurar la posici\u00f3n del caballo en e4 y para eso la \u00fanica jugada es ...d5.",
+                    "de": "Schwarz muss seine Entwicklung vollenden und kann nicht einfach einen weiteren Bauern schlagen (...exd4), denn dann w\u00e4re die e-Linie - auf der der schwarze K\u00f6nig steht - offen. Es ist notwendig, die Stellung im Zentrum auszugleichen, die Figuren zu entwickeln.",
+                    "zh": "\u9ed1\u65b9\u5fc5\u987b\u5c06\u5b8c\u6210\u51fa\u5b50\uff0c\u4e0d\u80fd\u7b80\u5355\u7684\u53bb\u653b\u51fb\u5176\u4ed6\u5175\uff08...exd4\uff09\uff0c\u56e0\u4e3a\u8fd9\u6837\u7684\u8bdd\u9ed1\u738b\u6240\u5728\u7684e\u7ebf\u5c06\u88ab\u6253\u5f00\u3002\u5fc5\u987b\u8981\u5e73\u8861\u4e2d\u5fc3\u5c40\u9762\uff0c\u4e3a\u51fa\u5b50\u5f00\u8f9f\u9053\u8def\u5e76\u4e14\u786e\u4fdde4\u7559\u7ed9\u9a6c\u3002\u6240\u4ee5\u552f\u4e00\u53ef\u884c\u7684\u8d70\u6cd5\u662f...d5\u3002",
+                    "pl": "Czarne potrzebuj\u0105 zako\u0144czy\u0107 rozw\u00f3j i musz\u0105 po prostu wzi\u0105\u0107 kolejnego piona (... exd4), inaczej kolumna na kt\u00f3rej ulokowany jest Kr\u00f3l, zostanie otwarta. Konieczne utrzymanie balansu w centrum, otwarcie linii dla wyprowadzenia figur i zagwarantowanie pola e4 Skoczkowi. Jedyn\u0105 tak\u0105 mo\u017cliwo\u015bci\u0105 jest wi\u0119c ... d5.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u043e\u043b\u0436\u043d\u044b \u0432\u0437\u044f\u0442\u044c \u0434\u0440\u0443\u0433\u0443\u044e \u043f\u0435\u0448\u043a\u0443 (...exd4), \u0442\u0430\u043a \u043a\u0430\u043a \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0433\u0434\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044c, \u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0441\u044f. \u041e\u043d\u0438 \u0434\u043e\u043b\u0436\u043d\u044b \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440, \u0430 \u0442\u0430\u043a\u0436\u0435 e4 \u0434\u043b\u044f \u041a\u043e\u043d\u044f. \u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u0435\u0441\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0434 \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 - \u044d\u0442\u043e ...d5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/1ppp1ppp\/p1n5\/4p3\/B2Pn3\/5N2\/PPP2PPP\/RNBQ1RK1 b kq - 0 1",
+        "moves": [
+            {
+                "move": "1... b5 ",
+                "comment": {
+                    "pt": "As pretas devem jogar ...d5 em seu pr\u00f3ximo lance para garantir a posi\u00e7\u00e3o avan\u00e7ada de seu cavalo e abrir linhas para o desenvolvimento. Entretanto, antes de fazer esta jogada, \u00e9 expulsar o bispo (.. .b5), com o objetivo de evitar que o cavalo (em c6) fique cravado.",
+                    "en": "Black must play ...d5 on its next move in order to guarantee its Knight's advanced position and to open lines for development. Nevertheless, first it's necessary to play ...b5, chasing away the Bishop and thus preventing the Knight from getting pinned on c6.",
+                    "es": "Las negras deben jugar ...d5 en su pr\u00f3xima jugada para asegurar la posici\u00f3n avanzada del caballo y abrir l\u00edneas para el desarrollo. Sin embargo, antes de hacer esta jugada, es necesario expulsar el alfil (...b5), con el objetivo de evitar que quede clavado el caballo (en c6).",
+                    "de": "Im n\u00e4chsten Zug muss Schwarz ...d5 spielen, um den Vorposten auf e4 zu sichern und die Figuren zu entwickeln. Davor aber muss der L\u00e4ufer vertrieben werden, um die Fesselung des Springers auf c6 zu verhindern.",
+                    "zh": "\u9ed1\u65b9\u4e0b\u4e00\u6b65\u5fc5\u987b\u8d70...d5\u6765\u786e\u4fdd\u7531\u9ed1\u9a6c\u6253\u524d\u54e8\uff0c\u4e3a\u5b50\u529b\u51fa\u52a8\u6253\u901a\u7ebf\u8def\u3002\u4f46\u662f\u5728\u6b64\u4e4b\u524d\u5fc5\u987b\u5148\u8d70...b5\uff0c\u5c06\u8c61\u9a71\u8d70\uff0c\u4ee5\u6b64\u9632\u6b62\u9a6c\u88ab\u7275\u5236\u5728c6\u3002",
+                    "pl": "Czarne musz\u0105 zagra\u0107 ... d5 w ich nast\u0119pnym ruchu, aby zagwarantowa\u0107 Skoczkowi aktywn\u0105 pozycj\u0119 i otworzy\u0107 linie dla wyprowadzenia figur. Jednak\u017ce po pierwsze konieczne jest zagranie ... b5, by przegoni\u0107 Go\u0144ca i dzi\u0119ki temu powstrzyma\u0107 przed przygwo\u017cd\u017ceniem Skoczka na c6.",
+                    "ru": "\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0438\u0433\u0440\u0430\u0442\u044c ...d5, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440. \u0422\u0435\u043c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0438\u0433\u0440\u0430\u0442\u044c ...b5, \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u044f \u0421\u043b\u043e\u043d\u0430 \u0438 \u0438\u0437\u0431\u0435\u0433\u0430\u044f \u0441\u043a\u043e\u0432\u044b\u0432\u0430\u043d\u0438\u044f \u041a\u043e\u043d\u044f \u043d\u0430 c6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1br2k1\/ppq1ppbp\/2n3p1\/8\/2BPP3\/4B3\/P3NPPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rc1 ",
+                "comment": {
+                    "pt": "Disputando a coluna com a dama preta e colocando-a numa situa\u00e7\u00e3o perigosa onde ela estar\u00e1 exposta a ataques.",
+                    "en": "Fighting for the file with the Queen and placing it in a dangerous situation, exposed to attacks.",
+                    "es": "Disputando la columna con la dama negra y dej\u00e1ndola en una situaci\u00f3n peligrosa, expuesta a ataques.",
+                    "de": "K\u00e4mpft mit der schwarzen Dame um die c-Linie und bedroht sie indirekt.",
+                    "zh": "\u8ddf\u9ed1\u540e\u5bf9\u6297\uff0c\u4e3a\u4e86\u593a\u53d6\u5f00\u653e\u7ebf\u8def\uff0c\u4f7f\u4e4b\u66b4\u9732\u5e76\u8eab\u6d89\u9669\u5883\u3002",
+                    "pl": "Walka o kolumne z Hetmanem i umieszczenie go w niebezpiecze\u0144stwie, otwartego na ataki.",
+                    "ru": "\u0411\u043e\u0440\u044c\u0431\u0430 \u0437\u0430 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0424\u0435\u0440\u0437\u0435\u043c, \u0441\u0442\u0430\u0432\u0438\u0442 \u0435\u0433\u043e \u0432 \u043e\u043f\u0430\u0441\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0438 \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u044e\u0442 \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u044e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(61)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1kb1r\/p2q1ppp\/1pn2n2\/1N1p4\/Q4B2\/6P1\/PP2PPKP\/RN3R2 w k - 0 13",
+        "moves": [
+            {
+                "move": "13. Rc1 ",
+                "comment": {
+                    "pt": "Explorando a cravada atrav\u00e9s da coluna e amea\u00e7ando Cc7.",
+                    "en": "Exploring the pin through the file and threatening Nc7.",
+                    "de": "Nutzt die Fesselung auf der c-Linie und droht Sc7.",
+                    "es": "Explotando la clavada a trav\u00e9s de la columna y amenazando Cc7.",
+                    "zh": "\u5145\u5206\u5229\u7528\u8fd9\u6761\u7ebf\u4e0a\u7684\u7275\u5236\u5e76\u5a01\u80c1Nc7\u3002",
+                    "pl": "Wykorzystuj\u0105c przygwo\u017cd\u017cenie przez kolumn\u0119 i gro\u017c\u0105c Sc7.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Nc7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(159)",
+            "zh": "Event 1"
+        },
+        "fen": "7k\/1pp2r1p\/3p4\/p2P1q2\/2P1Rr2\/P7\/1P2Q3\/K5R1 w - - 0 33",
+        "moves": [
+            {
+                "move": "33. Rxf4 ",
+                "comment": {
+                    "pt": "Para seguir com Dg2 e obter uma vantagem decisiva.",
+                    "en": "In order to proceed with Qg2 and obtain a decisive advantage.",
+                    "de": "Um Dg2 mit entscheidenden Vorteil folgen zu lassen.",
+                    "es": "Para seguir con Dg2 y obtener ventaja decisiva.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u4e0bQg2\uff0c\u83b7\u5f97\u51b3\u5b9a\u6027\u7684\u4f18\u52bf\u3002",
+                    "pl": "W celu kontynuacji przez Hg2 i osi\u0105gni\u0119cia decyduj\u0105cej przewagi.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Qg2 \u0438 \u0434\u043e\u0441\u0442\u0438\u0447\u044c \u0440\u0435\u0448\u0430\u044e\u0449\u0435\u0433\u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(70)",
+            "zh": "Event 1"
+        },
+        "fen": "n1R1nk2\/1q4pp\/p3p3\/P2pNp2\/3P1P2\/4P3\/1P3P1P\/2R2K2 w - - 0 26",
+        "moves": [
+            {
+                "move": "26. Rb8 ",
+                "comment": {
+                    "pt": "Aproveitando a oportunidade que as pretas n\u00e3o podem tomar a torre, para penetrar com a segunda torre na oitava fila.",
+                    "en": "Taking advantage of the fact that Black cannot capture the Rook, to open space for the second Rook to penetrate the 8th rank.",
+                    "de": "Nutzt den Umstand aus, dass Schwarz den Turm nicht schlagen kann, um mit dem zweiten Turm auf die achte Reihe einzudringen.",
+                    "es": "Aprovechando el detalle de que las negras no pueden tomar la torre, para penetrar con la segunda torre en la octava l\u00ednea.",
+                    "zh": "\u5229\u7528\u9ed1\u65b9\u4e0d\u80fd\u5403\u8f66\u7684\u673a\u4f1a\u4e3a\u7b2c\u4e8c\u4e2a\u8f66\u4e89\u53d6\u7a7a\u95f4\u5165\u4fb5\u516b\u7ebf\u3002",
+                    "pl": "Wykorzystuj\u0105c przewag\u0119 z faktu, \u017ce Czarne nie mog\u0105 wzi\u0105\u0107 Wie\u017cy, a tak\u017ce by otworzy\u0107 przestrze\u0144 dla drugiej Wie\u017cy, aby zdoby\u0142a \u00f3sm\u0105 lini\u0119.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0442\u043e, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u0437\u044f\u0442\u044c \u041b\u0430\u0434\u044c\u044e \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u041b\u0430\u0434\u044c\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u043f\u0440\u043e\u043d\u0438\u043a\u043d\u0443\u0442\u044c \u043d\u0430 \u0432\u043e\u0441\u044c\u043c\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(52)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r1k\/p5np\/b1pR2P1\/2p1n1N1\/4Pp2\/5B2\/PP2NP2\/2K3R1 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Rh1 ",
+                "comment": {
+                    "pt": "Para tomar o pe\u00e3o e penetrar na s\u00e9tima fila.",
+                    "en": "In order to take the pawn and place the Rook in the 7th rank.",
+                    "de": "Um den Bauern zu schlagen und auf die siebte Reihe einzudringen.",
+                    "es": "Para tomar el pe\u00f3n y penetrar en la s\u00e9ptima l\u00ednea.",
+                    "zh": "\u4e3a\u4e86\u5403\u5175\u5e76\u5c06\u8f66\u79fb\u5230\u4e03\u7ebf\u3002",
+                    "pl": "W celu wzi\u0119cia piona i umieszczenia Wie\u017cy na si\u00f3dmej linii.",
+                    "ru": "\u0414\u043b\u044f \u0432\u0437\u044f\u0442\u0438\u044f \u043f\u0435\u0448\u043a\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041b\u0430\u0434\u044c\u044e \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(15)",
+            "zh": "Event 1"
+        },
+        "fen": "2kr3r\/pppb1ppp\/B4q1n\/n3p3\/8\/B1Q2N2\/P4PPP\/1R2R1K1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Rec1 ",
+                "comment": {
+                    "pt": "Obrigando a jogada Bc6, que obstruir\u00e1 a a\u00e7\u00e3o da dama preta. Se as brancas jogassem imediatamente Dxa5 , seguiria ...Dxa6.",
+                    "en": "Forcing the Bc6 move that obstructs the action of the black Queen. If White played Qxa5 immediately, ... Qxa6 would follow.",
+                    "de": "Erzwingt den Zug Lc6, was der schwarzen Dame die sechste Reihe versperrt. Auf das sofortige Dxa5 k\u00e4me ...Dxa6.",
+                    "es": "Forzando la jugada Ac6, que obstruir\u00e1 la acci\u00f3n de la dama negra. Si las blancas jugaran inmediatamente Dxa5, seguir\u00eda ...Dxa6.",
+                    "zh": "\u8feb\u5f3a\u8feb\u8d70Bc6\uff0c\u8fd9\u6837\u4f1a\u628a\u9ed1\u540e\u5835\u5728\u516d\u7ebf\u3002\u5982\u679c\u767d\u68cb\u7acb\u5373\u4e0bQxa5\uff0c\u90a3\u4e48\u4f1a\u5e94 ... Qxa6\u3002",
+                    "pl": "Wymuszaj\u0105c ruch Gc6, kt\u00f3ry utrudnia akcj\u0119 czarnemu Hetmanowi. Je\u015bli Bia\u0142\u0119 zagra\u0142yby Hxa5 od razu, nast\u0105pi\u0142oby ... Hxa6.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043a \u0445\u043e\u0434\u0443 Bc6, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f. \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0441\u0440\u0430\u0437\u0443 \u0438\u0433\u0440\u0430\u044e\u0442 Qxa5, \u0442\u043e \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...Qxa6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

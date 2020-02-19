@@ -1,0 +1,139 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Francesa",
+        "white_sort": "",
+        "black": "Variante Winawer",
+        "date": "",
+        "event": {
+            "en": "Winawer variation",
+            "de": "Winawer-Variante",
+            "es": "Variante Winawer",
+            "pt": "Variante Winawer",
+            "zh": "\u6e29\u7eb3\u7ef4\u5c14\u53d8\u4f8b",
+            "pl": "Wariant Winawera",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0412\u0438\u043d\u0430\u0432\u0435\u0440\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a famosa variante Winawer e foi muito praticada pelos campe\u00f5es mundiais Botvinik e Petrossian. As pretas est\u00e3o dispostas a entregar seu bispo de casas pretas para dobrar os pe\u00f5es brancos e apostam que manter\u00e3o a posi\u00e7\u00e3o fechada, com vantagem dos cavalos sobre os bispos.",
+                    "en": "This is the famous Winawer variation that was very used among the world champions Botvinik and Petrossian. Black is willing to give up its dark-squared Bishop in order to double the white pawns and trusts that it will be able to maintain a closed position with the advantage of Knights over Bishops.",
+                    "es": "Esta es la famosa variante Winawer y fue muy jugada por los campeones mundiales Botvinnik y Petrosian. Las negras est\u00e1n dispuestas a entregar su alfil de casillas negras para doblar los peones blancos y apuestan a que mantendr\u00e1n la posici\u00f3n cerrada, con ventaja de los caballos sobre los alfiles..",
+                    "de": "Die ber\u00fchmte Winawer-Variante wurde von den ehemaligen Weltmeistern Botwinnik und Petrosjan oft angewandt. Schwarz ist bereit, den schwarzfeldrigen L\u00e4ufer herzugeben, um die wei\u00dfen Bauern zu verdoppeln. Schwarz baut darauf, die Stellung geschlossen zu halten, weil die Springer dann st\u00e4rker sind als die wei\u00dfen L\u00e4ufer.",
+                    "zh": "\u8fd9\u662f\u8457\u540d\u7684\u6e29\u7eb3\u7ef4\u5c14\u53d8\u4f8b\uff0c\u662f\u4e16\u754c\u51a0\u519bBotvinik\u548cPetrossian\u5bf9\u5c40\u65f6\u7528\u5230\u8fc7\u3002\u9ed1\u65b9\u610f\u56fe\u5f03\u9ed1\u683c\u8c61\u6765\u7ed9\u767d\u65b9\u5236\u9020\u53e0\u5175\uff0c\u5e76\u53ef\u4ee5\u901a\u8fc7\u9a6c\u4f18\u4e8e\u8c61\u7684\u4f18\u52bf\u4fdd\u6301\u4e00\u4e2a\u5c01\u95ed\u5c40\u9762\u3002",
+                    "pl": "Oto s\u0142ynny wariant Winawera mocno eksploatowany podczas mecz\u00f3w Mistrz\u00f3w \u015awiata Botwinnika i Petrossiana. Czarne pragn\u0105 odda\u0107 ciemnopolowego Go\u0144ca w celu zdublowania bia\u0142ych pion\u00f3w i wiary w to, \u017ce s\u0105 w stanie utrzyma\u0107 zamkni\u0119t\u0105 pozycj\u0119 z przewag\u0105 Skoczk\u00f3w nad Go\u0144ce.",
+                    "ru": "\u042d\u0442\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0412\u0438\u043d\u0430\u0432\u0435\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u044b\u043b \u043e\u0447\u0435\u043d\u044c \u0432\u043e\u0441\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d \u043d\u0430 \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u0435 \u041c\u0438\u0440\u0430 \u0432 \u0438\u0433\u0440\u0435 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a\u0430 \u0438 \u041f\u0435\u0442\u0440\u043e\u0441\u044f\u043d\u0430. \u0427\u0435\u0440\u043d\u044b\u0435 \u0433\u043e\u0442\u043e\u0432\u044b \u043e\u0442\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0441\u0432\u043e\u0435\u0433\u043e \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0432\u043e\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u0445, \u0441 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439 \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u043e\u043d\u0438 \u0441\u043c\u043e\u0433\u0443\u0442 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u041a\u043e\u043d\u0435\u0439 \u043d\u0430\u0434 \u0421\u043b\u043e\u043d\u0430\u043c\u0438."
+                }
+            },
+            {
+                "move": "   4. e5 ",
+                "comment": {
+                    "pt": "\u00c9 a jogada mais l\u00f3gica para proteger o pe\u00e3o. As brancas planejam a3 para for\u00e7ar a troca em c3 , refor\u00e7ar o centro e preparar um ataque pelas casas pretas. As partidas 244, 253 e 254, tratam de outras jogadas como 4-Cge2, Bd2 e exd5, mas dificilmente as brancas conseguem vantagem com estas op\u00e7\u00f5es.",
+                    "en": "This is the most logical move to protect the pawn. White plans a3 in order to force the exchange on c3 , reinforce the center and prepare an attack through dark squares. Games 244, 253 and 254 deal with other moves such as 4-Nge2, Bd2 and exd5 but it's very difficult for White to win advantage with these options.",
+                    "es": "Es la jugada m\u00e1s l\u00f3gica para proteger el pe\u00f3n. Las blancas planean a3 para forzar un cambio en c3, reforzar el centro y preparar un ataque por las casillas negras. Las partidas 244, 253 y 254, tratan de otras jugadas como 4-Cge2, Ad2 y exd5, pero es dif\u00edcil que las blancas logren ventaja con estas opciones.",
+                    "de": "Der logischste Zug, um den Bauern zu decken. Wei\u00df plant a3, um den Abtausch auf c3 zu erzwingen und sp\u00e4ter einen Angriff \u00fcber die schwarzen Felder einzuleiten. Die Partien 244, 253 und 254 zeigen andere Z\u00fcge wie 4. Sge2, 4. Ld2 oder 4. exd5, die Wei\u00df wenig versprechen.",
+                    "zh": "\u8fd9\u662f\u4fdd\u62a4\u5175\u6700\u5408\u4e4e\u903b\u8f91\u7684\u4e00\u7740\u3002\u767d\u65b9\u8ba1\u5212\u8d70a3\u6765\u5728c3\u4e0a\u5f3a\u5151\uff0c\u52a0\u56fa\u4e2d\u5fc3\u5e76\u51c6\u5907\u901a\u8fc7\u9ed1\u683c\u53d1\u8d77\u653b\u51fb\u3002\u68cb\u5c40244\u3001253\u548c254\u662f\u53e6\u5916\u51e0\u79cd\u8d70\u6cd54-Nge2, Bd2\u548cexd5\uff0c\u4f46\u662f\u767d\u65b9\u5f88\u96be\u7528\u8fd9\u51e0\u79cd\u8d70\u6cd5\u53d6\u5f97\u4f18\u52bf\u3002",
+                    "pl": "Najbardziej logiczny ruch do obrony piona. Bia\u0142e planuj\u0105 a3 w celu wymuszenia wymiany na c3, przegrupowanie centrum i przygotowanie ataku przez ciemne pola. Partia 244, 253 i 254 prezentuje inne posuni\u0119cia, takie jak 4. Sge2, Gd2 i exd5, ale bardzo trudno jest wygra\u0107 Bia\u0142ymi przewag\u0119 tymi ruchami.",
+                    "ru": "\u042d\u0442\u043e \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u043f\u0435\u0448\u043a\u0438. \u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 a3 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u043a \u0440\u0430\u0437\u043c\u0435\u043d\u0443 \u043d\u0430 c3, \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c\u0441\u044f \u043a \u0430\u0442\u0430\u043a\u0435 \u0447\u0435\u0440\u0435\u0437 \u0442\u0435\u043c\u043d\u044b\u0435 \u043f\u043e\u043b\u044f \u0448\u0430\u0445\u043c\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u043a\u0438. \u0418\u0433\u0440\u044b 244, 253 \u0438 254 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u0440\u0443\u0433\u0438\u0435 \u0445\u043e\u0434\u044b 4-Nge2, Bd2 \u0438 exd5, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u043c \u043e\u0447\u0435\u043d\u044c \u0442\u044f\u0436\u0435\u043b\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e."
+                }
+            },
+            {
+                "move": "   c5 ",
+                "comment": {
+                    "pt": "Nas partidas 251 e 255 as pretas optaram por outro plano; trocar os bispo de casas brancas, jogando b6 seguido de Ba6,se poss\u00edvel. Esta troca favorece as pretas, mas lhes custa tempos no desenvolvimento e elas demoram para atuar no centro.",
+                    "en": "In games 251 and 255 Black chooses another plan: exchange light-squared Bishops with b6 followed by Ba6, if possible. This exchange favors Black but will cost it some tempo in development and delay a lot its action in the center.",
+                    "es": "En las partidas 251 y 255 las negras optan por otro plan: cambiar los alfiles de casillas blancas, jugando b6 seguido de Aa6, si fuera posible. Este cambio favorece a las negras, pero les cuesta tiempos de desarrollo e impide que act\u00faen m\u00e1s r\u00e1pido en el centro.",
+                    "de": "In den Partien 251 und 255 hat Schwarz einen anderen Plan: b6 nebst La6, um die wei\u00dffeldrigen L\u00e4ufer abzutauschen. Dieser Abtausch ist an und f\u00fcr sich g\u00fcnstig f\u00fcr Schwarz, kostet aber wertvolle Zeit.",
+                    "zh": "\u5728\u68cb\u5c40251\u548c255\u9ed1\u65b9\u9009\u62e9\u4e86\u53e6\u5916\u4e00\u4e2a\u8ba1\u5212\uff1a\u5982\u679c\u53ef\u80fd\u7684\u8bdd\u5148\u8d70b6\u968f\u540eBa6\u5151\u767d\u683c\u8c61\u3002\u8fd9\u4e2a\u5151\u6362\u5bf9\u9ed1\u65b9\u6709\u5229\uff0c\u4f46\u4f1a\u4e22\u6389\u5148\u624b\u548c\u51fa\u5b50\u4f18\u52bf\u5e76\u4e14\u803d\u8bef\u4e2d\u5fc3\u7684\u6d3b\u52a8\u3002",
+                    "pl": "W partiach 251 i 255 Czarne wybra\u0142y inny plan: wymian\u0119 jasnopolowych Go\u0144c\u00f3w przez b6 kontynuowane przez Ga6, w ramach mo\u017cliwo\u015bci. Wymiana faworyzuje Czarne, ale kosztuje utrat\u0119 tempa w rozwoju i op\u00f3\u017ania ich akcje w centrum.",
+                    "ru": "\u0412 \u0438\u0433\u0440\u0435 251 \u0438 255 \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u043b\u0430\u043d \u043d\u0430 \u0438\u0433\u0440\u0443: \u0440\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u044e\u0442 \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 b6 Ba6, \u0435\u0441\u043b\u0438 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e. \u0420\u0430\u0437\u043c\u0435\u043d \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c, \u043d\u043e \u0441\u0442\u043e\u0438\u0442 \u0438\u043c \u0442\u0435\u043c\u043f\u0430 \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0438 \u0441\u043a\u043e\u0432\u044b\u0432\u0430\u044e\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435."
+                }
+            },
+            {
+                "move": "   5. a3 ",
+                "comment": {
+                    "pt": "Para refor\u00e7ar o centro e sair da cravada. A op\u00e7\u00e3o \u00e9 5-Bd2, para evitar que os pe\u00f5es sejam dobrados. As partidas 246, 250 e 261 tratam desta posi\u00e7\u00e3o. A partida Alekhine -Nimzovicth (261) \u00e9 considerada uma das obras primas do xadrez moderno e explora o tema do Zugzwang no meio jogo. Vale a penaestuda-la. A jogada 5-dxc5 ocorre na partida 245.",
+                    "en": "In order to reinforce the center and unpin. The option is 5-Bd2 in order to prevent doubled pawn. Games 246, 250 and 261 deal with this position. Alekhine -Nimzovicth (261) is considered one of the masterpieces in modern Chess and explores the Zugzwang theme in the middle of the game. It's worth studying. 5-dxc5 occurs in game 245.",
+                    "es": "Para reforzar el centro y salir de la clavada. La opci\u00f3n es 5-Ad2, para evitar que los peones sean doblados. Las partidas 246, 250 y 261 tratan esta posici\u00f3n. La partida Alekhine -Nimzovich (261) es considerada una de las obras maestras del ajedrez moderno y explota el tema del Zugzwang en el medio juego. Vale la pena estudiarla. La jugada 5-dxc5 ocurre en la partida 245.",
+                    "de": "\u00dcberdeckt das Zentrum und befreit sich von der Fesselung. Die Partien 246, 250 und 261 zeigen diese Stellung. Die Partie Aljechin-Nimzowitsch (Partie 261) nutzt das Thema des Zugzwangs im Mittelspiel aus.",
+                    "zh": "\u4e3a\u4e86\u52a0\u56fa\u4e2d\u5fc3\u5e76\u89e3\u9664\u7275\u5236\u3002\u9009\u62e9\u662f5-Bd2\u6765\u963b\u6b62\u53e0\u5175\u3002\u68cb\u5c40246\u3001250\u548c261\u6d89\u53ca\u4e86\u8fd9\u4e2d\u5c40\u9762\u3002\u963f\u5ed6\u6b23\u5bf9\u5c3c\u59c6\u4f50\u7ef4\u5947\uff08\u68cb\u5c40261\uff09\u7684\u8fd9\u4e00\u53e5\u88ab\u8ba4\u4e3a\u662f\u73b0\u4ee3\u56fd\u9645\u8c61\u68cb\u4e2d\u7ecf\u5178\u7684\u4e00\u5c40\uff0c\u5145\u5206\u5229\u7528\u4e86\u695a\u6b21\u6587\u683c\uff08\u8feb\u79fb\u5c40\u9762\uff09\u4e3b\u9898\u5728\u4e2d\u5c40\u7684\u4f5c\u7528\u3002\u975e\u5e38\u503c\u5f97\u7814\u7a76\u3002",
+                    "pl": "Aby przegrupowa\u0107 centrum i uwolni\u0107 si\u0119 od przygwo\u017cd\u017cenia. Opcj\u0105 jest 5. Gd2 w celu unikni\u0119cia zdublowania pion\u00f3w. Gry 246, 250 i 261 analizuj\u0105 t\u0105 pozycj\u0119. Alechin \u2013 Nimzovitsch (261) jest uznawana za arcydzie\u0142o nowoczesnych szachowych spotka\u0144 i wykorzystuje temat Zugzwangu w grze \u015brodkowej. Jest warta studiowania. 5. dxc5 wyst\u0119puje w partii 245.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0441\u0432\u044f\u0437\u043a\u0438. \u0412\u0430\u0440\u0438\u0430\u0446\u0438\u044f 5-Bd2, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u0435\u0448\u0435\u043a. \u0418\u0433\u0440\u044b 246, 250 \u0438 261 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u044d\u0442\u0443 \u043f\u043e\u0437\u0438\u0446\u0438\u044e. \u041f\u0430\u0440\u0442\u0438\u044f \u0410\u043b\u0435\u0445\u0438\u043d-\u041d\u0438\u043c\u0446\u043e\u0432\u0438\u0447 (\u0438\u0433\u0440\u0430 261) \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043a\u043b\u0430\u0441\u0441\u0438\u043a\u043e\u0439 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0448\u0430\u0445\u043c\u0430\u0442 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0445\u0435\u043c\u0443 \u0446\u0443\u0433\u0446\u0432\u0430\u043d\u0433\u0430 \u0432 \u043c\u0438\u0442\u0442\u0435\u043b\u044c\u0448\u043f\u0438\u043b\u0435. \u042d\u0442\u043e \u0437\u0430\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f. 5-dxc5 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0432 \u0438\u0433\u0440\u0435 245."
+                }
+            },
+            {
+                "move": "   Bxc3+ ",
+                "comment": {
+                    "pt": "5...Ba5 tamb\u00e9m \u00e9 poss\u00edvel e deve ser respondida com 6-b4! sacrificando um pe\u00e3o para aumentar o dom\u00ednio central. 5...cxd4 \u00e9 um erro devido a 6-axb4 dxc3 7-Dg4, como ocorre na partida 243, que \u00e9 um bom exemplo de explora\u00e7\u00e3o das casas pretas, por parte das brancas.",
+                    "es": "5... Aa5 tambi\u00e9n es posible y debe ser respondida con 6-b4!, sacrificando un pe\u00f3n para aumentar el dominio central. 5...cxd4 es un error debido a 6-axb4 dxc3 7-Dg4, como ocurre en la partida 243, que es un buen ejemplo de explotaci\u00f3n de las casillas negras, por parte de las blancas.",
+                    "de": "5...La5 ist auch m\u00f6glich und muss mit 6. b4! beantwortet werden, einem Bauernopfers zwecks Kontrolle des Zentrums.",
+                    "zh": "5...La5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u5fc5\u987b\u5e94\u4ee56. b4!\uff0c\u5f03\u5175\u4e3a\u4e86\u63a7\u5236\u4e2d\u5fc3\u3002"
+                }
+            },
+            {
+                "move": "   6. bxc3 Ne7 ",
+                "comment": {
+                    "pt": "A jogada 6...Dc7 para responder a 7-Dg4 com ...f5 ocorre nas partidas 252 e 257.",
+                    "en": "6...Dc7 in order to answer 7-Qg4 with ...f5 occurs in games 252 and 257.",
+                    "es": "La jugada 6...Dc7, para responder a 7-Dg4 con ...f5, ocurre en las partidas 252 y 257.",
+                    "de": "6...Dc7, mit der Absicht, 7.Dg4 mit 7...f5 zu beantworten, kann man in den Partien Nr. 252 und 257 sehen.",
+                    "zh": "6...Dc7\u4e3a\u4e86\u5e947-Qg4\u8ddf...f5\u51fa\u73b0\u5728\u68cb\u5c40252\u548c257\u4e2d\u3002",
+                    "pl": "6. ... Hc7 w celu odpowiedzi na 7. Hg4 przez ... f5 wyst\u0119puje w partiach 252 i 257.",
+                    "ru": "6...Dc7, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c 7-Qg4 \u0441 ...f5, \u0447\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 257."
+                }
+            },
+            {
+                "move": "   7. Qg4 ",
+                "comment": {
+                    "pt": "Outra op\u00e7\u00e3o , t\u00e3o boa quanto a do texto, \u00e9 jogar 7-Cf3, planejando \"a4-Ba3\". As partidas 248, 249, 256, 259 e 260 seguiram com esta id\u00e9ia.",
+                    "en": "Another option as good as the one described here, is 7-Nf3 intending a4-Ba3. Games 248, 249, 256, 259 and 260 continued with this idea.",
+                    "es": "Otra opci\u00f3n, tan buena como la del texto, es jugar 7-Cf3, planeando \"a4-Aa3\". Las partidas 248, 249, 256, 259 y 260 siguieron con esta idea.",
+                    "de": "Eine andere M\u00f6glichkeit, gleichwertig wie der Textzug, ist 7.Sf3 mit der Idee a4-La3 (Partien Nr. 248, 249, 259 und 260).",
+                    "zh": "\u53e6\u5916\u4e00\u79cd\u9009\u62e9 7-Nf3\u8ddf\u8fd9\u7740\u6548\u679c\u90fd\u5f88\u597d\uff0c\u6253\u7b97a4-Ba3\uff0c\u89c1\u68cb\u5c40248\u3001 249\u3001 256\u3001 259\u548c260\u3002",
+                    "pl": "Inn\u0105 opcj\u0105, tak dobr\u0105 jak opisywana tutaj, jest 7. Sf3 z zamiarem a4-Ga3. Partie 248, 249, 256, 259 i 260 kontynuuj\u0105 w ten spos\u00f3b.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0430\u044f \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f, \u043e\u043f\u0438\u0441\u0430\u043d\u043d\u0430\u044f \u0437\u0434\u0435\u0441\u044c, \u0435\u0441\u0442\u044c 7-Nf3 \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c a4-Ba3. \u0418\u0433\u0440\u044b 248, 249, 256 \u0438 260 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u044d\u0442\u0443 \u0438\u0434\u0435\u044e."
+                }
+            },
+            {
+                "move": "   Qc7 ",
+                "comment": {
+                    "pt": "A id\u00e9ia das pretas \u00e9 sacrificar os pe\u00f5es do flanco rei para contratacar no centro. Seriam poss\u00edveis as jogadas 7...0-0, 7. ..Cg6 e 7...Cf5, mas 7...g6 seria um grave erro posicional por enfraquecer demasiadamente as casas pretas.",
+                    "en": "Black's idea is to sacrifice the kingside pawns in order to counter-attack in the center. 7...0-0, 7...Ng6 and 7...Nf5 would be possible but 7...g6 would be a big positional mistake because it weakens the black squares too much.",
+                    "es": "La idea de las negras es sacrificar los peones del flanco rey para contraatacar en el centro. Ser\u00edan posibles las jugadas 7... 0-0, 7. ..Cg6 y 7...Cf5, pero 7...g6 ser\u00eda un grave error posicional por debilitar demasiado las casillas negras.",
+                    "de": "Schwarz opfert die Bauern am K\u00f6nigsfl\u00fcgel, um im Zentrum zu kontern. 7...0-0, 7...Sg6 e 7...Sf5 w\u00e4ren andere M\u00f6glichkeiten, hingegen w\u00e4re 7...g6 ein graviernder positioneller Fehler, da dadurch die schwarzen Felder allzu geschw\u00e4cht werden w\u00fcrden.",
+                    "zh": "\u9ed1\u65b9\u7684\u610f\u56fe\u662f\u5f03\u738b\u7ffc\u5175\u6765\u53cd\u51fb\u4e2d\u5fc3\u30027...0-0, 7...Ng6\u548c7...Nf5\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4f46\u662f7...g6\u4f1a\u662f\u4e00\u4e2a\u5f88\u5927\u7684\u9519\u8bef\uff0c\u56e0\u4e3a\u5b83\u4f1a\u6781\u5927\u7684\u524a\u5f31\u9ed1\u683c\u3002",
+                    "pl": "Pomys\u0142em Czarnych jest po\u015bwi\u0119ci\u0107 piony na skrzydle kr\u00f3lewskim w celu kontrataku w centrum. 7. ... 0-0, 7. ... Sg6 i 7. ... Sf5 mog\u0142yby by\u0107 mo\u017cliwe, ale 7. ... g6 by\u0142oby pozycyjn\u0105 pomy\u0142k\u0105 poniewa\u017c os\u0142abia czarne piony za bardzo.",
+                    "ru": "\u0418\u0434\u0435\u044f \u0427\u0435\u0440\u043d\u044b\u0445 - \u044d\u0442\u043e \u043f\u0440\u0438\u043d\u0435\u0441\u0442\u0438 \u0432 \u0436\u0435\u0440\u0442\u0432\u0443 \u043f\u0435\u0448\u043a\u0443 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435.  7...0-0, 7...Ng6 \u0438 7...Nf5 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043d\u043e 7...g6 \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043e\u0448\u0438\u0431\u043a\u043e\u0439, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0447\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   8. Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 ",
+                "comment": {
+                    "pt": "11-cxd4? seria respondido por ... Cxd4.",
+                    "en": "11-cxd4? would be answered with ...Nxd4.",
+                    "es": "11-cxd4? ser\u00eda respondido por ...Cxd4.",
+                    "de": "11. cxd4? w\u00e4re mit Sxd4 beantwortet.",
+                    "zh": "11-cxd4?\u4f1a\u88ab\u5e94\u4ee5 ...Nxd4\u3002",
+                    "pl": "11. cxd4? Mog\u0142oby spotka\u0107 si\u0119 z ... Sxd4.",
+                    "ru": "\u041d\u0430 11-cxd4? \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0432\u0435\u0442 ...Nxd4."
+                }
+            },
+            {
+                "move": "   Bd7 12. Qd3 dxc3 ",
+                "comment": {
+                    "pt": "Uma posi\u00e7\u00e3o complexa onde as pretas t\u00eam compensa\u00e7\u00e3o pela desvantagem material. As brancas t\u00eam, alem do pe\u00e3o a mais, a vantagem do par de bispos e maior dom\u00ednio sobre as casas pretas. As partidas 258 e 262 tratam desta posi\u00e7\u00e3o.",
+                    "en": "A complex position in which Black has compensations for material disadvantage. And White, besides having one pawn up, has the advantage of the pair of Bishops and a greater dominance over the black squares. Games 258 and 262 deal with this position.",
+                    "es": "Una posici\u00f3n compleja donde las negras tienen compensaci\u00f3n por la desventaja material. Las blancas tienen, aparte del pe\u00f3n de m\u00e1s, la ventaja de la pareja de alfiles y un mayor dominio sobre las casillas negras. Las partidas 258 y 262 tratan esta posici\u00f3n.",
+                    "de": "Eine komplizierte Stellung. Schwarz hat Kompensation f\u00fcr das geopferte Material. Vom Plusbauern abgesehen hat Wei\u00df den Vorteil vom L\u00e4uferpaar und eine bessere Kontrolle der schwarzen Felder. Partien Nr. 258 und 262 zeigen diese Variante",
+                    "zh": "\u590d\u6742\u7684\u5c40\u9762\uff0c\u9ed1\u65b9\u727a\u7272\u5b50\u529b\u5374\u80fd\u5f97\u5230\u8865\u507f\u3002\u767d\u65b9\u9664\u4e86\u591a\u4e00\u4e2a\u5175\u4e4b\u5916\u8fd8\u62e5\u6709\u53cc\u8c61\u7684\u4f18\u52bf\u548c\u5bf9\u9ed1\u683c\u7684\u7edf\u6cbb\u3002\u68cb\u5c40258\u548c262\u4f1a\u6d89\u53ca\u8fd9\u4e2a\u5c40\u9762\u3002",
+                    "pl": "Skomplikowana pozycja, w kt\u00f3rej Czarne posiadaj\u0105 kompensacj\u0119 za stracony materia\u0142. Za\u015b Bia\u0142e, poza posiadania jednego piona wi\u0119cej, maj\u0105 przewag\u0119 obu Go\u0144c\u00f3w i wi\u0119ksz\u0105 dominacj\u0119 nad czarnymi polami. Partie 258 i 262 podzielaj\u0105 t\u0119 pozycj\u0119.",
+                    "ru": "\u0421\u043b\u043e\u0436\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0427\u0435\u0440\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0437\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u043a \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0435. \u0411\u0435\u043b\u044b\u0435, \u0438\u043c\u0435\u044e\u0442 \u043d\u0430 \u043e\u0434\u043d\u0443 \u043f\u0435\u0448\u043a\u0443 \u0431\u043e\u043b\u044c\u0448\u0435, \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u043f\u0430\u0440\u0435 \u0421\u043b\u043e\u043d\u043e\u0432 \u0438 \u0431\u043e\u043b\u044c\u0448\u0435\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0435 \u043d\u0430\u0434 \u0447\u0435\u0440\u043d\u044b\u043c\u0438 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430\u043c\u0438. \u0418\u0433\u0440\u044b 258 \u0438 262 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u044d\u0442\u043e \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

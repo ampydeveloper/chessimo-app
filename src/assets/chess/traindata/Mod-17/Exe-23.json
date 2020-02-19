@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Ruy Lopez",
+        "white_sort": "",
+        "black": "Variante  Steinitz diferida",
+        "date": "",
+        "event": {
+            "en": "Variation 3...a6-4-d6",
+            "de": "Verz\u00f6gerte Steinitz-Variante",
+            "es": "Variante Steinitz diferida",
+            "pt": "Variante  Steinitz diferida",
+            "zh": "\u5ef6\u8fdf\u65af\u5766\u5c3c\u8328\u53d8\u4f8b",
+            "pl": "Wariant 3. ... a6 4. d6",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...a6-4-d6"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante Steinitz diferida , onde as pretas t\u00eam mais flexibilidade devido as jogadas 3...a6 4-Ba4, que lhes permite jogar ...b5 no momento oportuno.",
+                    "en": "This is the differed Steinitz variation where Black has greater flexibility due to 3...a6 4-Ba4 that enables ...b5 at the right moment.",
+                    "es": "Esta es la variante Steinitz diferida, en la que las negras tienen m\u00e1s flexibilidad debido a las jugadas 3...a6 4-Aa4, que les permiten jugar ...b5 en el momento oportuno.",
+                    "de": "Das ist die Moderne Steinitz-Verteidigung. Schwarz kann entscheiden, wann ...b5 gespielt wird.",
+                    "zh": "\u8fd9\u662f\u73b0\u4ee3\u65af\u5766\u5c3c\u8328\u9632\u5fa1\u3002\u9ed1\u65b9\u53ef\u4ee5\u51b3\u5b9a\u4f55\u65f6\u8d70...b5\u3002",
+                    "pl": "To nieco zmieniona wariacja Steinitza, gdzie Czarne posiadaj\u0105 wi\u0119ksze mo\u017cliwo\u015bci z uwagi na 3. ... a6 4. Ga4, kt\u00f3re umo\u017cliwia zagranie ... b5 w odpowiednim momencie.",
+                    "ru": "\u042d\u0442\u043e \u0434\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0421\u0442\u0435\u0439\u043d\u0438\u0446\u0430, \u0433\u0434\u0435 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0431\u043e\u043b\u0435\u0435 \u0433\u0438\u0431\u043a\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0438\u0437-\u0437\u0430 3...a6 4-Ba4, \u0447\u0442\u043e \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0432 \u0438\u0433\u0440\u0443 ...b5 \u0432 \u043d\u0443\u0436\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f."
+                }
+            },
+            {
+                "move": "   5. O-O ",
+                "comment": {
+                    "pt": "H\u00e1 v\u00e1rias outras op\u00e7\u00f5es; 5-d4 \u00c9 poss\u00edvel mas as brancas dever\u00e3o sacrificar um pe\u00e3o ap\u00f3s . ..b5 6-Bb3 Cxd4 7-Cxd4 exd4, pois se jogarem agora 8-Dxd4 perdem uma pe\u00c7a ap\u00f3s ...c5, numa cilada conhecida como \"Arca de Noe\". As partidas 214 e 221 cont\u00e9m esta jogada. 5-c4 \u00e9 outra boa possibilidade , conhecida como variante Keres. As brancas refor\u00e7am o controle da casa d5 e evitam a jogada ...b5 das pretas (partidas 218 a 220). 5-c3 \u00e9 boa jogada, equivalente a jogada 0-0 e aparece nas partidas 213, 217, 222, 223, 224 e 226.",
+                    "en": "There are several other options: 5-d4 is possible but White has to sacrifice a pawn after ...b5 6-Bb3 Nxd4 7-Nxd4 exd4, because if it plays 8-Qxd4 now, it loses one piece after ...c5 followed by ...c4\". Games 214 and 221 contain this move. 5-c4 is another good option known as Keres variation. White reinforces the control over d5 and prevents Black's ...b5 (games 218 to 220). 5-c3 is good and equivalent to 0-0; it appears in games 213, 217, 222, 223, and 226.",
+                    "es": "Hay varias otras opciones; 5-d4 es posible pero las blancas deber\u00e1n sacrificar un pe\u00f3n despu\u00e9s de  ...b5 6-Ab3 Cxd4 7-Cxd4 exd4, pues si ahora jugaran 8-Dxd4 pierden una pieza despu\u00e9s de  ...c5, en una conocida celada. Las partidas 214 y 221 contienen esta jugada.  5-c4 es otra buena posibilidad, conocida como variante Keres. Las blancas refuerzan el control de la casilla d5 y evitan la jugada ...b5 de las negras (partidas 218 a 220). 5-c3 es buena jugada, equivalente a la jugada 0-0 y aparece en las partidas 213, 217, 222, 223, 224 y 226.",
+                    "de": "Andere M\u00f6glichkeiten: 5. d4 schlie\u00dft ein Bauernopfer ein: ...b5 6. Lb3 Sxd4 7. Sxd4 exd4 und jetzt geht 8. Dxd4 nicht, da sonst Schwarz eine Figur mit ...c5 gewinnen w\u00fcrde. Die Partien 214 und 221 zeigen diesen Zug. Ein anderer guter Zug ist 5. c4 (Keres-Variante). Wei\u00df \u00fcberdeckt das Feld d5 und verhindert den guten (aus schwarzer Sicht) Zug ...b5 (Partien 218 bis 220). 5. c3 ist gut (gleichwertig wie 5. 0-0) und kommt in den Partien 213, 217, 222, 223, 224 und 226 vor.",
+                    "zh": "\u8fd8\u6709\u5176\u4ed6\u7684\u4e00\u4e9b\u9009\u62e9\uff1a5-d4\u662f\u4e00\u79cd\u53ef\u80fd\uff0c\u4f46\u662f\u767d\u65b9\u5fc5\u987b\u5728 ...b5 6-Bb3 Nxd4 7-Nxd4 exd4\u4e4b\u540e\u5f03\u5175\uff0c\u56e0\u4e3a\u5982\u679c\u73b0\u5728\u4e0b8-Qxd4\uff0c\u5728...c5\u968f\u540e ...c4\u4e4b\u540e\u4f1a\u4e22\u6389\u4e00\u4e2a\u5b50\u3002\u68cb\u5c40214\u548c221\u5305\u542b\u4e86\u8fd9\u79cd\u8d70\u6cd5\u30025-c4\u662f\u53e6\u5916\u4e00\u79cd\u597d\u7684\u9009\u62e9\uff0c\u79f0\u4e3a\u51ef\u5217\u65af\u53d8\u4f8b\u3002\u767d\u65b9\u52a0\u5f3a\u5bf9d5\u7684\u63a7\u5236\uff0c\u5e76\u4e14\u963b\u6b62\u9ed1\u65b9\u8d70 ...b5\uff08\u68cb\u5c40218\u548c220\uff09\u30025-c3\u662f\u597d\u7684\uff0c\u5e76\u4e14\u8ddf0-0\u7b49\u540c\uff1b\u5b83\u51fa\u73b0\u5728\u68cb\u5c40213\u3001217\u3001222\u3001223\u548c226\u4e2d\u3002",
+                    "pl": "Jest kilka opcji: 5. d4 jest mo\u017cliwe, ale Bia\u0142e musz\u0105 po\u015bwi\u0119ci\u0107 piona po ... b5 6. Gb3 Sxd4 7. Sxd4 exd4, poniewa\u017c je\u015bli zagraj\u0105 8. Hxd4, przegraj\u0105 figur\u0119 po ... c5 kontynuowane przez ... c4. Gry 214 i 221 zawieraj\u0105 ten ruch. 5. c4 jest inn\u0105 dobr\u0105 mo\u017cliwo\u015bci\u0105 zwan\u0105 wariantem Keresa. Bia\u0142e przegrupowuj\u0105 kontrol\u0119 nad d5 i uniemo\u017cliwiaj\u0105 Czarnym ... b5 (gry od 218 do 220). 5. C3 jest dobre i r\u00f3wne 0-0; pojawi\u0142o si\u0119 w grach 213, 217, 222, 223 i 226.",
+                    "ru": "\u0415\u0441\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0434\u0440\u0443\u0433\u0438\u0445 \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u0439:  5-d4 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u043d\u043e \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0436\u0435\u0440\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043f\u043e\u0441\u043b\u0435 ...b5 6-Bb3 Nxd4 7-Nxd4 exd4, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u043e\u043d\u0438 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 \u0441\u0435\u0439\u0447\u0430\u0441 8-Qxd4, \u043e\u043d\u0438 \u0442\u0435\u0440\u044f\u044e\u0442 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u043f\u043e\u0441\u043b\u0435 ...c5, \u043f\u043e\u0441\u043b\u0435 ...c4. \u0418\u0433\u0440\u044b 214 \u0438 221 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u044d\u0442\u043e\u0442 \u0445\u043e\u0434.  5-c4 \u0434\u0440\u0443\u0433\u0430\u044f \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f, \u043d\u0430\u0437\u0432\u0430\u043d\u043d\u0430\u044f \u043a\u0430\u043a \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f \u041a\u0435\u0440\u0435\u0441\u0430. \u0411\u0435\u043b\u044b\u0435 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430\u0434 d5 \u0438 \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 ...b5  (\u0438\u0433\u0440\u044b 218-220). \u0418\u0433\u0440\u0430 5-c3 \u0445\u043e\u0440\u043e\u0448\u0430 \u0438 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u043d\u0430 0-0; \u0442\u0430\u043a\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0430\u0445 213, 217, 222, 223 \u0438 226."
+                }
+            },
+            {
+                "move": "   Bd7 ",
+                "comment": {
+                    "pt": "5. ..Bg4 \u00e9 uma op\u00e7\u00e3o interessante e ocorre na partida 225, onde as brancas seguiram corretamente com 6-h3 e as pretas jogaram ...Bh5, mas \u00e9 poss\u00edvel e muito interessante jogar 6...h5, mantendo a cravada.",
+                    "en": "5. ..Bg4 is an interesting option and appears in game 225, where White continued correctly with 6-h3 and Black with ...Bh5 but it would be possible and very interesting to choose 6...h5 and maintain the pin.",
+                    "es": "5... Ag4 es una opci\u00f3n interesante y ocurre en la partida 225, donde las blancas siguieron correctamente con 6-h3 y las negras jugaron ...Ah5, pero tambi\u00e9n es posible - y muy interesante - 6...h5, manteniendo la clavada.",
+                    "de": "5...Lg4 ist interessant und kommt in der Partie 225 vor, in der Wei\u00df korrekt 6. h3 spielte. Schwarz antwortete mit 6...Lh5, aber 6...h5 ist auch m\u00f6glich und hoch interessant, da dadurch die Fesselung aufrechterhalten wird.",
+                    "zh": "5. ..Bg4\u662f\u4e00\u4e2a\u5f88\u6709\u8da3\u7684\u9009\u62e9\uff0c\u51fa\u73b0\u5728\u68cb\u5c40225\u4e2d\uff0c\u767d\u65b9\u7ee7\u7eed\u4e0b\u6b63\u786e\u76846-h3\uff0c\u9ed1\u65b9...Bh5\uff0c\u4f46\u662f\u53e6\u5916\u4e00\u79cd\u6709\u8da3\u7684\u9009\u62e9\u662f6...h5\uff0c\u53ef\u4ee5\u4fdd\u6301\u7275\u5236\u3002",
+                    "pl": "5. ... Gg4 jest interesuj\u0105c\u0105 opcj\u0105 i pojawi\u0142 si\u0119 w partii 225, gdzie Bia\u0142e kontynuowa\u0142y poprawnie przez 6. h3, za\u015b Czarne przez ... Gh5, ale mo\u017cliwe i interesuj\u0105ce mog\u0142oby by\u0107 zagranie 6. ... h5 i utrzymanie przygwo\u017cd\u017cenia.",
+                    "ru": "5. ..Bg4 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430\u044f \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f \u0438 \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 225, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e\u0439 \u0438\u0433\u0440\u043e\u0439 6-h3, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 ...Bh5, \u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0435\u0439 \u043a\u043e\u043d\u0435\u0447\u043d\u043e \u0436\u0435 \u0432\u044b\u0431\u0440\u0430\u0442\u044c 6...h5 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u043a\u0443."
+                }
+            },
+            {
+                "move": "   6. c3 g6 7. d4 Bg7 8. dxe5 ",
+                "comment": {
+                    "pt": "As brancas tamb\u00e9m podem manter a tens\u00e3o (8-Be3) ou jogar 8-d5 para ganhar espa\u00e7o no centro.",
+                    "en": "White can also maintain tension (8-Be3) or play 8-d5 in order to win space in the center.",
+                    "es": "Las blancas tambi\u00e9n pueden mantener la tensi\u00f3n (8-Ae3) o jugar 8-d5 para ganar espacio en el centro.",
+                    "de": "Wei\u00df kann die Spannung mit 8. Le3 aufrechterhalten oder auch 8. d5 mit Raumgewinn spielen.",
+                    "zh": "\u767d\u65b9\u4e5f\u53ef\u4ee5\u7ee7\u7eed\u4fdd\u6301\u5f20\u529b\uff088-Be3\uff09\u6216\u8005\u8d708-d5\u6765\u4e89\u53d6\u4e2d\u5fc3\u7684\u7a7a\u95f4\u3002",
+                    "pl": "Bia\u0142e mog\u0105 r\u00f3wnie\u017c utrzyma\u0107 presj\u0119 (8. Ge3) lub zagra\u0107 8. D5 w celu zdobycia przewagi przestrzennej w centrum.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 (8-Be3) \u0438\u043b\u0438 \u0438\u0433\u0440\u0430\u0442\u044c 8-d5, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435."
+                }
+            },
+            {
+                "move": "   dxe5 9. Be3 Nf6 10. Nbd2 Qe7 11. b4 b6 ",
+                "comment": {
+                    "pt": "As pretas preparam-se para rocar (acabam de evitar Bc5) e a posi\u00e7\u00e3o est\u00e1 equilibrada. A partida 216 seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "Black prepares to castle (it has just prevented Bc5) and the position is balanced. Game 216 continued from this position on.",
+                    "es": "Las negras se preparan para enrocarse (acaban de evitar Ac5), con posici\u00f3n equilibrada. La partida 216 sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Schwarz verhindert Lc5, um rochieren zu k\u00f6nnen. Die Stellung ist ausgeglichen und die Partie 216 zeigt eine Fortsetzung.",
+                    "zh": "\u9ed1\u65b9\u51c6\u5907\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\uff08\u521a\u521a\u963b\u6b62\u4e86Bc5\uff09\u5e76\u4e14\u5c40\u9762\u5e73\u8861\u3002\u68cb\u5c40216\u5c55\u793a\u4e86\u4e00\u79cd\u8d70\u6cd5\u3002",
+                    "pl": "Czarne przygotowuj\u0105 si\u0119 do roszowania (w\u0142a\u015bnie zapobieg\u0142y Gc5) i pozycja jest zbalansowana. Gra 216 kontynuowana jest od tej pozycji.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0433\u043e\u0442\u043e\u0432\u044f\u0442\u0441\u044f \u043a \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0435 (\u044d\u0442\u043e\u043c\u0443 \u043c\u0435\u0448\u0430\u043b\u0430 \u0438\u0433\u0440\u0430 Bc5) \u0438 \u0438\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442\u0441\u044f. \u0418\u0433\u0440\u0430 216 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

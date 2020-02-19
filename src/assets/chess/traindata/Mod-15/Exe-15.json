@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(23)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp1b1pp1\/2nb1n1p\/1B1p4\/3P4\/2N2N1P\/PP3PP1\/R1BQR1K1 w - - 0 12",
+        "moves": [
+            {
+                "move": "12. Ne5 ",
+                "comment": {
+                    "pt": "Ocupando o ponto estrat\u00e9gico mais importante desta posi\u00e7\u00e3o.",
+                    "en": "Occupying the most important strategic point of this position.",
+                    "de": "Besetzt den wichtigsten strategischen Punkt dieser Stellung.",
+                    "es": "Ocupando el punto estrat\u00e9gico m\u00e1s importante de esta posici\u00f3n.",
+                    "zh": "\u5360\u636e\u6b64\u5904\u6700\u91cd\u8981\u7684\u6218\u7565\u8981\u70b9\u3002",
+                    "pl": "Okupuj\u0105c najbardziej strategiczny punk w tej pozycji.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u0432\u0430\u0436\u043d\u044b\u0435 \u0442\u043e\u0447\u043a\u0438 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(129)",
+            "zh": "Event 1"
+        },
+        "fen": "2rrb1k1\/p3qpb1\/4p1p1\/2pPP2p\/7P\/P1Q1NBP1\/5P2\/1R1R2K1 b - - 0 30",
+        "moves": [
+            {
+                "move": "30... exd5 ",
+                "comment": {
+                    "pt": "Para evitar d6.",
+                    "en": "In order to prevent d6.",
+                    "de": "Um d6 zu vermeiden.",
+                    "es": "Para evitar d6.",
+                    "zh": "\u4e3a\u4e86\u9632\u6b62d6\u3002",
+                    "pl": "W celu zapobie\u017cenia d6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c d6."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(33)",
+            "zh": "Event 1"
+        },
+        "fen": "2r3k1\/4bpp1\/p3p2p\/1p1q4\/PPnN4\/1Q2P1B1\/5PPP\/2R3K1 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Bf6 ",
+                "comment": {
+                    "pt": "Para eliminar o cavalo branco.",
+                    "en": "In order to eliminate the white Knight.",
+                    "de": "Um den wei\u00dfen Springer zu beseitigen.",
+                    "es": "Para eliminar el caballo blanco.",
+                    "zh": "\u4e3a\u4e86\u6d88\u706d\u767d\u9a6c\u3002",
+                    "pl": "W celu eliminacji bia\u0142ego Skoczka.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(130)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp1bbppp\/4p3\/3nP3\/8\/P4N2\/1P2QPPP\/RBB2RK1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Qe4 ",
+                "comment": {
+                    "pt": "For\u00e7ando as pretas a enfraquecerem o flanco do rei e levando a dama para o ataque.",
+                    "en": "Forcing Black to weaken the kingside and taking the Queen into the attack.",
+                    "de": "Zwingt Schwarz, den K\u00f6nigsfl\u00fcgel zu schw\u00e4chen und bringt die Dame zum Angriff.",
+                    "es": "Forzando las negras a debilitar el flanco rey y llevando la dama al ataque.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u68cb\u524a\u5f31\u738b\u7ffc\u5e76\u5c06\u540e\u6295\u5165\u6218\u6597\u3002",
+                    "pl": "Wymuszaj\u0105c na Czarnych os\u0142abienie skrzyd\u0142a kr\u00f3lewskiego i sprowadzenie Hetmana do ataku.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 \u0438 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u043a \u0430\u0442\u0430\u043a\u0435 \u0424\u0435\u0440\u0437\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(122)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2bppp\/4p3\/4P3\/1n6\/3B1N2\/PP2QPPP\/R1B2RK1 w - - 0 14",
+        "moves": [
+            {
+                "move": "14. Bb1 ",
+                "comment": {
+                    "pt": "Preservando o bispo nesta diagonal e mantendo livre a casa e4 para a dama branca passar para o flanco do rei.",
+                    "en": "Preserving the Bishop on this diagonal and leavong e4 free for the white Queen to pass through to the kingside.",
+                    "de": "Beh\u00e4lt den L\u00e4ufer auf der Diagonale b1-h7 und r\u00e4umt das Feld e4, damit die wei\u00dfe Dame zum K\u00f6nigsfl\u00fcgel \u00fcbergehen kann.",
+                    "es": "Preservando el alfil en esta diagonal y manteniendo libre la casilla e4 para que la dama blanca pase al flanco rey.",
+                    "zh": "\u5728\u8fd9\u6761\u659c\u7ebf\u4e0a\u4fdd\u5b58\u8c61\uff0c\u817e\u7a7ae4\u7ed9\u767d\u540e\u4ee5\u6b21\u8fdb\u5165\u738b\u7ffc\u3002",
+                    "pl": "Zachowanie Go\u0144ca na przek\u0105tnej i uwolnienie e4 dla bia\u0142ego Hetmana, aby przeni\u00f3s\u0142 si\u0119 na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 e4 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u043c \u0434\u043b\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

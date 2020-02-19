@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Carokan",
+        "white_sort": "",
+        "black": "Variante Panov",
+        "date": "",
+        "event": {
+            "en": "Panov's attack",
+            "de": "Panow-Variante",
+            "es": "Variante Panov",
+            "pt": "Variante Panov",
+            "zh": "\u5e15\u8bfa\u592b\u8fdb\u653b",
+            "pl": "Atak Panowa",
+            "ru": "\u0410\u0442\u0430\u043a\u0430 \u041f\u0430\u043d\u043e\u0432\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 ",
+                "comment": {
+                    "pt": "Nesta variante as brancas querem pressionar o centro preto e aceitam ficar com o pe\u00e3o dama isolado ap\u00f3s a troca do seu pe\u00e3o c , pelo pe\u00e3o d das pretas.",
+                    "en": "In this variation White wants to put pressure on the black center and accepts an isolated Queen-pawn after exchanging its c-pawn for Black's d-pawn.",
+                    "es": "En esta variante las blancas quieren presionar el centro negro y aceptan quedar con el pe\u00f3n dama aislado despu\u00e9s del cambio de su pe\u00f3n c por el pe\u00f3n d de las negras.",
+                    "de": "In diser Variante setzt Wei\u00df das schwarze Zentrum unter Druck und nimmt die Entstehung eines Isolani in Kauf.",
+                    "zh": "\u5728\u8fd9\u4e2a\u53d8\u4f8b\u4e2d\u767d\u65b9\u60f3\u7ed9\u9ed1\u65b9\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\uff0c\u5e76\u4e14\u5728\u7528\u5df1\u65b9c-\u5175\u5151\u9ed1\u65b9d-\u5175\u4e4b\u540e\u63a5\u53d7\u540e\u7ffc\u5b64\u5175\u7684\u5b58\u5728\u3002",
+                    "pl": "W tym wariancie Bia\u0142e chc\u0105 wywrze\u0107 presj\u0119 na czarnym centrum i akceptuj\u0105 izolowanego piona hetma\u0144skiego po wymianie w\u0142asnego piona c za Czarnego piona d.",
+                    "ru": "\u0412 \u044d\u0442\u043e\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043f\u043e\u0441\u043b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u0441\u0432\u043e\u0435\u0439 c-\u043f\u0435\u0448\u043a\u0438 \u043d\u0430 d-\u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   Nf6 5. Nc3 Nc6 ",
+                "comment": {
+                    "pt": "5...g6 tem por objetivo colocar o bispo em g7, pressionando d4 e ocorreu na partida 329.",
+                    "en": "5...g6 aims to place the Bishop on g7 and put pressure on d4; this happens in game 329.",
+                    "es": "5...g6 tiene por objetivo colocar el alfil en g7, presionando d4, como ocurri\u00f3 en la partida 329.",
+                    "de": "5...g6 nebst Lg7 mit Druck auf d4 geschah in der Partie 329.",
+                    "zh": "5...g6\u76ee\u7684\u662f\u4e3a\u4e86\u5c06\u8c61\u6446\u5230g7\u5e76\u4e14\u7ed9d4\u65bd\u52a0\u538b\u529b\uff1b\u8fd9\u51fa\u73b0\u5728\u68cb\u5c40329\u4e2d\u3002",
+                    "pl": "5. ... g6 zmierza do umieszczenia Go\u0144ca na g7 i wywarcia presji na d4; przydarzy\u0142o si\u0119 to w partii 329.",
+                    "ru": "\u0425\u043e\u0434 5...g6 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 g7 \u0438 \u043d\u0430\u043f\u0430\u0441\u0442\u044c \u043d\u0430 d4. \u042d\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0443\u0432\u0438\u0434\u0435\u0442\u044c \u0432 \u0438\u0433\u0440\u0435 329, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   6. Nf3 ",
+                "comment": {
+                    "pt": "6-Bg5 ocorreu nas partidas 330 a 333.",
+                    "en": "6-Bg5 is presented in games 330 to 333.",
+                    "es": "6-Ag5 ocurri\u00f3 en las partidas 330 a 333.",
+                    "de": "6. Lg5 geschah in den Partien 330 bis 333.",
+                    "zh": "6-Bg5\u5728\u68cb\u5c40330\u5230333\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "6. Gg5 zaprezentowano w partiach 330-333.",
+                    "ru": "\u0418\u0433\u0440\u0430 6-Bg5 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0430\u0445 330 \u0438 333."
+                }
+            },
+            {
+                "move": "   e6 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m seria poss\u00edvel 6...Bg4, mas seria arricado devido a sequ\u00eancia branca 7-cxd5 Nxd5 8-Qb3, como ocorreu em Fischer-Euwe (partida 344).",
+                    "en": "6...Bg4 would also be possible but would be risky due to the white sequence 7-cxd5 Nxd5 8-Qb3, as in Fischer-Euwe (game 344).",
+                    "es": "Tambi\u00e9n ser\u00eda posible 6...Ag4, pero ser\u00eda arriesgado debido a la continuaci\u00f3n blanca 7-cxd5 Cxd5 8-Db3, como ocurri\u00f3 en Fischer-Euwe (partida 344).",
+                    "de": "6...Lg4 w\u00e4re zwar m\u00f6glich, jedoch riskant, da Wei\u00df mit 7. Sxd5 Sxd5 8. Db3 antworten kann (Fischer-Euwe, Partie 344).",
+                    "zh": "6...Bg4\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4f46\u662f\u9274\u4e8e\u767d\u65b9\u7684\u68cb\u5e8f7-cxd5 Nxd5 8-Qb3\u6bd4\u8f83\u5192\u9669\uff0c\u6b63\u5982\u83f2\u820d\u5c14\u5bf9\u5c24\u4f1f\u7684\u5bf9\u5c40\uff08\u68cb\u5c40344\uff09\u3002",
+                    "pl": "6. ... Gg4 by\u0142oby r\u00f3wnie\u017c mo\u017cliwe, ale mog\u0142oby by\u0107 ryzykowne z powodu sekwencji Bia\u0142ych 7. cxd5 Sxd5 8. Hb3, jak w partii Fischer \u2013 Euwe (partia 344).",
+                    "ru": "\u0425\u043e\u0434 6...Bg4 \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0440\u0438\u0441\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u043c, \u0438\u0437-\u0437\u0430 \u0441\u0435\u0440\u0438\u0438 \u0445\u043e\u0434\u043e\u0432 \u0411\u0435\u043b\u044b\u0445 7-cxd5 Nxd5 8-Qb3, \u043a\u0430\u043a \u0432 \u043f\u0430\u0440\u0442\u0438\u0438 \u0424\u0438\u0448\u0435\u0440-\u042d\u0439\u0432\u0435 (\u0438\u0433\u0440\u0430 344)."
+                }
+            },
+            {
+                "move": "   7. cxd5 Nxd5 8. Bd3 ",
+                "comment": {
+                    "pt": "8- Bc4 \u00e9 t\u00e3o bom quanto a jogada do texto e ocorreu na partida 337.",
+                    "en": "8- Bc4 is as good as the move in the text and appears in game 337.",
+                    "es": "8- Ac4 es tan buena como la jugada del texto y ocurri\u00f3 en la partida 337.",
+                    "de": "8.  Lc4 ist so gut wie der Textzug und geschah in der Partie 337.",
+                    "zh": "8- Bc4\u8ddf\u8fd9\u79cd\u8d70\u6cd5\u90fd\u4e0d\u9519\uff0c\u51fa\u73b0\u5728\u68cb\u5c40337\u4e2d\u3002",
+                    "pl": "8. Gc4 jest tak dobry jak ruch zaprezentowany w tek\u015bcie i zagrano go w partii 337.",
+                    "ru": "\u0425\u043e\u0434 8-Bc4 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0435 337."
+                }
+            },
+            {
+                "move": "   Be7 ",
+                "comment": {
+                    "pt": "Para 8... Bb4 ver partidas 335 , 336 e 339.",
+                    "en": "For 8...Bb4, see games 335, 336 and 339.",
+                    "es": "Para 8. ..Ab4 ver partidas 335, 336 y 339.",
+                    "de": "8... Lb4 siehe Partien  335, 336 und 339.",
+                    "zh": "\u5bf9\u4e8e8...Bb4\uff0c\u89c1\u68cb\u5c40335\u3001336\u548c339\u3002",
+                    "pl": "Rezultat 8. ... Gb4 zobaczysz w grach 335, 336 i 339.",
+                    "ru": "\u0414\u043b\u044f 8...Bb4, \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0438\u0433\u0440\u044b 335, 336, 339."
+                }
+            },
+            {
+                "move": "   9. O-O O-O 10. Re1 ",
+                "comment": {
+                    "pt": "Uma posi\u00e7\u00e3o equilibrada, onde as brancas tentar\u00e3o atacar no flanco rei e as pretas explorar a fraqueza do pe\u00e3o branco em d4 (pe\u00e3o isolado), que n\u00e3o pode ser defendido por outro pe\u00e3o (partida 338).",
+                    "en": "A balanced position where White tries to attack on the kingside and Black explores the weakness f the white d4-pawn (isolated) that cant be defended by any other pawn (game 338).",
+                    "es": "Una posici\u00f3n equilibrada, donde las blancas intentar\u00e1n atacar en el flanco rey y las negras explotar la debilidad del pe\u00f3n blanco en d4 (pe\u00f3n aislado), que no puede ser defendido por otro pe\u00f3n (partida 338).",
+                    "de": "Eine ausgeglichene Stellung, auf der Wei\u00df am K\u00f6nigsfl\u00fcgel anzugreifen, w\u00e4hrend Schwarz die Schw\u00e4che des Isolani auf d4 auszunutzen versuchen wird (Partie 338).",
+                    "zh": "\u5e73\u8861\u5c40\u9762\uff0c\u767d\u65b9\u4f01\u56fe\u653b\u51fb\u738b\u7ffc\uff1b\u800c\u9ed1\u65b9\u4f01\u56fe\u5145\u5206\u5229\u7528\u767d\u65b9d4-\u5175\uff08\u5b64\u5175\uff09\u7684\u5f31\u70b9\u3002",
+                    "pl": "Zbalansowana pozycja, w kt\u00f3rej Bia\u0142e pr\u00f3buj\u0105 ataku na skrzyd\u0142o kr\u00f3lewskie, za\u015b Czarne wykorzystuj\u0105 s\u0142abo\u015b\u0107 bia\u0142ego piona d4 (izolowanego), kt\u00f3ry nie mo\u017ce by\u0107 chroniony przez \u017caden inny pion (gra 338).",
+                    "ru": "\u0421\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0431\u0443\u044e\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u044e\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0431\u0435\u043b\u043e\u0439 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 d4, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u0430 \u043d\u0438\u043a\u0430\u043a\u043e\u0439 \u0434\u0440\u0443\u0433\u043e\u0439 \u043f\u0435\u0448\u043a\u043e\u0439 (\u0438\u0433\u0440\u0430 338)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

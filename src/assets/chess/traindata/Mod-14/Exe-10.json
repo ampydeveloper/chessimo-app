@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(30)",
+            "zh": "Event 1"
+        },
+        "fen": "1b2r1k1\/4rpp1\/p2q1n2\/2Rp1BB1\/Np1P4\/nP4P1\/5PK1\/3Q3R w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Rh8+ ",
+                "comment": {
+                    "pt": "Para seguir com Dh1 e penetrar pela coluna h, finalizando a partida.",
+                    "en": "In order to continue with Qh1 and enter through the h-file, ending the game.",
+                    "de": "Nebst Dh1+ und entscheidendem Eindringen \u00fcber die h-Linie.",
+                    "es": "Para seguir con Dh1 y penetrar por la columna h, decidiendo la partida.",
+                    "zh": "\u4e3a\u4e86\u63a5\u7740\u4e0bQh1\uff0c\u5e76\u4fb5\u5165h-\u7ebf\uff0c\u7ed3\u675f\u68cb\u5c40\u3002",
+                    "pl": "W celu kontynuacji przez Hh1 i wej\u015bcia przez kolumn\u0119 h, ko\u0144cz\u0105c gr\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Qh1 \u0438 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u044f \u0438\u0433\u0440\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(127)",
+            "zh": "Event 1"
+        },
+        "fen": "3r3k\/1p1P2q1\/p6p\/P3p1p1\/3n4\/5Q2\/1P3PP1\/1B1R2K1 w - - 0 36",
+        "moves": [
+            {
+                "move": "36. Qh5 ",
+                "comment": {
+                    "pt": "Defendendo indiretamente o pe\u00e3o passado e amea\u00e7ando De8.",
+                    "en": "Defending the passed pawn indirectly and threatening Qe8.",
+                    "de": "Deckt den Freibauern indirekt und droht De8.",
+                    "es": "Defendiendo indirectamente el pe\u00f3n pasado y amenazando De8.",
+                    "zh": "\u95f4\u63a5\u9632\u5fa1\u901a\u8def\u5175\u5e76\u5a01\u80c1Qe8\u3002",
+                    "pl": "Broni\u0105c wolnego piona nie w bezpo\u015bredni spos\u00f3b i gro\u017aba He8.",
+                    "ru": "\u041a\u043e\u0441\u0432\u0435\u043d\u043d\u043e \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Qe8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(70)",
+            "zh": "Event 1"
+        },
+        "fen": "r4k1r\/1p4R1\/p2pp3\/2q2p2\/5P2\/8\/PPPQ4\/2KR4 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. Qg2 ",
+                "comment": {
+                    "pt": "Pressionando atrav\u00e9s da coluna aberta e preparando Tg1 para entrar na oitava fila.",
+                    "en": "Creating pressure through the open file and preparing Rg1 in order to enter the 8th file.",
+                    "de": "\u00dcbt Druck \u00fcber die offene Linie aus und bereitet Tg1 vor, um auf die achte Reihe einzudrigen.",
+                    "es": "Presionando a trav\u00e9s de la columna abierta y preparando Tg1 para entrar en la octava l\u00ednea.",
+                    "zh": "\u7ed9\u5f00\u653e\u7ebf\u5236\u9020\u538b\u529b\uff0c\u51c6\u5907\u4e0bRg1\u4fb5\u5165\u516b\u7ebf\u3002",
+                    "pl": "Tworzenie presji przez otwart\u0105 kolumn\u0119 i przygotowanie Wg1 w celu wej\u015bcia na si\u00f3dm\u0105 lini\u0119.",
+                    "ru": "\u041e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a Rg1, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u043e\u0439\u0442\u0438 \u043d\u0430 \u0432\u043e\u0441\u044c\u043c\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(61)",
+            "zh": "Event 1"
+        },
+        "fen": "2r3rk\/1q2b1pp\/p2ppp2\/1p2P3\/1P1B1P2\/P1P2RQ1\/6PP\/5R1K w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Qg6 ",
+                "comment": {
+                    "pt": "Aproveitando que as pretas n\u00e3o podem tomar a dama e amea\u00e7ando Th3.",
+                    "en": "Taking advantage of the fact that Black cannot capture the Queen to threaten Rh3.",
+                    "de": "Nutzt den Umstand aus, dass Schwarz die Dame nicht schlagen kann, um Th3 zu drohen.",
+                    "es": "Aprovechando que las negras no pueden tomar la dama y amenazando Th3.",
+                    "zh": "\u5229\u7528\u9ed1\u65b9\u4e0d\u80fd\u6349\u540e\u7684\u60c5\u51b5\u5a01\u80c1Rh3\u3002",
+                    "pl": "Wykorzystanie przewagi z faktu, \u017ce Czarne nie mog\u0105 pochwyci\u0107 Hetmana z powodu gro\u017aby Wh3.",
+                    "ru": "\u0412\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0432\u0448\u0438\u0441\u044c \u0442\u0435\u043c, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u0437\u044f\u0442\u044c \u0424\u0435\u0440\u0437\u044f, \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Rh3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(44)",
+            "zh": "Event 1"
+        },
+        "fen": "rr3k2\/3q1bb1\/3p1p2\/ppnPnP2\/2pNP3\/P1P1B3\/1PB1Q3\/R5RK w - - 0 34",
+        "moves": [
+            {
+                "move": "34. Qh2 ",
+                "comment": {
+                    "pt": "Jogada decisiva que n\u00e3o permite escape ao rei preto sem que haja entrega de material. A amea\u00e7a \u00e9 Txg7.",
+                    "en": "Decisive play which doesn't allow the black King to escape without losing material. The threat is Rxg7.",
+                    "de": "Ein entscheidender Zug, der eine Flucht des schwarzen K\u00f6nigs ohne Materialverlust verhindert.",
+                    "es": "Jugada decisiva que no permite escape al rey negro sin que haya entrega de material. La amenaza es Txg7.",
+                    "zh": "\u51b3\u5b9a\u6027\u7684\u4e00\u6b65\uff0c\u5728\u5b50\u529b\u672a\u635f\u7684\u60c5\u51b5\u4e0b\u963b\u6b62\u9ed1\u738b\u9003\u7a9c\u3002",
+                    "pl": "Decyduj\u0105ce zagranie, kt\u00f3re nie pozwala czarnemu Kr\u00f3lowi ucieczk\u0119 bez strat materialnych. Gro\u017ab\u0105 jest Wxg7.",
+                    "ru": "\u0420\u0435\u0448\u0430\u044e\u0449\u0438\u0439 \u0445\u043e\u0434, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u041a\u043e\u0440\u043e\u043b\u044e \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c \u0431\u0435\u0437 \u043f\u043e\u0442\u0435\u0440\u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430. \u0423\u0433\u0440\u043e\u0437\u0430 Rxg7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

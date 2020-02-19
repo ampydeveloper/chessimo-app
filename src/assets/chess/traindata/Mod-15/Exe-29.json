@@ -1,0 +1,136 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(85)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp1n2bp\/3p4\/2pP3n\/2P1Pp2\/2NB4\/PPQ1NBPP\/R3K2R w KQ - 0 4",
+        "moves": [
+            {
+                "move": "4. Ng1 ",
+                "comment": {
+                    "pt": "Para jogar Cf3 e trocar o cavalo preto que poder\u00e1 ocupar a casa e5.",
+                    "en": "In order to play Nf3 and trade the black Knight that could occupy e5.",
+                    "de": "Um Sf3 zu spielen und den schwarzen Springer abzutauschen, der das Feld e5 eventuell besetzen wird.",
+                    "es": "Para jugar Cf3 y cambiar el caballo negro que podr\u00e1 ocupar la casilla e5.",
+                    "zh": "\u4e3a\u4e86\u4e0bNf3\uff0c\u5151\u6362\u6389\u9ed1\u9a6c\u4ee5\u514d\u5b83\u53ef\u80fd\u4f1a\u5360\u636ee5\u3002",
+                    "pl": "W celu zagrania Sf3 i wymian\u0119 czarnego Skoczka, kt\u00f3ry mo\u017ce zaj\u0105\u0107 e5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Nf3 \u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u0435 e5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(53)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/1p1nb1pp\/p2p4\/3Ppp2\/2P5\/2NBBP2\/PP4PP\/R2Q1RK1 b - - 0 14",
+        "moves": [
+            {
+                "move": "14... Bg5 ",
+                "comment": {
+                    "pt": "Propondo troca do bispo mau pelo bispo bom advers\u00e1rio e ganhando tempo para levar a sua dama ao flanco do rei.",
+                    "en": "Suggesting the trade of the bad Bishop for the good enemy one and gaining one tempo to take the Queen to the kingside.",
+                    "de": "Versucht, den eigenen schlechten L\u00e4ufer gegen den guten vom Gegner abzutauschen und die Dame mit Tempogewinn zum K\u00f6nigsfl\u00fcgel zu bringen.",
+                    "es": "Proponiendo el cambio del alfil malo por el alfil bueno del adversario y ganando tiempo para llevar la dama al flanco rey.",
+                    "zh": "\u8bd5\u56fe\u7528\u574f\u8c61\u5151\u6362\u6389\u654c\u65b9\u4e00\u4e2a\u597d\u5b50\uff0c\u80fd\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u5e76\u5c06\u540e\u79fb\u5230\u738b\u7ffc\u3002",
+                    "pl": "Sugestia wymiany s\u0142abego Go\u0144ca za lepszego i zysk tempa do przemieszczenia Hetmana na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u0441\u043b\u0430\u0431\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043d\u0430 \u0441\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u043f \u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u0424\u0435\u0440\u0437\u044f \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(5)",
+            "zh": "Event 1"
+        },
+        "fen": "r5rk\/p1p5\/2Ppbq1b\/PP2p1pp\/4Pp2\/5P2\/4BBPP\/R2Q1RK1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. h3 ",
+                "comment": {
+                    "pt": "Evitando a ruptura em g4.",
+                    "en": "Preventing the g4 rupture.",
+                    "de": "Vermeidet den schwarzen Hebel auf g4.",
+                    "es": "Evitando la ruptura en g4.",
+                    "zh": "\u907f\u514d\u9ed1\u68cb\u5728g4\u5904\u7a81\u7834\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c p\u0119kni\u0119cie g4.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043f\u0440\u043e\u0440\u044b\u0432 g4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(106)"
+        },
+        "fen": "r1r3k1\/2q1bppp\/pn1p1n2\/4pP2\/2b1P3\/1NN1B3\/1PP1B1PP\/R2Q1R1K w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Bxb6 ",
+                "comment": {
+                    "pt": "Eliminando um dos defensores da casa d5.",
+                    "en": "Eliminating one of the d5 defenders.",
+                    "de": "Beseitigt einen der Verteidiger vom Feld d5.",
+                    "es": "Eliminando uno de los defensores de la casilla d5.",
+                    "zh": "\u6d88\u706d\u9632\u5fa1d5\u7684\u5176\u4e2d\u4e00\u4e2a\u68cb\u5b50\u3002",
+                    "pl": "Eliminacja jednego z obro\u0144c\u00f3w d5.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0437 \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u043e\u0432 \u043f\u043e\u043b\u044f d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "rr5k\/2qn1bbp\/3p1pp1\/ppnP4\/2pNP1P1\/P1P1B1NP\/1PB1Q3\/R4R1K w - - 0 28",
+        "moves": [
+            {
+                "move": "28. h4 ",
+                "comment": {
+                    "pt": "Com a id\u00e9ia de avan\u00e7ar o pe\u00e3o e enfraquecer a posi\u00e7\u00e3o do rei preto atrav\u00e9s da abertura de mais uma coluna.",
+                    "en": "Intending to advance the pawn and weaken the black King's position by means of another file opening.",
+                    "de": "Mit der Idee, den Bauern vorzur\u00fccken und die Stellung vom schwarzen K\u00f6nig durch die Er\u00f6ffnung einer weiteren Linie weiterhin zu schw\u00e4chen.",
+                    "es": "Con la idea de avanzar el pe\u00f3n y debilitar la posici\u00f3n del rey negro a trav\u00e9s de la apertura de otra columna m\u00e1s.",
+                    "zh": "\u610f\u56fe\u524d\u8fdb\u5175\u5e76\u4e14\u5f00\u653e\u53e6\u5916\u4e00\u6761\u7ebf\u6765\u524a\u5f31\u9ed1\u738b\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Z zamiarem marszu piona i os\u0142abienia pozycji czarnego Kr\u00f3la przez otwarcie kolejnej kolumny.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u043e\u0442\u043a\u0440\u044b\u0432 \u0434\u0440\u0443\u0433\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

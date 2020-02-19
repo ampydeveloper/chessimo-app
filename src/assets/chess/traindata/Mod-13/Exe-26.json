@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qkb1r\/pp1nppp1\/2p2nbp\/4N3\/3P3P\/6N1\/PPP2PP1\/R1BQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. Nxg6 ",
+                "comment": {
+                    "pt": "Arruinando a estrutura de pe\u00f5es contr\u00e1ria. Agora as pretas ter\u00e3o uma debilidade em g6 e outras em e6 e e5, devido ao fato do pe\u00e3o e estar isolado.",
+                    "en": "Ruining the opponent's pawn structure. Now Black will have a weakness on g6 and also on e6 and e5, due to the isolated e-pawn.",
+                    "es": "Arruinando la estructura de peones adversaria. Ahora las negras tendr\u00e1n una debilidad en g6 y otras en e6 y e5, debido al hecho de que el pe\u00f3n \"e\" est\u00e1 aislado.",
+                    "de": "Zerst\u00f6rt die gegnerische Bauernstruktur. Nun hat Schwarz Schw\u00e4chen auf g6, e6 und e5, da der e-Bauer zum Isolani wurde.",
+                    "zh": "\u6467\u6bc1\u5bf9\u624b\u7684\u5175\u5f62\u3002\u76ee\u524d\u9ed1\u65b9\u56e0\u4e3ae-\u5175\u4f1a\u6210\u4e3a\u5b64\u5175\uff0c\u5bfc\u81f4g6\u3001e6\u548ce5\u4e0a\u51fa\u73b0\u5f31\u70b9\u3002",
+                    "pl": "Zrujnowanie struktury pion\u00f3w oponenta. Teraz Czarne maj\u0105 s\u0142abo\u015b\u0107 na g6 oraz e6 i e5 z powodu izolowanego piona e.",
+                    "ru": "\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430. \u0422\u0435\u043f\u0435\u0440\u044c \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u043f\u043e\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0441\u043b\u0430\u0431\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u043d\u0430 g6, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0430 e6 \u0438 e5, \u0438\u0437-\u0437\u0430 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 e-\u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqnrk1\/pp1nppbp\/2p3p1\/4P3\/P1B5\/2N2N2\/1PP2PPP\/R1BQ1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. e6 ",
+                "comment": {
+                    "pt": "Para trocar este pe\u00e3o pelo pe\u00e3o f preto e deixar isolado o pe\u00e3o de e7. Al\u00e9m disto, as brancas abrem a diagonal (a2-g8) para seu bispo e criam perspectivas de ataque contra o rei contr\u00e1rio.",
+                    "en": "In order to exchange this pawn for the black f-pawn and leave an isolated pawn on e7. Besides, White opens the a2-g8 diagonal for its Bishop and creates chances for an attack against the King.",
+                    "es": "Para cambiar este pe\u00f3n por el pe\u00f3n \"f\" negro y dejar aislado el pe\u00f3n de e7. Adem\u00e1s de esto, las blancas abren la diagonal (a2-g8) para el alfil y crean perspectivas de ataque contra el rey contrario.",
+                    "de": "Um den eigenen e-Bauern gegen den schwarzen f-Bauern und dadurch den schwarzen e-Bauern zum Isolani zu machen. Au\u00dferdem \u00f6ffnet Wei\u00df eine Diagonale (a2-g8) und schafft dadurch gute Angriffschancen.",
+                    "zh": "\u4e3a\u4e86\u7528\u8fd9\u4e2a\u5175\u5151\u6362\u9ed1\u65b9\u7684f-\u5175\uff0c\u4f7f\u9ed1\u65b9\u7684e7\u4e0a\u4ea7\u751f\u5b64\u5175\u3002\u6b64\u5916\u767d\u65b9\u8fd8\u4e3a\u767d\u8c61\u5f00\u653e\u4e86a2-g8\u8fd9\u6761\u659c\u7ebf\uff0c\u521b\u9020\u4e86\u653b\u51fb\u9ed1\u738b\u7684\u673a\u4f1a\u3002",
+                    "pl": "Aby wymieni\u0107 tego piona na czarnego piona f i pozostawienie izolowanego piona na e7. Poza tym Bia\u0142e otwieraj\u0105 przek\u0105tn\u0105 a2-g8 dla Go\u0144ca i tworz\u0105 szans\u0119 na atak Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u044d\u0442\u0443 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u0443\u044e f-\u043f\u0435\u0448\u043a\u0443 \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e7. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8 \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0448\u0430\u043d\u0441 \u043d\u0430 \u0430\u0442\u0430\u043a\u0443 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppppnppp\/5b2\/3P4\/2B1R3\/5N2\/PP3PPP\/R1BQ2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d6 ",
+                "comment": {
+                    "pt": "For\u00e7ando o enfraquecimento da estrutura contr\u00e1ria, abrindo a diagonal para seu bispo e dificultando o desenvolvimento do bispo preto em c8. Se fosse vez das pretas estas jogariam ...d6 e solucionariam os problemas citados.",
+                    "en": "Forcing a weakness in the opponent's structure, opening the diagonal for the Bishop and hindering the development of the black c8-Bishop. If it was Black's turn, it would play ...d6 and it would solve all these problems.",
+                    "es": "Forzando el debilitamiento de la estructura contraria, abriendo la diagonal para el alfil y dificultando el desarrollo del alfil negro en c8. Si le tocara a las negras, \u00e9stas jugar\u00edan ...d6 y solucionar\u00edan los problemas citados.",
+                    "de": "Schw\u00e4cht die gegnerische Bauernstruktur, \u00f6ffnet eine Diagonale und erschwert die Entwicklung des wei\u00dffeldrigen L\u00e4ufers von Schwarz. Schwarz am Zug w\u00fcrde d6 spielen und damit all die erw\u00e4hnten Probleme erst vermeiden.",
+                    "zh": "\u7834\u574f\u5bf9\u65b9\u7684\u5175\u5f62\uff0c\u5f00\u653e\u4e00\u6761\u659c\u7ebf\uff0c\u963b\u788d\u9ed1\u65b9\u767d\u683c\u8c61\u7684\u6d3b\u52a8\u3002\u5982\u679c\u8f6e\u5230\u9ed1\u65b9\u8d70\uff0c\u5b83\u53ef\u80fd\u4f1a\u4e0b...d6\uff0c\u90a3\u4e48\u4f1a\u907f\u514d\u4ee5\u4e0a\u63d0\u5230\u7684\u6240\u6709\u95ee\u9898\u3002",
+                    "pl": "Wymuszaj\u0105c s\u0142abo\u015b\u0107 w strukturze oponenta, otwieraj\u0105c przek\u0105tn\u0105 dla Go\u0144ca i utrudniaj\u0105c wyprowadzenie czarnego Go\u0144ca c8. Je\u015bli by\u0142aby tura Czarnych, mog\u0142yby zagra\u0107 ... d6, co rozwi\u0105za\u0142oby te problemy.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 \u0438 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 c8. \u0415\u0441\u043b\u0438 \u0431\u044b \u0431\u044b\u043b \u0445\u043e\u0434 \u0427\u0435\u0440\u043d\u044b\u0445, \u043e\u043d\u0438 \u0431\u044b \u0441\u044b\u0433\u0440\u0430\u043b\u0438 ...d6 \u0438 \u0438\u0437\u0431\u0435\u0436\u0430\u043b\u0438 \u0431\u044b \u043f\u043e\u0434\u043e\u0431\u043d\u044b\u0445 \u043f\u0440\u043e\u0431\u043b\u0435\u043c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1nppp\/3p1n2\/1B2p1B1\/4P3\/2PP1N2\/P1P2PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf6 ",
+                "comment": {
+                    "pt": "Para enfraquecer a posi\u00e7\u00e3o do rei preto e debilitar a estrutura de pe\u00f5es.",
+                    "en": "In order to weaken the position of the black King and the pawn structure.",
+                    "es": "Para debilitar la posici\u00f3n del rey negro. as\u00ed como la estructura de peones.",
+                    "de": "Um sowohl die K\u00f6nigsstellung als auch die Bauernstruktur zu schw\u00e4chen.",
+                    "zh": "\u4e3a\u4e86\u524a\u5f31\u9ed1\u738b\u5c40\u9762\u548c\u5175\u5f62\u7ed3\u6784\u3002",
+                    "pl": "Os\u0142abianie pozycji czarnego Kr\u00f3la i struktury pion\u00f3w.",
+                    "ru": "\u0414\u043b\u044f \u043e\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u0438\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pbq2ppp\/2nb1n2\/2pp4\/8\/1P1BPN2\/PB1N1PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf6 ",
+                "comment": {
+                    "pt": "Para debilitar a estrutura de pe\u00f5es e enfraquecer a posi\u00e7\u00e3o do rei contr\u00e1rio.",
+                    "en": "In order to weaken the pawn structure and the position of the opponent's King.",
+                    "es": "Para debilitar la estructura de peones y consecuentemente la posici\u00f3n del rey contrario.",
+                    "de": "Wird den Doppelbauern los, verst\u00e4rkt das Zentrum und erweitert den Wirkungsbereich des L\u00e4ufers auf b2.",
+                    "zh": "\u6d88\u9664\u53e0\u5175\uff0c\u5f3a\u5316\u4e2d\u5fc3\uff0c\u6269\u5927b2\u8c61\u7684\u653b\u51fb\u8303\u56f4\u3002",
+                    "pl": "Os\u0142abianie pozycji czarnego Kr\u00f3la i struktury pion\u00f3w.",
+                    "ru": "\u0414\u043b\u044f \u043e\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u0438\u044f \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u041a\u043e\u0440\u043e\u043b\u044f \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

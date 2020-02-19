@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(4)",
+            "zh": "Event 1"
+        },
+        "fen": "r3kb1r\/1pq2ppp\/p1npbn2\/4p3\/P3PP2\/1NN5\/1PP1B1PP\/R1BQK2R w KQkq - 0 10",
+        "moves": [
+            {
+                "move": "10. f5 ",
+                "comment": {
+                    "pt": "Obrigando esta pe\u00e7a, que defende o importante ponto d5, a abandonar seu posto.",
+                    "en": "Forcing this piece, which defends the important d5 square, to abandon its post.",
+                    "de": "Zwingt diese Figur, die das wichtige Feld d5 verteidigte, diese Verteidigung aufzugeben.",
+                    "es": "Obligando a esta pieza, que defiende el importante punto d5, a abandonar su puesto.",
+                    "zh": "\u8feb\u4f7f\u9632\u5fa1d5\u8fd9\u4e2a\u5173\u952e\u683c\u7684\u68cb\u5b50\u653e\u5f03\u7ee7\u7eed\u9632\u5fa1\u3002",
+                    "pl": "Wymuszenie na tej figurze, broni\u0105c wa\u017cne pole d5, opuszczenie posterunku.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u044d\u0442\u0443 \u0444\u0438\u0433\u0443\u0440\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0432\u0430\u0436\u043d\u043e\u0435 \u043f\u043e\u043b\u0435 d5, \u043e\u0442\u043e\u0439\u0442\u0438 \u0441\u043e \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(118)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/2p3p1\/p1b1p3\/1p6\/1BP1p1R1\/4P3\/P4PPP\/R5K1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. Rc1 ",
+                "comment": {
+                    "pt": "Pressionando atrav\u00e9s da coluna c e deixando inst\u00e1vel a posi\u00e7\u00e3o do bispo preto.",
+                    "en": "Creating pressure through the c-file and making the black Bishop's position unstable.",
+                    "de": "\u00dcbt Druck auf die c-Linie aus und macht die Stellung vom schwarzen L\u00e4ufer unsicher.",
+                    "es": "Presionando a trav\u00e9s de la columna c y dejando inestable la posici\u00f3n del alfil negro.",
+                    "zh": "\u7ed9c-\u7ebf\u65bd\u52a0\u538b\u529b\u5e76\u4f7f\u9ed1\u8c61\u7684\u5c40\u9762\u4e0d\u7a33\u56fa\u3002",
+                    "pl": "Stwarzanie presji przez kolumn\u0119 c i utrata stabilno\u015bci pozycji czarnego Go\u0144ca.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0432\u043d\u043e\u0441\u0438\u0442 \u0434\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044e \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(109)",
+            "zh": "Event 1"
+        },
+        "fen": "6rk\/2q2p1p\/p2b1p2\/1bp2P2\/8\/4r1P1\/PPQ1NRBP\/R6K b - - 0 24",
+        "moves": [
+            {
+                "move": "24... Qe7 ",
+                "comment": {
+                    "pt": "Intensificando a press\u00e3o atrav\u00e9s da coluna aberta.",
+                    "en": "Intensifying the pressure through the open file.",
+                    "de": "Verst\u00e4rkt den Druck auf der offenen Linie.",
+                    "es": "Intensificando la presi\u00f3n a trav\u00e9s de la columna abierta.",
+                    "zh": "\u589e\u5f3a\u5f00\u653e\u7ebf\u4e0a\u7684\u538b\u529b\u3002",
+                    "pl": "Wzma\u017canie presji przez otwart\u0105 kolumn\u0119.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(104)",
+            "zh": "Event 1"
+        },
+        "fen": "r1q1k2r\/pppnbp1p\/5pb1\/1B1Pp3\/8\/2N2Q2\/PP2NPPP\/2R2RK1 w kq - 0 3",
+        "moves": [
+            {
+                "move": "3. Ng3 ",
+                "comment": {
+                    "pt": "Aumentando o controle sobre as casas e4 e f5.",
+                    "en": "Increasing the control over the e4 and f5 squares.",
+                    "de": "Verst\u00e4rkt die Kontrolle auf die Felder e4 und f5.",
+                    "es": "Aumentando el control sobre las casillas e4 y f5.",
+                    "zh": "\u589e\u52a0\u5bf9e4\u548cf5\u7684\u63a7\u5236\u3002",
+                    "pl": "Wzmacnianie kontroli nad polami e4 i f5.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430\u0434 \u043f\u043e\u043b\u044f\u043c\u0438 e4 \u0438 f5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3k1r\/1p1q1pb1\/p2p3p\/P1pPn1p1\/4P3\/6P1\/1PQNKPP1\/R2N3R w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Ne3 ",
+                "comment": {
+                    "pt": "Para ir a f5 ou c4.",
+                    "en": "In order to proceed to f5 or c4.",
+                    "de": "Um f5 bzw. c4 zu erreichen.",
+                    "es": "Para ir a f5 o a c4.",
+                    "zh": "\u4e3a\u4e86\u5230\u8fbef5\u6216c4\u3002",
+                    "pl": "W celu kontynuacji f5 lub c4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u043a f5 \u0438\u043b\u0438 c4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

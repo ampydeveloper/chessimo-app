@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3rrbk1\/1qp2pp1\/pn1p3p\/1p6\/3PP3\/1P1QBN1P\/P4PP1\/2R1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d5 ",
+                "comment": {
+                    "pt": "Com o objetivo de fixar o pe\u00e3o preto em c7, que mais tarde poder\u00e1 ser atacado e tamb\u00e9m de controlar a casa c6 que poder\u00e1 ser ocupada por um cavalo ou uma torre.",
+                    "en": "Aiming to anchor the black pawn on c7 that may be attacked later on through the file and also in order to control the c6 square that can be occupied by a Knight or a Rook.",
+                    "es": "Con el objetivo de fijar el pe\u00f3n negro en c7, que m\u00e1s tarde podr\u00e1 ser atacado, y tambi\u00e9n para controlar la casilla c6 que podr\u00e1 ser ocupada por un caballo o por una torre.",
+                    "de": "Mit der Absicht, den Bauern auf c7 festzulegen, damit er sp\u00e4ter unter Beschuss genommen wird. Au\u00dferdem wird das Feld c6 kontrolliert, das von einem Springer bzw. einem Turm besetzt werden kann.",
+                    "zh": "\u76ee\u7684\u662f\u5c06\u9ed1\u5175\u7262\u7262\u7684\u9501\u5b9a\u5728c7\uff0c\u4ee5\u4fbf\u8fdb\u884c\u653b\u51fb\u3002\u6b64\u5916\u8fd8\u4e3a\u4e86\u63a7\u5236c6\u683c\uff0c\u4ee5\u9632\u88ab\u8f66\u6216\u9a6c\u5360\u636e\u3002",
+                    "pl": "W celu zdobycia argumentu przeciwko czarnemu pionowi na c7, kt\u00f3ry mo\u017ce by\u0107 p\u00f3\u017aniej atakowany przez kolumn\u0119, a tak\u017ce aby kontrolowa\u0107 pole c6, kt\u00f3re mo\u017ce zaj\u0105\u0107 Skoczek lub Wie\u017ca.",
+                    "ru": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u0437\u0430\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u0447\u0435\u0440\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 c7, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u0437\u0434\u043d\u0435\u0435 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d\u0430 \u043f\u043e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0435, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u043f\u043e\u043b\u0435\u043c c6, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0437\u0430\u043d\u044f\u0442\u043e \u041a\u043e\u043d\u0435\u043c \u0438\u043b\u0438 \u041b\u0430\u0434\u044c\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "1r2r1k1\/1pq2pbp\/p2p2p1\/2pP4\/P1N1P3\/5P2\/1PQ3PP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. a5 ",
+                "comment": {
+                    "pt": "Garantindo a posi\u00e7\u00e3o do cavalo em c4 e evitando que as pretas joguem ... b5 valorizando sua maioria de pe\u00f5es no flanco dama. Este pe\u00e3o em a5 bloqueia os dois pe\u00f5es pretos em a6 e b7.",
+                    "en": "Guaranteeing the Knight's position on by preventing Black from playing . ..b5, which would increase the value of its pawn structure on the queenside. This a5-pawn blocks both black pawns on a6 and b7.",
+                    "es": "Asegurando la posici\u00f3n del caballo en c4 y evitando que las negras jueguen ...b5 para poner en marcha la mayor\u00eda de peones en el flanco dama. Este pe\u00f3n en a5 bloquea los dos peones negros en a6 y b7.",
+                    "de": "Sichert die Stellung des Springers auf c4 und verhindert, da\u00df Schwarz seine Bauernmehrheit am Damenfl\u00fcgel durch ...b5 zur Geltung bringt. Der Bauer auf a5 blockiert die Bauern auf a6 und b7.",
+                    "zh": "\u4fdd\u8bc1\u9a6c\u5728c4\u7684\u4f4d\u7f6e\uff0c\u963b\u6b62\u9ed1\u68cb\u8d70...b5\u6765\u83b7\u5f97\u540e\u7ffc\u591a\u5175\u3002\u8fd9\u4e2aa5-\u5175\u963b\u62e6\u4e86a6\u548cb7\u4e0a\u7684\u4e24\u4e2a\u654c\u5175\u3002",
+                    "pl": "Gwarantuj\u0105c Skoczkowi pozycj\u0119 zapobiegaj\u0105c Czarnym zagranie ... b5, kt\u00f3re powi\u0119kszy\u0142oby jako\u015b\u0107 jego struktury pion\u00f3w na skrzydle hetma\u0144skim. Pion a5 blokuje oba czarne piony a6 i b7.",
+                    "ru": "\u0413\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u041a\u043e\u043d\u044e \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0438\u0433\u0440\u0443 \u0427\u0435\u0440\u043d\u044b\u0445 ..b5, \u0447\u0442\u043e \u0434\u0430\u0441\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438\u0445 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u042d\u0442\u0430 \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 \u043f\u043e\u043b\u0435 a5 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u0435 \u0447\u0435\u0440\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 a6 \u0438 b7."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2kr3r\/1pp1npp1\/p1p5\/4p2p\/4P3\/3PBP1P\/PPP2P2\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f4 ",
+                "comment": {
+                    "pt": "Desdobrando os pe\u00f5es e refor\u00e7ando a luta pelo centro.",
+                    "en": "Undoubling the pawns and reinforcing the struggle for the center.",
+                    "es": "Recomponiendo los peones y reforzando la lucha por el centro.",
+                    "de": "Wird den Doppelbauern los und verst\u00e4rkt den Kampf um das Zentrum.",
+                    "zh": "\u6d88\u9664\u53e0\u5175\uff0c\u52a0\u5f3a\u4e89\u593a\u4e2d\u5fc3\u7684\u7684\u706b\u529b\u3002",
+                    "pl": "Wychodz\u0105c z sytuacji zdublowanych pion\u00f3w i przenosz\u0105c ci\u0119\u017car walki w centrum.",
+                    "ru": "\u0420\u0430\u0437\u0434\u0432\u0430\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0438 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0431\u043e\u0440\u044c\u0431\u0443 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/p3bppp\/1pn1p3\/3n4\/3P4\/1BN2N2\/PP3PPP\/R1BQ1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Nxc3 ",
+                "comment": {
+                    "pt": "As brancas planejavam Bxd5 isolando o pe\u00e3o preto. Com esta jogada as pretas eviatm esta id\u00e9ia e se preparam para atacar os pe\u00f5es brancos centrais, principalmente o de c3, possivelmente com as jogadas ; ... Ba6-Ca5-Tc8",
+                    "en": "White was planning Bxd5 by isolating the black pawn with this move. Black prevents it from happening and prepares to attack White's central pawns, especially c3, probably by means of Ba6-Na5-Rc8.",
+                    "es": "Las blancas planeaban Axd5 aislando el pe\u00f3n negro. Con esta jugada evitan las negras esta idea y se preparan para atacar los peones centrales del blanco, principalmente el de c3, posiblemente con las jugadas ...Aa6-Ca5-Tc8",
+                    "de": "Wei\u00df plante Lxd5, wonach ein Isolani auf d5 entstehen w\u00fcrde. Mit diesem Zug durchkreuzt Schwarz diesen Plan und plant seinerseits die wei\u00dfen Zentralbauern (vor allem den auf c3) anzugreifen. Dies k\u00f6nnte durch diese Zugfolge geschehen: La6-Sa5-Tc8.",
+                    "zh": "\u767d\u65b9\u8d70\u8fd9\u4e00\u6b65\u7684\u610f\u56fe\u662f\u7ee7\u7eed\u4e0bBxd5\uff0c\u5728d5\u5236\u9020\u4e00\u4e2a\u5b64\u5175\u3002\u9ed1\u65b9\u4e3a\u4e86\u4f7f\u767d\u65b9\u7684\u8ba1\u5212\u843d\u7a7a\uff0c\u5e76\u4ece\u5b83\u7684\u89d2\u5ea6\u8ba1\u5212\u653b\u51fb\u767d\u65b9\u4e2d\u5fc3\u5175\uff08\u7279\u522b\u662fc3\uff09\u3002\u8fd9\u53ef\u4ee5\u901a\u8fc7\u4ee5\u4e0b\u68cb\u5e8f\u5b9e\u73b0\uff1aBa6-Na5-Rc8\u3002",
+                    "pl": "Bia\u0142e planowa\u0142y Gxd5 by izolowa\u0107 czarnego piona tym ruchem. Czarne zapobieg\u0142y temu i przygotowuj\u0105 atak na Bia\u0142\u0119 centrum pion\u00f3w, szczeg\u00f3lnie c3, prawdopodobnie poprzez Ga6-Sa5-Wc8.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0438\u0433\u0440\u0443 Bxd5, \u0438\u0437\u043e\u043b\u0438\u0440\u0443\u044f \u0447\u0435\u0440\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u044d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c. \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044e\u0442 \u044d\u0442\u043e, \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043a \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u044e \u043d\u0430 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u0445, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e c3, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0438\u0433\u0440\u0430\u044f Ba6-Na5-Rc8."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4r3\/3rnbk1\/1pp2pn1\/p5p1\/P2PP1Pp\/1P2N2P\/2BR1KN1\/2R5 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... c5 ",
+                "comment": {
+                    "pt": "Com o objetivo de conquistar uma importante casa para o cavalo preto (Ce5) ap\u00f3s a resposta branca d5.",
+                    "en": "In order to conquer an important square for the black Knight (Ne5) after White responds with d5.",
+                    "es": "Con el objetivo de conquistar una importante casilla para el caballo negro (Ce5) despu\u00e9s de la respuesta blanca d5.",
+                    "de": "Mit der Idee, nach der wei\u00dfen Antwort d5 das Feld e5 f\u00fcr den Springer zu erobern.",
+                    "zh": "\u76ee\u7684\u662f\u5728\u767d\u65b9\u5e94d5\u4e4b\u540e\uff0c\u7ed9\u9ed1\u9a6c\u5360\u636e\u4e00\u4e2a\u91cd\u8981\u683c\uff08Ne5\uff09\u3002",
+                    "pl": "Aby zdoby\u0107 wa\u017cne pole dla czarnego Skoczka (Se5) po odpowiedzi Bia\u0142ych na d5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u0432\u0430\u0436\u043d\u043e\u0435 \u043f\u043e\u043b\u0435 \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f (Ne5), \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 d5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

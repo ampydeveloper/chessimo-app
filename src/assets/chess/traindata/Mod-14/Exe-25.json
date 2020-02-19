@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(14)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/6p1\/2P1nk2\/3R3p\/8\/8\/4pK2\/8 w - - 0 53",
+        "moves": [
+            {
+                "move": "53. Rd7 ",
+                "comment": {
+                    "pt": "Garantindo o avan\u00e7o do pe\u00e3o passado.",
+                    "en": "Ensuring the advance of the passed pawn.",
+                    "de": "Sichert sich das Vorr\u00fccken des Freibauern.",
+                    "es": "Asegurando el avance del pe\u00f3n pasado.",
+                    "zh": "\u786e\u4fdd\u901a\u8def\u5175\u7684\u524d\u8fdb\u3002",
+                    "pl": "Zapewnienie marszu wolnego piona.",
+                    "ru": "\u041e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(56)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq2k1\/ppN1b2p\/3rb1p1\/P2pNp2\/1P1P4\/2Q5\/2R2PPP\/2R3K1 w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Qb3 ",
+                "comment": {
+                    "pt": "Descravando o cavalo de c7 e criando amea\u00e7as na diagonal a2-g8.",
+                    "en": "Unpinning the c7-Knight and creating threats on the a2-g8 diagonal.",
+                    "de": "Entfesselt den Springer auf c7 und stellt Drohungen auf der Diagonale a2-g8 auf.",
+                    "es": "Desclavando el caballo de c7 y creando amenazas en la diagonal a2-g8.",
+                    "zh": "\u89e3\u9664c7-\u9a6c\u7684\u7275\u5236\u5e76\u5bf9a2-g8\u659c\u7ebf\u9020\u6210\u5a01\u80c1\u3002",
+                    "pl": "Usuni\u0119cie przygwo\u017cd\u017cenia Skoczka c7 i stworzenie zagro\u017cenia na przek\u0105tnej a2-g8.",
+                    "ru": "\u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u043e\u0442 \u0441\u0432\u044f\u0437\u043a\u0438 \u041a\u043e\u043d\u044f \u043d\u0430 c7 \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0443\u0433\u0440\u043e\u0437\u044b \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a2-g8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(26)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq2k1\/ppp2rbp\/6n1\/P1pPp1p1\/4Pp2\/2N2P2\/1P2B1PP\/R2QNRK1 w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Bc4 ",
+                "comment": {
+                    "pt": "Ocupando a melhor diagonal poss\u00edvel para esta pe\u00e7a.",
+                    "en": "Occupying the best possible diagonal for this piece.",
+                    "de": "Besetzt die beste Diagonale f\u00fcr diesen L\u00e4ufer.",
+                    "es": "Ocupando la mejor diagonal posible para esta pieza.",
+                    "zh": "\u4e3a\u8c61\u5360\u636e\u6700\u4f73\u659c\u7ebf\u3002",
+                    "pl": "Okupuj\u0105c najlepsz\u0105 mo\u017cliw\u0105 przek\u0105tn\u0105 dla tej figury.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043d\u0430\u0438\u043b\u0443\u0447\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(103)",
+            "zh": "Event 1"
+        },
+        "fen": "2rrb1k1\/p3qpb1\/1pp1p1p1\/4P2p\/1P1P3P\/P1Q1NBP1\/5P2\/1R1R2K1 b - - 0 28",
+        "moves": [
+            {
+                "move": "28... c5 ",
+                "comment": {
+                    "pt": "Destruindo o centro branco antes que o cavalo chegue a d6.",
+                    "en": "Destroying the white center before the Knight reaches d6.",
+                    "de": "Zerst\u00f6rt das wei\u00dfe Zentrum, bevor der Springer d6 erreicht.",
+                    "es": "Destruyendo el centro blanco antes de que el caballo llegue a d6.",
+                    "zh": "\u5728\u8c61\u5230\u8fbed6\u4e4b\u524d\u6467\u6bc1\u767d\u65b9\u4e2d\u5fc3\u3002",
+                    "pl": "Niszcz\u0105c bia\u0142e centrum zanim Skoczek osi\u0105gnie d6.",
+                    "ru": "\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445 \u0434\u043e \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u041a\u043e\u043d\u044c \u0434\u043e\u0441\u0442\u0438\u0433\u043d\u0435\u0442 \u043f\u043e\u043b\u044f d6."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(112)",
+            "zh": "Event 1"
+        },
+        "fen": "1rn2r1k\/1p4q1\/p3Qp1p\/P2Pp1p1\/8\/5R1P\/1P3PP1\/1B1R2K1 b - - 0 29",
+        "moves": [
+            {
+                "move": "29... Na7 ",
+                "comment": {
+                    "pt": "Para ir a b5 e eventualmente d4, ao mesmo tempo deixando conectadas as torres.",
+                    "en": "In order to proceed to b5 and, occasionally d4, and connect both Rooks, at the same time.",
+                    "de": "Um b5 und eventuell d4 zu erreichen, zudem werden die T\u00fcrme verbunden.",
+                    "es": "Para ir a b5 y eventualmente d4, al mismo tiempo que deja conectadas las torres.",
+                    "zh": "\u4e3a\u4e86\u5230\u8fbeb5\u53ef\u80fd\u7684\u8bddd4\uff0c\u5e76\u540c\u65f6\u8054\u5408\u4e24\u4e2a\u8f66\u3002",
+                    "pl": "W celu zagrania b5 i w miar\u0119 mo\u017cliwo\u015bci d4, a tak\u017ce po\u0142\u0105czenie Wie\u017c w tej samej chwili.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u043a b5, \u0438\u043d\u043e\u0433\u0434\u0430 \u043a d4, \u0438 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c \u043e\u0431\u0435 \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

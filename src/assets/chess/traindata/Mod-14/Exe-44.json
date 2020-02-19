@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(111)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/3nbppp\/b1n1p2P\/p1ppP3\/1p6\/3P1NP1\/PPP2PB1\/R1BQRNK1 b - - 0 13",
+        "moves": [
+            {
+                "move": "13... g6 ",
+                "comment": {
+                    "pt": "Evitando abrir a coluna diante do rei e preservando a estrutura de pe\u00f5es.",
+                    "en": "Preserving the pawn structure and protecting the file in front of the King.",
+                    "de": "Vermeidet, die Linie zu \u00f6ffnen, auf der der K\u00f6nig steht und schont die Bauernstruktur.",
+                    "es": "Evitando abrir la columna delante del rey y preservando la estructura de peones.",
+                    "zh": "\u907f\u514d\u5f00\u653e\u738b\u524d\u9762\u7684\u8def\u7ebf\u5e76\u4fdd\u6301\u5175\u5f62\u3002",
+                    "pl": "Zachowanie struktury pion\u00f3w i obrona kolumny na przedzie Kr\u00f3la.",
+                    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u043f\u0435\u0440\u0435\u0434 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(99)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp2qp1p\/6p1\/3p4\/3Qb3\/4PN2\/PP3PPP\/2R2RK1 b - - 0 16",
+        "moves": [
+            {
+                "move": "16... Bxf3 ",
+                "comment": {
+                    "pt": "Enfraquecendo a estrutura de pe\u00f5es e a prote\u00e7\u00e3o do rei contr\u00e1rio.",
+                    "en": "Weakening the enemy pawn structure and the opposite King's protection.",
+                    "de": "Schw\u00e4cht die Bauernstruktur und den Schutz vom gegnerischen K\u00f6nig.",
+                    "es": "Debilitando la estructura de peones y la protecci\u00f3n del rey contrario.",
+                    "zh": "\u524a\u5f31\u5bf9\u65b9\u7684\u5175\u5f62\u548c\u5bf9\u654c\u738b\u7684\u4fdd\u62a4\u3002",
+                    "pl": "Os\u0142abienie wrogiej struktury pion\u00f3w i obrony wrogiego Kr\u00f3la.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u0438 \u0437\u0430\u0449\u0438\u0442\u0443 \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1b1nbppp\/pp3n2\/2Pp2B1\/8\/P1NBPN2\/1P3PPP\/2RQ1RK1 b - - 0 12",
+        "moves": [
+            {
+                "move": "12... bxc5 ",
+                "comment": {
+                    "pt": "Fortalecendo o centro e evitando que o pe\u00e3o dama fique isolado.",
+                    "en": "Strengthening the center and preventing the Queen-pawn from isolation.",
+                    "de": "Verst\u00e4rkt das Zentrum und vermeidet, dass der d-Bauer zum Isolani wird.",
+                    "es": "Fortaleciendo el centro y evitando que el pe\u00f3n dama quede aislado.",
+                    "zh": "\u5de9\u56fa\u4e2d\u5fc3\u5e76\u963b\u6b62\u540e\u7ffc\u5175\u88ab\u5b64\u7acb\u3002",
+                    "pl": "Wzmacnianie centrum i uniemo\u017cliwianie izolacji hetma\u0144skiego piona.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044e \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(39)",
+            "zh": "Event 1"
+        },
+        "fen": "2r5\/5p1k\/2q2Pp1\/Q6p\/P1pR3P\/6P1\/5P1K\/8 b - - 0 44",
+        "moves": [
+            {
+                "move": "44... c3 ",
+                "comment": {
+                    "pt": "Valorizando o pe\u00e3o passado.",
+                    "en": "Improving the passed pawn's value.",
+                    "de": "Verwertet den Freibauern.",
+                    "es": "Realzando el pe\u00f3n pasado.",
+                    "zh": "\u63d0\u5347\u901a\u8def\u5175\u7684\u4ef7\u503c\u3002",
+                    "pl": "Poprawienie jako\u015bci wolnego piona.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(56)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/4bppp\/p2p1n2\/1pp1p3\/4P3\/1nPPBN2\/PP2NPPP\/R2Q1RK1 w - - 0 12",
+        "moves": [
+            {
+                "move": "12. axb3 ",
+                "comment": {
+                    "pt": "Trazendo um pe\u00e3o em dire\u00e7\u00e3o ao centro e abrindo uma coluna.",
+                    "en": "Moving a pawn towards the center and opening a file.",
+                    "de": "Bringt einen Bauern zum Zentrum und \u00f6ffnen eine Linie.",
+                    "es": "Trayendo un pe\u00f3n hacia el centro y abriendo una columna.",
+                    "zh": "\u5c06\u5175\u79fb\u5411\u4e2d\u5fc3\u5e76\u5f00\u653e\u4e00\u6761\u8def\u7ebf\u3002",
+                    "pl": "Marsz pionem do centrum i otwarcie kolumny.",
+                    "ru": "\u041f\u0435\u0440\u0435\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0432 \u0441\u0442\u043e\u0440\u043e\u043d\u0443 \u0446\u0435\u043d\u0442\u0440\u0430 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

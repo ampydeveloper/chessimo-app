@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqk1nr\/pppp1ppp\/8\/2b1p3\/4PP2\/5N2\/PPPP2PP\/RNBQKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... d6 ",
+                "comment": {
+                    "pt": "Mantendo o equil\u00edbrio central. Se as pretas jogassem ...exf4 as brancas jogariam d4 e controlariam este setor.",
+                    "en": "Maintaining balance in the center. If Black played ...exf4, White would play d4 and control this sector.",
+                    "es": "Manteniendo el equilibrio central. Si las negras jugaran ... exf4 las blancas jugar\u00edan d4 y controlar\u00edan este sector.",
+                    "de": "H\u00e4lt das Gleichgewicht im Zentrum aufrecht. Auf ... f4 w\u00fcrde Wei\u00df d4 antworten und das Zentrum kontrollieren.",
+                    "zh": "\u4fdd\u6301\u4e2d\u5fc3\u7684\u5e73\u8861\u3002\u5982\u679c\u9ed1\u65b9\u4e0b...exf4\uff0c\u767d\u65b9\u53ef\u4ee5\u5e94d4\u5e76\u63a7\u5236\u8be5\u533a\u57df\u3002",
+                    "ru": "\u0412\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442 \u0431\u0430\u043b\u0430\u043d\u0441 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0415\u0441\u043b\u0438 \u0447\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...exf4, \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c d4 \u0438 \u0432\u0437\u044f\u0442\u044c \u043f\u043e\u0434 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u044d\u0442\u043e\u0442 \u0441\u0435\u043a\u0442\u043e\u0440.",
+                    "pl": "Utrzymanie balansu w centrum. Je\u015bli Czarne zagra\u0142yby ... exf4, Bia\u0142e mog\u0142yby zagra\u0107 d4 i przej\u0105\u0107 kontrol\u0119 nad sektorem."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pp1ppppp\/2p2n2\/8\/2PP4\/2N5\/PP2PPPP\/R1BQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "Equilibrando a situa\u00e7\u00e3o central e evitando que as brancas joguem e4, dominando o centro.",
+                    "en": "Bringing balance to the center and preventing White from playing e4 and from taking over the center.",
+                    "es": "Equilibrando la situaci\u00f3n central y evitando que las blancas jueguen e4 para dominar el centro.",
+                    "de": "Gleicht die zentrale Stellung aus und vermeidet, da\u00df Wei\u00df e4 spielt und das Zentrum beherrscht.",
+                    "zh": "\u4fdd\u6301\u4e2d\u5fc3\u7684\u5e73\u8861\uff0c\u963b\u6b62\u767d\u68cb\u4e0be4\u593a\u53d6\u4e2d\u5fc3\u3002",
+                    "ru": "\u0411\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442 \u0438\u0433\u0440\u0443 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u043e\u0442 \u0438\u0433\u0440\u044b e4, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0432\u0437\u044f\u0442\u044c \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430\u0434 \u0446\u0435\u043d\u0442\u0440\u043e\u043c.",
+                    "pl": "Przywr\u00f3cenie balansu w centrum i zapobiegni\u0119cie przed ruchem Bia\u0142ych e4 oraz ich przej\u0119ciu centrum."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pp1p1ppp\/4pn2\/2p1P3\/8\/2P2N2\/PP1P1PPP\/RNBQKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Nd5 ",
+                "comment": {
+                    "pt": "Posicionando o cavalo em um ponto central. A jogada 1...Ce4 levaria a perda desta pe\u00e7a caso as brancas seguissem com 2-d3 e a jogada 1.... Cg8 representaria um grande atraso no desenvolvimento.",
+                    "en": "Moving the Knight to a central spot. ...Ne4 would lead to the loss of the piece if White continued with 2-d3 and ....Cg8 would represent a great disadvantage in development.",
+                    "es": "Posicionando el caballo en un punto central. La jugada 1... Ce4 llevar\u00eda a la p\u00e9rdida de esta pieza si las blancas siguieran con 2-d3; la jugada 1....Cg8, por su lado, representar\u00eda un gran retraso en el desarrollo.",
+                    "de": "Stellt den Springer auf ein zentrales Feld. 1... Se4 w\u00fcrde nach 2. d3 den Springer verlieren und 1... Sg8 h\u00e4tte einen grossen Entwicklungsr\u00fcckstand zur Folge.",
+                    "zh": "\u5c06\u9a6c\u79fb\u5411\u4e2d\u5fc3\u3002\u9ed1\u65b9\u4e0b...Ne4\uff0c\u5982\u679c\u767d\u68cb\u5e942-d3\u548c....Cg8\u90a3\u4e48\u4f1a\u4e22\u6389\u9ed1\u9a6c\uff0c\u51fa\u5b50\u660e\u663e\u843d\u540e\u3002",
+                    "ru": "\u041f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u0442 \u041a\u043e\u043d\u044f \u043d\u0430 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e. \u0425\u043e\u0434 ...Ne4 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u043e\u0442\u0435\u0440\u0435 \u0444\u0438\u0433\u0443\u0440\u044b, \u0435\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442 2-d3 \u0438 ...Cg8 \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0440\u0435\u0433\u0440\u0435\u0441\u0441\u043e\u043c \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438.",
+                    "pl": "Ruch Skoczkiem wprost w centrum. ... Se4 mog\u0142oby prowadzi\u0107 do utraty figury, je\u015bli Bia\u0142e kontynuowa\u0142yby z 2. d3 i ... Sg8, co by\u0142oby du\u017c\u0105 strat\u0105 dla dalszego rozwoju."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/ppp1pppp\/8\/3n4\/3P4\/8\/PP2PPPP\/RNBQKBNR w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. e4 ",
+                "comment": {
+                    "pt": "Formando um grande centro de pe\u00f5es e expulsando o cavalo de sua posi\u00e7\u00e3o central.",
+                    "en": "Building up a very strong pawn center and chasing the Knight off its central position.",
+                    "es": "Formando un centro grande de peones y expulsando al caballo de su posici\u00f3n central.",
+                    "de": "Bildet ein grosses Zentrum und vertreibt den Springer vom Zentrum.",
+                    "zh": "\u5efa\u7acb\u4e00\u4e2a\u7a33\u56fa\u7684\u5175\u4e2d\u5fc3\uff0c\u5c06\u9a6c\u9a71\u8d76\u51fa\u4e2d\u5fc3\u3002",
+                    "ru": "\u0412\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u0441\u0438\u043b\u044c\u043d\u044b\u0439 \u043f\u0435\u0448\u0435\u0447\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440, \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044f \u041a\u043e\u043d\u044f \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438.",
+                    "pl": "Budowanie silnego centrum pionami i przegonienie Skoczka z centralnej pozycji."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkbnr\/ppp2ppp\/4p3\/3P4\/3P4\/8\/PP2PPPP\/RNBQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... exd5 ",
+                "comment": {
+                    "pt": "Mantendo o equil\u00edbrio central e abrindo linhas para o desenvolvimento. Seria um erro jogar 1....Dxd5 devido a resposta branca 2-Cc3, atacando a dama com ganho de tempo e tamb\u00e9m porque o pe\u00e3o em e6 atrapalharia o desenvolvimento do bispo de casas brancas.",
+                    "en": "With this move, Black maintains central balance and opens lines for the development of all its pieces. It would be a great mistake to play 1.... Qxd5 because White would answer with 2-Nc3, attacking the Queen with time advantage and also because the e6-pawn would hinder the light-squared Bishop's development.",
+                    "es": "Manteniendo el equilibrio central y abriendo l\u00edneas para el desarrollo. Ser\u00eda un error jugar 1....Dxd5 debido a la respuesta blanca 2-Cc3, atacando la dama con ganancia de tiempo y tambi\u00e9n porque el pe\u00f3n en e6 entorpeceria el desarrollo del alfil de casillas blancas.",
+                    "de": "H\u00e4lt das Gleichgewicht im Zentrum aufrecht und \u00f6ffnet Linien bzw. Diagonalen f\u00fcr die Entwicklung. 1....Dxd5 w\u00e4re ein Fehler wegen 2. Sc3, was die Dame mit Tempogewinn angreift sowie wegen des Verbleibens des Bauern auf e6, was die Entwicklung der wei\u00dfen Zentralstellung verst\u00e4rkt",
+                    "zh": "\u8d70\u8fd9\u4e00\u6b65\u9ed1\u65b9\u53ef\u4ee5\u4fdd\u6301\u4e2d\u5fc3\u7684\u5e73\u8861\uff0c\u4e3a\u5b50\u529b\u51fa\u52a8\u626b\u6e05\u8def\u7ebf\u3002\u5982\u679c\u8d701.... Qxd5\u662f\u975e\u5e38\u5927\u7684\u9519\u8bef\uff0c\u56e0\u4e3a\u767d\u65b9\u53ef\u4ee5\u5e942-Nc3\uff0c\u5229\u7528\u5148\u624b\u653b\u51fb\u540e\uff0c\u800c\u4e14e6\u4e0a\u5175\u7684\u6ede\u7559\u963b\u788d\u4e86\u767d\u683c\u8c61\u7684\u51fa\u52a8\u3002",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0430\u043b\u0430\u043d\u0441 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0432\u0441\u0435 \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440. \u0425\u043e\u0434 1.... Qxd5 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043e\u0447\u043d\u044b\u043c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0432\u0435\u0442\u044f\u0442 2-Nc3, \u0430\u0442\u0430\u043a\u0443\u044e \u0424\u0435\u0440\u0437\u044f, \u0430 \u0442\u0430\u043a\u0436\u0435, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 e6 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u0431\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430.",
+                    "pl": "Tym ruchem Czarne utrzymuj\u0105 balans w centrum i otwieraj\u0105 linie dla wyprowadzenia wszystkich figur. B\u0142\u0119dem by\u0142oby zagranie 1. ... Hxd5 poniewa\u017c Bia\u0142e odpowiedzia\u0142yby 2. Sc3, atakuj\u0105c Hetmana z przewag\u0105 tempa, a tak\u017ce poniewa\u017c pion na e6 m\u00f3g\u0142by utrudni\u0107 wyprowadzenie jasnopolowego Go\u0144ca."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

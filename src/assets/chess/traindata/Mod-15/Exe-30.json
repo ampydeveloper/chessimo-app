@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(109)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3rn1\/1p1b1p1k\/p2p3p\/P1pPq1p1\/4P3\/1RN4P\/1P3PP1\/1BQ1R1K1 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Nd1 ",
+                "comment": {
+                    "pt": "Para ir a e3 e ter as op\u00e7\u00f5es de ir a c4 ou f5.",
+                    "en": "In order to proceed to e3 and have the options to move to c4 or f5.",
+                    "de": "Um auf d3 zu ziehen, um von da aus c4 bzw. g4 zu erreichen.",
+                    "es": "Para ir a e3 y tener las opciones de ir a c4 o f5.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u524d\u8fdb\u5230e3\u5e76\u4e14\u53ef\u4ee5\u9009\u62e9\u524d\u5f80c4\u6216f5\u3002",
+                    "pl": "W celu kontynuacja na e3 i posiadania opcji ruchu do c4 lub f5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c e3 \u0438 \u0438\u043c\u0435\u0442\u044c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0434\u043b\u044f \u0445\u043e\u0434\u0430 \u043d\u0430 c4 \u0438\u043b\u0438 f5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(60)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/1Q2ppbp\/3pbnp1\/p7\/P3P3\/2N3P1\/1PP2PBP\/R1B2RK1 b - - 0 12",
+        "moves": [
+            {
+                "move": "12... Nd7 ",
+                "comment": {
+                    "pt": "Com o objetivo de manobrar o cavalo at\u00e9 c4, onde atuar\u00e1 em conjunto com os bispos e possivelmente as torres atrav\u00e9s das colunas abertas.",
+                    "en": "Intending to maneuver the Knight to c4, where it will act together with the Bishops and, probably, with the Rooks through the open files.",
+                    "de": "Um den Springer auf c4 zu bringen, von wo aus er im Zusammenhang mit den L\u00e4ufern und m\u00f6glicherweise den T\u00fcrmen aktiv sein wird.",
+                    "es": "Con el objetivo de maniobrar el caballo hasta c4, donde actuar\u00e1 en conjunto con los alfiles y posiblemente las torres a trav\u00e9s de las columnas abiertas.",
+                    "zh": "\u4e3a\u4e86\u8ba9\u9a6c\u79fb\u52a8\u5230c4\uff0c\u6b64\u5904\u53ef\u4ee5\u8ddf\u8c61\u8054\u5408\u4e5f\u6709\u53ef\u80fd\u540c\u65f6\u8ddf\u8f66\u4e00\u8d77\u8fdb\u884c\u653b\u51fb\u3002",
+                    "pl": "Z zamiarem manewru Skoczkiem na c4, gdzie mo\u017ce dzia\u0142a\u0107 wsp\u00f3lnie z Go\u0144cami i najprawdopodobniej z Wie\u017cami przez otwarte kolumny.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 c4, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u043e \u0421\u043b\u043e\u043d\u0430\u043c\u0438 \u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0441 \u041b\u0430\u0434\u044c\u044f\u043c\u0438 \u0447\u0435\u0440\u0435\u0437 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0435 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(9)",
+            "zh": "Event 1"
+        },
+        "fen": "2q2rk1\/1b2bpp1\/p3p2p\/1p1n4\/1PnNN3\/PQ2PBB1\/5PPP\/2R3K1 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Qa8 ",
+                "comment": {
+                    "pt": "Criando amea\u00e7as na grande diagonal e preparando Tc8.",
+                    "en": "Creating threats on the big diagonal and preparing Rc8.",
+                    "de": "Stellt Drohungen auf der gro\u00dfen Diagonale und bereitet Tc8 vor.",
+                    "es": "Creando amenazas en la gran diagonal y preparando Tc8.",
+                    "zh": "\u5728\u5927\u659c\u7ebf\u4e0a\u5236\u9020\u5a01\u80c1\u5e76\u51c6\u5907Rc8\u3002",
+                    "pl": "Tworzenie zagro\u017ce\u0144 na d\u0142ugiej przek\u0105tnej i przygotowanie Wc8.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0443\u0433\u0440\u043e\u0437\u044b \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a Rc8."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(45)",
+            "zh": "Event 1"
+        },
+        "fen": "4r1k1\/2q2ppp\/1pp2n2\/n2p4\/3P4\/BPQ2PPB\/4PK1P\/2R5 b - - 0 30",
+        "moves": [
+            {
+                "move": "30... h5 ",
+                "comment": {
+                    "pt": "Com a id\u00e9ia de enfraquecer a posi\u00e7\u00e3o do rei branco ap\u00f3s ... h4.",
+                    "en": "Intending to weaken the white King's position after ...h4.",
+                    "de": "Mit der Idee, die Stellung vom wei\u00dfen K\u00f6nig durch ... h4 zu schw\u00e4chen.",
+                    "es": "Con la idea de debilitar la posici\u00f3n del rey blanco despu\u00e9s de ...h4.",
+                    "zh": "\u610f\u56fe\u662f\u5728\u4e0b...h4\u4e4b\u540e\u524a\u5f31\u767d\u738b\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Z zamiarem os\u0142abienia pozycji bia\u0142ego Kr\u00f3la po ... h4.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u043f\u043e\u0441\u043b\u0435 ...h4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(32)",
+            "zh": "Event 1"
+        },
+        "fen": "7r\/1p1rq1k1\/pR1p1p1p\/P1pP1Rp1\/2NbPPP1\/6P1\/1PK5\/7Q w - - 0 51",
+        "moves": [
+            {
+                "move": "51. e5 ",
+                "comment": {
+                    "pt": "Abrindo a posi\u00e7\u00e3o do rei preto e conectando as torres brancas.",
+                    "en": "Opening the black King's position and connecting the white Rooks.",
+                    "de": "\u00d6ffnet die Stellung vom schwarzen K\u00f6nig und verbindet die wei\u00dfen T\u00fcrme.",
+                    "es": "Abriendo la posici\u00f3n del rey negro y conectando las torres blancas.",
+                    "zh": "\u5f00\u653e\u9ed1\u738b\u7684\u4f4d\u7f6e\u5e76\u4e14\u8054\u5408\u4e24\u4e2a\u767d\u8f66\u3002",
+                    "pl": "Otwarcie pozycji czarnego Kr\u00f3la i po\u0142\u0105czenie bia\u0142ych Wie\u017c.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u041b\u0430\u0434\u044c\u0438 \u0411\u0435\u043b\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

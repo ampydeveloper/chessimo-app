@@ -1,0 +1,165 @@
+[
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr2k\/pp2b1p1\/2n1pnQp\/3p4\/3B4\/2N3P1\/PP2PPBP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bxf6 ",
+                "comment": {
+                    "pt": "Para seguir com Be4 , explorando a cravada na coluna dama e atacar o rei preto, amea\u00e7ando penetrar com a dama em h7.",
+                    "en": "In order to continue with Be4, exploring the pinned Queen-file and attacking the black King with the threat of taking the Queen to h7.",
+                    "es": "Para seguir con Ae4, explotando la clavada en la columna dama y atacar el rey negro, amenazando penetrar con la dama en h7.",
+                    "de": "Um Le4 folgen zu lassen und den schwarzen K\u00f6nig durch das Eindringen der Dame auf h7 anzugreifen.",
+                    "zh": "\u4e3a\u4e86\u80fd\u63a5\u7740\u4e0bBe4\u5e76\u5145\u5206\u5229\u7528\u88ab\u7275\u5236\u7684\u540e\u7ffc\uff0c\u5a01\u80c1\u8ba9\u9ed1\u540e\u4fb5\u5165h7\uff0c\u4ece\u800c\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "W celu kontynuacji Ge4, wykorzystuj\u0105c przygwo\u017cd\u017cenie kolumny hetma\u0144skiej i atakuj\u0105c czarnego Kr\u00f3la z gro\u017ab\u0105 wzi\u0119cia Hetmana na h7.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0438\u0433\u0440\u0443 Be4, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u0443\u044e \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0441 \u0443\u0433\u0440\u043e\u0437\u043e\u0439 \u0432\u0437\u044f\u0442\u0438\u044f \u0424\u0435\u0440\u0437\u044f \u043d\u0430 h7."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/ppq2p1p\/2p1b1p1\/8\/3P4\/1P6\/PB3PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d5 ",
+                "comment": {
+                    "pt": "Para seguir com Dd4 e explorar a bateria dama + bispo na grande diagonal. Se a vez fosse das pretas , estas deveriam jogar ...Bd5 deixando a grande diagonal bloqueada.",
+                    "en": "In order to continue with Qd4 and explore the pair Queen + Bishop on the big diagonal. If it was Black's turn, it should play ...Bd5, blocking the big diagonal.",
+                    "es": "Para seguir con Dd4 y explotar la bater\u00eda dama + alfil en la gran diagonal. Si les tocara jugar a las negras, estas deber\u00edan jugar ...Ad5 dejando bloqueada la gran diagonal.",
+                    "de": "Um Dd4 zu spielen und das Zusammenspiel von Dame und L\u00e4ufer voll auszunutzen. Schwarz am Zug m\u00fcsste ...Ld5 spielen, um die Diagonale zu blockieren.",
+                    "zh": "\u4e3a\u4e86\u80fd\u63a5\u7740\u4e0bDd4\uff0c\u5e76\u5145\u5206\u5229\u7528\u8c61\u548c\u540e\u534f\u540c\u7684\u4f18\u52bf\u3002\u8f6e\u5230\u9ed1\u68cb\u8d70\u7684\u8bdd\u5fc5\u987b\u8d70...Bd5\uff0c\u5835\u4f4f\u5927\u659c\u7ebf\u3002",
+                    "pl": "W celu kontynuacji Hd4 i wykorzystanie pary Hetman-Goniec na d\u0142ugiej przek\u0105tnej. Je\u015bli by\u0142aby tura Czarnych, powinny zagra\u0107 ... Gd5, blokuj\u0105c d\u0142ug\u0105 przek\u0105tn\u0105.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u0438\u0433\u0440\u0443 Qd4 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0430\u0440\u0443 \u0424\u0435\u0440\u0437\u044c + \u0421\u043b\u043e\u043d \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438. \u0415\u0441\u043b\u0438 \u0431\u044b \u0431\u044b\u043b \u0445\u043e\u0434 \u0427\u0435\u0440\u043d\u044b\u0445, \u043e\u043d\u0438 \u0434\u043e\u043b\u0436\u043d\u044b \u0431\u044b\u043b\u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c ... Bd5, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044f \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4r1k1\/1p1R2pp\/5p2\/8\/7Q\/1q5P\/5PPK\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qg4 ",
+                "comment": {
+                    "pt": "Para for\u00e7ar o avan\u00e7o dos pe\u00f5es que defendem o rei e valorizar a torre branca na s\u00e9tima fila, que ao lado da dama criar\u00e1 um ataque decisivo.",
+                    "en": "In order to force the pawns defending the King to advance and improve the value of the white Rook in the 7th rank. A decisive offensive will be generated by this Rook together with the Queen.",
+                    "es": "Para forzar el avance de los peones que defienden el rey y valorizar la torre blanca en la s\u00e9ptima l\u00ednea, que al lado de la dama crear\u00e1 un ataque decisivo.",
+                    "de": "Um die Bauern auf dem K\u00f6nigsfl\u00fcgel zum Vorr\u00fccken zu zwingen, was den Wirkungsbereich des Turms erweitern wird. Dieser wird zusammen mit der Dame einen entscheidenden Angriff f\u00fchren.",
+                    "zh": "\u4e3a\u4e86\u8feb\u4f7f\u5175\u5728\u738b\u7ffc\u524d\u8fdb\uff0c\u4ee5\u6b64\u6269\u5927\u767d\u8f66\u5728\u4e03\u7ebf\u7684\u52bf\u529b\u8303\u56f4\uff0c\u63d0\u9ad8\u5176\u4ef7\u503c\u3002\u8f66\u548c\u540e\u4f1a\u4e00\u8d77\u53d1\u8d77\u51b3\u5b9a\u6027\u7684\u8fdb\u653b\u3002",
+                    "pl": "W celu wymuszenia na broni\u0105cy Kr\u00f3la pionach marszu i poprawy warto\u015bci bia\u0142ej Wie\u017cy na si\u00f3dmej linii. Decyduj\u0105ca ofensywa b\u0119dzie przeprowadzona przez t\u0119 Wie\u017c\u0119 wraz z Hetmanem.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u043d\u0443\u0434\u0438\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0449\u0438\u0435 \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0434\u043b\u044f \u0431\u0435\u043b\u043e\u0439 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u043e\u0439 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0424\u0435\u0440\u0437\u044f. \u0420\u0435\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430 \u0431\u0443\u0434\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u043d\u0430 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u041b\u0430\u0434\u044c\u0435\u0439 \u0438 \u0424\u0435\u0440\u0437\u0435\u043c."
+                }
+            },
+            {
+                "move": "g6 2. Qh4 h5 3. Qxf6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguranca",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqr1k1\/pp1nbppp\/2p5\/3p4\/6N1\/1P1QP3\/PBB2PPP\/R4RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Nf8 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a forma correta de defender o ponto h7, pois n\u00e1o h\u00e1 enfraquecimento na estrutura de pe\u00f5es e o cavalo nao pode ser atacado nesta casa. Outras alternativas sao ineficientes; o cavalo em f6 poderia ser capturado e a jogada ...g6 enfraqueceria a grande diagonal (a1-h8).",
+                    "en": "That's the correct way to defend h7, because the pawn structure is kept and the Knight can't be attacked on this square. Other alternatives are inefficient: the Knight on f6 could be captured and ...g6 would weaken the big diagonal.",
+                    "es": "\u00c9sta es la forma correcta de defender el punto h7, pues no hay debilitamiento en la estructura de peones y el caballo no puede ser atacado en esta casilla. Otras alternativas son ineficientes; el caballo en f6 podr\u00eda ser capturado y la jugada ...g6 debilitar\u00eda la gran diagonal (a1-h8).",
+                    "de": "Das ist der einzige richtige Zug, da die Bauernstruktur nicht geschw\u00e4cht wird und der Springer auf f8 nicht angegriffen werden kann. Andere M\u00f6glichkeiten sind ungen\u00fcgend: auf f6 wird der Springer geschlagen, andererseits schw\u00e4cht ...g die lange Diagonale.",
+                    "zh": "\u8fd9\u6837\u6765\u9632\u5fa1h7\u662f\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5373\u53ef\u4ee5\u4fdd\u6301\u5175\u5f62\u7ed3\u6784\uff0c\u9a6c\u5728\u6b64\u5904\u53c8\u4e0d\u4f1a\u53d7\u653b\u51fb\u3002\u5176\u4ed6\u5730\u8d70\u6cd5\u90fd\u8fbe\u4e0d\u5230\u6548\u679c\uff1af6\u5904\u7684\u9a6c\u4f1a\u88ab\u6349\uff0c...g6\u4f1a\u524a\u5f31\u5927\u659c\u7ebf\u3002",
+                    "pl": "Poprawna droga obrony h7, poniewa\u017c zachowuje struktur\u0119 pion\u00f3w i Skoczek nie mo\u017ce by\u0107 atakowany na tym polu. Inne alternatywy nie dzia\u0142aj\u0105: Skoczek na f6 mo\u017ce zosta\u0107 zbity, za\u015b ... g6 os\u0142abi\u0142oby d\u0142ug\u0105 przek\u0105tn\u0105.",
+                    "ru": "\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u0445\u043e\u0434 \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b h7, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043f\u0435\u0448\u0435\u0447\u043d\u0430\u044f \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430, \u0430 \u041a\u043e\u043d\u044c \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043d\u0430 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0435. \u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u043d\u0435\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b: \u041a\u043e\u043d\u044c \u043d\u0430 f6 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0432\u0437\u044f\u0442, \u0430 ...g6 \u043e\u0441\u043b\u0430\u0431\u0438\u0442 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "seguran\u00e7a",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/1b1nbppp\/p2pp1P1\/1p6\/3BP2P\/2N2P2\/PPPQ4\/1K1R1B1R b - - 0 15",
+        "moves": [
+            {
+                "move": "15... fxg6 ",
+                "comment": {
+                    "pt": "Este \u00e9 o lance que mant\u00e9m o rei preto o mais defendido poss\u00edvel. A jogada ...hxg6 seria um grave erro em vista de 2-h5.",
+                    "en": "That move maintains the black King best defended. ...hxg6 would be a great mistake due to 2-h5.",
+                    "es": "\u00c9sta es la jugada que mantiene el rey negro lo m\u00e1s defendido posible. La jugada ...hxg6 ser\u00eda un grave debido a 2-h5.",
+                    "de": "Das ist der Zug, der den K\u00f6nig am besten sch\u00fctzt. ...hxg6 w\u00e4re ein gravierender Fehler angesichts von 2. h5.",
+                    "zh": "\u8fd9\u662f\u4fdd\u62a4\u9ed1\u738b\u6700\u597d\u7684\u4e00\u6b65\u3002\u8d70...hxg6\u662f\u4e25\u91cd\u7684\u9519\u8bef\uff0c\u56e0\u4e3a2-h5\u3002",
+                    "pl": "Tym ruchem Kr\u00f3l jest najlepiej broniony. ... hxg6 by\u0142oby b\u0142\u0119dem przez 2. h5.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0442 \u0437\u0430\u0449\u0438\u0442\u0443 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0410 \u0445\u043e\u0434 ...hxg6 \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u0448\u0438\u0431\u043a\u043e\u0439 \u0438\u0437-\u0437\u0430 \u0438\u0433\u0440\u044b 2-h5."
+                }
+            },
+            {
+                "move": "   16. h5 g5 ",
+                "comment": {
+                    "pt": "Novamente evitando a abertura de linhas.",
+                    "en": "Preventing line opening again.",
+                    "es": "Evitando una vez m\u00e1s la apertura de l\u00edneas.",
+                    "de": "Vermeidet die \u00d6ffnung von Linien.",
+                    "zh": "\u963b\u6b62\u518d\u6b21\u5f00\u653e\u8def\u7ebf\u3002",
+                    "pl": "Powstrzymuj\u0105c ponowne otwarcie linii.",
+                    "ru": "\u041f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 \u043b\u0438\u043d\u0438\u0438."
+                }
+            },
+            {
+                "move": "   17. Bh3 e5 ",
+                "comment": {
+                    "pt": "E o rei das pretas esta seguro.",
+                    "en": "And the black King is safe.",
+                    "es": "Y el rey de las negras est\u00e1 seguro.",
+                    "de": "Die Lage des schwarzen K\u00f6nigs ist sicher.",
+                    "zh": "\u9ed1\u738b\u5b89\u5168\u4e86\u3002",
+                    "pl": "I czarny Kr\u00f3l jest bezpieczny.",
+                    "ru": "\u0418 \u0447\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

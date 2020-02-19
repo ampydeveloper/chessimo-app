@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/pp1b1pb1\/2rppnpp\/q7\/4P1PP\/1BN1QP2\/PPP1N3\/2KR3R w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g5 ",
+                "comment": {
+                    "pt": "Para for\u00e7ar a abertura de linhas contra o rei contr\u00e1rio.",
+                    "en": "In order to force line opening towards the King.",
+                    "es": "Para forzar la apertura de l\u00edneas contra el rey contrario.",
+                    "de": "Um die \u00d6ffnung von Linien auf den schwarzen K\u00f6nig zu zwingen.",
+                    "zh": "\u5f3a\u8feb\u7ed9\u9ed1\u738b\u5f00\u653e\u8def\u7ebf\u3002",
+                    "pl": "Aby wymusi\u0107 otwarcie linii prowadz\u0105cej do Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u044e \u043a \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u041a\u043e\u0440\u043e\u043b\u044e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/1b2ppb1\/q2p1np1\/2p3N1\/1p2P1P1\/nP1PB2P\/r1P1NQB1\/2R2RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qh4 ",
+                "comment": {
+                    "pt": "Para jogar Txf6 e penetrar com a dama, apoiada pelo cavalo, em h7.",
+                    "en": "In order to play Rxf6 and enter h7 with the Queen, supported by the Knight.",
+                    "es": "Para jugar Txf6 y penetrar con la dama en h7, apoyada por el caballo.",
+                    "de": "Um Txf6 nebst Eindringen der Dame auf h7 (mit der Unterst\u00fctzung vom Springer) zu spielen.",
+                    "zh": "\u5728\u9a6c\u7684\u652f\u6301\u4e0b\uff0c\u4e3a\u4e86\u4e0bRxf6\u8ba9\u540e\u4fb5\u5165h7\u3002",
+                    "pl": "Aby zagra\u0107 Wxf6 i wej\u015b\u0107 na h7 Hetmanem, wspomaganym przez Skoczka.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u044b\u0433\u0440\u0430\u0442\u044c Rxf6 \u0438 \u0437\u0430\u043d\u044f\u0442\u044c \u043f\u043e\u043b\u0435 h7 \u0424\u0435\u0440\u0437\u0435\u043c, \u043f\u0440\u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2r3k1\/pbr1q2p\/1p2pnp1\/3p4\/3P1P2\/1P1BR3\/PB1Q2PP\/5RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. f5 ",
+                "comment": {
+                    "pt": "Para abrir linhas de ataque contra o rei preto. A id\u00e9ia \u00e9 que as pretas joguem 1...gxf5 e permitam que as brancas ataquem atrav\u00e9s da coluna g, utilizando a torre de e3 e a dama.",
+                    "en": "In order to open lines for the attack against the black King. The idea is that Black plays 1...gxf5 and allows White to attack through the g-file with the e3-Rook and the Queen.",
+                    "es": "Para abrir l\u00edneas de ataque contra el rey negro. La idea es que las negras jueguen 1...gxf5 y permitan que las blancas ataquen a trav\u00e9s de la columna \"g\", utilizando la torre de e3 y la dama.",
+                    "de": "Um Linien bzw. Diagonalen auf den schwarzen K\u00f6nig zu \u00f6ffnen. Nach 1...gxf5 st\u00fcnde dem Angriff \u00fcber die g-Linie (mit der Dame und dem Turm auf e3) nichts im Wege.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u653b\u51fb\u9ed1\u738b\u7684\u8def\u7ebf\u3002\u76ee\u7684\u662f\u9ed1\u68cb\u4e0b1...gxf5\uff0c\u90a3\u4e48\u767d\u68cb\u53ef\u4ee5\u7528e3-\u8f66\u548c\u540e\u901a\u8fc7g-\u7ebf\u6beb\u65e0\u963b\u6321\u7684\u8fdb\u884c\u653b\u51fb\u3002",
+                    "pl": "Aby otworzy\u0107 linie dla ataku przeciwko czarnemu Kr\u00f3lowi. Ide\u0105 jest zagranie przez Czarne 1. ... gxf5 i praktyczne zezwolenie Bia\u0142ym na atak przez kolumn\u0119 g Wie\u017c\u0105 e3 i Hetmanem.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0418\u0434\u0435\u044f \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u0438\u0433\u0440\u0435 \u0427\u0435\u0440\u043d\u044b\u043c\u0438 1...gxf5, \u0447\u0442\u043e \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0411\u0435\u043b\u044b\u043c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u0435\u0437 g-\u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u041b\u0430\u0434\u044c\u0435\u0439 \u043d\u0430 e3 \u0438 \u0424\u0435\u0440\u0437\u0435\u043c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/1b2bppp\/ppq1pn2\/2pp4\/5P2\/1P1BP1N1\/PBPPQ1PP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nh5 ",
+                "comment": {
+                    "pt": "Os bispos brancos est\u00e3o bem posicionados para atacar o rei preto, que tem como principal defensor o cavalo de f6. Com esta jogada as brancas planejam eliminar este defensor e abrir linhas para os bispos e a dama.",
+                    "en": "The white Bishops are well positioned to attack the black King that has the f6-Knight as his main defender. With this move, White plans to eliminate this defender and open lines for its Bishop and Queen.",
+                    "es": "Los alfiles blancos est\u00e1n bien posicionados para atacar el rey negro, que tiene como principal defensor el caballo de f6. Con esta jugada las blancas planean eliminar este defensor y abrir l\u00edneas para los alfiles y la dama.",
+                    "de": "Beide wei\u00dfen L\u00e4ufer stehen zum Angriff auf den schwarzen K\u00f6nig bereit, dessen bester Verteidiger der Springer auf f6 ist. Mit diesem Zug plant Wei\u00df, diesen Verteidiger zu beseitigen und Linien bzw. Diagonale f\u00fcr den Angriff zu \u00f6ffnen.",
+                    "zh": "\u767d\u8c61\u7684\u4f4d\u7f6e\u5bf9\u4e8e\u653b\u51fb\u9ed1\u738b\u5f88\u6709\u5229\uff0c\u56e0\u4e3a\u6709f6-\u9a6c\u4f5c\u4e3a\u5b83\u5f3a\u5927\u7684\u540e\u76fe\u3002\u8d70\u8fd9\u4e00\u6b65\u767d\u68cb\u8ba1\u5212\u6d88\u706d\u6389\u8fd9\u4e2a\u540e\u76fe\uff0c\u4e3a\u5b83\u7684\u540e\u548c\u8c61\u5f00\u653e\u653b\u51fb\u8def\u7ebf\u3002",
+                    "pl": "Bia\u0142e Go\u0144ce s\u0105 dobrze ustawione do ataku na czarnego Kr\u00f3la posiadaj\u0105cego Skoczka f6 jako g\u0142\u00f3wnego obro\u0144c\u0119. Z tym ruchem Bia\u0142e planuj\u0105 wyeliminowanie go i otwarcie linii dla Go\u0144ca i Hetmana.",
+                    "ru": "\u0423 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0445\u043e\u0440\u043e\u0448\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0434\u043b\u044f \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u044f \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u041a\u043e\u043d\u044c \u043d\u0430 f6 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u043e\u0441\u043d\u043e\u0432\u043d\u0443\u044e \u0437\u0430\u0449\u0438\u0442\u043d\u0443\u044e \u0440\u043e\u043b\u044c. \u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u041a\u043e\u043d\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 \u0438 \u0424\u0435\u0440\u0437\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3qkb1r\/3r1p1p\/1p2pp2\/pP6\/P7\/4NQP1\/4PP1P\/2R2RK1 w k - 0 1",
+        "moves": [
+            {
+                "move": "1. Rfd1 ",
+                "comment": {
+                    "pt": "Para eliminar um dos principais defensores da posi\u00e7\u00e3o preta ( atorre em d7) e atacar atrav\u00e9s da coluna dama. A amea\u00e7a imediata \u00e9 Txd7. Note que um poss\u00edvel ataque ao longo da coluna c, por exemplo 1-Tc6 com a id\u00e9ia de Tfc1, n\u00e3o seria t\u00e3o efetivo devido a jogada ...Bc5, obstruindo a coluna.",
+                    "en": "In order to eliminate one of the main defenders of Black's position (d7-Rook) and attack through the Queen-file. The immediate threat is Rxd7. Note that a possible attack along the c-file wouldn't be very effective, as 1-Rc6 aiming Rfc1, for example, because ...Bc5 would obstruct this file.",
+                    "es": "Para eliminar uno de los principales defensores de la posici\u00f3n negra (la torre en d7) y atacar a trav\u00e9s de la columna dama. La amenaza inmediata es Txd7. Observe que un posible ataque a lo largo de la columna \"c\", por ejemplo 1-Tc6 con la idea de Tfc1, no ser\u00eda tan efetivo debido a jugada ...Ac5, que obstruye la columna.",
+                    "de": "Um einen der wichtigsten Verteidiger der schwarzen Stellung zu beseitigen (den Turm auf d7) und \u00fcber die d-Linie anzugreifen. Bemerken Sie, da\u00df ein Angriff \u00fcber die c-Linie, etwa 1. Tc6 nicht so stark w\u00e4re, da 1...Lc5 die c-Linie versperren w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u6d88\u706d\u6389\u4e3b\u8981\u5b88\u536b\uff08d7-\u8f66\uff09\uff0c\u5e76\u4eced-\u7ebf\u53d1\u8d77\u653b\u51fb\u3002\u76f4\u63a5\u5a01\u80c1\u662fRxd7\u3002\u6ce8\u610f\u6cbfc-\u7ebf\u7684\u653b\u51fb\u529b\u662f\u4e0d\u591f\u7684\uff0c\u8b6c\u5982\u8d701-Rc6\u76ee\u6807Rfc1\uff0c\u56e0\u4e3a...Bc5\u4f1a\u5835\u4f4fc-\u7ebf\u3002",
+                    "pl": "Aby wyeliminowa\u0107 g\u0142\u00f3wnego obro\u0144c\u0119 pozycji Czarnych (Wie\u017c\u0119 d7) i zaatakowa\u0107 przez kolumn\u0119 hetma\u0144sk\u0105. Natychmiastow\u0105 gro\u017ab\u0105 jest Wxd7. Zauwa\u017c, \u017ce mo\u017cliwo\u015b\u0107 ataku przez kolumn\u0119 c mo\u017ce by\u0107 niezbyt efektywne, jako, \u017ce 1. Wc6 przygotowuje Wfc1, dla przyk\u0142adu, poniewa\u017c ... Gc5 blokuje kolumn\u0119.",
+                    "ru": "\u0414\u043b\u044f \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u0427\u0435\u0440\u043d\u044b\u0445 (\u041b\u0430\u0434\u044c\u044f \u043d\u0430 d7) \u0438 \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u0447\u0435\u0440\u0435\u0437 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c. \u041d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0443\u0433\u0440\u043e\u0437\u0430 \u044d\u0442\u043e - Rxd7. \u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430\u044f \u0430\u0442\u0430\u043a\u0430 \u043f\u043e c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0439, \u0442\u0430\u043a \u043a\u0430\u043a 1-Rc6 \u0441 \u0446\u0435\u043b\u044c\u044e Rfc1, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0438\u0433\u0440\u0430 ...Bc5 \u0431\u0443\u0434\u0435\u0442 \u044d\u0442\u043e\u043c\u0443 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u043c\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

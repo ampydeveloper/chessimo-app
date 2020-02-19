@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqr1k1\/p1n2p1p\/1p1p2p1\/2pP4\/P2bP3\/2N4P\/1PQNB1P1\/R1B1RK2 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Qh4 ",
+                "comment": {
+                    "pt": "As pretas planejam um ataque contra o rei branco e aproximam sua pe\u00e7a de maior valor para auxiliar no ataque. Outra vantagem desta jogada \u00e9 que ela cont\u00e9m uma amea\u00e7a direta (mate em f2).",
+                    "en": "Black is planning to attack the white King; therefore it brings its most valuable piece closer to the attack. Another advantage of this move is that it represents a direct threat (mate on f2).",
+                    "es": "Las negras planean un ataque contra el rey blanco y acercan su pieza de mayor valor para ayudar en el ataque. Otra ventaja de esta jugada es que contiene una amenaza directa (mate en f2).",
+                    "de": "Schwarz plant einen Angriff auf den wei\u00dfen K\u00f6nig und bringt seine st\u00e4rkste Figur ins Spiel. Ein weiterer Vorteil dieses Zuges ist, da\u00df er eine direkte Drohung (Matt auf f2) mit sich bringt.",
+                    "zh": "\u9ed1\u68cb\u8ba1\u5212\u653b\u51fb\u767d\u738b\uff0c\u56e0\u6b64\u5b83\u5c06\u6700\u6709\u5389\u5bb3\u7684\u68cb\u5b50\u6295\u5165\u6218\u6597\u3002\u8fd9\u4e00\u6b65\u53e6\u5916\u7684\u4e00\u4e2a\u4f18\u52bf\u5728\u4e8e\u5b83\u4ea7\u751f\u4e86\u4e00\u4e2a\u76f4\u63a5\u7684\u5a01\u80c1\uff08\u5728f2\u903c\u548c\uff09\u3002",
+                    "pl": "Czarne planuj\u0105 atak na bia\u0142ego Kr\u00f3la; dlatego te\u017c sprowadzaj\u0105 najistotniejsz\u0105 figur\u0119 bli\u017cej akcji. Kolejn\u0105 zalet\u0105 tego ruchu to, \u017ce kreuje bezpo\u015brednie zagro\u017cenie (mat na f2).",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e \u043d\u0430\u043f\u0430\u0441\u0442\u044c \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f; \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u043d\u0438 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u0443\u044e\u0442 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438. \u0415\u0449\u0435 \u043e\u0434\u043d\u043e \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e \u043e\u043d \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0438\u0437 \u0441\u0435\u0431\u044f \u043f\u0440\u044f\u043c\u0443\u044e \u0443\u0433\u0440\u043e\u0437\u0443 (\u041c\u0410\u0422 \u0438\u0433\u0440\u043e\u0439 \u043d\u0430 f2)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b3k1\/ppq1rpp1\/2nbp3\/3pN2Q\/3P4\/2P5\/PP3PPP\/R1B1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Re3 ",
+                "comment": {
+                    "pt": "Para jogar Th3 e intensificar o ataque contra o rei preto. Em posi\u00e7\u00f5es de ataque ,quanto maior o n\u00famero de pe\u00e7as atacando, maiores as chances de obter sucesso.",
+                    "en": "In order to play Rh3 and intensify the attack against the black King. The more pieces involved in the attack, the bigger the chances of success.",
+                    "es": "Para jugar Th3 e intensificar el ataque contra el rey negro. En posiciones de ataque, cuanto mayor el n\u00famero de piezas atacando, mayores las chances de obter \u00e9xito.",
+                    "de": "Um Th3 zu spielen und damit den Angriff auf den schwarzen K\u00f6nig zu verst\u00e4rken. Die Erfolgschancen eines K\u00f6nigsangriffs sind desto gr\u00f6sser je mehr Figuren daran beteiligt sind.",
+                    "zh": "\u4e3a\u4e86\u4e0bRh3\uff0c\u589e\u5f3a\u653b\u51fb\u9ed1\u738b\u7684\u706b\u529b\u3002\u6740\u738b\u7684\u653b\u51fb\u4e2d\u6295\u5165\u7684\u68cb\u5b50\u8d8a\u591a\u83b7\u80dc\u7684\u673a\u4f1a\u5c31\u8d8a\u5927\u3002",
+                    "pl": "Aby zagra\u0107 Wh3 i uderzy\u0107 mocniej na czarnego Kr\u00f3la. Im wi\u0119cej figur uczestniczy w akcji, tym wi\u0119ksze szanse powodzenia.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Rh3 \u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0427\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0444\u0438\u0433\u0443\u0440 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0430 \u0430\u0442\u0430\u043a\u0435, \u0442\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0448\u0430\u043d\u0441\u043e\u0432 \u043d\u0430 \u0443\u0441\u043f\u0435\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbq1rk1\/p1p3pp\/1p1p4\/3P2b1\/2P1BB2\/6P1\/PP5P\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qh5 ",
+                "comment": {
+                    "pt": "Para atacar o rei preto as brancas trazem sua pe\u00e7a de maior valor e ainda criam amea\u00e7as contra o pe\u00e3o de h7 e o bispo em g5.",
+                    "en": "In order to attack the black King, White brings in its most valuable piece and creates threats against the h7-pawn and the g5-Bishop.",
+                    "es": "Para atacar el rey negro las blancas traen su pieza de mayor valor y adem\u00e1s crean amenazas contra el pe\u00f3n de h7 y el alfil en g5.",
+                    "de": "Wei\u00df bringt seine st\u00e4rkste Figur ins Spiel und droht dazu noch den L\u00e4ufer auf g5 und den Bauern auf h7.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fb\u9ed1\u738b\uff0c\u767d\u65b9\u5c06\u5b83\u6700\u5389\u5bb3\u7684\u68cb\u5b50\u6295\u5165\u6218\u6597\uff0c\u5e76\u4e14\u7ed9h7-\u5175\u548cg5-\u8c61\u5236\u9020\u5a01\u80c1\u3002",
+                    "pl": "Aby zaatakowa\u0107 czarnego Kr\u00f3la. Bia\u0142e sprowadzaj\u0105 najsilniejsz\u0105 figur\u0119 i tworz\u0105 gro\u017ab\u0119 przeciwko pionowi h7 oraz Go\u0144cowi g5.",
+                    "ru": "\u0414\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0431\u0435\u043b\u044b\u0435 \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u0443\u044e\u0442 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u043f\u0435\u0448\u043a\u0435 \u043d\u0430 h7 \u0438 \u0421\u043b\u043e\u043d\u0443 \u043d\u0430 g5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp1npbp\/3pn1p1\/4p3\/4P2P\/2PPNN2\/PPB2PP1\/R1BQK2R w KQ - 0 1",
+        "moves": [
+            {
+                "move": "1. h5 ",
+                "comment": {
+                    "pt": "Aproveitando a oportunidade para abrir a coluna h. O plano das brancas , ap\u00f3s a abertura desta coluna ser\u00e1 desenvolver as pe\u00e7as do flanco dama, rocar grande e atacar o rei preto.",
+                    "en": "Taking the opportunity to open the h-file. White's plan after opening this file is to develop the pieces on the queenside, queencastle and attack the black King.",
+                    "es": "Aprovechando la oportunidade para abrir la columna \"h\". El plan de las blancas, fespu\u00e9s de la apertura de esta columna ser\u00e1 desarrollar las piezas del flanco dama, enrocar largo y atacar el rey negro.",
+                    "de": "Nutzt die Gelegenheit aus, die h-Linie zu \u00f6ffnen. Der wei\u00dfe Plan besteht darin, nach \u00d6ffnung der h-Linie die Figuren am Damenfl\u00fcgel zu entwickeln, lang zu rochieren und den schwarzen K\u00f6nig anzugreifen.",
+                    "zh": "\u5229\u7528\u8fd9\u4e2a\u673a\u4f1a\u5f00\u653eh-\u7ebf\u3002\u767d\u68cb\u65b9\u5728\u5f00\u653e\u8fd9\u6761\u7ebf\u4e4b\u540e\u51fa\u52a8\u540e\u7ffc\u7684\u5b50\u529b\uff0c\u8fdb\u884c\u540e\u7ffc\u6613\u4f4d\u5e76\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Wykorzystanie okazji do otwarcia kolumny h. Planem Bia\u0142ych po otwarciu tej kolumny jest wyprowadzenie figur na skrzyd\u0142o hetma\u0144skie, d\u0142uga roszada i atak czarnego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c. \u0421\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435\u043c \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u044d\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0444\u0438\u0433\u0443\u0440 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0434\u043b\u0438\u043d\u043d\u0430\u044f \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0438 \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4r2\/pb2bp1k\/1pq1p3\/2pp4\/5PQ1\/1P2P3\/P1PP2PP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rf3 ",
+                "comment": {
+                    "pt": "Incorporando a torre ao ataque e decidindo a partida gra\u00e7as a amea\u00e7a de Th3.",
+                    "en": "Incorporating the Rook in the attack and deciding the game thanks to the Rh3 threat.",
+                    "es": "Incorporando la torre al ataque y decidiendo la partida gracias a la amenaza de Th3.",
+                    "de": "Bringt den Turm ins Spiel und entscheidet die Partie mit der Drohung Th3.",
+                    "zh": "\u5c06\u8f66\u6295\u5165\u6218\u6597\uff0c\u7528Rh3\u5a01\u80c1\u51b3\u5b9a\u68cb\u5c40\u80dc\u8d1f\u3002",
+                    "pl": "Wprowadzenie Wie\u017cy do ataku i zako\u0144czenie gry poprzez gro\u017ab\u0119 Wh3.",
+                    "ru": "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u043a \u0430\u0442\u0430\u043a\u0435 \u041b\u0430\u0434\u044c\u044e, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0443\u0433\u0440\u043e\u0437\u0435 \u0434\u043b\u044f Rh3."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

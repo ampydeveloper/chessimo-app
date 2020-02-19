@@ -1,0 +1,58 @@
+[
+    {
+        "title": "",
+        "white": "Alekhine",
+        "white_sort": "",
+        "black": "Variante das trocas.",
+        "date": "",
+        "event": {
+            "en": "Exchange variation",
+            "de": "Abtauschvariante",
+            "es": "Variante del Cambio",
+            "pt": "Variante das trocas",
+            "zh": "\u5151\u6362\u53d8\u4f8b",
+            "pl": "Wariant wymiany",
+            "ru": "\u0420\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 ",
+                "comment": {
+                    "pt": "Na variante das trocas, as brancas optam por acelerar o desenvolvimento e manter uma leve superioridade no centro.",
+                    "en": "In the exchange variation, White chooses to accelerate development and maintain a slight advantage in the center.",
+                    "es": "En la variante del cambio, las blancas optan por acelerar el desarrollo y mantener una leve superioridad en el centro.",
+                    "de": "In der Abtauschvariante beschleunigt Wei\u00df seine Entwicklung und beh\u00e4lt einen leichten Vorteil im Zentrum.",
+                    "zh": "\u5728\u5151\u6362\u53d8\u4f8b\u4e2d\uff0c\u767d\u65b9\u9009\u62e9\u52a0\u901f\u51fa\u5b50\u5e76\u4e14\u4fdd\u6301\u4e2d\u5fc3\u5fae\u5f31\u7684\u4f18\u52bf\u3002",
+                    "pl": "W wariancie wymiany Bia\u0142e wybieraj\u0105 przyspieszenie rozwoju i utrzymuj\u0105 niewielk\u0105 przewag\u0119 w centrum.",
+                    "ru": "\u0412 \u0440\u0430\u0437\u043c\u0435\u043d\u043d\u043e\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435, \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u044e\u0442 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   exd6 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel ...cxd6 , seguido de ...g6 e ...Bg7.",
+                    "en": "...cxd6, followed by ... g6 and ...Bg7 is also possible.",
+                    "es": "Tambi\u00e9n es posible ...cxd6, seguido de . ..g6 y ...Ag7.",
+                    "de": "...cxd6 nebst ...g6 und ...Lg7 ist auch m\u00f6glich.",
+                    "zh": "\u8d70...cxd6\uff0c\u8ddf... g6\u548c...Bg7 \u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "... cxd6 kontynuowane przez ... g6 i ... Gg7 jest r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "\u041d\u0430 ...cxd6, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...g6 \u0438 ...Bg7, \u0447\u0442\u043e \u0442\u043e\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e."
+                }
+            },
+            {
+                "move": "   6. Nc3 Be7 7. Nf3 O-O 8. Be2 Nc6 9. O-O Bf6 10. Be3 Bf5 ",
+                "comment": {
+                    "pt": "Com pequena vantagem das brancas devido a vantagem de espa\u00e7o.",
+                    "en": "With a slight advantage of the white side due to space advantage.",
+                    "es": "Con peque\u00f1a ventaja de las blancas debido a la ventaja de espacio.",
+                    "de": "Mit leichtem Vorteil f\u00fcr Wei\u00df aufgrund des Raumvorteils.",
+                    "zh": "\u767d\u65b9\u56e0\u4e3a\u7a7a\u95f4\u4f18\u52bf\u5360\u5fae\u5f31\u4f18\u52bf\u3002",
+                    "pl": "Z ma\u0142\u0105 przewag\u0105 bia\u0142ej strony ze wzgl\u0119du na wi\u0119cej przestrzeni.",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

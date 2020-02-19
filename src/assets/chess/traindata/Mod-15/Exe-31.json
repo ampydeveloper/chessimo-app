@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/1p2bppp\/p1ppnn2\/8\/2P1P3\/1PN2PB1\/P3N1PP\/R2Q1R1K b - - 0 15",
+        "moves": [
+            {
+                "move": "15... b5 ",
+                "comment": {
+                    "pt": "Para ganhar espa\u00e7o na ala da dama.",
+                    "en": "In order to gain space on the queenside.",
+                    "de": "Um Raum am Damenfl\u00fcgel zu gewinnen.",
+                    "es": "Para ganar espacio en el ala dama.",
+                    "zh": "\u4e3a\u4e86\u5728\u540e\u7ffc\u8d62\u5f97\u7a7a\u95f4\u3002",
+                    "pl": "W celu zdobycia miejsca na skrzydle hetma\u0144skim.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(46)",
+            "zh": "Event 1"
+        },
+        "fen": "4r1k1\/5p2\/2R3p1\/p2p2Qn\/3q4\/1P3PP1\/4P1K1\/5B2 b - - 0 40",
+        "moves": [
+            {
+                "move": "40... Ng7 ",
+                "comment": {
+                    "pt": "Manobrando o cavalo para chegar a e3 (via f5) e caso as brancas joguem agora g4, ent\u00e3o seguiria ...Ce6-f4.",
+                    "en": "Maneuvering the Knight to reach e3 (through f5). If White now plays g4, then ...Ne6-f4 will follow.",
+                    "de": "Versucht, mit dem Springer das Feld e3 zu erreichen. Auf g4 folgt Se6-f4.",
+                    "es": "Maniobrando el caballo para llegar a e3 (v\u00eda f5) y, si las blancas juegan ahora g4, entonces seguir\u00eda ...Ce6-f4.",
+                    "zh": "\u79fb\u52a8\u9a6c\u5230\u8fbee3\uff08\u901a\u8fc7f5\uff09\u3002\u5982\u679c\u767d\u68cb\u5148\u5728\u4e0bg4\uff0c\u90a3\u4e48\u4f1a\u7d27\u8ddf...Ne6-f4\u3002",
+                    "pl": "Manewruj\u0105c Skoczkiem, aby osi\u0105gn\u0105\u0107 e3 (przez f5). Je\u015bli Bia\u0142e zagraj\u0105 teraz g4, nast\u0105pi ... Se6-f4.",
+                    "ru": "\u041c\u0430\u043d\u0435\u0432\u0440\u0438\u0440\u0443\u0435\u0442 \u041a\u043e\u043d\u0435\u043c, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c e3 (\u0447\u0435\u0440\u0435\u0437 f5). \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0438\u0433\u0440\u0430\u044e\u0442 g4, \u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...Ne6-f4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(73)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp2bppp\/3p1n2\/4pP2\/2q1P3\/2N1B3\/PPP3PP\/R3QRK1 w - - 0 14",
+        "moves": [
+            {
+                "move": "14. Bg5 ",
+                "comment": {
+                    "pt": "Para trocar em f6 e conquistar definitivamente a casa d5 para o cavalo.",
+                    "en": "In order to exchange on f6 and definitely conquer d5 for the Knight.",
+                    "de": "Um auf f6 abzutauschen und Feld das d5 f\u00fcr den Springer endg\u00fcltig zu erobern.",
+                    "es": "Para cambiar en f6 y conquistar definitivamente la casilla d5 para el caballo.",
+                    "zh": "\u4e3a\u4e86\u5728f6\u4e0a\u5151\u5b50\u5e76\u4e14\u4e3a\u9a6c\u5f7b\u5e95\u593a\u53d6d5\u3002",
+                    "pl": "W celu wymiany na f6 i ostatecznego zdobycia d5 dla Skoczka.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u043d\u0430 f6 \u0438, \u0431\u0435\u0437\u0443\u0441\u043b\u043e\u0432\u043d\u043e, \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c \u043f\u043e\u043b\u0435 d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(110)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3rn1\/1p3p1k\/p2p3p\/P1pPq1p1\/4P3\/5R1P\/1P3PP1\/1BQbR1K1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Rf5 ",
+                "comment": {
+                    "pt": "Importante jogada intermediaria para expulsar a dama preta, jogar e5 e desbloquear a diagonal b1-h7.",
+                    "en": "Important intermediate move in order to chase away the Queen and unlock the b1-h7 diagonal.",
+                    "de": "Wichtiger Zwischenzug zwecks Vertreibung der schwarzen Dame. Danach wird e5 gespielt, um die Diagonale b1-h7 zu r\u00e4umen.",
+                    "es": "Importante jugada intermedia para expulsar la dama negra, jugar e5 y desbloquear la diagonal b1-h7.",
+                    "zh": "\u91cd\u8981\u7684\u7b49\u7740\u4e3a\u4e86\u5c06\u540e\u8d76\u8d70\u5e76\u4e14\u91cd\u65b0\u5f00\u653eb1-h7\u659c\u7ebf\u3002",
+                    "pl": "Wa\u017cny po\u015bredni ruch w celu przegonienia Hetmana i odblokowania przek\u0105tnej b1-h7.",
+                    "ru": "\u0412\u0430\u0436\u043d\u044b\u0439 \u043f\u0440\u043e\u043c\u0435\u0436\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u0424\u0435\u0440\u0437\u044f \u0438 \u0440\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c b1-h7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(47)",
+            "zh": "Event 1"
+        },
+        "fen": "r1r3k1\/p2bp1bp\/3p1np1\/q7\/2pNP1P1\/2N1BP2\/PPPQ4\/2KR3R w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Kb1 ",
+                "comment": {
+                    "pt": "O ataque branco no flanco rei \u00e9 forte, mas n\u00e3o h\u00e1 um caminho para vencer imediatamente , portanto \u00e9 necessario defender o pr\u00f3prio rei primeiro e esta jogada tem a id\u00e9ia de seguir com Ra1 e deixar a casa b1 para uma das torres defender o vulner\u00e1vel pe\u00e3o em b2.",
+                    "en": "The white attack on the kingside is strong but there is no way to win immediately, therefore, it's necessary to defend the King and this move intends to continue with Ka1 and leave b1 for one of the Rooks to defend the vulnerable b2-pawn.",
+                    "de": "Wei\u00df hat einen starken Angriff am K\u00f6nigsfl\u00fcgel, einen direkten und schnellen Weg zum Sieg gibt es aber im Moment nicht. Daher ist es notwendig, zuerst den eigenen K\u00f6nig zu verteidigen. Die Idee des Textzuges ist, Ka1 zu spielen und das Feld b1 zu r\u00e4umen, damit einer der T\u00fcrme den verwundbaren Bauern auf b2 verteidigen kann.",
+                    "es": "El ataque blanco en el flanco rey es fuerte, pero no hay un camino para vencer inmediatamente, por lo tanto es necesario defender primero el propio rey. Esta jugada tiene la idea de jugar Ra1 y dejar la casilla b1 para que una de las torres defiend el vulnerable pe\u00f3n en b2.",
+                    "zh": "\u767d\u68cb\u5728\u738b\u7ffc\u7684\u653b\u51fb\u5f88\u731b\uff0c\u4f46\u662f\u76ee\u524d\u8fd8\u4e0d\u80fd\u7acb\u5373\u53d6\u80dc\u3002\u56e0\u6b64\u5fc5\u987b\u9996\u5148\u52a0\u5f3a\u5bf9\u738b\u7684\u9632\u5fa1\u3002\u8d70\u8fd9\u4e00\u6b65\u5f97\u76ee\u7684\u662f\u4e3a\u4e86\u80fd\u7ee7\u7eed\u4e0bKa1\u5e76\u4e14\u6e05\u7a7ab1\u4fbf\u4e8e\u8f66\u6765\u9632\u5fa1\u5bb9\u6613\u53d7\u5230\u653b\u51fb\u7684b2-\u5175\u3002",
+                    "pl": "Atak bia\u0142ych na skrzyd\u0142o kr\u00f3lewskie jest silny, ale nie ma sposobu na szybk\u0105 wygran\u0105, dlatego te\u017c konieczna jest obrona Kr\u00f3la, za\u015b ten ruch zamierza kontynuowa\u0107 przez Ka1, czym opuszcza pola b1 dla jednej z Wie\u017c, aby broni\u0142a wra\u017cliwego na atak piona b2.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0449\u043d\u043e \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043d\u043e \u0432 \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438, \u0431\u044b\u0441\u0442\u0440\u043e \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Ka1 \u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c b1 \u0434\u043b\u044f \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u041b\u0430\u0434\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0438\u0442 \u0443\u044f\u0437\u0432\u0438\u043c\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 b2."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

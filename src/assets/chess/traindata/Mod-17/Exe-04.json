@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Gambito do rei",
+        "white_sort": "",
+        "black": "Contragambito Falkber.",
+        "date": "",
+        "event": {
+            "en": "Falkber coutergambit",
+            "de": "Falkbeer Gegengambit",
+            "es": "Contragambito Falkber",
+            "pt": "Contragambito Falkber",
+            "zh": "\u4f5b\u514b\u6bd4\u5c14\u53cd\u5f03\u5175",
+            "pl": "Kontrgambit Falkbera",
+            "ru": "\u041a\u043e\u043d\u0442\u0440\u0433\u0430\u043c\u0431\u0438\u0442 \u0424\u0430\u043b\u044c\u043a\u0431\u0435\u0435\u0440\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. f4 d5 ",
+                "comment": {
+                    "pt": "As pretas abrem linhas para suas pe\u00e7as, procurando aproveitar a posi\u00e7\u00e3o mais vulner\u00e1vel do rei branco. Em nossa base, as partidas 3, 17, 21, 22, 23 e 29 , tratam desta variante.",
+                    "en": "Black opens lines for its pieces and tries to take advantage of the vulnerable position of the white King. In our database the games 3, 17, 21, 22, 23 and 29 address this variation.",
+                    "es": "Las negras abren l\u00edneas para sus piezas, tratando de aprovechar la posici\u00f3n un tanto vulnerable del rey blanco. En nuestra base, las partidas 3, 17, 21, 22, 23 y 29 tratan esta variante.",
+                    "de": "Schwarz \u00f6ffnet Linien f\u00fcr seine Figuren und versucht, die verwundbare Stellung vom wei\u00dfen K\u00f6nig auszunutzen. Partien 3, 17, 21, 22, 23 und 29 unserer Partiendatenbank behandeln diese Variante.",
+                    "zh": "\u9ed1\u65b9\u4e3a\u5b83\u7684\u68cb\u5b50\u5f00\u653e\u7ebf\u8def\u5e76\u4f01\u56fe\u5229\u7528\u767d\u738b\u6613\u53d7\u653b\u51fb\u7684\u4e0d\u5229\u4f4d\u7f6e\u3002\u5728\u6211\u4eec\u7684\u68cb\u5e93\u4e2d\u68cb\u5c403\u300117\u300121\u300122\u300123\u548c29\u90fd\u63a2\u8ba8\u4e86\u8fd9\u79cd\u53d8\u4f8b\u3002",
+                    "pl": "Czarne otwieraj\u0105 linie dla swoich figur i pr\u00f3buj\u0105 wykorzysta\u0107 s\u0142abo\u015b\u0107 pozycji bia\u0142ego Kr\u00f3la. W naszym archiwum gry 3, 17, 21, 22, 23 i 29 obrazuj\u0105 takie przypadki.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440 \u0438 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c\u044e \u0411\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f. \u0412 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u0435 \u0438\u0433\u0440 \u044d\u0442\u043e \u0438\u0433\u0440\u044b 3, 17, 21, 22, 23 \u0438 29."
+                }
+            },
+            {
+                "move": "   3. exd5 ",
+                "comment": {
+                    "pt": "3-fxe5 Dh4.",
+                    "en": "3-fxe5 Qh4.",
+                    "es": "3-fxe5 Dh4.",
+                    "de": "3-fxe5 Dh4.",
+                    "zh": "3-fxe5 Qh4\u3002",
+                    "pl": "3. fxe5 Hh4.",
+                    "ru": "3-fxe5 Qh4."
+                }
+            },
+            {
+                "move": "   e4 4. Nc3 ",
+                "comment": {
+                    "pt": "4-d3 Cf6 5-Cd2 \u00e9 a variante mais moderna (partida 23).",
+                    "en": "4-d3 Nf6 5-Nd2 is the most modern variation (game 23).",
+                    "es": "4-d3 Cf6 5-Cd2 es la variante m\u00e1s moderna (partida 23).",
+                    "de": "4-d3 Sf6 5-Sd2 ist die modernste Variante (Partie 23).",
+                    "zh": "4-d3 Nf6 5-Nd2\u662f\u6700\u73b0\u4ee3\u7684\u53d8\u4f8b\uff08\u68cb\u5c4023\uff09\u3002",
+                    "pl": "4. d3 Sf6 5. Sd2 to najbardziej nowoczesny wariant (gra 23).",
+                    "ru": "4-d3 Nf6 5-Nd2 \u043b\u0443\u0447\u0448\u0430\u044f \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f (\u0438\u0433\u0440\u0430 23)."
+                }
+            },
+            {
+                "move": "   Nf6 5. d3 Bb4 6. Bd2 e3 ",
+                "comment": {
+                    "pt": "Ex celente jogada, sacrificando mais um pe\u00e3o em troca dodesenvolvimento e abertura de linhas.",
+                    "en": "Excellent move, sacrificing one more pawn in exchange for development and line opening.",
+                    "es": "Excelente jugada, sacrificando otro pe\u00f3n m\u00e1s a cambio de desarrollo y de apertura de l\u00edneas.",
+                    "de": "Ausgezeichneter Zug, wodurch ein weiterer Bauer f\u00fcr Entwicklung und Linien\u00f6ffnung geopfert wird.",
+                    "zh": "\u7cbe\u5f69\u4e00\u7740\uff0c\u5f03\u53e6\u5916\u4e00\u4e2a\u5175\u6765\u5b9e\u73b0\u51fa\u5b50\u5e76\u5f00\u653e\u7ebf\u8def\u3002",
+                    "pl": "Wspania\u0142y ruch, po\u015bwi\u0119ca kolejnego piona w zamian za rozw\u00f3j figur i otwarcie linii.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434, \u0436\u0435\u0440\u0442\u0432\u0430 \u043f\u0435\u0448\u043a\u043e\u0439 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f \u043b\u0438\u043d\u0438\u0438."
+                }
+            },
+            {
+                "move": "   7. Bxe3 O-O 8. Bd2 Bxc3 9. bxc3 Re8+ ",
+                "comment": {
+                    "pt": "As pretas t\u00eam excelentes perspectivas de ataque e o brilhante final desta partida pode ser visto na partida 3 de nossa base.",
+                    "en": "Black has excellent attack prospective and the brilliant ending of this game can be see in game 3 of our database.",
+                    "es": "Las negras tienen excelentes perspectivas de ataque y el brillante final de esta partida puede ser visto en la partida 3 de nuestra base.",
+                    "de": "Schwarz hat ausgezeichnete Angriffschancen. Partie 3 unserer Partiendatenbank zeigt die gl\u00e4nzende Spielf\u00fchrung von Schwarz.",
+                    "zh": "\u9ed1\u65b9\u62e5\u6709\u6781\u4f73\u7684\u8fdb\u653b\u673a\u4f1a\u3002\u8fd9\u4e00\u5c40\u7684\u7cbe\u5f69\u8fc7\u7a0b\u4f1a\u5728\u68cb\u5e93\u4e2d\u68cb\u5c403\u4e2d\u770b\u5230\u3002",
+                    "pl": "Czarne posiadaj\u0105 znakomite perspektywy ataku. W grze numer 3 w naszym archiwum mo\u017cna zobaczy\u0107 doskona\u0142\u0105 ko\u0144c\u00f3wk\u0119 tej partii.",
+                    "ru": "\u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u043e\u0442\u043b\u0438\u0447\u043d\u0430\u044f \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0430 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0438 \u044d\u043d\u0434\u0448\u043f\u0438\u043b\u044f \u0432 \u044d\u0442\u043e\u0439 \u0438\u0433\u0440\u0435, \u0447\u0442\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 3 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

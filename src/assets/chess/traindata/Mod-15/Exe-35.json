@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(40)",
+            "zh": "Event 1"
+        },
+        "fen": "R4nrk\/2p1q1r1\/3b4\/3Pp3\/4Pppp\/3N1P2\/3N1RPP\/3Q3K w - - 0 32",
+        "moves": [
+            {
+                "move": "32. fxg4 ",
+                "comment": {
+                    "pt": "Para liberar a casa f3 para o cavalo e desta forma pressionar e5 e h4.",
+                    "en": "In order to liberate f3 for the Knight and by these means put pressure on e5 and h4.",
+                    "de": "R\u00e4umt das Feld f3 f\u00fcr den Springer, damit er Druck auf e5 bzw. h4 aus\u00fcben kann.",
+                    "es": "Para liberar la casilla f3 para el caballo y presionar de esta forma sobre e5 y h4.",
+                    "zh": "\u4e3a\u4e86\u7ed9\u9a6c\u6e05\u7a7af3\uff0c\u5e76\u4ee5\u6b64\u7ed9e5\u548ch4\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "W celu uwolnienia f3 dla Skoczka i przez to wywarcie presji na e5 oraz h4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043f\u043e\u043b\u0435 f3 \u0434\u043b\u044f \u041a\u043e\u043d\u044f, \u0441 \u0446\u0435\u043b\u044c\u044e \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0438\u043c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 e5 \u0438 h4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(61)",
+            "zh": "Event 1"
+        },
+        "fen": "1r6\/Rb3pk1\/3p2p1\/1p1Pp1n1\/1Pp1PqP1\/2P1NP2\/5QB1\/5K2 b - - 0 37",
+        "moves": [
+            {
+                "move": "37... Ra8 ",
+                "comment": {
+                    "pt": "Aproveitando o momento t\u00e1tico para trocar a pe\u00e7a mais ativa do advers\u00e1rio.",
+                    "en": "Taking advantage of the tactical moment to trade White's only active piece.",
+                    "de": "Nutzt die taktische Gegebenheit der Stellung aus, um die aktivste Figur des Gegners abzutauschen.",
+                    "es": "Aprovechando el momento t\u00e1ctico para cambiar la pieza m\u00e1s activa del adversario.",
+                    "zh": "\u5229\u7528\u6218\u672f\u65f6\u673a\u6765\u5151\u6362\u6389\u767d\u68cb\u552f\u4e00\u6d3b\u8dc3\u7684\u4e00\u4e2a\u68cb\u5b50\u3002",
+                    "pl": "Wykorzystanie taktycznego momentu do wymiany jedynej aktywnej figury Bia\u0142ych.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043c\u043e\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0442\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u043d\u0430 \u0430\u043a\u0442\u0438\u0432\u043d\u0443\u044e \u0444\u0438\u0433\u0443\u0440\u0443 \u0411\u0435\u043b\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(16)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1r1k1\/1p1n1pbp\/1qp3p1\/2n5\/1PP2P2\/2N1B2P\/1RNQ2B1\/4R1K1 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Rxe3 ",
+                "comment": {
+                    "pt": "Eliminando o importante bispo das casas pretas do branco. O dom\u00ednio da diagonal a7-g1 e a posi\u00e7\u00e3o aberta do rei branco s\u00e3o compensa\u00e7\u00f5es suficientes pela perda da qualidade.",
+                    "en": "Eliminating the important white dark-squared Bishop. The dominance of the a7-g1 diagonal and the open position of the white King are sufficient compensations for the loss of quality.",
+                    "de": "Beseitigt den wichtigen schwarzfeldrigen L\u00e4ufer von Wei\u00df. Die Kontrolle der Diagonale a7-g1 sowie die offene Stellung vom wei\u00dfen K\u00f6nig sind gen\u00fcgende Kompensation f\u00fcr die Qualit\u00e4t.",
+                    "es": "Eliminando el importante alfil de las casillas negras del blanco. El dominio de la diagonal a7-g1 y la posici\u00f3n abierta del rey blanco son compensaciones suficientes por la p\u00e9rdida de la calidad.",
+                    "zh": "\u6d88\u706d\u8fd9\u4e2a\u91cd\u8981\u7684\u767d\u9ed1\u683c\u8c61\u3002\u5bf9\u4e8ea7-g1\u659c\u7ebf\u7684\u7edf\u6cbb\u548c\u767d\u738b\u5f00\u653e\u7684\u4f4d\u7f6e\u5df2\u7ecf\u5145\u5206\u8865\u507f\u4e86\u5b50\u529b\u7684\u4e22\u5931\u3002",
+                    "pl": "Eliminacja wa\u017cnego ciemnopolowego Go\u0144ca bia\u0142ych. Dominacja nad przek\u0105tn\u0105 a7-g1 i otwarta pozycja bia\u0142ego Kr\u00f3la jest wystarczaj\u0105c\u0105 kompensacj\u0105 straty jako\u015bci.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0446\u0435\u043d\u043d\u043e\u0433\u043e \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0431\u0435\u043b\u044b\u0445. \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 a7-g1 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0447\u0442\u043e \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u0443\u0435\u0442 \u0432 \u043f\u043e\u0442\u0435\u0440\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(52)",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/1pn2qb1\/pN1p2pp\/P1pP1p1n\/2N5\/3Q4\/1PPB1PPP\/4R1K1 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. b4 ",
+                "comment": {
+                    "pt": "Praticamente for\u00e7ando a troca dos pe\u00f5es e intensificando a press\u00e3o em d6.",
+                    "en": "Practically, forcing the pawn exchange and intensifying the pressure on d6.",
+                    "de": "Erzwingt praktisch den Abtausch der Bauern und erh\u00f6ht den Druck auf d6.",
+                    "es": "Forzando pr\u00e1cticamente el cambio de los peones e intensificando la presi\u00f3n sobre d6.",
+                    "zh": "\u4e8b\u5b9e\u4e0a\u5f3a\u5151\u5175\u5e76\u4e14\u589e\u5f3a\u4e86d6\u5904\u7684\u538b\u529b\u3002",
+                    "pl": "Praktycznie wymusza wymian\u0119 pion\u00f3w i zwi\u0119kszenie presji na d6.",
+                    "ru": "\u0417\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0438\u0434\u0442\u0438 \u043d\u0430 \u0440\u0430\u0437\u043c\u0435\u043d \u043f\u0435\u0448\u043a\u0430\u043c\u0438 \u0438 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435  \u043d\u0430 d6."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(21)",
+            "zh": "Event 1"
+        },
+        "fen": "rrb3k1\/5pp1\/pp1q2n1\/2pPp2p\/P3P3\/2PBBPP1\/4Q2P\/R2R2K1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. Qf2 ",
+                "comment": {
+                    "pt": "Preparando o avan\u00e7o do pe\u00e3o de f e ao mesmo tempo evitando o avan\u00e7o dos pe\u00f5es advers\u00e1rios na ala da dama (...b5) , devido a press\u00e3o sobre o ponto c5.",
+                    "en": "Preparing the advance of the f-pawn and, at the same time, hindering the advance of enemy pawns on the queenside (...b5), due to the pressure on c5.",
+                    "de": "Bereitet den Hebel f4 vor und verhindert wegen des Druckes auf c5 den Vormarsch der gegnerischen Bauern am Damenfl\u00fcgel (...b5)",
+                    "es": "Preparando el avance del pe\u00f3n de f y al mismo tiempo evitando el avance de los peones adversarios en el ala dama (...b5) , debido a la presi\u00f3n sobre el punto c5.",
+                    "zh": "\u51c6\u5907\u524d\u8fdbf-\u5175\uff0c\u540c\u65f6\u9274\u4e8ec5\u5904\u7684\u538b\u529b\u963b\u6b62\u540e\u7ffc\uff08...b5\uff09\u654c\u5175\u7684\u524d\u8fdb\u3002",
+                    "pl": "Przygotowanie marszu piona f i w tym samym czasie utrudnianie marszu wrogich pion\u00f3w na skrzydle hetma\u0144skim (... b5) z powodu presji na c5.",
+                    "ru": "\u041f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 f-\u043f\u0435\u0448\u043a\u0438 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044e \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0445 \u043f\u0435\u0448\u0435\u043a \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (...b5), \u0438\u0437-\u0437\u0430 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 c5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "title": "",
+        "white": "Abertura escocesa",
+        "white_sort": "",
+        "black": "Variante ...Bc5",
+        "date": "",
+        "event": {
+            "en": "Variation ...Bc5 variation",
+            "de": "Variante mit ...Lc5",
+            "es": "Variante ...Ac5",
+            "pt": "Variante ...Bc5",
+            "zh": "...Bc5\u53d8\u4f8b",
+            "pl": "Wariant ... Gc5",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 ...Bc5"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. d4 ",
+                "comment": {
+                    "pt": "As brancas ocupam o centro e abrem linhas de desenvolvimento para as pe\u00e7as do flanco dama, de forma semelhante ao que fazem contra a defesa siciliana.",
+                    "en": "White occupies the center and opens development lines for queenside pieces similar to what it does against the Sicilian Defense.",
+                    "es": "Las blancas ocupan el centro y abren l\u00edneas de desarrollo para las piezas del flanco dama, de forma semejante a lo que hacen contra la defensa siciliana.",
+                    "de": "Wei\u00df besetzt das Zentrum und \u00f6ffnet Linien f\u00fcr die Entwicklung der Figuren am Damenfl\u00fcgel in einer \u00e4hnlichen Form wie in der Sizilianischen Verteidigung.",
+                    "zh": "\u767d\u65b9\u5360\u636e\u4e2d\u5fc3\u5e76\u4e14\u4e3a\u540e\u7ffc\u51fa\u5b50\u6253\u5f00\u7ebf\u8def\uff0c\u8ddf\u897f\u897f\u91cc\u9632\u5fa1\u76f8\u7c7b\u4f3c\u3002",
+                    "pl": "Bia\u0142e okupuj\u0105 centrum i otwieraj\u0105 linie dla wyprowadzenia figur ze skrzyd\u0142a hetma\u0144skiego na wz\u00f3r tego jak rozgrywa si\u0119 otwarcie przeciwko obronie sycylijskiej.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440 \u0434\u043b\u044f \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043f\u043e\u0434\u043e\u0431\u043d\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0443 \u0421\u0438\u0446\u0438\u043b\u0438\u0430\u043d\u0441\u043a\u043e\u0439 \u0417\u0430\u0449\u0438\u0442\u044b."
+                }
+            },
+            {
+                "move": "   exd4 4. Nxd4 Bc5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel 4...Cf6 , que esta analisado em nosso pr\u00f3ximo exemplo.",
+                    "en": "4...Nf6 is also possible and is analyzed in the next example.",
+                    "es": "Tambi\u00e9n es posible 4...Cf6, analizada en nuestro pr\u00f3ximo ejemplo.",
+                    "de": "4... Sf6 ist auch m\u00f6glich und wird in unserem n\u00e4chsten Beispiel analysiert.",
+                    "zh": "4...Nf6\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4f1a\u5728\u540e\u9762\u7684\u4f8b\u5b50\u5206\u6790\u3002",
+                    "pl": "4. ... Sf6 jest r\u00f3wnie\u017c mo\u017cliwe i analizowane w kolejnym przyk\u0142adzie.",
+                    "ru": "\u0425\u043e\u0434 4...Nf6 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0438 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435."
+                }
+            },
+            {
+                "move": "   5. Be3 ",
+                "comment": {
+                    "pt": "5-Cb3 Bb6 6-a4 a6 7-Cc3 Cf6 tamb\u00e9m \u00e9 poss\u00edvel.",
+                    "en": "5-Nb3 Bb6 6-a4 a6 7-Nc3 Nf6 is also possible.",
+                    "es": "5-Cb3 Ab6 6-a4 a6 7-Cc3 Cf6 tambi\u00e9n es posible.",
+                    "de": "5. Sb3 Lb6 6. a4 a6 7. Sc3 Sf6 ist auch m\u00f6glich.",
+                    "zh": "5-Nb3 Bb6 6-a4 a6 7-Nc3 Nf\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "5. Sb3 Gb6 6. a4 a6 7. Sc3 Sf6 jest r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 5-Nb3 Bb6 6-a4 a6 7-Nc3 Nf6 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d."
+                }
+            },
+            {
+                "move": "   Qf6 ",
+                "comment": {
+                    "pt": "Pressionando o cavalo de d4. Seria um grave erro 5...Cf6 devido a 6-Cxc6 ganhando uma peca.",
+                    "en": "Pressure on the d4-Knight. 5...Nf6 would be a big mistake due to 6-Nxc6 that wins a piece.",
+                    "es": "Presionando el caballo de d4. Ser\u00eda un grave error 5...Cf6 debido a 6-Cxc6, ganando una pieza.",
+                    "de": "Mit Druck auf den Springer auf d4. 5...Sf6 w\u00e4re ein grober Fehler wegen 6. Sxc6 mit Figurengewinn.",
+                    "zh": "\u7ed9d4-\u9a6c\u65bd\u52a0\u538b\u529b\u30025...Nf6\u4f1a\u662f\u4e00\u4e2a\u5f88\u5927\u7684\u5931\u8bef\uff0c\u56e0\u4e3a\u8d706-Nxc6\u4f1a\u8d62\u5f97\u4e00\u5b50\u3002",
+                    "pl": "Presja na Skoczka d4. 5. ... Sf6 mog\u0142oby by\u0107 wielk\u0105 pomy\u0142k\u0105 z uwagi na 6. Sxc6 wygrywaj\u0105ce figur\u0119.",
+                    "ru": "\u041f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 \u041a\u043e\u043d\u044f d4. \u0418\u0433\u0440\u0430 5...Nf6 \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u0448\u0438\u0431\u043a\u043e\u0439 \u0438\u0437-\u0437\u0430 \u0432\u0437\u044f\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440\u044b \u0438\u0433\u0440\u043e\u0439 Nxc6."
+                }
+            },
+            {
+                "move": "   6. c3 Nge7 7. Bc4 ",
+                "comment": {
+                    "pt": "7-Cc2 ocorreu na partida 47 de nossa base e as pretas responderam com 7...d6 permitindo que seus pe\u00f5es fossem dobrados. Mais natural seria 7...Bxe3 8-Cxe3 d6, com jogo equilibrado.",
+                    "en": "7-Nc2 occurred in the game 47 of our database and Black answered with 7...d6 allowing the creation of doubled pawns. 7... Bxe3 8-Nxe3 d6 would be more natural with a balanced game.",
+                    "es": "7-Cc2 ocurri\u00f3 en la partida 47 de nuestra base y las negras respondieron con 7...d6, permitiendo que sus peones fueran doblados. M\u00e1s natural ser\u00eda 7...Axe3 8-Cxe3 d6, con juego equilibrado.",
+                    "de": "7. Sc2 (Partie 47) wurde mit 7...d6 beantwortet, was die Entstehung von Doppelbauern zulie\u00df. Nat\u00fcrlicher w\u00e4re 7...Lxe3 8. Sxe3 d6 mit gleichem Spiel.",
+                    "zh": "7-Nc2\u51fa\u73b0\u5728\u68cb\u5c4047\u4e2d\uff0c\u9ed1\u65b9\u4f1a\u5e94\u4ee57...d6\uff0c\u5236\u9020\u53e0\u5175\u30027... Bxe3 8-Nxe3 d6\u4f1a\u5e73\u8861\u68cb\u5c40\uff0c\u66f4\u52a0\u5408\u7406\u3002",
+                    "pl": "7. Sc2 nast\u0105pi\u0142o w partii 47 z naszej azy i Czarne odpowiedzia\u0142y 7. ... d6 zezwalaj\u0105c na stworzenie zdublowanych pion\u00f3w. 7. ... Gxe3 8. Sxe3 d6 mog\u0142oby by\u0107 bardziej naturalne ze zbalansowan\u0105 gr\u0105.",
+                    "ru": "7-Nc2 (\u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 47 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b) \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 7...d6, \u043f\u043e\u043b\u0443\u0447\u0430\u044f \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438. \u0418\u0433\u0440\u0430 7... Bxe3 8-Nxe3 d6 \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0442\u044c \u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u043e\u0439 \u0434\u043b\u044f \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0438\u0433\u0440\u044b."
+                }
+            },
+            {
+                "move": "   O-O 8. O-O Bb6 ",
+                "comment": {
+                    "pt": "Para seguir com ...d6 e terminar o desenvolvimento do flanco dama. Neste momento 8...d6 seria um erro devido a Cxc6 seguido de Bxc5 triplicando os pe\u00f5es e enfraquecendo o centro preto.",
+                    "en": "In order to continue with ... d6 and complete development on the queenside. At this moment 8...d6 would be a mistake due to Nxc6 followed by Bxc5 with tripled pawns and weakness in the black center.",
+                    "es": "Para seguir con ...d6 y terminar el desarrollo del flanco dama. En este momento 8...d6 ser\u00eda un error debido a Cxc6 seguido de Axc5, triplicando los peones y debilitando el centro negro.",
+                    "de": "Mit der Idee ...d6, um die Entwicklung vom Damenfl\u00fcgel zu beenden. 8...d6 w\u00e4re jetzt ein Fehler, da Sxc6 nebst Lxc5 die Bauern verdreifachen und das schwarze Zentrum schw\u00e4chen w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u8d70... d6\u7ed3\u675f\u540e\u7ffc\u51fa\u5b50\u3002\u8fd9\u662f\u8d708...d6\u662f\u9519\u8bef\u7684\uff0c\u56e0\u4e3a\u8d70Nxc6\u968f\u540eBxc5\u4f1a\u4ea7\u751f\u4e09\u53e0\u5175\u5e76\u524a\u5f31\u9ed1\u65b9\u4e2d\u5fc3\u3002",
+                    "pl": "W celu kontynuacji ... d6 i uko\u0144czenia rozwoju na skrzydle hetma\u0144skim. W tym momencie 8. ... d6 by\u0142oby pomy\u0142k\u0105 Sxc6 kontynuowane przez Gxc5 z potr\u00f3jnymi pionami na kolumnie i os\u0142abieniem czarnego centrum.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c ...d6 \u0438 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u0412 \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438, 8...d6 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u043e\u0439 \u0438\u0437-\u0437\u0430 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0438\u0433\u0440\u0430 Nxc6 Bxc5 \u0441\u043e \u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u043c\u0438 \u043f\u0435\u0448\u043a\u0430\u043c\u0438 \u0438 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c\u044e \u0427\u0435\u0440\u043d\u044b\u0445 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435."
+                }
+            },
+            {
+                "move": "9. Nc2 Bxe3 10. Nxe3 d6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

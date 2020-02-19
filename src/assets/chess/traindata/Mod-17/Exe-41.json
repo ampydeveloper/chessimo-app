@@ -1,0 +1,58 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante  Paulsen",
+        "date": "",
+        "event": {
+            "en": "Paulsen variation",
+            "de": "Paulsen-Variante",
+            "es": "Variante Paulsen",
+            "pt": "Variante Paulsen",
+            "zh": "\u4fdd\u5c14\u68ee\u53d8\u4f8b",
+            "pl": "Wariant Paulsena",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u041f\u0430\u0443\u043b\u044c\u0441\u0435\u043d\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 ",
+                "comment": {
+                    "pt": "Neste sistema as pretas querem rapidamente desenvolver o flanco dama e permitem que as brancas joguem c4, aumentando o dom\u00ednio do centro, se assim o desejarem (partidas 428 a 437).",
+                    "en": "In this system Black plans to develop the queenside fast and White is allowed to play c4, if it wants to increase its central dominance (games 428 to 437).",
+                    "es": "En este sistema las negras quieren desarrollar r\u00e1pidamente el flanco dama y permiten que las blancas jueguen c4, aumentando el dominio del centro, si as\u00ed lo desean (partidas 428 a 437).",
+                    "de": "In diesem System entwickelt Schwarz den Damenfl\u00fcgel schnell und l\u00e4sst zu, dass Wei\u00df Raum Zentrum mit c4 gewinnt (Partien Nr. 428 bis 437).",
+                    "zh": "\u5728\u8fd9\u4e2a\u4f53\u4e2d\u91cc\u9ed1\u65b9\u8ba1\u5212\u5728\u540e\u7ffc\u5feb\u901f\u51fa\u5b50\uff0c\u767d\u65b9\u5982\u679c\u60f3\u589e\u5f3a\u4e2d\u5fc3\u7edf\u6cbb\uff08\u68cb\u5c40428\u548c437\uff09\u5c31\u5e94\u8be5\u8d70c4\u3002",
+                    "pl": "W tym systemie Czarne planuj\u0105 szybki rozw\u00f3j skrzyd\u0142a hetma\u0144skiego, za\u015b Bia\u0142e mog\u0105 zagra\u0107 c4, je\u015bli chc\u0105 zwi\u0119kszy\u0107 dominacj\u0119 w centrum (partie 428-437).",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 c4, \u0435\u0441\u043b\u0438 \u043e\u043d\u0438 \u0445\u043e\u0442\u044f\u0442 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0441\u0432\u043e\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u044b 428 \u0438 437)."
+                }
+            },
+            {
+                "move": "   5. Nc3 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o poss\u00edveis ; 5-c4 aumentando consideravelmente o dom\u00ednio do centro (partidas 431,436 e 437) e 5-Bd3 , para rocar rapidamente e mantendo a op\u00e7\u00e3o de jogar c4 mais tarde (partidas 429, 433 ,434, 435).",
+                    "en": "Also possible are: 5-c4 increasing considerably the dominance in the center (games 431, 436 and 437) and e 5-Bd3 in order to queencastle fast and maintain the option to play c4 later (games 429, 433 , 434 and 435).",
+                    "es": "Tambi\u00e9n son posibles: 5-c4, aumentando considerablemente el dominio del centro (partidas 431,436 y 437) y 5-Ad3, para enrocar r\u00e1pidamente y manteniendo la opci\u00f3n de jugar c4 m\u00e1s tarde (partidas 429, 433, 434, 435).",
+                    "de": "Andere M\u00f6glichkeiten: 5. c4 mit Kontrolle des Zentrums (Partien Nr. 431, 436 und 437) und 5. Ld3 , um schnell zu rochieren und c4 zu verz\u00f6gern (Partien Nr. 429, 433 ,434, 435).",
+                    "zh": "\u53e6\u5916\u7684\u53ef\u80fd\u662f\uff1a5-c4\u589e\u5f3a\u7ed9\u4e2d\u5fc3\u7edf\u6cbb\uff08\u68cb\u5c40431\u3001436\u548c437\uff09\uff1be 5-Bd3\u6765\u8fdb\u884c\u5feb\u901f\u738b\u7ffc\u6613\u4f4d\u5e76\u7ee7\u7eed\u4fdd\u6301\u8d70c4\u7684\u9009\u62e9\uff08\u68cb\u5c40429\u3001433\u3001434\u548c435\uff09\u3002",
+                    "pl": "Mo\u017aliwe s\u0105 te\u017c: 5. c4 zwi\u0119kszaj\u0105c znacz\u0105co dominacj\u0119 w centrum (partie 431, 436, 437) i 5. Gd3 w celu szybkiego przeprowadzenia d\u0142ugiej roszady i utrzymania opcji zagrania c4 p\u00f3\u017aniej (partie 429, 433, 434 i 435).",
+                    "ru": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u044b \u0442\u0430\u043a\u0436\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: 5-c4 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u044b 431, 436 \u0438 437) \u0438 5-Bd3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0431\u044b\u0441\u0442\u0440\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438 \u0434\u043b\u0438\u043d\u043d\u0443\u044e \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u043e\u0437\u0434\u043d\u0435\u0435 \u043d\u0430 c4 (\u0438\u0433\u0440\u044b 429, 433, 434 \u0438 435)."
+                }
+            },
+            {
+                "move": "   b5 6. Bd3 Bb7 7. O-O Qc7 ",
+                "comment": {
+                    "pt": "Este \u00e9 o esp\u00edrito das pretas neste sistema; Ataque r\u00e1pido no flanco dama, sem preocupar-se tanto com o desenvolvimento do flanco rei. As pr\u00f3ximas jogadas podem ser \"... Cc6 e Tc8\" colocando ainda mais press\u00e3o sobre o flanco dama branco. As brancas devem tentar atacar no centro, aproveitando a vantagem em desenvolvimento . A partida 430 \u00e9 um bom exemplo.",
+                    "en": "This is Black's spirit in this system: quickly attack on the queeenside without worrying about development on the kingside so much. The next moves can be: ... Nc6 and e Rc8 that put even more pressure on the white queenside. White must try to attack in the center by using its advantage in development. Game 430 is a good example.",
+                    "es": "Este es el esp\u00edritu de las negras en este sistema: ataque r\u00e1pido en el flanco dama, sin preocuparse tanto con el desarrollo del flanco rey. Las pr\u00f3ximas jugadas pueden ser \"... Cc6 y Tc8\" presionando todav\u00eda m\u00e1s sobre el flanco dama blanco. Las blancas deben intentar atacar en el centro, aprovechando la ventaja en desarrollo. La partida 430 es un buen ejemplo.",
+                    "de": "Der Geist vom Schwarzen in diesem System: schneller Angriff am Damenfl\u00fcgel, ohne sich allzusehr um die Entwicklung des K\u00f6nigsfl\u00fcgel zu k\u00fcmmern. Die n\u00e4chsten Z\u00fcge k\u00f6nnten ...Sc6 und ...Tc8 mit noch mehr Druck auf den wei\u00dfen Damenfl\u00fcgel. Wei\u00df muss seinerseits versuchen, im Zentrum anzugreifen und von seinem Entwicklunsvorsprung zu profitieren. Partie Nr. 430 ist ein gutes Beispiel.",
+                    "zh": "\u8fd9\u662f\u8fd9\u4e2a\u4f53\u7cfb\u4e2d\u9ed1\u65b9\u7684\u7075\u9b42\uff1a\u5728\u540e\u7ffc\u5feb\u653b\u6ca1\u6709\u738b\u7ffc\u51fa\u5b50\u7684\u540e\u987e\u4e4b\u5fe7\u3002\u4e0b\u4e00\u6b65\u53ef\u4ee5\u662f... Nc6\u548ce Rc8\uff0c\u751a\u81f3\u53ef\u4ee5\u589e\u52a0\u66f4\u591a\u538b\u529b\u5728\u767d\u65b9\u540e\u7ffc\u3002\u767d\u65b9\u5e94\u8be5\u5c1d\u8bd5\u5229\u7528\u51fa\u5b50\u7684\u4f18\u52bf\u653b\u51fb\u4e2d\u5fc3\u3002\u68cb\u5c40430\u662f\u4e2a\u5f88\u597d\u7684\u4f8b\u5b50\u3002",
+                    "pl": "Oto cel ca\u0142ego systemu: szybki atak na skrzyd\u0142o hetma\u0144skie bez zamartwiania si\u0119 o rozw\u00f3j skrzyd\u0142a kr\u00f3lewskiego. Nast\u0119pnymi ruchami mog\u0105 by\u0107: ... Sc6 i Wc8, co nawet zwi\u0119ksza presj\u0119 na bia\u0142e skrzyd\u0142o hetma\u0144skie. Bia\u0142e musz\u0105 pr\u00f3bowa\u0107 ataku w centrum u\u017cywaj\u0105c przewagi w rozwoju. Partia 430 jest dobrym tego przyk\u0142adem.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u044b\u0441\u0442\u0440\u043e \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043d\u0435 \u0431\u0435\u0441\u043f\u043e\u043a\u043e\u044f\u0441\u044c \u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0431\u0443\u0434\u0435\u0442: ... Nc6 \u0438 Rc8, \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044f \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0411\u0435\u043b\u044b\u0445. \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0441\u0432\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0444\u0438\u0433\u0443\u0440. \u0418\u0433\u0440\u0430 430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u044d\u0442\u043e\u043c\u0443 \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

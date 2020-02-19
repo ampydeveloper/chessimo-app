@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(146)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1b1k\/5pp1\/q1p1pN1p\/1b2P3\/3P2Q1\/1p2P3\/1P4PP\/1BR3K1 w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Qe4 ",
+                "comment": {
+                    "pt": "Criando uma fraqueza na posi\u00e7\u00e3o contr\u00e1ria e garantindo a perman\u00eancia do cavalo em f6.",
+                    "en": "Creating a weakness in the enemy position and ensuring that the Knight stays on f6.",
+                    "de": "Verursacht eine Schw\u00e4che auf der gegnerischen Stellung und versichert die Stellung des Springers auf f6.",
+                    "es": "Creando una debilidad en la posici\u00f3n contraria y asegurando la permanencia del caballo en f6.",
+                    "zh": "\u7ed9\u654c\u65b9\u5236\u9020\u5f31\u70b9\u5e76\u786e\u4fdd\u9a6c\u7559\u5728f6\u3002",
+                    "pl": "Tworzenie s\u0142abo\u015bci w pozycji wroga i zapewnienie miejsca dla Skoczka na f6.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0432\u043e \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0445, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u041a\u043e\u043d\u044f \u043d\u0430 f6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(92)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp3ppp\/2p5\/4q3\/2B5\/P1R1P3\/1P3PPP\/3Q1RK1 b - - 0 15",
+        "moves": [
+            {
+                "move": "15... Be6 ",
+                "comment": {
+                    "pt": "Para trocar por uma pe\u00e7a ativa advers\u00e1ria.",
+                    "en": "In order to trade an active enemy piece.",
+                    "de": "Um eine aktive gegnerische Figur abzutauschen.",
+                    "es": "Para cambiar por una pieza activa adversaria.",
+                    "zh": "\u4e3a\u4e86\u5151\u6362\u4e00\u4e2a\u5bf9\u65b9\u7684\u6d3b\u8dc3\u5b50\u3002",
+                    "pl": "W celu wymiany aktywnej figury wroga.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 \u043e\u0431\u043c\u0435\u043d \u0441 \u0441\u0430\u043c\u043e\u0439 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u043e\u0439 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(57)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/2q1bppp\/p2p1n2\/1pp1p3\/4P3\/1PPPBNN1\/1P3PPP\/R2Q1RK1 b - - 0 13",
+        "moves": [
+            {
+                "move": "13... d5 ",
+                "comment": {
+                    "pt": "Fortalecendo o centro e ganhando mais mobilidade para as pe\u00e7as.",
+                    "en": "Strengthening the center and gaining mobility for the pieces.",
+                    "de": "Verst\u00e4rkt das Zentrum. Die schwarzen Figuren haben jetzt mehr Bewegungsfreiheit.",
+                    "es": "Fortaleciendo el centro y ganando m\u00e1s movilidad para las piezas.",
+                    "zh": "\u5de9\u56fa\u4e2d\u5fc3\uff0c\u4e3a\u68cb\u5b50\u8d62\u5f97\u66f4\u597d\u7684\u673a\u52a8\u6027\u3002",
+                    "pl": "Wzmacnianie centrum i uzyskanie mobilno\u015bci dla figur.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0444\u0438\u0433\u0443\u0440."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(67)",
+            "zh": "Event 1"
+        },
+        "fen": "6rk\/6pp\/p3p2b\/1p5Q\/1P1q4\/P5R1\/6PP\/5R1K w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Rgf3 ",
+                "comment": {
+                    "pt": "Para entrar na s\u00e9tima ou oitava fila.",
+                    "en": "In order to enter the 7th or 8th rank.",
+                    "de": "Um auf die siebte oder achte Reihe einzudrigen.",
+                    "es": "Para entrar en la s\u00e9ptima o octava l\u00ednea.",
+                    "zh": "\u4e3a\u4e86\u4fb5\u5165\u4e03\u7ebf\u6216\u516b\u7ebf\u3002",
+                    "pl": "W celu wej\u015bcia na si\u00f3dm\u0105 lub \u00f3sm\u0105 lini\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u043e\u0439\u0442\u0438 \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u0443\u044e \u0438 \u0432\u043e\u0441\u044c\u043c\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "r5k1\/4bppp\/pq1p1n2\/4pP2\/2r1P3\/1NN5\/1PP3PP\/R2Q1R1K w - - 0 18",
+        "moves": [
+            {
+                "move": "18. Qe2 ",
+                "comment": {
+                    "pt": "Defendendo e4, atacando a torre e conectando as pr\u00f3prias torres.",
+                    "en": "Defending e4, attacking the Rook and connecting friendly Rooks.",
+                    "de": "Verteidigt e4, greift den Turm an und verbindet die eigenen T\u00fcrme.",
+                    "es": "Defendiendo e4, atacando a la torre y conectando sus propias torres.",
+                    "zh": "\u9632\u5fa1e4\uff0c\u653b\u51fb\u654c\u8f66\u5e76\u4e14\u8054\u5408\u53cb\u8f66\u3002",
+                    "pl": "Obrona e4, atak na Wie\u017c\u0119 i po\u0142\u0105czenie w\u0142asnych Wie\u017c.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 e4, \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u041b\u0430\u0434\u044c\u044e \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430 \u0438 \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

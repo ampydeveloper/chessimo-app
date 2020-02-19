@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(58)",
+            "zh": "Event 1"
+        },
+        "fen": "r1br2k1\/2q1bppp\/p2p1n2\/npp1p3\/3PP3\/2P2N1P\/PPBN1PP1\/R1BQR1K1 w - - 0 13",
+        "moves": [
+            {
+                "move": "13. d5 ",
+                "comment": {
+                    "pt": "As pretas amea\u00e7avam ...d5 e as brancas devem fechar o centro para depois iniciar um ataque no flanco do rei.",
+                    "en": "Black was threatening .. .d5 and White should close the center in order to start a kingside attack afterwards.",
+                    "de": "Schwarz drohte d5. Wei\u00df muss das Zentrum schlie\u00dfen, um anschlie\u00dfend einen Angriff auf den K\u00f6nigsfl\u00fcgel einzuleiten.",
+                    "es": "Las negras amenazaban ...d5 y las blancas deben cerrar el centro para iniciar despu\u00e9s un ataque en el flanco rey.",
+                    "zh": "\u9ed1\u68cb\u5a01\u80c1.. .d5\uff0c\u767d\u68cb\u5e94\u8be5\u7d27\u9501\u4e2d\u5fc3\u4e3a\u4e86\u4e4b\u540e\u5f00\u59cb\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Czarne grozi\u0142y ... d5 i Bia\u0142e powinny zamkn\u0105\u0107 centrum w celu rozpocz\u0119cia ofensywy na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 ...d5 \u0438 \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0446\u0435\u043d\u0442\u0440, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0437\u0436\u0435 \u043d\u0430\u0447\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(147)",
+            "zh": "Event 1"
+        },
+        "fen": "rn1q1rk1\/ppp2ppp\/3b4\/3p1b2\/2PPn3\/3B1N2\/PP3PPP\/RNBQR1K1 b - - 0 9",
+        "moves": [
+            {
+                "move": "9... c6 ",
+                "comment": {
+                    "pt": "Para sustentar o centro e o cavalo de e4.",
+                    "en": "In order to support the center and the e4-Knight.",
+                    "de": "Um sowohl das Zentrum als auch den Springer auf e4 zu unterst\u00fctzen.",
+                    "es": "Para sostener el centro y el caballo de e4.",
+                    "zh": "\u4e3a\u4e86\u652f\u6301\u4e2d\u5fc3\u548ce4-\u9a6c\u3002",
+                    "pl": "W celu wsparcia centrum i Skoczka e4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0438 \u041a\u043e\u043d\u044f \u043d\u0430 e4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(142)",
+            "zh": "Event 1"
+        },
+        "fen": "rn1q1rk1\/ppp2ppp\/3b4\/3p1b2\/3Pn3\/3B1N2\/PPP2PPP\/RNBQR1K1 w - - 0 9",
+        "moves": [
+            {
+                "move": "9. c4 ",
+                "comment": {
+                    "pt": "Pressionando o centro preto e amea\u00e7ando eliminar a defesa do cavalo em e4.",
+                    "en": "Exerting pressure on the black center and threatening to eliminate the defense of the e4-Knight.",
+                    "de": "\u00dcbt Druck auf das schwarze Zentrum aus und droht, den Verteidiger vom Springer auf e4 zu beseitigen.",
+                    "es": "Presionando el centro negro y amenazando eliminar la defensa del caballo en e4.",
+                    "zh": "\u7ed9\u9ed1\u68cb\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u5e76\u5a01\u80c1\u6d88\u706de4-\u9a6c\u7684\u9632\u5fa1\u3002",
+                    "pl": "Wzmo\u017cenie presji na czarnym centrum i gro\u017aba eliminacji obrony Skoczka e4.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u041a\u043e\u043d\u044f \u043d\u0430 e4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(32)",
+            "zh": "Event 1"
+        },
+        "fen": "2nr4\/5kp1\/2r2p2\/1p2p1PP\/p7\/P1P3K1\/1P2RB2\/4R3 b - - 0 37",
+        "moves": [
+            {
+                "move": "37... Nd6 ",
+                "comment": {
+                    "pt": "Melhorando a posi\u00e7\u00e3o do cavalo, que agora pode ir a f5 ou c4.",
+                    "en": "Improving the Knight's position that is able to move to f5 or c4 now.",
+                    "de": "Verbessert die Stellung vom Springer, der jetzt sowohl f5 als auch c4 erreichen kann.",
+                    "es": "Mejorando la posici\u00f3n del caballo que, ahora, puede ir a f5 o c4.",
+                    "zh": "\u6539\u5584\u9a6c\u7684\u4f4d\u7f6e\u4f7f\u4e4b\u53ef\u4ee5\u79fb\u5230f5\u6216\u8005c4\u3002",
+                    "pl": "Polepszanie pozycji Skoczka, kt\u00f3ry mo\u017ce przenie\u015b\u0107 si\u0119 na f5 lub c4 od tej chwili.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u041a\u043e\u043d\u044f, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043c\u043e\u0433 \u0445\u043e\u0434\u0438\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441 \u043d\u0430 f5 \u0438\u043b\u0438 c4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(112)",
+            "zh": "Event 1"
+        },
+        "fen": "2b2rk1\/1p1n2pp\/3p4\/3P1p2\/1PP1p3\/2N1qP2\/4B1PP\/Q4R1K w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Qc1 ",
+                "comment": {
+                    "pt": "Expulsando a dama de uma posi\u00e7\u00e3o inc\u00f4moda e propondo um final onde as brancas t\u00eam vantagem devido a maioria no flanco da dama.",
+                    "en": "Chasing the Queen out of an uncomfortable position and suggesting an endgame, in which White has advantage due to queenside majority.",
+                    "de": "Vertreibt Dame von ihrer g\u00fcnstige Stellung und versucht ein Endspiel einzuleiten, der aufgrund der Bauernmehrheit am Damenfl\u00fcgel f\u00fcr Wei\u00df vorteilhaft ist.",
+                    "es": "Expulsando a la dama de una posici\u00f3n molesta y proponiendo un final en el que las blancas tienen ventaja debido a la mayor\u00eda en el flanco dama.",
+                    "zh": "\u5c06\u540e\u4ece\u6709\u5229\u4f4d\u7f6e\u8d76\u8d70\uff0c\u5e76\u5c06\u68cb\u5c40\u5f15\u5165\u6b8b\u5c40\uff0c\u5728\u6b8b\u5c40\u4e2d\u767d\u68cb\u56e0\u4e3a\u5728\u540e\u7ffc\u591a\u5175\u6240\u4ee5\u62e5\u6709\u5b50\u529b\u4f18\u52bf\u3002",
+                    "pl": "Przegonienie Hetmana z niekomfortowej pozycji i sugestia wej\u015bcia w gr\u0119 ko\u0144cow\u0105, w kt\u00f3rej Bia\u0142e posiadaj\u0105 przewag\u0119 z powodu nagromadzenia pion\u00f3w na skrzydle hetma\u0144skim.",
+                    "ru": "\u041f\u0440\u0435\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043d\u0435\u0432\u044b\u0433\u043e\u0434\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u0438\u0433\u0440\u0443 \u0432 \u044d\u043d\u0434\u0448\u043f\u0438\u043b\u044c, \u0433\u0434\u0435 \u0443 \u0411\u0435\u043b\u044b\u0445 \u0435\u0441\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438\u0437-\u0437\u0430 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

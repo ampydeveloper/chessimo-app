@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(77)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5pkp\/2bp2p1\/1pr1p3\/p7\/P7\/1RPKN3\/1R6 b - - 0 32",
+        "moves": [
+            {
+                "move": "32... h5 ",
+                "comment": {
+                    "pt": "Avan\u00e7ando o pe\u00e3o com mais possibilidades de coroar, devido a dist\u00e2ncia do rei branco e do apoio do bispo preto na grande diagonal.",
+                    "en": "Advancing the pawn with greater chances of promoting, due to the distance from the white King and the support of the black Bishop in the big diagonal.",
+                    "de": "R\u00fcckt den Bauern vor, der die gr\u00f6\u00dften Chancen hat umzuwandeln, da er sich weit entfernt vom gegnerischen K\u00f6nig befindet und vom L\u00e4ufer auf der langen Diagonale unterst\u00fctzt wird.",
+                    "es": "Avanzando el pe\u00f3n con m\u00e1s posibilidades de coronar, debido a la distancia del rey blanco y al apoyo del alfil negro en la gran diagonal.",
+                    "zh": "\u633a\u5175\u5f88\u6709\u53ef\u80fd\u83b7\u5f97\u5347\u53d8\uff0c\u5f97\u76ca\u4e8e\u5b83\u4e0e\u767d\u738b\u7684\u8ddd\u79bb\u548c\u9ed1\u8c61\u7684\u5728\u5927\u659c\u7ebf\u7684\u652f\u6301\u3002",
+                    "pl": "Poruszenie pionem zwi\u0119kszaj\u0105ce szanse na promocj\u0119 z powodu dystansu od bia\u0142ego Kr\u00f3la i wsparcia czarnego Go\u0144ca na d\u0142ugiej przek\u0105tnej.",
+                    "ru": "\u041f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0441 \u0431\u043e\u043b\u044c\u0448\u0438\u043c\u0438 \u0448\u0430\u043d\u0441\u0430\u043c\u0438 \u043d\u0430 \u0442\u043e, \u0447\u0442\u043e \u043e\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0430, \u0438\u0437-\u0437\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u0434\u043e \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(18)",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/p1q1pp1p\/1p4p1\/2n1b3\/P1R5\/2P2B1P\/2P3P1\/3RQ2K b - - 0 32",
+        "moves": [
+            {
+                "move": "32... a5 ",
+                "comment": {
+                    "pt": "Fixando a fraqueza branca em a4 e portanto evitando que as brancas se livrem dela jogando a5.",
+                    "en": "Fixing the white weakness on a4 and preventing White from getting rid of this weakness with a5.",
+                    "de": "Fixiert die wei\u00dfe Schw\u00e4che auf a4 und verhindert so, dass Wei\u00df sie mittels ...a5 loswird.",
+                    "es": "Fijando la debilidad blanca en a4 y evitando por lo tanto que las blancas se libren de \u00e9sta jugando a5.",
+                    "zh": "\u6539\u6b63\u5728a4\u5904\u7684\u5f31\u70b9\uff0c\u963b\u6b62\u767d\u68cb\u6539\u6b63\u5728a5\u5904\u7684\u5f31\u70b9\u3002",
+                    "pl": "Wykorzystanie s\u0142abo\u015bci bia\u0142ych na a4 i uniemo\u017cliwienie Bia\u0142ym jej naprawy przez a5.",
+                    "ru": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u0411\u0435\u043b\u044b\u0445 \u043d\u0430 a4 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u0438 \u043d\u0430 a5."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(107)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/1p1nn1b1\/p2pp1pp\/2p5\/P1P1P3\/2NB1N1P\/1P3PP1\/R1BQ1RK1 w - - 0 12",
+        "moves": [
+            {
+                "move": "12. e5 ",
+                "comment": {
+                    "pt": "Debilitando a estrutura de pe\u00f5es (no caso de ...dxe5) ou enfraquecendo a posi\u00e7\u00e3o do rei preto ap\u00f3s 12...Cxe5 13. Cxe5 Bxe5 14. Bxh6.",
+                    "en": "Weakening the pawn structure (if ...dxe5) or the black King's position after 12 ...Nxe5 13-Nxe5 Bxe5 14-Bxh6.",
+                    "de": "Danach wird entweder die schwarze Bauernstruktur geschw\u00e4cht (im Falle von ...dxe5) oder die Stellung vom schwarzen K\u00f6nig nach 12..Sxe5 13. Sxe5 Lxe5 14. Lxh6.",
+                    "es": "Debilitando ya sea la estructura de peones (en el caso de ...dxe5) o la posici\u00f3n del rey negro despu\u00e9s de 12...Cxe5 13. Cxe5 Axe5 14. Axh6.",
+                    "zh": "\u572812 ...Nxe5 13-Nxe5 Bxe5 14-Bxh6\u4e4b\u540e\uff0c\u524a\u5f31\u5175\u5f62\uff08\u5982\u679c\u4e0b(if ...dxe5\uff09\u6216\u8005\u9ed1\u738b\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Os\u0142abienie struktury pion\u00f3w (je\u015bli ... dxe5) lub pozycji czarnego Kr\u00f3la po 12. ... Sxe5 13. Sxe5 Gxe5 14. Gxh6.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 (\u0435\u0441\u043b\u0438 ...dxe5) \u0438\u043b\u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u043f\u043e\u0441\u043b\u0435 12 ...Nxe5 13-Nxe5 Bxe5 14-Bxh6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(35)",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/pppqnppp\/1b1p3n\/8\/2NPP3\/5N2\/PB3PPP\/R2Q1RK1 w kq - 0 14",
+        "moves": [
+            {
+                "move": "14. a4 ",
+                "comment": {
+                    "pt": "For\u00e7ando as pretas a enfraquecerem seu flanco da dama, devido \u00e0 amea\u00e7a de a5.",
+                    "en": "Forcing Black to weaken its queenside, due to the a5 threat.",
+                    "de": "Die Drohung a5 zwingt Schwarz, den Damenfl\u00fcgel zu schw\u00e4chen.",
+                    "es": "Forzando las negras a debilitar su flanco dama, debido a la amenaza de a5.",
+                    "zh": "\u9274\u4e8ea5\u5a01\u80c1\u8feb\u4f7f\u9ed1\u68cb\u5f31\u5316\u540e\u7ffc\u3002",
+                    "pl": "Zmuszenie Czarnych do os\u0142abienia ich skrzyd\u0142a hetma\u0144skiego z powodu gro\u017aby a5.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0441\u0432\u043e\u0439 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433, \u0438\u0437-\u0437\u0430 \u0443\u0433\u0440\u043e\u0437\u044b a5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(36)",
+            "zh": "Event 1"
+        },
+        "fen": "r3rbk1\/5pp1\/2b1qn1p\/p1pppN2\/1p2P3\/1PPP1P1N\/1PQ3PP\/2BRR2K w - - 0 23",
+        "moves": [
+            {
+                "move": "23. c4 ",
+                "comment": {
+                    "pt": "Mantendo a posi\u00e7\u00e3o o mais bloqueada poss\u00edvel para valoriza\u00e7\u00e3o dos seus cavalos e posicionando os seus pr\u00f3prios pe\u00f5es em casas de cor diferente ao bispo que possuem.",
+                    "en": "Keeping the position as blocked as possible to improve the value of your Knights and placing pawns on the opposite color of the white Bishop.",
+                    "de": "Versucht, die Stellung so geschlossen wie m\u00f6glich zu halten, damit die Springer zur Geltung kommen. Andererseits werden die Bauern auf wei\u00dfe Felder gesetzt, damit der schwarzfeldrige L\u00e4ufer besser Chancen hat.",
+                    "es": "Manteniendo la posici\u00f3n lo m\u00e1s bloqueada posible para valorar los caballos y colocando los peones en casillas de color diferente al de las casillas que domina el alfil.",
+                    "zh": "\u5c3d\u91cf\u4fdd\u6301\u8fd9\u4e2a\u4f4d\u7f6e\u88ab\u963b\u788d\u6765\u63d0\u5347\u9a6c\u7684\u4ef7\u503c\uff0c\u5e76\u628a\u5175\u6446\u5728\u8ddf\u767d\u8c61\u5f02\u8272\u7684\u683c\u5b50\u4e0a\u3002",
+                    "pl": "Najsilniejsze mo\u017cliwe blokowanie pozycji w celu poprawy warto\u015bci Skoczk\u00f3w i umieszczenie pion\u00f3w na polach bia\u0142ego Go\u0144ca.",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f \u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 \u043f\u043e\u043b\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u043e \u043f\u043e \u0446\u0432\u0435\u0442\u0443 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

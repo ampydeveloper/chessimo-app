@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(59)",
+            "zh": "Event 1"
+        },
+        "fen": "r1br2k1\/1nq1bppp\/p2p1n2\/1p1Pp3\/2p1P3\/2P2N1P\/PPB2PP1\/R1BQRNK1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. g4 ",
+                "comment": {
+                    "pt": "Para jogar Cg3 e atacar no flanco rei. O plano de ataque das brancas \u00e9 com as pe\u00e7as atr\u00e1s dos pe\u00f5es.",
+                    "en": "In order to play Ng3 and attack on the kingside. The white plan is to attack with the pieces behind its pawns.",
+                    "de": "Um Sg3 zu spielen und am K\u00f6nigsfl\u00fcgel anzugreifen. Wei\u00df plant, mit den Figuren hinter der Bauernkette anzugreifen.",
+                    "es": "Para jugar Cg3 y atacar en el flanco rey. El plan de ataque de las blancas es con las piezas atr\u00e1s de los peones.",
+                    "zh": "\u4e3a\u5199\u4e0bNg3\u5e76\u653b\u51fb\u738b\u7ffc\u3002\u767d\u68cb\u7684\u8ba1\u5212\u662f\u7528\u5175\u540e\u9762\u7684\u68cb\u5b50\u6765\u8fdb\u884c\u653b\u51fb\u3002",
+                    "pl": "W celu zagrania Sg3 i ataku na skrzyd\u0142o kr\u00f3lewskie. Planem Bia\u0142ych jest zaatakowa\u0107 figurami znajduj\u0105cymi si\u0119 za w\u0142asnymi pionami.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Ng3 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043f\u043e\u0437\u0430\u0434\u0438 \u0438\u0445 \u043f\u0435\u0448\u0435\u043a."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(57)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1k2r\/ppp2ppp\/2np1q1n\/8\/2B1P3\/B1Q2N2\/P4PPP\/R4RK1 w kq - 0 12",
+        "moves": [
+            {
+                "move": "12. e5 ",
+                "comment": {
+                    "pt": "Para abrir a posi\u00e7\u00e3o no centro e impedir as pretas de rocarem pequeno e completarem o desenvolvimento.",
+                    "en": "In order to open the central position and prevent Black from kingcastling and from completing development.",
+                    "de": "Um die Stellung im Zentrum zu \u00f6ffnen, damit Schwarz nicht rochieren und folglich seine Entwicklung nicht vollenden kann.",
+                    "es": "Para abrir la posici\u00f3n en el centro e impedir que las negras se enroquen en corto y completen su desarrollo.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u4e2d\u5fc3\u4f4d\u7f6e\u5e76\u963b\u6b62\u9ed1\u68cb\u8fdb\u884c\u738b\u7ffc\u6613\u4f4d\u548c\u5b8c\u6210\u51fa\u5b50\u3002",
+                    "pl": "W celu otwarcia centralnej pozycji i uniemo\u017cliwienia Czarnym kr\u00f3tkiej roszady oraz uniemo\u017cliwienia zako\u0144czenia rozwoju figur.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u043d\u0435 \u0434\u0430\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0427\u0435\u0440\u043d\u044b\u043c \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u043a\u043e\u0440\u043e\u0442\u043a\u0443\u044e \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0438 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(134)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1bk1\/5pp1\/q1p1p2p\/1b2P3\/3PN1Q1\/1p2P3\/1P4PP\/1BR3K1 w - - 0 30",
+        "moves": [
+            {
+                "move": "30. Nf6+ ",
+                "comment": {
+                    "pt": "Para centralizar a dama e garantir a casa f6 para o cavalo ap\u00f3s as pretas jogarem g6.",
+                    "en": "In order to centralize the Queen and ensuring f6 for the Knight after Black plays g6.",
+                    "de": "Um die Dame zu zentralisieren und das Feld f6 f\u00fcr den Springer zu gewinnen, nachdem Schwarz g6 spielt.",
+                    "es": "Para centralizar la dama y asegurar la casilla f6 para el caballo despu\u00e9s de las negras jugar g6.",
+                    "zh": "\u4e3a\u4e86\u4f7f\u540e\u4e2d\u5fc3\u5316\uff0c\u786e\u4fdd\u9ed1\u68cb\u4e0bg6\u4e4b\u540ef6\u7ed9\u9a6c\u3002",
+                    "pl": "W celu centralizacji Hetmana i zapewnienia f6 dla Skoczka po zagraniu przez Czarne g6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0424\u0435\u0440\u0437\u044f \u0438 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u043f\u043e\u043b\u0435 f6 \u0434\u043b\u044f \u041a\u043e\u043d\u044f, \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 g6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(10)",
+            "zh": "Event 1"
+        },
+        "fen": "r5k1\/1p1qr1p1\/p1pnbpBp\/3p4\/3P1N2\/P3P2P\/1PQ2PP1\/2R2RK1 b - - 0 22",
+        "moves": [
+            {
+                "move": "22... Bf5 ",
+                "comment": {
+                    "pt": "Eliminando o forte bispo branco que, nessa posi\u00e7\u00e3o, era superior ao bispo das pretas.",
+                    "en": "Eliminating the strong white Bishop, which, in this position, is superior to the black one.",
+                    "de": "Beseitigt den starken wei\u00dfen L\u00e4ufer, der auf dieser Stellung den schwarzen \u00fcberlegener war.",
+                    "es": "Eliminando el fuerte alfil blanco que, en esta posici\u00f3n, era superior al alfil de las negras.",
+                    "zh": "\u6d88\u706d\u8fd9\u4e2a\u5f3a\u5927\u7684\u767d\u8c61\uff0c\u8fd9\u4e2a\u767d\u8c61\u5728\u6b64\u5904\u8981\u6bd4\u9ed1\u8c61\u4f18\u8d8a\u5f97\u591a\u3002",
+                    "pl": "Eliminacja silnego bia\u0142ego Go\u0144ca, kt\u00f3ry, z tej pozycji, jest znacznie lepszy ni\u017c Czarny.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0441\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0431\u0435\u043b\u044b\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0432 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u0421\u043b\u043e\u043d\u0430 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(37)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r2\/pp2ppkp\/2npb1p1\/q7\/2P1PP2\/2N5\/PP1QB1PP\/3R1R1K w - - 0 16",
+        "moves": [
+            {
+                "move": "16. f5 ",
+                "comment": {
+                    "pt": "Para atacar o rei preto , uma vez que h\u00e1 poucas pe\u00e7as para defende-lo.",
+                    "en": "In order to attack the black King, since there are only few pieces to defend it.",
+                    "de": "Um den schwarzen K\u00f6nig anzugreifen, da dieser wenige Verteidiger hat.",
+                    "es": "Para atacar el rey negro, ya que hay pocas piezas para defenderlo.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fb\u9ed1\u738b\uff0c\u56e0\u4e3a\u80fd\u9632\u5fa1\u9ed1\u738b\u7684\u68cb\u5b50\u76f8\u5f53\u5c11\u3002",
+                    "pl": "W celu ataku na czarnego Kr\u00f3la posiadaj\u0105cego zaledwie kilka figur do obrony.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0435\u0433\u043e \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u0441\u0435\u0433\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0444\u0438\u0433\u0443\u0440."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

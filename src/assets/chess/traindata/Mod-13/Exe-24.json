@@ -1,0 +1,197 @@
+[
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3rr1k1\/2q1bppp\/p2pbn2\/1pp1p3\/3PPP2\/2P1B2P\/PPBN2P1\/R2QR1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. fxe5 ",
+                "comment": {
+                    "pt": "Para criar um pe\u00e3o passado e abrir a coluna f. Se 1-d5 as pretas poderiam jogar 1...exf4 evitando a cria\u00e7\u00e3o do pe\u00e3o passado.",
+                    "en": "In order to create a passed pawn and open the f-file. If 1-d5, Black could answer 1...exf4 preventing a passed pawn.",
+                    "es": "Para crear un pe\u00f3n pasado y abrir la columna f. Si 1-d5 las negras podr\u00edan jugar 1...exf4, eitando la creaci\u00f3n del pe\u00f3n pasado.",
+                    "de": "Um einen Freibauern zu erhalten und die f-Linie zu \u00f6ffnen. Auf 1. d5 folgte 1... exf4, was die Schaffung eines Freibauern verhindert w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u5236\u9020\u901a\u8def\u5175\uff0c\u5f00\u653ef\u7ebf\u3002\u8d701-d5\uff0c\u9ed1\u65b9\u4f1a\u8ddf1...exf4\u6765\u963b\u6b62\u901a\u8def\u5175\u7684\u51fa\u73b0\u3002",
+                    "pl": "Aby utworzy\u0107 wolnego piona i otworzy\u0107 kolumn\u0119 f. Je\u015bli 1. d5, Czarne odpowiedz\u0105 1. ... exf4, uniemo\u017cliwiaj\u0105c stworzenie wolnego piona.",
+                    "ru": "\u0414\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0415\u0441\u043b\u0438 1-d5, \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043e\u0442\u0432\u0435\u0442\u0438\u0442\u044c 1...exf4, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            },
+            {
+                "move": "   dxe5 2. d5 ",
+                "comment": {
+                    "pt": "Fechand o a coluna d, onde as pretas est\u00e3o atuando e criando um pe\u00e3o pasado protegido.",
+                    "en": "Closing the d-file where Black is active trying to create a protected passed pawn.",
+                    "es": "Cerrando la columna \"d\", en la que las negras est\u00e1n actuando y creando un pe\u00f3n pasado protegido.",
+                    "de": "$ Schlie\u00dft die Linie, auf der Schwarz aktiv ist und schafft einen unterst\u00fctzten Freibauern.",
+                    "zh": "\u5c01\u9501\u9ed1\u65b9\u5206\u5916\u6d3b\u8dc3\u5e76\u62e5\u6709\u53d7\u4fdd\u62a4\u901a\u8def\u5175\u7684d\u7ebf\u3002",
+                    "pl": "Zamykaj\u0105c kolumn\u0119 d, gdzie Czarne aktywnie staraj\u0105 si\u0119 utworzy\u0107 chronionego wolnego piona.",
+                    "ru": "\u0417\u0430\u043a\u0440\u044b\u0432\u0430\u0435\u0442 d-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5ppp\/8\/5PPP\/3k4\/8\/8\/K7 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g6 ",
+                "comment": {
+                    "pt": "Para criar um pe\u00e3o passado e gra\u00e7as a ele vencer a partida.",
+                    "en": "In order to create a passed pawn and win the game with it.",
+                    "es": "Para crear un pe\u00f3n pasado y vencer la partida gracias a \u00e9l.",
+                    "de": "Um einen Freibauern zu erhalten, der die Partie zugunsten von Wei\u00df entscheiden wird.",
+                    "zh": "\u4e3a\u4e86\u5236\u9020\u4e00\u4e2a\u901a\u8def\u5175\uff0c\u5e76\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Aby utworzy\u0107 wolnego piona i wygra\u0107 nim gr\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0430\u0440\u0442\u0438\u044e."
+                }
+            },
+            {
+                "move": "   hxg6 ",
+                "comment": {
+                    "pt": "Se 1...fxg6 seguiria 2-h6 gxh6 3-f6 ganhando.",
+                    "en": "If 1...fxg6, then 2-h6 gxh6 3-f6 would follow and win.",
+                    "es": "Si 1...fxg6 seguir\u00edaa 2-h6 gxh6 3-f6 ganando.",
+                    "de": "$ Auf 1... fxg6 folgt 2. h6 gxh6 3. f6 mit Gewinn.",
+                    "zh": "\u5982\u679c\u4e0b1...fxg6\uff0c\u4f1a\u5e942-h6 gxh6 3-f6\u5e76\u53d6\u5f97\u80dc\u5229\u3002",
+                    "pl": "Je\u015bli 1. ... fxg6, wtedy 2. h6 gxh6 3. f6 i wygrana.",
+                    "ru": "\u041d\u0430 1...fxg6, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 2-h6 gxh6 3-f6 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0448 \u043f\u0430\u0440\u0442\u0438\u0438."
+                }
+            },
+            {
+                "move": "   2. f6 gxf6 3. h6 ",
+                "comment": {
+                    "pt": "E as brancas ir\u00e3o coroar este pe\u00e3o.",
+                    "en": "And White will promote this pawn.",
+                    "es": "Y las blancas coronar\u00e1n este pe\u00f3n .",
+                    "de": "$ Und Wei\u00df wandelt diesen Bauern um",
+                    "zh": "\u767d\u5175\u83b7\u5f97\u5347\u53d8\u3002",
+                    "pl": "I Bia\u0142e promuj\u0105 tego piona.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044e\u0442 \u044d\u0442\u0443 \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5ppp\/8\/5PPP\/8\/2k5\/8\/K7 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... g6 ",
+                "comment": {
+                    "pt": "\u00danica jogada para evitar a cria\u00e7\u00e3o de um pe\u00e3o passado branco, que ocorreria ap\u00f3s as jogadas 1...Rd4 2-g6.",
+                    "en": "The only way to prevent White from creating a passed pawn, which would happen after 1...Kd4 2-g6.",
+                    "es": "\u00danica jugada para evitar la creaci\u00f3n de un pe\u00f3n pasado blanco, que ocurrir\u00eda despu\u00e9s de las jugadas 1...Rd4 2-g6.",
+                    "de": "Der einzige Zug, der das Entstehen eines Freibauern verhindert, was nach 1...Kd4 2.g6 geschehen w\u00fcrde.",
+                    "zh": "\u5728\u8d701...Kd4 2-g6\u4e4b\u540e\u552f\u4e00\u53ef\u4ee5\u9632\u6b62\u767d\u65b9\u5236\u9020\u901a\u8def\u5175\u7684\u4e00\u6b65\u3002",
+                    "pl": "Jedyny spos\u00f3b na uniemo\u017cliwienie Bia\u0142ym stworzenie wolnego piona, kt\u00f3re nast\u0105pi\u0142oby po 1. ... Kd4 2. g6.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u0411\u0435\u043b\u044b\u043c \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 1...Kd4 2-g6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "4Rr1k\/2pb2p1\/5n1p\/5p2\/2PPpP1P\/2pnP1P1\/3N2R1\/3N2KB b - - 0 1",
+        "moves": [
+            {
+                "move": "1... c2 ",
+                "comment": {
+                    "pt": "Um lindo e instrutivo exemplo da for\u00e7a do pe\u00e3o passado. As brancas n\u00e3o cosneguir\u00e3o evitar sua coroa\u00e7\u00e3o.",
+                    "en": "A beautiful and instructive example of the power of a passed pawn. White won't be able to prevent its promotion.",
+                    "es": "Un lindo e instructivo ejemplo de la fuerza del pe\u00f3n pasado. Las blancas no lograr\u00e1n evitar su coronaci\u00f3n.",
+                    "de": "Ein sch\u00f6nes und lehrreiches Beispiel der Kraft eines Freibauerns. Wei\u00df kann die Bauernumwandlung nicht mehr verhindern.",
+                    "zh": "\u8fd9\u662f\u4e00\u4e2a\u975e\u5e38\u597d\u7684\u7a81\u51fa\u4e86\u901a\u8def\u5175\u5a01\u529b\u7684\u4f8b\u5b50\u3002\u767d\u68cb\u4e0d\u80fd\u518d\u963b\u6b62\u9ed1\u5175\u5347\u53d8\u3002",
+                    "pl": "Pi\u0119kny i instrukta\u017cowy przyk\u0142ad pot\u0119gi wolnego piona. Bia\u0142e nie s\u0105 w stanie zapobiec promocji.",
+                    "ru": "\u041f\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u0438\u043c\u0435\u0440 \u043c\u043e\u0449\u0438 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0411\u0435\u043b\u044b\u0435 \u043d\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0435\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435."
+                }
+            },
+            {
+                "move": "   2. Rxf8+ Kh7 ",
+                "comment": {
+                    "pt": "E as pretas vencer\u00e3o ap\u00f3s coroarem o pe\u00e3o.",
+                    "en": "And Black wins after the promotion of this pawn.",
+                    "es": "Y las negras vencer\u00e1n despu\u00e9s de coronar el pe\u00f3n.",
+                    "de": "$ Schwarz gewinnt nach der Umwandlung des Bauern",
+                    "zh": "\u9ed1\u5175\u5347\u53d8\u4e4b\u540e\u9ed1\u65b9\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "I Czarne wygrywaj\u0105 po promocji piona.",
+                    "ru": "\u0418 \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442, \u043f\u043e\u0441\u043b\u0435 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peoes passados",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "6k1\/p3b1pp\/4p3\/4Pp2\/Pp1r1P1P\/1P4P1\/2p2R2\/5RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Rc4 ",
+                "comment": {
+                    "pt": "Sustentando o pe\u00e3o c e amea\u00e7ando ...Bc5 , portanto for\u00e7ando as brancas a tomarem a torre , permitindo que as pretas obtenham um par de pe\u00f5es passados protegidos e bem avan\u00e7ados.",
+                    "en": "Supporting the c-pawn and threatening ...Bc5 and thus forcing White to take the Rook, allowing Black to get a pair of well advanced passed pawns.",
+                    "es": "Sosteniendo el pe\u00f3n \"c\" y amenazando ...Ac5 y forzando por lo tanto a las blancas a tomar la torre, lo que permite que las negras obtengan un par de peones pasados protegidos y bien avanzados.",
+                    "de": "Unterst\u00fctzt den Bauern und droht ...Lc5, was Wei\u00df dazu zwingt, den Turm zu schlagen. Nach dem Schlagen des Turms auf c4 entstehen zwei verbundene gesch\u00fctzte weitvorgerr\u00fcckte Freibauer.",
+                    "zh": "\u652f\u6301c-\u5175\u5e76\u5a01\u80c1...Bc5\uff0c\u5e76\u4ee5\u6b64\u903c\u8feb\u767d\u68cb\u5151\u8f66\u3002\u8fd9\u6837\u9ed1\u68cb\u5c31\u5f97\u4ee5\u5236\u9020\u4e24\u4e2a\u9760\u524d\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Wsparcie piona c i gro\u017aba ... Gc5, co zmusza Bia\u0142e do wzi\u0119cia Wie\u017cy i pozwala Czarnym uzyska\u0107 par\u0119 daleko ustawionych wolnych pion\u00f3w.",
+                    "ru": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 c-\u043f\u0435\u0448\u043a\u0443 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 ...Bc5. \u042d\u0442\u043e \u0437\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u0432\u0437\u044f\u0442\u044c \u041b\u0430\u0434\u044c\u044e, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0427\u0435\u0440\u043d\u044b\u043c \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0430\u0440\u0443 \u0445\u043e\u0440\u043e\u0448\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u044b\u0445 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a."
+                }
+            },
+            {
+                "move": "   2. bxc4 Bc5 3. Kg2 Bxf2 4. Kxf2 b3 ",
+                "comment": {
+                    "pt": "E as pretas ir\u00e3o coroar um de seus peoes e vencer facilmente.",
+                    "en": "And Black will promote one of its pawns, winning easily afterwards.",
+                    "es": "Y las negras coronar\u00e1n uno de sus penoes y vencer\u00e1n f\u00e1cilmente.",
+                    "de": "$ Und Schwarz wird einen der Bauern umwandeln und leicht gewinnen",
+                    "zh": "\u4e00\u4e2a\u9ed1\u5175\u5f97\u4ee5\u5347\u53d8\uff0c\u9ed1\u65b9\u968f\u540e\u8f7b\u677e\u83b7\u80dc\u3002",
+                    "pl": "I Czarne promuj\u0105 jeden z pion\u00f3w, wygrywaj\u0105c \u0142atwo potem.",
+                    "ru": "\u0418 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442 \u043e\u0434\u043d\u0443 \u0438\u0437 \u0441\u0432\u043e\u0438\u0445 \u043f\u0435\u0448\u0435\u043a."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(4)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1nk1\/ppp3rp\/3b1n2\/PNNPp1p1\/1P2Pp2\/5P2\/4BBPP\/R2Q1RK1 b - - 0 20",
+        "moves": [
+            {
+                "move": "20... g4 ",
+                "comment": {
+                    "pt": "Abrindo linhas para atacar no flanco rei.",
+                    "en": "Opening lines in order to attack on the kingside.",
+                    "de": "\u00d6ffnet Linien f\u00fcr den Angriff am K\u00f6nigsfl\u00fcgel.",
+                    "es": "Abriendo l\u00edneas para atacar en el flanco rey.",
+                    "zh": "\u5f00\u653e\u8def\u7ebf\u4ee5\u4fbf\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Otwarcie linii w celu ataku na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(19)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/p1p2pp1\/1p1b4\/1Q1p1q1p\/3P3P\/4B1P1\/PP2RP2\/4R1K1 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Re4 ",
+                "comment": {
+                    "pt": "Para dobrar as torres na coluna e ao mesmo tempo criar amea\u00e7as no flanco do rei.",
+                    "en": "In order to double Rooks in the file and, at the same time, creating threats on the kingside.",
+                    "de": "Um die T\u00fcrme auf der Linie zu verdoppeln und zur gleichen Zeit Drohungen am K\u00f6nigsfl\u00fcgel aufzustellen.",
+                    "es": "Para doblar las torres en la columna y al mismo tiempo crear amenazas en el flanco rey.",
+                    "zh": "\u4e3a\u4e86\u5728\u8fd9\u6761\u7ebf\u83b7\u5f97\u53cc\u8f66\u540c\u65f6\u7ed9\u738b\u7ffc\u5236\u9020\u5a01\u80c1\u3002",
+                    "pl": "W celu zdublowania Wie\u017c na kolumnie i w tej samej chwili tworzenie zagro\u017ce\u0144 na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0432\u043e\u0438\u0442\u044c \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u0433\u0440\u043e\u0437\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(102)",
+            "zh": "Event 1"
+        },
+        "fen": "2rr2k1\/p2q2b1\/1p1pb1pp\/4p3\/2P5\/1PN1Q1P1\/P4PBP\/2RR2K1 w - - 0 24",
+        "moves": [
+            {
+                "move": "24. Bd5 ",
+                "comment": {
+                    "pt": "Ap\u00f3s a troca dos bispos o cavalo poder\u00e1 se instalar , inexpugnavelmente, em d5.",
+                    "en": "After the trade of Bishops, the Knight can occupy d5 and it will be impossible to chase it away from there.",
+                    "de": "Nach dem Abtausch der L\u00e4ufer wird der Springer das Feld d5 besetzen und nicht mehr von dort vertrieben werden.",
+                    "es": "Despu\u00e9s del cambio de alfiles el caballo podr\u00e1 instalarse, inexpugnablemente, en d5.",
+                    "zh": "\u5151\u6362\u8c61\u4e4b\u540e\u9a6c\u514b\u4ee5\u62a2\u5360d5\u5e76\u4e14\u4e0d\u53ef\u80fd\u518d\u4ece\u8fd9\u513f\u88ab\u8d76\u8d70\u3002",
+                    "pl": "Po wymianie Go\u0144c\u00f3w, Skoczek mo\u017ce zaj\u0105\u0107 d5 i niemo\u017cliwe b\u0119dzie jego przegonienie z tego punktu.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u0421\u043b\u043e\u043d\u043e\u0432, \u041a\u043e\u043d\u044c \u043c\u043e\u0436\u0435\u0442 \u0437\u0430\u043d\u044f\u0442\u044c d5 \u0438 \u0435\u0433\u043e \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0442\u0443\u0434\u0430 \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(178)",
+            "zh": "Event 1"
+        },
+        "fen": "6rr\/1p1bkp2\/1n2p3\/p2pP1p1\/P4P2\/1PNB2P1\/2PK4\/4R2R b - - 0 20",
+        "moves": [
+            {
+                "move": "20... Bc6 ",
+                "comment": {
+                    "pt": "Ocupando uma diagonal importante e liberando a casa d7 para melhorar a posi\u00e7\u00e3o do cavalo.",
+                    "en": "Occupying an important diagonal and leaving d7 for a better positioning of the Knight.",
+                    "de": "Besetzt eine wichtige Diagonale und r\u00e4umt das Feld d7, um die Stellung vom Springer zu verbessern.",
+                    "es": "Ocupando una diagonal importante y liberando la casilla d7 para mejorar la posici\u00f3n del caballo.",
+                    "zh": "\u5360\u636e\u91cd\u8981\u7684\u659c\u7ebf\uff0c\u6e05\u7a7ad7\u4e3a\u4e86\u6539\u5584\u9a6c\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Okupuj\u0105c wa\u017cn\u0105 przek\u0105tn\u0105 i opuszczaj\u0105c d7 dla lepszego ustawienia Skoczka.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0432\u0430\u0436\u043d\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0438 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u043e\u043b\u0435 d7 \u0434\u043b\u044f \u041a\u043e\u043d\u044f, \u0433\u0434\u0435 \u0443 \u043d\u0435\u0433\u043e \u0431\u0443\u0434\u0435\u0442 \u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0433\u043e\u0434\u043d\u0430\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(47)",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qkb1r\/p4ppp\/1p2pn2\/3p4\/2PN4\/6P1\/PP2PPKP\/RNBQ1R2 w kq - 0 9",
+        "moves": [
+            {
+                "move": "9. Qa4+ ",
+                "comment": {
+                    "pt": "Come\u00e7ando um ataque sobre o rei preto.",
+                    "en": "Starting an attack on the black King.",
+                    "de": "Der Auftakt zu einem Angriff auf den schwarzen K\u00f6nig.",
+                    "es": "Empezando un ataque sobre el rey negro.",
+                    "zh": "\u5f00\u59cb\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Rozpocz\u0119cie ataku na czarnego Kr\u00f3la.",
+                    "ru": "\u041d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

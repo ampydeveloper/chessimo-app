@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(88)",
+            "zh": "Event 1"
+        },
+        "fen": "q4rk1\/1bpnbppp\/2np4\/4p3\/3PP3\/2P2N2\/2BN1PPP\/2BQR1K1 w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Nf1 ",
+                "comment": {
+                    "pt": "Para levar o cavalo a ala do rei.",
+                    "en": "In order to take the Knight to the kingside.",
+                    "de": "Um den Springer zum K\u00f6nigsfl\u00fcgel zu bringen.",
+                    "es": "Para llevar el caballo al ala rey.",
+                    "zh": "\u4e3a\u4e86\u8ba9\u9a6c\u5230\u8fbe\u738b\u7ffc\u3002",
+                    "pl": "W celu przemieszczenia Skoczka na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(61)",
+            "zh": "Event 1"
+        },
+        "fen": "3rr1k1\/2p1q1pp\/p2b1pn1\/1pp5\/4P2P\/2B2NP1\/PPP1QP2\/1K1RR3 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. h5 ",
+                "comment": {
+                    "pt": "Expulsando o cavalo e come\u00e7ando o ataque no flanco rei.",
+                    "en": "Driving away the Knight and starting the kingside attack.",
+                    "de": "Vertreibt den Springer und beginnt einen Angriff auf den K\u00f6nigsfl\u00fcgel.",
+                    "es": "Expulsando el caballo y empezando el ataque en el flanco rey.",
+                    "zh": "\u8d76\u8d70\u9a6c\u5e76\u4e14\u5f00\u59cb\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Przegonienie Skoczka i rozpocz\u0119cie ataku na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u041a\u043e\u043d\u044f \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(100)",
+            "zh": "Event 1"
+        },
+        "fen": "2rrb1k1\/p3qppp\/1pp1p2b\/8\/1P1PP2P\/P1QN1BP1\/5P2\/1R1R2K1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. Ne5 ",
+                "comment": {
+                    "pt": "Para jogar Cg4 e amea\u00e7ar o bispo de h6.",
+                    "en": "In order to play Ng4 and threaten the h6-Bishop.",
+                    "de": "Um Sg3 zu spielen und den L\u00e4ufer auf h6 zu drohen.",
+                    "es": "Para jugar Cg4 y amenazar el alfil de h6.",
+                    "zh": "\u4e3a\u4e86\u4e0bNg4\u5e76\u4e14\u5a01\u80c1h6-\u8c61\u3002",
+                    "pl": "W celu zagrania Sg4 i zagro\u017cenia Go\u0144cowi h6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Ng4 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u0433\u0440\u043e\u0437\u0443 \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 h6."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(37)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pppqnp1p\/1b1p1p2\/3P4\/2N1P3\/5N2\/P4PPP\/R2Q1RK1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Nh4 ",
+                "comment": {
+                    "pt": "Para controlar a casa f5 e abrir o caminho para a dama participar do ataque.",
+                    "en": "In order to control f5 and open the way for the Queen to participate in the attack.",
+                    "de": "Um das Feld f5 zu kontrollieren und der Dame die Diagonale d1-h5 zu \u00f6ffnen, damit sie sich am Angriff beteiligt.",
+                    "es": "Para controlar la casilla f5 y abrirle paso a la dama para que participe del ataque.",
+                    "zh": "\u4e3a\u4e86\u63a7\u5236f5\uff0c\u5e76\u4e14\u5f00\u901a\u738b\u540e\u6295\u5165\u6218\u6597\u7684\u9053\u8def\u3002",
+                    "pl": "W celu kontroli f5 i otwarcia drogi dla Hetmana, by wzi\u0105\u0142 on udzia\u0142 w ataku.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u043b\u0435 f5 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043f\u0443\u0442\u044c \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0424\u0435\u0440\u0437\u044f \u0430 \u0430\u0442\u0430\u043a\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(134)",
+            "zh": "Event 1"
+        },
+        "fen": "2B5\/7K\/1k4p1\/p4p1b\/2P2P2\/6P1\/7P\/8 w - - 0 50",
+        "moves": [
+            {
+                "move": "50. Bd7 ",
+                "comment": {
+                    "pt": "Contendo o avan\u00e7o do pe\u00e3o passado das pretas.",
+                    "en": "Restraining the black passed pawn from advancing.",
+                    "de": "Stoppt den Aufmarsch vom schwarzen Freibauern.",
+                    "es": "Conteniendo el avance del pe\u00f3n pasado de las negras.",
+                    "zh": "\u963b\u6b62\u9ed1\u901a\u8def\u5175\u524d\u8fdb\u3002",
+                    "pl": "Powstrzymanie przed marszem czarnego wolnego piona.",
+                    "ru": "\u0421\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043e\u0442 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

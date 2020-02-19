@@ -1,0 +1,169 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Options
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding optionpage">
+
+  <ion-row class="form-box">
+    <ion-col>
+      <h1>Training Settings</h1>
+
+      <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Show correct move after</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-select placeholder="Tries" [(ngModel)]="userService.trainingSetting.trainSolutionTries" (ionChange)="userService.save()">
+                  <ion-select-option value="1">1 try</ion-select-option>
+                  <ion-select-option value="2">2 tries</ion-select-option>
+                  <ion-select-option value="3">3 tries</ion-select-option>
+                  <ion-select-option value="4">4 tries</ion-select-option>
+                  <ion-select-option value="5">5 tries</ion-select-option>
+                  <ion-select-option value="0">never</ion-select-option>
+                </ion-select>
+            </ion-col>
+          </ion-row>
+      </div>
+
+      <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Time per exercise</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-select placeholder="Mintues" [(ngModel)]="userService.trainingSetting.trainTimePerExercise" (ionChange)="userConnectService.saveField('time_per_exercise', userService.trainingSetting.trainTimePerExercise)"> 
+                  <ion-select-option value="1" selected>1 min</ion-select-option>
+                  <ion-select-option value="2">2 min</ion-select-option>
+                  <ion-select-option value="3">3 min</ion-select-option>
+                  <ion-select-option value="4">4 min</ion-select-option>
+                  <ion-select-option value="5">5 min</ion-select-option>
+                  <ion-select-option value="6">6 min</ion-select-option>
+                  <ion-select-option value="7">7 min</ion-select-option>
+                  <ion-select-option value="8">8 min</ion-select-option>
+                  <ion-select-option value="9">9 min</ion-select-option>
+                  <ion-select-option value="10">10 min</ion-select-option>
+                  <ion-select-option value="15">15 min</ion-select-option>
+                  <ion-select-option value="20">20 min</ion-select-option>
+                  <ion-select-option value="30">30 min</ion-select-option>
+                </ion-select>
+            </ion-col>
+          </ion-row>
+      </div>
+
+      <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Start of training*</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="userService.trainingSetting.startDate" (ionChange)="userService.save()" disabled="true"></ion-datetime>
+            </ion-col>
+          </ion-row>
+      </div>
+
+      <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+                <label>End of training*</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="userService.trainingSetting.endDate" (ionChange)="userService.save()" disabled="true"></ion-datetime>
+            </ion-col>
+          </ion-row>
+      </div>
+
+      <p class="black-color">*Some settings can only be changed on Chessimo Online</p>
+    </ion-col>
+  </ion-row>
+
+  <ion-row class="form-box">
+      <ion-col>
+        <h1>Game Settings</h1>
+        <div class="input-group-open">
+          <ion-row class="input-row">
+            <ion-col size="8">
+                <label>Sound Enable</label>
+            </ion-col>
+            <ion-col size="4">
+                <ion-toggle color="secondary"  [(ngModel)]="userService.gameSetting.soundEnabled"  (ionChange)="userConnectService.saveField('sound', userService.gameSetting.soundEnabled)" ></ion-toggle>
+            </ion-col>
+          </ion-row>
+
+          <ion-row class="input-row">
+            <ion-col size="8">
+                <label>White always at bottom</label>
+            </ion-col>
+            <ion-col size="4">
+                <ion-toggle color="secondary" [(ngModel)]="userService.gameSetting.whiteAlwaysSouth"  (ionChange)="userConnectService.saveField('white_display', userService.gameSetting.whiteAlwaysSouth)"></ion-toggle>
+            </ion-col>
+          </ion-row>
+
+          <ion-row class="input-row">
+            <ion-col size="8">
+                <label>Show Sergio</label>
+            </ion-col>
+            <ion-col size="4">
+                <ion-toggle color="secondary" [(ngModel)]="userService.gameSetting.showSergio"  (ionChange)="userService.save()"></ion-toggle>
+            </ion-col>
+          </ion-row>
+
+          <ion-row class="input-row">
+            <ion-col size="8">
+                <label>Autoload next exercise</label>
+            </ion-col>
+            <ion-col size="4">
+                <ion-toggle color="secondary" [(ngModel)]="userService.gameSetting.autoloadNextExercise"  (ionChange)="userService.save()"></ion-toggle>
+            </ion-col>
+          </ion-row>
+        </div>
+
+        <h1>Design</h1>
+        <div class="design-options-row">
+          <div class="design-option">
+            <h2>Chess-Board</h2>
+            <div class="option-set">
+              <button (click)="selectPreBoardSet()" ><img src="/assets/images/media-prev.png" width="15px" /></button>
+              <button (click)="selectNextBoardSet()"><img src="/assets/images/media-next.png" width="15px"/></button>
+            </div>
+          </div>
+          <div class="design-option">
+            <h2>Figure-Set</h2>
+            <div class="option-set">
+              <button (click)="selectPrePieceSet()" ><img src="/assets/images/media-prev.png" width="15px"/></button>
+              <button (click)="selectNextPieceSet()"><img src="/assets/images/media-next.png" width="15px" /></button>
+            </div>
+          </div>
+        </div>
+
+        <div id="options-view" style="margin-top:20px; display: flex; justify-content: center; overflow: hidden;">
+          <div id="options-board-wrapper" class="board-wrapper board-{{userService.gameSetting.boardSet}}">
+            <div id="options-static-board" class="static-board {{userService.gameSetting.pieceSet}}">
+              <div class="row">
+                <div class="field"></div>
+                <div class="field"></div>
+                <div class="field bK"></div>
+                <div class="field bP"></div>
+                <div class="field bP"></div>
+              </div>
+              <div class="row">
+                <div class="field wP"></div>
+                <div class="field wP"></div>
+                <div class="field"></div>
+                <div class="field wK"></div>
+                <div class="field"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ion-col>
+  </ion-row>
+
+</ion-content>

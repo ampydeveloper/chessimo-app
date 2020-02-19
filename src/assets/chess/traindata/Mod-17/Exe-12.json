@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Gambito Let\u00e3o.",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Latvian gambit",
+            "de": "Lettisches Gambit",
+            "es": "Gambito Let\u00f3n",
+            "pt": "Gambito Let\u00e3o",
+            "zh": "\u62c9\u8131\u7ef4\u4e9a\u5f03\u5175",
+            "pl": "Gambit \u0142otewski",
+            "ru": "\u041b\u0430\u0442\u044b\u0448\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 f5 ",
+                "comment": {
+                    "pt": "O Gambito Let\u00e3o faz parte da era do xadrez rom\u00e2ntico onde os dois jogadores tratavam de atacar o quanto antes. A id\u00e9ia de trocar o pe\u00e3o bispo pelo pe\u00e3o rei \u00e9 estrategicamente correta e ocorre em outras aberturas como o Gambito do rei , mas o ponto negativo, al\u00e9m do sacrif\u00edcio do pe\u00e3o, \u00e9 a prematura exposi\u00e7\u00e3o do pr\u00f3prio rei.",
+                    "en": "The Letvian gambit is part of the romantic chess era when both players tried to attack as fast as possible. The idea of exchanging Bishop-pawn for King-pawn is strategically correct and happens in other openings as in the King's gambit but the negative aspect besides the pawn sacrifice is the premature exposure of the King.",
+                    "es": "El Gambito Let\u00f3n forma parte de la era del ajedrez rom\u00e1ntico en la que los dos jugadores trataban de atacar cuanto antes. La idea de cambiar el pe\u00f3n alfil por el pe\u00f3n rey es estrat\u00e9gicamente correcta y ocurre en otras aperturas como el Gambito de Rey; el punto negativo es que, adem\u00e1s del sacrificio del pe\u00f3n, se expone prematuramente al propio rey.",
+                    "de": "Das Lettische Gambit geh\u00f6rt zur romantischen Zeit des Schachspiels, als beide Kontrahenten versuchten, so schnell wie nur m\u00f6glich den gegnerischen K\u00f6nig anzugreifen. Die Idee, den f-Bauern gegen den gegenerischen e-Bauern abzutauschen ist strategisch korrekt und kommt in anderen Er\u00f6ffnungen vor (z. B. im K\u00f6nigsgambit), negativ jedoch wirkt die fr\u00fchzeitige Entbl\u00f6ssung des K\u00f6nigs, vom geopferten Bauern abgesehen.",
+                    "zh": "\u62c9\u8131\u7ef4\u4e9a\u5f03\u5175\u662f\u6d6a\u6f2b\u4e3b\u4e49\u65f6\u4ee3\u4e24\u4e2a\u68cb\u624b\u90fd\u4f01\u56fe\u901f\u6218\u901f\u51b3\u3002\u4ee5\u8c61\u5175\u5151\u738b\u5175\u5728\u6218\u7565\u4e0a\u662f\u6b63\u786e\u7684\uff0c\u4e5f\u51fa\u73b0\u5728\u5176\u4ed6\u5f00\u5c40\u4e2d\uff0c\u8b6c\u5982\u738b\u7ffc\u5f03\u5175\uff0c\u4f46\u662f\u7f3a\u70b9\u662f\u9664\u4e86\u5f03\u5175\u4e4b\u5916\u4f7f\u5f97\u738b\u8fc7\u65e9\u66b4\u9732\u3002",
+                    "pl": "\u0141otewski gambit pochodzi z romantycznej ery szach\u00f3w, gdzie obaj gracze starali si\u0119 atakowa\u0107 tak szybko, jak to mo\u017cliwe. Idea wymiany piona f5 jest strategicznie poprawna i zdarza si\u0119 w innych debiutach, jak w Kr\u00f3lewskim gambicie, ale negatywnym jej aspektem jest, opr\u00f3cz utraty piona, tak\u017ce przedwczesne ods\u0142oni\u0119cie Kr\u00f3la.",
+                    "ru": "\u041b\u0430\u0442\u044b\u0448\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0441\u044f \u043a \u044d\u0440\u0435, \u043a\u043e\u0433\u0434\u0430 \u043e\u0431\u0430 \u0438\u0433\u0440\u043e\u043a\u0430 \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b\u0438 \u0431\u044b\u0441\u0442\u0440\u043e \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430. \u0418\u0434\u0435\u044f \u0432 \u0440\u0430\u0437\u043c\u0435\u043d\u0435 \u0441\u043b\u043e\u043d\u043e\u0432\u043e\u0439 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0430\u044f \u0438 \u0441\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0434\u0440\u0443\u0433\u0438\u0445 \u0434\u0435\u0431\u044e\u0442\u0430\u0445, \u0442\u0430\u043a \u0438 \u0432 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0433\u0430\u043c\u0431\u0438\u0442\u0435. \u041d\u043e \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u044b\u043c \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0442\u043e, \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435 \u0436\u0435\u0440\u0442\u0432\u044b \u043f\u0435\u0448\u043a\u0438 \u0438\u0434\u0435\u0442 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u043e\u0435 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   3. Nxe5 Qf6 ",
+                "comment": {
+                    "pt": "3...fxe5? 4-Dh5.",
+                    "en": "3...fxe5? 4-Qh5.",
+                    "es": "3...fxe5? 4-Dh5.",
+                    "de": "3...fxe5? 4. Dh5.",
+                    "zh": "3...fxe5? 4-Qh5\u3002",
+                    "pl": "3. ... fxe5? 4. Hh5.",
+                    "ru": "3...fxe5? 4-Qh5."
+                }
+            },
+            {
+                "move": "   4. d4 d6 5. Nc4 fxe4 6. Nc3 ",
+                "comment": {
+                    "pt": "Este lance \u00e9 superior a 6-Ce3 c6 7-Bc4 d5 8-Bb3, com a id\u00e9ia de seguir com c4 e pressionar o centro branco, como ocorreu na partida 56 de nossa base.",
+                    "en": "This move is superior to 6-Ne3 c6 7-Bc4 d5 8-Bb3, intending to continue with c4 and put pressure the white center as in game 56 of our database.",
+                    "es": "Esta jugada es superior a 6-Ce3 c6 7-Ac4 d5 8-Ab3, con la idea de seguir con c4 y presionar el centro blanco, como ocurri\u00f3 en la partida 56 de nuestra base.",
+                    "de": "Besser als 6. Se3 c6 7. Lc4 d5 8. Lb3 nebst c4 mit Druck auf das wei\u00dfe Zentrum (Partie Nr. 56 unserer Datenbank).",
+                    "zh": "\u8fd9\u4e00\u7740\u8981\u6bd46-Ne3 c6 7-Bc4 d5 8-Bb3\u6765\u7684\u597d\uff0c\u610f\u56fe\u662f\u7ee7\u7eed\u8d70d4\uff0c\u5e76\u7ed9\u767d\u68cb\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\uff0c\u5728\u68cb\u5c4056\u4e2d\u53ef\u4ee5\u4f53\u73b0\u3002",
+                    "pl": "Ten ruch jest lepszy ni\u017c 6. Se3 c6 7. Gc4 d5 8. Gb3 z zamiarem kontynuwacji c4 i wywarcia presji na bia\u0142e centrum jak w grze 56 z naszej bazy.",
+                    "ru": "\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 6-Ne3 c6 7-Bc4 d5 8-Bb3, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445, \u043a\u0430\u043a \u0432 \u0438\u0433\u0440\u0435 56 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   Qg6 ",
+                "comment": {
+                    "pt": "Pa ra continuar com \"... Cf6-Be7-0-0\".",
+                    "en": "In order to continue with ... Nf6-Be7-0-0.",
+                    "es": "Para continuar con \"...Cf6-Ae7-0-0\".",
+                    "de": "Um mit ... Sf6-Le7-0-0 fortzusetzen.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u8d70... Nf6-Be7-0-0\u3002",
+                    "pl": "W celu kontynuacji przez ... Sf6-Ge7-0-0.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Nf6-Be7-0-0."
+                }
+            },
+            {
+                "move": "   7. f3 ",
+                "comment": {
+                    "pt": "Atacando o centro preto. As brancas t\u00eam vantagem devido ao melhor desenvolvimento, conforme demonstrado na partida 168 de nossa base.",
+                    "en": "Attacking the Black center. White has advantage due to better development, as shown in game 168 of our database.",
+                    "es": "Atacando el centro negro. Las blancas tienen ventaja debido al mejor desarrollo, seg\u00fan fue demostrado en la partida 168 de nuestra base.",
+                    "de": "Greift das schwarze Zentrum an. Wei\u00df hat Vorteil aufgrund des Entwicklungsvorsprungs (Partie Nr. 168 unserer Datenbank).",
+                    "zh": "\u653b\u51fb\u9ed1\u65b9\u4e2d\u5fc3\u3002\u767d\u65b9\u56e0\u4e3a\u62e5\u6709\u5b50\u529b\u4f18\u52bf\u5904\u4e8e\u4e0a\u98ce\uff0c\u89c1\u68cb\u5c40168\u3002",
+                    "pl": "Atakuj\u0105c czarne centrum. Bia\u0142e posiadaj\u0105 przewag\u0119 z powodu lepszego rozwoju, jak pokazuje gra 168 w naszej bazie.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445. \u0423 \u0411\u0435\u043b\u044b\u0445 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0442\u0430\u043a \u043a\u0430\u043a \u0443 \u043d\u0438\u0445 \u043b\u0443\u0447\u0448\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u044b \u0444\u0438\u0433\u0443\u0440\u044b, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 168 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

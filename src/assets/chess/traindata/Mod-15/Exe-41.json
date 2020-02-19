@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(50)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b3k1\/2p2r2\/2Np1nnq\/P2Pp1b1\/P3PpP1\/2N2B2\/5BP1\/R2QR1K1 b - - 0 26",
+        "moves": [
+            {
+                "move": "26... Nh4 ",
+                "comment": {
+                    "pt": "O rei branco ir\u00e1 fugir do flanco do rei via f1-e2 e esta jogada visa continuar o ataque mesmo que ele fuja, pois quando chegar a e2, as pretas poder\u00e3o tomar o bispo de f3 e depois o pe\u00e3o de g4 com o cavalo ou o bispo.",
+                    "en": "The white King will escape from the kingside through f1-e2. This move aims to continue the attack even if the King flees, because when it reaches e2, Black will be able to capture the f3-Bishop and then the g4-Pawn with the Knight or the Bishop.",
+                    "de": "Der wei\u00dfe K\u00f6nig will den K\u00f6nigsfl\u00fcgel \u00fcber f1-e2 verlassen. Mit dem Textzug beabsichtigt Wei\u00df, den Angriff trotzdem fortzusetzen, denn Schwarz wird den L\u00e4ufer auf f3 und anschlie\u00dfend den Bauern auf g4 entweder mit dem Springer oder dem L\u00e4ufer schlagen, wenn der K\u00f6nig e2 erreicht.",
+                    "es": "El rey blanco va a huir del flanco rey v\u00eda f1-e2 y esta jugada tiene por objetivo continuar el ataque a pesar de esta fuga, pues cuando llegue a e2, las negras podr\u00e1n tomar el alfil de f3 y despu\u00e9s el pe\u00f3n de g4 con el caballo o el alfil.",
+                    "zh": "\u767d\u738b\u53ef\u4ee5\u901a\u8fc7\u738b\u7ffcf1-e2\u79bb\u5f00\u3002\u8fd9\u4e00\u7740\u7684\u76ee\u7684\u662f\u5373\u4f7f\u738b\u4f1a\u9003\u8d70\u8fd8\u8981\u7ee7\u7eed\u653b\u51fb\uff0c\u56e0\u4e3a\u5982\u679c\u738b\u5230\u8fbee2\uff0c\u9ed1\u68cb\u53ef\u4ee5\u7528\u9a6c\u6216\u8c61\u6765\u6349f3-\u8c61\u548cg4-\u5175\u3002",
+                    "pl": "Bia\u0142y Kr\u00f3l ucieknie ze skrzyd\u0142a kr\u00f3lewskiego przez f1-e2. Ten ruch umo\u017cliwia kontynuacj\u0119 ataku nawet je\u015bli Kr\u00f3l ucieknie, poniewa\u017c kiedy osi\u0105gnie e2, Czarne b\u0119d\u0105 w stanie zbi\u0107 Go\u0144ca f3 i potem piona g4 przez Skoczka lub Go\u0144ca.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0442\u044c \u043e\u0442 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430 \u0447\u0435\u0440\u0435\u0437 f1-e2. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d \u043d\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0438 \u0430\u0442\u0430\u043a\u0438, \u0434\u0430\u0436\u0435 \u0435\u0441\u043b\u0438 \u041a\u043e\u0440\u043e\u043b\u044c \u043e\u0442\u0441\u0442\u0443\u043f\u0430\u0435\u0442, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u0434\u043e\u0441\u0442\u0438\u0433\u043d\u0435\u0442 \u043f\u043e\u043b\u044f e2, \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u0432\u0437\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 f3, \u0430 \u0437\u0430\u0442\u0435\u043c \u041a\u043e\u043d\u0435\u043c \u0438\u043b\u0438 \u0421\u043b\u043e\u043d\u043e\u043c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 g4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(3)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1k2r\/p2q1ppp\/1pn2n2\/1N1p4\/Qb3B2\/6P1\/P3PPKP\/RNR5 w k - 0 15",
+        "moves": [
+            {
+                "move": "15. Rxc6 ",
+                "comment": {
+                    "pt": "Jogada superior a Cc7, que ganharia uma qualidade. Nesta posi\u00e7\u00e3o \u00e9 mais importante ter duas pe\u00e7as pela torre.",
+                    "en": "Superior move to Nc7 (that would result in one exchange up). In this position it's more important to keep 2 pieces for the Rook.",
+                    "de": "Der Textzug ist st\u00e4rker als Sc7, was eine Qualit\u00e4t gewinnen w\u00fcrde. In dieser Stellung sind zwei Figuren st\u00e4rker als der Turm.",
+                    "es": "Jugada superior a Cc7, que ganar\u00eda una calidad. En esta posici\u00f3n es m\u00e1s importante tener dos piezas por la torre.",
+                    "zh": "\u8fd9\u4e00\u6b65\u8981\u6bd4Nc7\u6765\u7684\u597d\uff08\u53ef\u4ee5\u8d62\u5f97\u5b50\u529b\uff09\u3002\u6b64\u5904\u4fdd\u4f4f\u4e24\u4e2a\u68cb\u5b50\u8981\u6bd4\u8f66\u6765\u7684\u91cd\u8981\u3002",
+                    "pl": "Lepsze ni\u017c Sc7 (kt\u00f3re daje przewag\u0119 jednej figury). W tej pozycji wa\u017cniejsze jest utrzymanie dw\u00f3ch figur dla Wie\u017cy.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043b\u0443\u0447\u0448\u0435 \u0447\u0435\u043c Nc7 (\u0447\u0442\u043e \u043f\u0440\u0438\u0432\u0435\u043b\u043e \u0431\u044b \u043a \u0440\u0430\u0437\u043c\u0435\u043d\u0443 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c \u0432 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443). \u0412 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u044b\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0434\u0432\u0435 \u0444\u0438\u0433\u0443\u0440\u044b, \u0434\u043b\u044f \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0441 \u041b\u0430\u0434\u044c\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(41)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/r4k2\/p1p2p2\/PbNp3p\/1P3P2\/2P5\/5K1P\/4R3 w - - 0 42",
+        "moves": [
+            {
+                "move": "42. f5 ",
+                "comment": {
+                    "pt": "Criando um posto avan\u00e7ado em e6 e evitando que as pretas ativem seu rei via g6-f5..",
+                    "en": "Creating an outpost on e6 and preventing Black from activating its King by means of g6-f5.",
+                    "de": "Erreicht einen Vorposten auf e6 und verhindert, dass Schwarz seinen K\u00f6nig \u00fcber g6-f5 aktiviert.",
+                    "es": "Creando un puesto avanzado en e6 y evitando que las negras activen su rey v\u00eda g6-f5.",
+                    "zh": "\u5728e6\u5236\u9020\u4e00\u4e2a\u524d\u54e8\u5e76\u4e14\u963b\u6b62\u9ed1\u68cb\u901a\u8fc7g6-f5\u6765\u6d3b\u8dc3\u9ed1\u738b\u3002",
+                    "pl": "Tworzenie plac\u00f3wki na e6 i uniemo\u017cliwianie Czarnym aktywacji ich Kr\u00f3la poprzez g6-f5.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0444\u043e\u0440\u043f\u043e\u0441\u0442 \u043d\u0430 e6 \u0438 \u043d\u0435 \u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0430\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044f \u0441 \u0446\u0435\u043b\u044c\u044e g6-f5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(103)",
+            "zh": "Event 2"
+        },
+        "fen": "3r1r2\/1q2b1k1\/n1p1Qpp1\/p3p2p\/P3P3\/2P1BN1P\/1P1R2PK\/5R2 w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Rxd8 ",
+                "comment": {
+                    "pt": "Aproveitando o momento em que as pretas n\u00e3o podem retomar com a torre, por causa de Cxe5 e com isto garantindo o dom\u00ednio desta coluna. ap\u00f3s Td1.",
+                    "en": "Taking advantage of the moment, in which Black cannot recapture with the Rook, due to Nxe5, and thus guaranteeing the dominance of this file after Rd1.",
+                    "de": "Schwarz kann wegen Sxe5 nicht mit dem Turm schlagen. Wei\u00df nutzt diesen Umstand aus und wird sich damit die Kontrolle der Linie nach Td1 sichern.",
+                    "es": "Aprovechando que por el momento las negras no pueden volver con la torre, a causa de Cxe5 y asegurando as\u00ed el dominio de esta columna despu\u00e9s de Td1.",
+                    "zh": "\u9ed1\u68cb\u4e0d\u80fd\u7528Nxe5\u7528\u8f66\u8fdb\u884c\u653b\u51fb\u3002\u767d\u68cb\u5229\u7528\u8fd9\u4e2a\u65f6\u673a\u5728\u4e0bRd1\u4e4b\u540e\u786e\u4fdd\u5bf9\u8fd9\u6761\u7ebf\u7684\u7edf\u6cbb\u3002",
+                    "pl": "Wykorzystanie momentu, w kt\u00f3rym Czarne nie mog\u0105 odzyska\u0107 materia\u0142u Wie\u017c\u0105 z powodu Sxe5, a co za tym idzie zagwarantowanie dominacji tej kolumny po Wd1.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043c\u043e\u043c\u0435\u043d\u0442, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c\u0441\u044f \u041b\u0430\u0434\u044c\u0435\u0439, \u0438\u0437-\u0437\u0430 Nxe5, \u0438 \u044d\u0442\u043e \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u043f\u043e\u0441\u043b\u0435 Rd1."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(24)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq3k\/ppp2rbp\/6n1\/P1pPp1p1\/2B1Pp2\/2N2P2\/1P4PP\/R2QNRK1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. a6 ",
+                "comment": {
+                    "pt": "Para enfraquecer o flanco da dama preto e abrir a diagonal d5-a8 no caso das pretas jogarem ...b6 .",
+                    "en": "In order to weaken the black queenside and open the d5-a8 diagonal in case Black plays ...b6.",
+                    "de": "Um den schwarzen Damenfl\u00fcgel zu schw\u00e4chen und die Diagonale d5-a8 \u00f6ffnen, wenn schwarz ...b6 spielt.",
+                    "es": "Para debilitar el flanco dama negro y abrir la diagonal d5-a8 si las negras juegan ...b6 .",
+                    "zh": "\u5982\u679c\u9ed1\u68cb\u4e0b...b6\uff0c\u4ee5\u6b64\u524a\u5f31\u9ed1\u68cb\u540e\u7ffc\u5e76\u4e14\u5f00\u653ed5-a8\u659c\u7ebf\u3002",
+                    "pl": "W celu os\u0142abienia czarnego skrzyd\u0142a hetma\u0144skiego i otwarcia przek\u0105tnej d5-a8 w przypadku zagrania przez Czarne ... b6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c d5-a8, \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 ...b6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

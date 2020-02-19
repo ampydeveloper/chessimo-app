@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(3)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/pp3ppp\/2n2n2\/2pp4\/3P4\/2N1PN2\/PP3PPP\/R1BQKB1R w KQkq - 0 7",
+        "moves": [
+            {
+                "move": "7. Bb5 ",
+                "comment": {
+                    "pt": "Desenvolvendo o bispo de forma ativa.",
+                    "en": "Developing the Bishop in an active way.",
+                    "de": "Entwickelt den L\u00e4ufer mit einem aktiven Zug.",
+                    "es": "Desarrollando el alfil de forma activa.",
+                    "zh": "\u79ef\u6781\u51fa\u52a8\u8c61\u3002",
+                    "pl": "Wyprowadzenie Go\u0144ca w aktywny spos\u00f3b.",
+                    "ru": "\u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(10)",
+            "zh": "Event 1"
+        },
+        "fen": "3rr1k1\/3n1ppp\/2b2n2\/3p1BB1\/1bp5\/2N1PN2\/1P3PPP\/2RR2K1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. Nd4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo e colocando-o numa posi\u00e7\u00e3o onde estar\u00e1 invulner\u00e1vel ao ataque de pe\u00f5es advers\u00e1rios.",
+                    "en": "Centralizing the Knight and placing it in a position where it isn't vulnerable to enemy pawn attacks.",
+                    "de": "Zentralisiert Springer und zieht ihn auf ein Feld, auf dem er von gegnerischen Bauern nicht angegriffen werden kann.",
+                    "es": "Centralizando el caballo y coloc\u00e1ndolo en una posici\u00f3n donde ser\u00e1 invulnerable al ataque de los peones adversarios.",
+                    "zh": "\u8ba9\u8c61\u4e2d\u5fc3\u5316\uff0c\u5c06\u5b83\u7f6e\u4e8e\u4e00\u4e2a\u654c\u5175\u653b\u51fb\u4e0d\u5230\u7684\u5730\u65b9\u3002",
+                    "pl": "Centralizacja Skoczka i umieszczenie go w pozycji, gdzie nie jest nara\u017cony na atak wrogich pion\u00f3w.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u043d\u0435\u0443\u044f\u0437\u0432\u0438\u043c \u043a \u0430\u0442\u0430\u043a\u0430\u043c \u043f\u0435\u0448\u0435\u043a \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(16)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp3ppp\/2n2n2\/3p4\/8\/P1NB4\/1PP2PPP\/R1BQK2R w KQ - 0 11",
+        "moves": [
+            {
+                "move": "11. O-O ",
+                "comment": {
+                    "pt": "Completando o desenvolvimento e evitando o x\u00e9que em e8.",
+                    "en": "Completing development and avoiding check on e8.",
+                    "de": "Vollendet die Entwicklung und vermeidet das Schachgebot auf e8.",
+                    "es": "Completando el desarrollo y evitando el jaque en e8.",
+                    "zh": "\u7ed3\u675f\u51fa\u5b50\u5e76\u907f\u514d\u5728e8\u5904\u88ab\u5c06\u3002",
+                    "pl": "Ko\u0144cz\u0105c wyprowadzenie figur i debiut oraz unikaj\u0105c szacha na e8.",
+                    "ru": "\u0417\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044c \u0448\u0430\u0445\u0430 \u043d\u0430 e8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(25)",
+            "zh": "Event 1"
+        },
+        "fen": "2r2r1k\/2qbbppp\/p2ppn2\/1p6\/3nPP2\/P1N1BBQ1\/1PP3PP\/3R1R1K w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Bxd4 ",
+                "comment": {
+                    "pt": "Colocando o bispo numa diagonal onde ele pode exercer press\u00e3o direta sobre o rei advers\u00e1rio.",
+                    "en": "Placing the Bishop on a diagonal where it can put direct pressure on the enemy King.",
+                    "de": "Stellt den L\u00e4ufer auf eine Diagonale, auf der er Druck auf den gegnerischen K\u00f6nig aus\u00fcben kann.",
+                    "es": "Colocando el alfil en una diagonal desde donde puede ejercer presi\u00f3n directa sobre el rey adversario.",
+                    "zh": "\u5c06\u8c61\u79fb\u5230\u53ef\u4ee5\u76f4\u63a5\u7ed9\u654c\u738b\u65bd\u52a0\u538b\u529b\u7684\u659c\u7ebf\u4e0a\u3002",
+                    "pl": "Umieszczenie Go\u0144ca na przek\u0105tnej, gdzie b\u0119dzie wywiera\u0142 bezpo\u015bredni\u0105 presj\u0119 na wrogiego Kr\u00f3la.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438, \u0433\u0434\u0435 \u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(19)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/ppp2ppp\/2np4\/b3p3\/2B1P3\/2P2N2\/P2P1PPP\/RNBQ1RK1 w kq - 0 7",
+        "moves": [
+            {
+                "move": "7. d4 ",
+                "comment": {
+                    "pt": "Abrindo uma diagonal para o desenvolvimento do bispo e ao mesmo tempo colocando mais um pe\u00e3o no centro.",
+                    "en": "Opening a diagonal for the Bishop's development and, at the same time, placing another pawn in the center.",
+                    "de": "\u00d6ffnet eine Diagonale f\u00fcr die Entwicklung vom L\u00e4ufer und stellt zur gleichen Zeit einen Bauern ins Zentrum.",
+                    "es": "Abriendo una diagonal para el desarrollo del alfil y al mismo tiempo colocando m\u00e1s un pe\u00f3n en el centro.",
+                    "zh": "\u7ed9\u51fa\u8c61\u5f00\u653e\u659c\u7ebf\uff0c\u540c\u65f6\u5c06\u53e6\u4e00\u4e2a\u5175\u79fb\u5230\u4e2d\u5fc3\u3002",
+                    "pl": "Otwarcie przek\u0105tnej dla wyprowadzenia Go\u0144ca i w tym samym czasie umieszczenie kolejnego piona w centrum.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0421\u043b\u043e\u043d\u0430 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u0435\u0449\u0435 \u043e\u0434\u043d\u0443 \u043f\u0435\u0448\u043a\u0443 \u0432 \u0446\u0435\u043d\u0442\u0440."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

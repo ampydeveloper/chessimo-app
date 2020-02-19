@@ -1,0 +1,161 @@
+[
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqnrk1\/pp4bp\/1n1p2p1\/3P4\/3BPp2\/1PN2P2\/P2QN2P\/R3KB1R b KQ - 0 1",
+        "moves": [
+            {
+                "move": "1... Nd7 ",
+                "comment": {
+                    "pt": "Para melhorar consideravelmente a posi\u00e7\u00e3o desta pe\u00e7a, que ocupar\u00e1 a casa e5.",
+                    "en": "In order to improve considerably the position of this piece that will be placed on the e5 square afterwards.",
+                    "es": "Para mejorar considerablemente la posici\u00f3n de esta pieza, que ocupar\u00e1 la casilla e5.",
+                    "de": "Um die Stellung dieser Figur wesentlich zu verbessern, da er e5 besetzen wird.",
+                    "zh": "\u4e3a\u4e86\u660e\u663e\u6539\u5584\u8fd9\u4e2a\u68cb\u5b50\u7684\u5c40\u9762\uff0c\u5b83\u4e4b\u540e\u4f1a\u5360\u636ee5\u3002",
+                    "pl": "Aby wydatnie poprawi\u0107 pozycj\u0119 tej figury, kt\u00f3ra zostanie p\u00f3\u017aniej umieszczona na e5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u0442\u043e\u043c \u0437\u0430\u0439\u043c\u0435\u0442 \u043f\u043e\u043b\u0435 \u043d\u0430 e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/pp4bp\/2n1pnp1\/2p5\/8\/2N1PN2\/PP2KPPP\/R1B5 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ng5 ",
+                "comment": {
+                    "pt": "Ganhando um tempo ao atacar o pe\u00e3o e, mas a id\u00e9ia principal \u00e9 ocupar a casa e4 com o cavalo.",
+                    "en": "Winning a tempo while attacking the e-pawn, but mainly in order to occupy the e4 square with the Knight.",
+                    "es": "Ganando un tiempo al atacar el pe\u00f3n \"e\", pero la idea principal es ocupar la casilla e4 con el caballo.",
+                    "de": "Greift den e-Bauern mit Tempogewinn, die Hauptidee ist aber, das Feld e4 zu besetzen.",
+                    "zh": "\u653b\u51fbe-\u5175\u65f6\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\uff0c\u4f46\u662f\u4e3b\u8981\u76ee\u7684\u662f\u4e3a\u4e86\u8ba9\u9a6c\u5360\u636ee4\u683c\u3002",
+                    "pl": "Wygrywaj\u0105c tempo podczas atakowania piona e, ale g\u0142\u00f3wnie w celu okupowania e4 Skoczkiem.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u043f, \u043f\u043e\u043a\u0430 \u0430\u0442\u0430\u043a\u0443\u0435\u0442\u0441\u044f e-\u043f\u0435\u0448\u043a\u0430, \u043d\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0441\u043c\u044b\u0441\u043b - \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c \u043f\u043e\u043b\u0435 e4."
+                }
+            },
+            {
+                "move": "   Re8 2. Nge4 Nxe4 3. Nxe4 ",
+                "comment": {
+                    "pt": "Nesta posi\u00e7ao o cavalo atua no centro e nos flancos e nao poder\u00e1 ser expulso pelos peoes contr\u00e1rios, nem pelo bispo.",
+                    "en": "In this position the Knight acts on the center and flanks and won't be chased away by the opponent's pawns or Bishop.",
+                    "es": "En esta posici\u00f3n el caballo act\u00faa en el centro y en los flancos y no podr\u00e1 ser expulsado por los penoes contr\u00e1rios, ni por el alfil.",
+                    "de": "Von diesem Feld aus wirkt der Springer im Zentrum und an den Fl\u00fcgeln und kann von gegnerischen Bauern nicht vertrieben werden",
+                    "zh": "\u5728\u8fd9\u4e2a\u4f4d\u7f6e\u9a6c\u65e2\u80fd\u5728\u4e2d\u5fc3\u53c8\u80fd\u5728\u4fa7\u7ffc\u6d3b\u52a8\uff0c\u5e76\u4e14\u4e0d\u4f1a\u88ab\u654c\u5175\u6216\u654c\u8c61\u8d76\u8d70\u3002",
+                    "pl": "W tej pozycji Skoczek dzia\u0142a na centrum oraz flanki i nie mo\u017ce zosta\u0107 przegoniony przez wrogie piony czy Go\u0144ca.",
+                    "ru": "\u041d\u0430 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u041a\u043e\u043d\u044c \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0444\u043b\u0430\u043d\u0433\u0438 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f, \u0438 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0442\u0442\u0435\u0441\u043d\u0435\u043d \u0421\u043b\u043e\u043d\u043e\u043c \u0438\u043b\u0438 \u043f\u0435\u0448\u043a\u0430\u043c\u0438 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbq1rk1\/4bppp\/1p2pn2\/p1ppN3\/3P1P2\/2PBP3\/PP2Q1PP\/RNB2RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Ba6 ",
+                "comment": {
+                    "pt": "A troca destes bispos \u00e9 favor\u00e1vel as pretas devido ao posicionamento dos pe\u00f5es brancos. As pretas ter\u00e3o acesso mais f\u00e1cil a casa e4 e seu rei estar\u00e1 mais protegido ap\u00f3s a troca destes bispos.",
+                    "en": "Exchanging these Bishops favors Black, due to White's pawn positioning. Black will have greater access to e4 and its King will be better protected after the Bishop exchange.",
+                    "es": "El cambio de estos alfiles es favorable a las negras debido al posicionamento de los peones blancos. Las negras tendr\u00e1n acceso m\u00e1s f\u00e1cil a la casilla e4 y su rey estar\u00e1 m\u00e1s protegido despu\u00e9s del cambio de estos alfiles.",
+                    "de": "Wegen der Stellung der wei\u00dfen Bauern ist der L\u00e4uferabtausch g\u00fcnstig f\u00fcr Schwarz. Schwarz wird leichter Zugang auf e4 haben und der K\u00f6nig wird gesch\u00fctzter stehen.",
+                    "zh": "\u9274\u4e8e\u767d\u5175\u7684\u4f4d\u7f6e\uff0c\u5151\u8c61\u5bf9\u9ed1\u65b9\u6709\u5229\u3002\u5151\u8c61\u4e4b\u540e\u9ed1\u65b9\u66f4\u5bb9\u6613\u5360\u636ee4\uff0c\u9ed1\u738b\u80fd\u5f97\u5230\u66f4\u597d\u7684\u4fdd\u62a4\u3002",
+                    "pl": "Wymiana Go\u0144c\u00f3w faworyzuje Czarne z powodu umiejscowienia Bia\u0142ych pion\u00f3w. Czarne b\u0119d\u0105 mia\u0142y lepszy dost\u0119p do e4 i ich Kr\u00f3l b\u0119dzie lepiej chroniony po wymianie Go\u0144c\u00f3w.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u043d \u044d\u0442\u0438\u0445 \u0421\u043b\u043e\u043d\u043e\u0432 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0437-\u0437\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u0445.  \u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0438\u043c\u0435\u0442\u044c \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u043e\u043b\u044e e4 \u0438 \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044c \u0431\u0443\u0434\u0435\u0442 \u043b\u0443\u0447\u0448\u0435 \u0437\u0430\u0449\u0438\u0449\u0435\u043d, \u043f\u043e\u0441\u043b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnb1k1nr\/p4ppp\/1p2p3\/2ppP3\/q2P4\/P1P2N2\/2PB1PPP\/RQ2KB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Ba6 ",
+                "comment": {
+                    "pt": "Defendendo a amea\u00e7a Bb5 e for\u00e7ando a troca dos bispos de casas brancas. Esta troca favorece as pretas devido a estrutura de pe\u00f5es e mais tarde elas ter\u00e3o mais facilidades para ocupar casas importantes como c4, f5 e e4.",
+                    "en": "Defending against the Bb5 threat and forcing a light-squared Bishop trade. This exchange favours Black due to its pawn structure and later on it will be easier to occupy important squares like c4, f5 and e4.",
+                    "es": "Defendiendo la amenaza Ab5 y forzando el cambio de los alfiles de casillas blancas. Debido a la estructura de peones este cambio favorece a las negras, que m\u00e1s tarde tendr\u00e1n m\u00e1s facilidades para ocupar casillas importantes como c4, f5 y e4.",
+                    "de": "Wehrt die Drohung Lb5 ab und erzwingt den L\u00e4uferabtausch, was Schwarz wegen der Bauernstruktur beg\u00fcnstigt und die Besetzung von wichtigen Feldern wie c4, f5 und e4 erleichtern wird.",
+                    "zh": "\u62b5\u6297Bb5\u7684\u5a01\u80c1\uff0c\u5f3a\u5151\u767d\u683c\u8c61\uff0c\u9274\u4e8e\u9ed1\u65b9\u7684\u5175\u5f62\u5bf9\u5176\u6709\u5229\uff0c\u5e76\u4e14\u6b64\u540e\u66f4\u5bb9\u6613\u5360\u636e\u5173\u952e\u683c\u5982c4\u3001f5\u548ce4\u3002",
+                    "pl": "Obrona przed Gb5 i wymuszenie wymiany jasnopolowego Go\u0144ca. Faworyzuje ona Czarne z powodu struktury pion\u00f3w, na dodatek \u0142atwiej b\u0119dzie p\u00f3\u017aniej okupowa\u0107 wa\u017cne pola, jak c4, f5 i e4.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043e\u0442 Bb5, \u0438 \u043f\u0440\u0438\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043a \u0440\u0430\u0437\u043c\u0435\u043d\u0443 \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430. \u042d\u0442\u043e\u0442 \u0440\u0430\u0437\u043c\u0435\u043d \u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u0438\u0445 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435, \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c, \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c \u0442\u0430\u043a\u0438\u0435 \u0432\u0430\u0436\u043d\u044b\u0435 \u043f\u043e\u043b\u044f, \u043a\u0430\u043a c4, f5 \u0438 e4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qk2r\/pb3ppp\/1p1ppn2\/2p5\/1PP5\/P1Q2NP1\/1B1PPP1P\/R3KB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Nc6 ",
+                "comment": {
+                    "pt": "Para dificultar o desenvolvimento branco e explorar a diagonal a8-h1 onde as pretas j\u00e1 tem o bispo posicionado.",
+                    "en": "In order to make White's development difficult and explore the a8-h1 diagonal where Black already has a Bishop.",
+                    "es": "Para dificultar el desarrollo blanco y explotar la diagonal a8-h1 en la que las negras ya tienen posicionado el alfil.",
+                    "de": "Um die wei\u00dfe Entwicklung zu erschweren und die Diagonale a8-h1 auszunutzen.",
+                    "zh": "\u4e3a\u4e86\u589e\u52a0\u767d\u68cb\u51fa\u5b50\u7684\u96be\u5ea6\uff0c\u5145\u5206\u5229\u7528\u9ed1\u8c61\u5360\u636e\u7684a8-h1\u659c\u7ebf\u3002",
+                    "pl": "Aby utrudni\u0107 rozw\u00f3j Bia\u0142ych i wykorzysta\u0107 przek\u0105tn\u0105 a8-h1, gdzie Czarne ustawi\u0142y Go\u0144ca.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0442\u0440\u0443\u0434\u043d\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0444\u0438\u0433\u0443\u0440 \u0411\u0435\u043b\u044b\u0445 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a8-h1, \u0433\u0434\u0435 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0443\u0436\u0435 \u0435\u0441\u0442\u044c \u0421\u043b\u043e\u043d."
+                }
+            },
+            {
+                "move": "   2. Bg2 Nd4 ",
+                "comment": {
+                    "pt": "Evitando o roque e pressionando ao longo da diagonal.",
+                    "en": "Preventing castling and generating pressure along the diagonal.",
+                    "es": "Evitando el enroque y presionando a lo largo de la diagonal.",
+                    "de": "Verhindert die Rochade und \u00fcbt Druck auf die Diagonale aus",
+                    "zh": "\u963b\u6b62\u738b\u8f66\u6613\u4f4d\uff0c\u7ed9\u8fd9\u6761\u659c\u7ebf\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Powstrzymuj\u0105c roszad\u0119 i generuj\u0105c presj\u0119 wzd\u0142u\u017c przek\u0105tnej.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u0434\u043e\u043b\u044c \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

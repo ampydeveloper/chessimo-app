@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(3)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/1b2bpp1\/1np1p2p\/4P3\/1p1PB3\/4BN2\/1PQ2PPP\/R4RK1 w - - 0 19",
+        "moves": [
+            {
+                "move": "19. Nd2 ",
+                "comment": {
+                    "pt": "Para ir a b3 e controlar a casa c5, fixando a fraqueza em c6.",
+                    "en": "In order to proceed to b3 and control c5, anchoring the weakness on c6.",
+                    "de": "Um von b3 aus die das Feld c5 unter Kontrolle zu haben und dadurch die Schw\u00e4che auf c6 zu fixieren.",
+                    "es": "Para ir a b3 y controlar la casilla c5, fijando la debilidad en c6.",
+                    "zh": "\u4e3a\u4e86\u80fd\u7ee7\u7eed\u5230\u8fbeb3\u5e76\u4e14\u63a7\u5236c5\uff0c\u7a33\u56fac6\u5904\u7684\u5f31\u70b9\u3002",
+                    "pl": "W celu kontynuowania na b3 i kontroli c5, zakotwiczaj\u0105c s\u0142abo\u015b\u0107 na c6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c b3 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c c5, \u0437\u0430\u043a\u0440\u0435\u043f\u043b\u044f\u044f \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u043d\u0430 \u043f\u043e\u043b\u0435 c6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(74)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/1p1n1p1p\/n1pp2p1\/p2Pp3\/2P1P3\/2NBQP2\/PP2N1PP\/R3K2R w KQkq - 0 12",
+        "moves": [
+            {
+                "move": "12. Qh6 ",
+                "comment": {
+                    "pt": "Evitando que as pretas fa\u00e7am o roque e planejando h4-h5.",
+                    "en": "Preventing Black from castling and planning h4-h5.",
+                    "de": "Verhindert die schwarze Rochade und plant h4-h5.",
+                    "es": "Evitando que las negras enroquen y planeando h4-h5.",
+                    "zh": "\u963b\u6b62\u9ed1\u68cb\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\u5e76\u8ba1\u5212h4-h5\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Czarnym roszad\u0119 i planuj\u0105c h4-h5.",
+                    "ru": "\u041d\u0435 \u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0438 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0435\u0442 \u0438\u0433\u0440\u0443 h4-h5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(17)",
+            "zh": "Event 1"
+        },
+        "fen": "2rr2k1\/1b1nqpbp\/p4np1\/2pp4\/8\/1P2PN2\/PB2NPPP\/1QRR1BK1 b - - 0 17",
+        "moves": [
+            {
+                "move": "17... Bh6 ",
+                "comment": {
+                    "pt": "Com esse lance as pretas pressionam atrav\u00e9s desta diagonal e amea\u00e7am abrir linhas de ataque para as torres e o bispo de casas brancas com ...d4.",
+                    "en": "With this move, Black puts pressure on this diagonal and threatens to open attack lines for the Rooks and the light-squared Bishop with d4.",
+                    "de": "\u00dcbt Druck auf der Diagonale c1-h6 aus und droht, mit ...d4 Linien und Diagonalen zu \u00f6ffnen.",
+                    "es": "Con esta jugada las negras presionan a trav\u00e9s de la diagonal y amenazan abrir l\u00edneas de ataque para las torres y el alfil de casillas blancas con ...d4.",
+                    "zh": "\u5728c1-h6\u659c\u7ebf\u65bd\u52a0\u538b\u529b\u5e76\u4e14\u7528d4\u5a01\u80c1\u4e3a\u8f66\u548c\u767d\u683c\u8c61\u7684\u653b\u51fb\u5f00\u653e\u8def\u7ebf\u3002",
+                    "pl": "Tym ruchem Czarne wywieraj\u0105 presj\u0119 na przek\u0105tn\u0105 i gro\u017c\u0105 otwarciem linii dla Wie\u017c oraz jasnopolowego Go\u0144ca przez d4.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0430\u0442\u0430\u043a\u0438 \u0434\u043b\u044f \u041b\u0430\u0434\u0435\u0439 \u0438 \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 d4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(31)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1qrnk\/1pp3bp\/n2p2p1\/p2PppBP\/2P1P3\/2N2B2\/PP1N1PP1\/R2QK2R b KQ - 0 13",
+        "moves": [
+            {
+                "move": "13... Bf6 ",
+                "comment": {
+                    "pt": "A troca deste bispo favorece as pretas, que ainda conseguir\u00e3o ativar seu cavalo de g8.",
+                    "en": "This Bishop's trade favors Black that will also be able to activate its g8-Knight.",
+                    "de": "Dieser Abtausch ist gut f\u00fcr Schwarz, denn dadurch wird der Springer aktiv.",
+                    "es": "El cambio de este alfil favorece a las negras, que adem\u00e1s conseguir\u00e1n activar el caballo de g8.",
+                    "zh": "\u5151\u8c61\u5bf9\u9ed1\u68cb\u6709\u5229\uff0c\u56e0\u4e3a\u53ef\u4ee5\u4f7f\u5f97\u5b83\u7684g8-\u9a6c\u53d8\u5f97\u6d3b\u8dc3\u3002",
+                    "pl": "Ta wymiana Go\u0144ca faworyzuje Czarne, kt\u00f3re dodatkowo mog\u0105 by\u0107 w stanie aktywowa\u0107 Skoczka g8.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u043d \u0421\u043b\u043e\u043d\u043e\u0432 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u0430\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0445 \u041a\u043e\u043d\u044f \u043d\u0430 g8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(6)",
+            "zh": "Event 1"
+        },
+        "fen": "2r5\/4kp2\/p1Pp2p1\/1p2p1bp\/n7\/R4P2\/PPP3PP\/1K3B1R w - - 0 25",
+        "moves": [
+            {
+                "move": "25. c4 ",
+                "comment": {
+                    "pt": "Pressionando o flanco da dama preto e abrindo mais uma coluna para as torres.",
+                    "en": "Exerting pressure on the black queenside and opening one more file for the Rooks.",
+                    "de": "\u00dcbt Druck auf den schwarzen Damenfl\u00fcgel aus und \u00f6ffnet eine weitere Linie die T\u00fcrme.",
+                    "es": "Presionando el flanco dama negro y abriendo una columna m\u00e1s para las torres.",
+                    "zh": "\u5728\u9ed1\u68cb\u738b\u7ffc\u65bd\u52a0\u538b\u529b\u5e76\u4e14\u4e3a\u8f66\u5f00\u653e\u66f4\u591a\u8def\u7ebf\u3002",
+                    "pl": "Wywieranie presji na czarnym skrzydle hetma\u0144skim i otwarcie kolejnej kolumny dla Wie\u017c.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0435\u0449\u0435 \u043e\u0434\u043d\u0443 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(21)",
+            "zh": "Event 1"
+        },
+        "fen": "r3k2r\/pp1qnppp\/1bp4n\/3pP3\/P1NP4\/5N2\/1B3PPP\/R2Q1RK1 w kq - 0 16",
+        "moves": [
+            {
+                "move": "16. Nd6+ ",
+                "comment": {
+                    "pt": "Nesta posi\u00e7\u00e3o , central e avan\u00e7ada, o cavalo auxilia no ataque ao rei contr\u00e1rio e evita definitivamente que as pretas fa\u00e7am o roque.",
+                    "en": "In this central and advanced position, the Knight helps with the attack on the opponent's King and prevents Black definitely from castling.",
+                    "de": "In dieser zentralen Stellung hilft der Springer bei dem Angriff und verhindert die schwarze Rochade.",
+                    "es": "En esta posici\u00f3n, central y avanzada, el caballo coopera en el ataque al rey contrario y evita definitivamente que las negras enroquen.",
+                    "zh": "\u5728\u8fd9\u4e2a\u4e2d\u5fc3\u7684\u6709\u5229\u4f4d\u7f6e\uff0c\u9a6c\u53ef\u4ee5\u5e2e\u52a9\u653b\u51fb\u654c\u738b\u5e76\u5f7b\u5e95\u963b\u6b62\u9ed1\u68cb\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\u3002",
+                    "pl": "W tej centralnej i i wysuni\u0119tej pozycji Skoczek pomaga w ataku na Kr\u00f3la przeciwnika i uniemo\u017cliwia roszowanie.",
+                    "ru": "\u041d\u0430 \u044d\u0442\u043e\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0438 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u041a\u043e\u043d\u044c \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(47)",
+            "zh": "Event 1"
+        },
+        "fen": "q3kb1r\/1b1n1ppp\/4pn2\/2p5\/1p1P4\/1BN1PN2\/1P2QPPP\/2B2RK1 w k - 0 13",
+        "moves": [
+            {
+                "move": "13. Nb5 ",
+                "comment": {
+                    "pt": "Defendendo o cavalo e amea\u00e7ando um duplo em c7.",
+                    "en": "Defending the Knight and threatening a double attack on c7.",
+                    "de": "Verteidigt den Springer und droht eine Gabel auf c7.",
+                    "es": "Defendiendo el caballo y amenazando un doble en c7.",
+                    "zh": "\u9632\u5fa1\u9a6c\uff0c\u5a01\u80c1\u5411c7\u53d1\u8d77\u53cc\u51fb\u3002",
+                    "pl": "Broni\u0105c Skoczka i zagra\u017caj\u0105c podw\u00f3jnym atakiem na c7.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0430\u0442\u0430\u043a\u043e\u0439 \u043d\u0430 c7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(22)",
+            "zh": "Event 1"
+        },
+        "fen": "3n1rk1\/p3qpp1\/7p\/5R2\/2Pb2B1\/1PNP3P\/7P\/3Q3K w - - 0 28",
+        "moves": [
+            {
+                "move": "28. Nd5 ",
+                "comment": {
+                    "pt": "Ocupando um posto avan\u00e7ado com ganho de tempo.",
+                    "en": "Occupying an outpost with gain of tempo.",
+                    "de": "Besetzt einen Vorposten mit Tempogewinn.",
+                    "es": "Ocupando un puesto avanzado con ganancia de tiempo..",
+                    "zh": "\u5360\u636e\u524d\u54e8\u8d62\u5f97\u5148\u624b\u3002",
+                    "pl": "Okupuj\u0105c plac\u00f3wki i zdobywaj\u0105c tempo.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0444\u043e\u0440\u043f\u043e\u0441\u0442 \u0441 \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u0435\u043c \u0442\u0435\u043c\u043f\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(46)",
+            "zh": "Event 1"
+        },
+        "fen": "2kr3r\/p4pp1\/2p4p\/n3p3\/7q\/1NPPnP1P\/PP1KQ2P\/R4B1R b - - 0 19",
+        "moves": [
+            {
+                "move": "19... Nac4+ ",
+                "comment": {
+                    "pt": "Colocando mais uma pe\u00e7a para participar do ataque.",
+                    "en": "Positioning one more piece to participate in the attack.",
+                    "de": "Bringt eine weitere Figur zum Angriff.",
+                    "es": "Trayendo una pieza m\u00e1s para participar del ataque.",
+                    "zh": "\u591a\u4e00\u4e2a\u68cb\u5b50\u52a0\u5165\u653b\u51fb\u3002",
+                    "pl": "Umieszczenie kolejnej figury, aby bra\u0142a udzia\u0142 w ataku.",
+                    "ru": "\u041f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u0435\u0442 \u0435\u0449\u0435 \u043e\u0434\u043d\u0443 \u0444\u0438\u0433\u0443\u0440\u0443 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0430 \u0430\u0442\u0430\u043a\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(62)",
+            "zh": "Event 1"
+        },
+        "fen": "3rrnk1\/2p2q2\/p2b1pp1\/2p5\/1p2PPQN\/2B3P1\/PPP5\/1K1RR3 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. Nf5 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando um duplo ( Ch6) e deixando livre a coluna h para as torres atuarem.",
+                    "en": "Threatening a double attack (Nh6) and leaving the h-file free for the Rooks.",
+                    "de": "Droht eine Gabel (Sh6) und r\u00e4umt die h-Linie f\u00fcr die T\u00fcrme.",
+                    "es": "Amenazando un doble (Ch6) y dejando libre la columna h para que las torres act\u00faen en ella.",
+                    "zh": "\u5a01\u80c1\u8fdb\u884c\u53cc\u51fb\uff08Nh6\uff09\uff0c\u5c06h-\u7ebf\u7559\u7ed9\u8f66\u3002",
+                    "pl": "Zagra\u017caj\u0105c podw\u00f3jnym atakiem (Sh6) i uwalniaj\u0105c kolumn\u0119 h dla Wie\u017c.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0430\u0442\u0430\u043a\u043e\u0439 (Nh6) \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

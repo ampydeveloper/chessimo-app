@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(155)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1r2\/pp3k1p\/2n4n\/1N1p1p2\/7p\/1P1NP1P1\/P4PK1\/3R1R2 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Rh1 ",
+                "comment": {
+                    "pt": "Para retomar de torre, mantendo uma boa estrutura de pe\u00f5es .",
+                    "en": "In order to retake with the Rook and maintain a good pawn structure.",
+                    "de": "Um mit dem Turm zur\u00fcckzuschlagen und eine gute Bauernstruktur beizubehalten.",
+                    "es": "Para tomar con la torre, manteniendo una buena estructura de peones .",
+                    "zh": "\u4e3a\u4e86\u7528\u8f66\u56de\u51fb\uff0c\u5e76\u4fdd\u6301\u826f\u597d\u7684\u5175\u5f62\u3002",
+                    "pl": "W celu wzi\u0119cia Wie\u017cy i utrzymania dobrej struktury pion\u00f3w.",
+                    "ru": "\u0414\u043b\u044f \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0430 \u041b\u0430\u0434\u044c\u0435\u0439 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0439 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(74)",
+            "zh": "Event 1"
+        },
+        "fen": "3r4\/4k3\/p3b3\/1p2pp2\/1P2P3\/P2B3R\/6KP\/8 b - - 0 47",
+        "moves": [
+            {
+                "move": "47... f4 ",
+                "comment": {
+                    "pt": "Obtendo um pe\u00e3o passado protegido.",
+                    "en": "Obtaining a protected passed pawn.",
+                    "de": "Erh\u00e4lt einen gesch\u00fctzten Freibauern.",
+                    "es": "Obteniendo un pe\u00f3n pasado protegido.",
+                    "zh": "\u83b7\u5f97\u4e00\u4e2a\u53d7\u4fdd\u62a4\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Osi\u0105gaj\u0105c chronionego wolnego piona.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(42)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1k1r\/1p1b1pb1\/p2p3p\/2pPn1p1\/P7\/2N1P1P1\/1PQNBPP1\/R3K2R w KQ - 0 17",
+        "moves": [
+            {
+                "move": "17. a5 ",
+                "comment": {
+                    "pt": "Evitando a expans\u00e3o preta no flanco dama que poderia ocorrer ap\u00f3s a jogada b5.",
+                    "en": "Definitely preventing Black's expansion on the queenside with b5.",
+                    "de": "Verhindert, dass Schwarz am Damenfl\u00fcgel Raum gewinnt, was nach dem Zug b5 geschehen k\u00f6nnte.",
+                    "es": "Evitando la expansi\u00f3n negra en el flanco dama que podr\u00eda ocurrir despu\u00e9s de la jugada b5.",
+                    "zh": "\u5f7b\u5e95\u963b\u6b62\u9ed1\u65b9\u5728\u540e\u7ffc\u7528b5\u8fdb\u884c\u6269\u5f20\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Czarnym na dobre ekspansj\u0119 na skrzydle hetma\u0144skim przez b5.",
+                    "ru": "\u041f\u0440\u0435\u0441\u0435\u043a\u0430\u0435\u0442 \u044d\u043a\u0441\u043f\u0430\u043d\u0441\u0438\u044e \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0441 b5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(115)",
+            "zh": "Event 1"
+        },
+        "fen": "2b3k1\/1p4pp\/1q1p2n1\/1N1P4\/1PP1p3\/8\/4B1PP\/2Q4K w - - 0 25",
+        "moves": [
+            {
+                "move": "25. c5 ",
+                "comment": {
+                    "pt": "Valorizando a maioria de pe\u00f5es com ganho de tempo.",
+                    "en": "Improving the pawn majority value and gaining a tempo.",
+                    "de": "Setzt die Bauernmehrheit mit Tempogewinn in Bewegung.",
+                    "es": "Realizando la mayor\u00eda de peones con ganancia de tiempo.",
+                    "zh": "\u63d0\u5347\u591a\u5175\u7684\u4ef7\u503c\u5e76\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "Poprawa warto\u015bci wi\u0119kszo\u015bci pion\u00f3w i zdobycie tempa.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u043f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(65)",
+            "zh": "Event 1"
+        },
+        "fen": "3r3k\/pbr3n1\/7p\/q2p2p1\/5n2\/2N2PB1\/BQ4PP\/2RR2K1 w - - 0 39",
+        "moves": [
+            {
+                "move": "39. Bxf4 ",
+                "comment": {
+                    "pt": "Criando mais dois pe\u00f5es isolados na estrutura de pe\u00f5es advers\u00e1ria.",
+                    "en": "Creating two more isolated pawns in the opponent's structure.",
+                    "de": "Dadurch entstehen noch zwei Isolanis in der gegnerischen Bauernstruktur.",
+                    "es": "Creando dos peones aislados m\u00e1s en la estructura de peones adversaria.",
+                    "zh": "\u5728\u5bf9\u65b9\u7684\u5175\u5f62\u4e2d\u5236\u9020\u53e6\u5916\u4e24\u4e2a\u5b64\u5175\u3002",
+                    "pl": "Tworzenie dw\u00f3ch dodatkowych izolowanych pion\u00f3w w strukturze przeciwnika.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0434\u0432\u0435 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u0432 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0441\u043e\u043f\u0435\u0440\u0435\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

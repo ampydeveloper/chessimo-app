@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante  Najdorf",
+        "date": "",
+        "event": {
+            "en": "Najdorf's variation",
+            "de": "Najdorf-Variante",
+            "es": "Variante Najdor",
+            "pt": "Variante Najdor",
+            "zh": "\u7eb3\u9053\u5c14\u592b\u53d8\u4f8b",
+            "pl": "Wariant Najdorfa",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u041d\u0430\u0439\u0434\u043e\u0440\u0444\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 ",
+                "comment": {
+                    "pt": "As pretas planejam b5 , para acelerar o desenvolvimento no flanco dama. Esta foi a varinte preferida de Bobby Fischer e Gary Kasparov, entre outros.",
+                    "en": "Black plans b5 in order to accelerate the development on the queenside. This was Bobby Fischer and Gary Kasparov's (among others') favorite variation.",
+                    "es": "Las negras planean b5, para acelerar el desarrollo en el flanco dama r\u00e1pidamente. Esta fue la variante preferida de Bobby Fischer y Gary Kasparov, entre otros.",
+                    "de": "Schwarz plant b5, um die Entwicklung am Damenfl\u00fcgel zu beschleunigen. Bobby Fischer und Gary Kasparow spielten gern diese Variante.",
+                    "zh": "\u9ed1\u65b9\u8ba1\u5212\u8d70b5\u6765\u52a0\u901f\u540e\u7ffc\u51fa\u5b50\u3002\u8fd9\u662f\u9c8d\u6bd4.\u83f2\u820d\u5c14\u548c\u52a0\u91cc\u00b7\u5361\u65af\u5e15\u7f57\u592b\uff08\u8ddf\u5176\u4ed6\u4eba\u76f8\u6bd4\uff09\u949f\u7231\u7684\u53d8\u4f8b\u3002",
+                    "pl": "Czarne planuj\u0105 b5 w celu przyspieszenia rozwoju na skrzydle hetma\u0144skim. To by\u0142a ulubiona wariacja (opr\u00f3cz kilku innych) Bobbiego Fischera i Gary\u2019ego Kasparowa.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e b5 \u0434\u043b\u044f \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u042d\u0442\u043e \u0431\u044b\u043b \u043b\u044e\u0431\u0438\u043c\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0432 \u0438\u0433\u0440\u0430\u0445 \u0411\u043e\u0431\u0431\u0438 \u0424\u0438\u0448\u0435\u0440\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u0413\u0430\u0440\u0440\u0438 \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432\u0430."
+                }
+            },
+            {
+                "move": "   6. Bg5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o poss\u00edveis as jogadas; 6-Be2 a preferida do ex campe\u00e3o mundial A.Karpov, com o objetivo de completar o desenvolvimento rocando pequeno e depois jogar f4 para atacar no centro e ou flanco rei (partidas 391 a 401). 6-Bc4 o preferido de Bobby Fischer, que gostava de conectar esta jogada com o avan\u00e7o \"f4-f5\", atacando atrav\u00e9s da diagonal a2-g8 (partidas 402 a 407). 6- f4 (partidas 408 a 411) 6- g3 (partida 414) . 6- Be3 Nesta variante as brancas querem atacar o mais r\u00e1pido poss\u00edvel com f3-g4. (partidas 412 e 413) . 6- h3 para jogar g4 \u00e9 uma id\u00e9ia de Bobby Fischer que lhe trouxe bons resultados (partidas 415 a 417). 6- f3 Esta \u00e9 a variante moderna e as partidas 462 a 470 de nossa base, disputadas pelo campe\u00e3o mundial (2005\/2006) V.Topalov, tratam desta posi\u00e7\u00e3o.",
+                    "en": "Other possible moves are: 6-Be2, A. Karpov's favorite, aiming to complete development, queencastling and playing f4 afterwards in order to attack in the center or on the kingside (games 391 to 401); 6-Bc4, Bobby Fischer's favorites move that he liked to connect with the f4-f5 advance, attacking through the a2-g8 diagonal (games 402 to 407); 6-f4 (games 408 to 411); 6-g3 (game 414); 6-Be3, where White plans to attack as fast as possible with f3-g4 (games 412 e 413); 6- h3 in order to play g4 is Bobby Fischer's idea that provided good results (games 415 to 417); 6- f3 that is a modern variation presented in games 462 to 470 of our database, by V. Topalov, World Champion 2005\/2006).",
+                    "es": "Tambi\u00e9n son posibles las jugadas: 6-Ae2, la preferida del ex campe\u00f3n mundial A.Karpov, con el objetivo de completar el desarrollo enrocando corto y despu\u00e9s jugar f4 para atacar en el centro o en el flanco rey (partidas 391 a 401).  6-Ac4, la favorita de Bobby Fischer, al que le gustaba conectar esta jugada con el avance \"f4-f5\", atacando a trav\u00e9s de la diagonal a2-g8 (partidas 402 a 407). 6- f4 (partidas 408 a 411), 6- g3 (partida 414).  6- Ae3 En esta variante las blancas quieren atacar lo m\u00e1s r\u00e1pido posible con f3-g4. (partidas 412 y 413).  6- h3 para jugar g4 es una idea de Bobby Fischer que le trajo buenos resultados (partidas 415 a 417). 6- f3 Esta es la variante moderna y las partidas 462 a 470 de nuestra base, disputadas por el campe\u00f3n mundial (2005\/2006) V.Topalov, tratan esta posici\u00f3n.",
+                    "de": "Andere M\u00f6glichkeiten: 6. Le2 (Lieblingszug vom ehemaligen Weltmeister A. Karpow); die Idee ist, die Entwicklung mit der kurzen Rochade zu beenden und danach f4 zu spielen um im Zentrum bzw. am K\u00f6nigsfl\u00fcgel anzugreifen (Partien 391 bis 401); 6. Lc4 (gern von Bobby Fischer gespielt, der Lc4 im Zusammenhang mit f4-f5 gern spielte, mit Angriff \u00fcber der Diagonale a2-g8, siehe Partien 402 bis 407); 6. f4 (Partien 408 bis 411); 6. g3 (Partie 414). 6. Le3 Die Idee dieser Variante ist, so schnell wie m\u00f6glich mit f3-g4 anzugreifen (Partien 412 und 413). 6. h3, um g4 zu spielen, ist eine Idee von Bobby Fischer, mit der er gute Ergebnisse erzielte (Partien 415 bis 417). 6. f3 das ist die Moderne Variante (Partien 462 bis 470 unserer Datenbank), vom Weltmeister(2005\/2006) V.Topalow gespielt.",
+                    "zh": "\u53e6\u5916\u53ef\u80fd\u7684\u8d70\u6cd5\u662f\uff1a6-Be2\uff0c\u5b89\u4e1c\u5c3c.\u5361\u5c14\u6ce2\u592b\u6240\u949f\u7231\uff0c\u76ee\u7684\u662f\u4e3a\u4e86\u7ed3\u675f\u51fa\u5b50\uff0c\u8fdb\u884c\u540e\u7ffc\u6613\u4f4d\u5e76\u4e14\u4e4b\u540e\u4e0bf4\u6765\u653b\u51fb\u4e2d\u5fc3\u6216\u738b\u7ffc\uff08\u68cb\u5c40391\u548c401\uff09\uff1b6-Bc4\u9c8d\u6bd4.\u5361\u5c14\u6ce2\u592b\u6240\u949f\u7231\u7684\u8d70\u6cd5\uff0c\u4ed6\u5f88\u613f\u610f\u5c06f4\u548cf5\u8054\u7cfb\u8d77\u6765\u4e00\u8d77\u63a8\u8fdb\uff0c\u901a\u8fc7d2-g8\u659c\u7ebf\u8fdb\u653b\uff08\u68cb\u5c40402\u5230407\uff09\uff1b6-f4\uff08\u68cb\u5c40408-411\uff09\uff1b6-g3\uff08\u68cb\u5c40414\uff09\uff1b 6-Be3\u6b64\u5904\u767d\u65b9\u8ba1\u5212\u5c3d\u5feb\u7528f3-g4\u8fdb\u884c\u653b\u51fb\uff08\u68cb\u5c40412\u548c413\uff096- h3\u4e3a\u4e86\u8d70g4\uff0c\u8fd9\u662f\u9c8d\u6bd4.\u83f2\u820d\u5c14\u7684\u4e3b\u610f\uff0c\u7ed3\u679c\u662f\u5f88\u4e0d\u9519\u7684\uff08\u68cb\u5c40415\u5230417\uff09\uff1b6- f3\u662f\u4e00\u4e2a\u73b0\u4ee3\u53d8\u4f8b\uff0c\u51fa\u81ea\u4e8e\u6258\u5e15\u6d1b\u592b\uff0c\u5728\u68cb\u5c40462\u5230470\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Innymi mo\u017cliwo\u015bciami ruchu s\u0105: 6. Ge2, ulubiony Karpowa, zamierzaj\u0105cy doko\u0144czy\u0107 rozw\u00f3j, d\u0142ug\u0105 roszad\u0119 i zagranie potem f4 w celu ataku w centrum lub na skrzydle kr\u00f3lewskim (partie od 391 do 401); 6. Gc4, ulubiony Bobbiego Fischera, kt\u00f3ry lubi\u0142 \u0142\u0105czy\u0107 z marszem piona na f4 i f5, atakuj\u0105c przez przek\u0105tn\u0105 a2-g8 (partie od 402 do 407); 6. f4 (partie od 408 do 411); 6. g3 (414); 6. Ge3, w kt\u00f3rym Bia\u0142e planuj\u0105 jak najszybszy atak poprzez f3-g4 (412 i 413); 6. h3 w celu zagrania g4 jest pomys\u0142em Bobbiego Fischera, przynosz\u0105cym dobre rezultaty (415-417); 6. f3 co jest nowoczesn\u0105 wariacj\u0105 opisan\u0105 w grach 462-470 naszej bazy, rozegranymi przez Veselina Topa\u0142owa, Mistrza \u015awiata 2005\/2006.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0445\u043e\u0434\u044b: 6-Be2, \u043b\u044e\u0431\u0438\u043c\u044b\u0439 \u0445\u043e\u0434 \u041a\u0430\u0440\u043f\u043e\u0432\u0430, \u0441 \u0446\u0435\u043b\u044c\u044e \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435, \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0434\u043b\u0438\u043d\u043d\u0443\u044e \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u043e\u0442\u043e\u043c \u043d\u0430 f4, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438\u043b\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 (\u0438\u0433\u0440\u044b 391-401); 6-Bc4, \u043b\u044e\u0431\u0438\u043c\u044b\u0439 \u0445\u043e\u0434 \u0424\u0438\u0448\u0435\u0440\u0430, \u0433\u0434\u0435 \u043e\u043d \u043b\u044e\u0431\u0438\u043b \u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0442\u044c \u043f\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u043e f4-f5, \u0430\u0442\u0430\u043a\u0443\u044f \u0447\u0435\u0440\u0435\u0437 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8 (\u0438\u0433\u0440\u044b 402-407); 6-f4 (\u0438\u0433\u0440\u044b 408-411); 6-g3 (\u0438\u0433\u0440\u0430 414); 6-Be3, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u0441 f3-g4 (\u0438\u0433\u0440\u044b 412 \u0438 413); 6-h3 \u0434\u043b\u044f \u0438\u0433\u0440\u044b g4 \u0431\u044b\u043b\u043e \u0438\u0434\u0435\u0435\u0439 \u0424\u0438\u0448\u0435\u0440\u0430, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b (\u0438\u0433\u0440\u044b 415-417); 6-f3 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0430\u0445 462 \u0438 470, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0441\u044b\u0433\u0440\u0430\u043d\u043d\u044b\u0439 \u0422\u043e\u043f\u0430\u043b\u043e\u0432\u044b\u043c \u043d\u0430 \u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u0435 \u041c\u0438\u0440\u0430 2005-2006."
+                }
+            },
+            {
+                "move": "   e6 ",
+                "comment": {
+                    "pt": "Alguns jogadores preferem 6... Cbd7 (partidas 371, 372, 377, 378 , 380 e 381).",
+                    "en": "Some prefer 6...Nbd7 (games 371, 372, 377, 378 , 380 and 381).",
+                    "es": "Algunos jugadores prefieren 6...Cbd7 (partidas 371, 372, 377, 378 , 380 y 381).",
+                    "de": "Einige Spieler ziehen 6... Sbd7 vor (Partien 371, 372, 377, 378 , 380 und 381)",
+                    "zh": "\u6709\u4e9b\u4eba\u66f4\u559c\u6b22\u8d706...Nbd7\uff08\u68cb\u5c40371\u3001372\u3001377\u3001378\u3001380\u548c381\uff09\u3002",
+                    "pl": "Niekt\u00f3rzy wol\u0105 6. ... Sbd7 (partie 371, 372, 377, 278, 380 i 381).",
+                    "ru": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u044e\u0442 6...Nbd7 (\u0438\u0433\u0440\u044b 371, 372, 377, 378, 380 \u0438 381)."
+                }
+            },
+            {
+                "move": "   7. f4 ",
+                "comment": {
+                    "pt": "O jogo se tornar\u00e1 violento e h\u00e1 in\u00fameras possibilidades para ambos jogadores, como por exemplo;",
+                    "en": "The game will get violent and there are countless possibilities for both sides, such as:",
+                    "es": "El juego se har\u00e1 violento y hay numerosas posibilidades para los dos jugadores, como por ejemplo:.",
+                    "de": "Gewaltiges Spiel mit M\u00f6glichkeiten f\u00fcr beide Seiten:",
+                    "zh": "\u68cb\u5c40\u4f1a\u53ae\u6740\u4f1a\u53d8\u5f97\u5f88\u731b\u70c8\uff0c\u53cc\u65b9\u7684\u53d8\u5316\u53ef\u80fd\u6709\u5f88\u591a\uff0c\u5982\uff1a",
+                    "pl": "Gra staje si\u0119 brutalna i istniej\u0105 niezliczone mo\u017cliwo\u015bci dla obu stron, jak na przyk\u0142ad:",
+                    "ru": "\u0418\u0433\u0440\u0430 \u0431\u0443\u0434\u0435\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0439 \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u043e\u0431\u0435\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d:"
+                }
+            },
+            {
+                "move": "   Nbd7 ",
+                "comment": {
+                    "pt": "7...Db6 atacando o pe\u00e3o de b2 \u00e9 uma possibilidade e geralmente as brancas sacrificam este pe\u00e3o em troca de desenvolvimento, como ocorreu nas partidas 367, 368, 376 e 389. Outra jogada bastante arriscada \u00e9 7...b5 (partida 382) e 7...Be7 tamb\u00e9m \u00e9 jog\u00e1vel.",
+                    "en": "7. ..Qb6 attacking the b2-pawn where White usually sacrifices this pawn in exchange for development as in games 367, 368, 376 and 389. Another very risky move is 7...b5 (game 382) and 7...Be7 is also possible.",
+                    "es": "7...Db6 atacando el pe\u00f3n de b2 es una posibilidad y generalmente las blancas sacrifican este pe\u00f3n a cambio de desarrollo, como ocurri\u00f3 en las partidas 367, 368, 376 y 389. Otra jugada bastante arriesgada es 7...b5 (partida 382) y 7... Ae7 tambi\u00e9n es jugable.",
+                    "de": "7...Db6 mit Angriff auf den Bauern b2 ist eine M\u00f6glichkeit; normalerweise opfert Wei\u00df den Bauern, um die Entwicklung zu beschleunigen (Partien 367, 368, 376 und 389). Ein anderer, ziemlich riskanter Zug ist 7...b5 (Partie Nr. 382); auch 7...Le7 ist spielbar.",
+                    "zh": "7. ..Qb6\u653b\u51fbb2-\u5175\uff0c\u6b64\u5904\u767d\u65b9\u901a\u5e38\u4f1a\u5f03\u6389\u8fd9\u4e2a\u5175\u6765\u6362\u53d6\u51fa\u5b50\uff0c\u6b63\u5982\u68cb\u5c40367\u3001368\u3001376\u548c389\u4e2d\u6240\u793a\u3002\u53e6\u5916\u4e00\u4e2a\u975e\u5e38\u5192\u9669\u7684\u8d70\u6cd5\u662f 7...b5\uff08\u68cb\u5c40382\uff09\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "7. ... Hb6 atakuje piona b2, kt\u00f3ry Bia\u0142e zwykle po\u015bwi\u0119caj\u0105 w zamian za szybszy rozw\u00f3j, jak w partiach 367, 368, 376 i 389. Innych bardzo ryzykownych ruchem jest 7. ... b5 (382), ale te\u017c mo\u017cliwe jest 7. ... Ge7.",
+                    "ru": "7...Qb6 \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 b2, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043e\u0431\u044b\u0447\u043d\u043e \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u044d\u0442\u0443 \u043f\u0435\u0448\u043a\u0443 \u0432 \u043e\u0431\u043c\u0435\u043d \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435, \u043a\u0430\u043a \u0432 \u0438\u0433\u0440\u0430\u0445 367, 368, 376 \u0438 389. \u0414\u0440\u0443\u0433\u043e\u0439 \u043e\u0447\u0435\u043d\u044c \u0440\u0438\u0441\u043a\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0445\u043e\u0434 7...b5 (\u0438\u0433\u0440\u0430 382), \u0430 \u0442\u0430\u043a\u0436\u0435 7...Be7."
+                }
+            },
+            {
+                "move": "   8. Qf3 Qc7 9. O-O-O Be7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 ",
+                "comment": {
+                    "pt": "As brancas atacar\u00e3o no flanco rei avan\u00e7ando seus pe\u00f5es e as pretas no flanco oposto e centro. Partidas 366, 384 e 388.",
+                    "en": "White attacks on the kingside advancing its pawns and Black on the opposite flank and in the center. Games 366, 384 and 388.",
+                    "es": "Las blancas atacar\u00e1n en el flanco rey avanzando sus peones y las negras en el flanco opuesto y el centro. Partidas 366, 384 y 388.",
+                    "de": "Wei\u00df greift am K\u00f6nigsfl\u00fcgel durch Vorr\u00fccken seiner Bauern an, w\u00e4hrend Schwarz am entgegengesetzten Fl\u00fcgel und im Zentrum aktiv wird. Partien Nr. 366, 384 und 388.",
+                    "zh": "\u767d\u65b9\u63a8\u8fdb\u5175\u653b\u51fb\u738b\u7ffc\uff0c\u9ed1\u65b9\u5219\u5728\u76f8\u5bf9\u7684\u4e00\u4fa7\u548c\u4e2d\u5fc3\u53d8\u5f97\u66f4\u79ef\u6781\u3002\u89c1\u68cb\u5c40266\u3001384\u548c388.",
+                    "pl": "Bia\u0142e atakuj\u0105 na skrzydle kr\u00f3lewskim maszeruj\u0105c pionami, za\u015b Czarne na przeciwleg\u0142ej flance i w centrum. Gry 366, 384 i 388.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u0441\u0432\u043e\u0438\u0445 \u043f\u0435\u0448\u0435\u043a, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0418\u0433\u0440\u044b 366, 384 \u0438 388."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

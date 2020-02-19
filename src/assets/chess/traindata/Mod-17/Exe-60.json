@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Bogoindia",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Bogo indian defense",
+            "de": "Bogo-Indische Verteidigung",
+            "es": "Defensa Bogoindia",
+            "pt": "Defensa Bogoindia",
+            "zh": "\u6ce2\u521a-\u5370\u5ea6\u9632\u5fa1",
+            "pl": "Obrona Bogo-indyjska",
+            "ru": "\u0411\u043e\u0433\u043e-\u0418\u043d\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o Cbd2 (partida 650) \u00e9 t\u00e3o boa quanto esta e 3-Cc3 transp\u00f5e para a defesa Nimzoindia.",
+                    "en": "The option Nbd2 (game 650) is as good as this one and 3-Nc3 transposes the position to the Nimzo-Indian defense.",
+                    "es": "La opci\u00f3n Cbd2 (partida 650) es tan buena como \u00e9sta y 3-Cc3 transpone a la Defensa Nimzoindia.",
+                    "de": "Sbd2 (Partie Nr. 650) ist so gut wie 3. Sc3 und f\u00fchrt zur Nimzowitsch-Indischen-Verteidigung.",
+                    "zh": "\u9009\u62e9Nbd2\uff08\u68cb\u5c40650\uff09\u8ddf\u8fd9\u4e00\u7740\u90fd\u4e0d\u9519\uff0c3-Nc3\u5c06\u5c40\u9762\u53d8\u6362\u4e3a\u5c3c\u59c6\u4f50-\u5370\u5ea6\u9632\u5fa1\u3002",
+                    "pl": "Opcja Sbd2 (partia 650) jest tak samo dobra, jak ta w tek\u015bcie, a 3. Sc3 transponuje pozycj\u0119 do obrony Nimzo-indyjskiej.",
+                    "ru": "\u041a\u0430\u043a \u0438 \u044d\u0442\u043e\u0442, \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 Nbd2 (\u0438\u0433\u0440\u0430 650), \u0430  \u0445\u043e\u0434 3-Nc3 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u0438\u0433\u0440\u0443 \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u041d\u0438\u043c\u0446\u043e-\u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b."
+                }
+            },
+            {
+                "move": "   Qe7 ",
+                "comment": {
+                    "pt": "Outras op\u00e7\u00f5es s\u00e3o 4...a5, 4. ..c5 e 4...Bxd2.",
+                    "en": "Other options are 4...a5, 4...c5 and 4...Bxd2.",
+                    "es": "Otras opciones son 4...a5, 4...c5 y 4... Axd2.",
+                    "de": "Andere M\u00f6glichkeiten: 4...a5, 4. ..c5 und 4...Lxd2.",
+                    "zh": "\u53e6\u5916\u7684\u9009\u62e9\u662f4...a5\u30014...c5\u548c4...Bxd2\u3002",
+                    "pl": "Innymi opcjami s\u0105 4. ... a5, 4. ... c5 oraz 4. ... Gxd2.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u043c\u0438 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c\u0438 \u0431\u0443\u0434\u0435\u0442 4...a5, 4...c5 \u0438 4...Bxd2."
+                }
+            },
+            {
+                "move": "   5. g3 O-O ",
+                "comment": {
+                    "pt": "5...Cc6, seguido de ...d5 ocorreu na partida 652.",
+                    "en": "5... Nc6 followed by ...d5 is presented in game 652.",
+                    "es": "5... Cc6, seguido de ...d5 ocurri\u00f3 en la partida 652..",
+                    "de": "5...Sc6 nebst ...d5 geschah in der Partie Nr. 652",
+                    "zh": "5... Nc6\u8ddf\u968f...d5\u5728\u68cb\u5c40652\u4e2d\u5448\u73b0\u3002",
+                    "pl": "5. ... Sc6 kontynuowane przez ... d5 jest zaprezentowane w partii 652.",
+                    "ru": "\u041d\u0430 \u0445\u043e\u0434 5... Nc6, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...d5, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0435 652."
+                }
+            },
+            {
+                "move": "   6. Bg2 Bxd2+ 7. Qxd2 ",
+                "comment": {
+                    "pt": "\u00c9 melhor retomar com a dama para desenvolver o cavalo de b1 por c3.",
+                    "en": "It's better to retake with the Queen in order to develop the b1-Knight through c3.",
+                    "es": "Es mejor retomar con la dama para desarrollar el caballo de b1 por c3.",
+                    "de": "Es ist besser, mit der Dame zur\u00fcckzuschlagen, um den Springer von b1 \u00fcber c3 zu entwickeln.",
+                    "zh": "\u4e3a\u4e86\u901a\u8fc7c3\u51fab1-\u8c61\uff0c\u6700\u597d\u7528\u540e\u6765\u91cd\u65b0\u593a\u53d6\u9635\u5730\u3002",
+                    "pl": "Lepiej jest wzi\u0105\u0107 Hetmanem w celu wyprowadzenia Skoczka b1 przez c3.",
+                    "ru": "\u041b\u0443\u0447\u0448\u0435 \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c\u0441\u044f \u0424\u0435\u0440\u0437\u0435\u043c, \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u041a\u043e\u043d\u044f \u043d\u0430 b1 \u0447\u0435\u0440\u0435\u0437 c3."
+                }
+            },
+            {
+                "move": "   d6 8. Nc3 e5 9. O-O Re8 10. e4 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam maior dom\u00ednio central. A estrat\u00e9gia das pretas foi correta; primeiro trocaram o bispo e depois posicionaram seus pe\u00f5es em casas pretas, deixando o outro bispo com boas perspectivas e todas as pe\u00e7as ser\u00e3o desenvolvidas com facilidade. A partida 649 seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "White has greater central dominance. Black's strategy is correct: first exchange the Bishop and then place the pawns on dark squares creating a good prospective for the other Bishop. Now all pieces can be developed easily. Game 649 continued from this position on.",
+                    "es": "Las blancas tienen mayor dominio central. La estrategia de las negras fue correcta; primero cambiaron el alfil y despu\u00e9s posicionaron sus peones en casillas negras, dejando el otro alfil con buenas  perspectivas; todas las piezas ser\u00e1n desarrolladas con facilidad. La partida 649 sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Wei\u00df beherrscht das Zentrum. Die schwarze Strategie war richtig: zuerst wurde der L\u00e4ufer abgetauscht und danach wurden die Bauern auf dunkle Felder aufgestellt, damit der wei\u00dffeldrige L\u00e4ufer bessere Aussichten hat und alle Figuren problemlos entwickelt werden k\u00f6nnen. Partie Nr. 649 zeigt eine Fortsetzung.",
+                    "zh": "\u767d\u65b9\u62e5\u6709\u5f3a\u5927\u7684\u4e2d\u5fc3\u7edf\u6cbb\u3002\u9ed1\u65b9\u7684\u6218\u7565\u65b9\u9488\u662f\u5bf9\u7684\uff1a\u9996\u5148\u5151\u8c61\uff0c\u7136\u540e\u5c06\u5175\u653e\u5728\u9ed1\u683c\uff0c\u4e3a\u53e6\u5916\u4e00\u4e2a\u8c61\u521b\u9020\u826f\u597d\u7684\u9884\u671f\u3002\u76ee\u524d\u6240\u6709\u7684\u68cb\u5b50\u90fd\u5f88\u5bb9\u6613\u51fa\u52a8\u3002\u68cb\u5c40649\u4ecb\u7ecd\u4e86\u4e00\u79cd\u5ef6\u7eed\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 wi\u0119ksz\u0105 kontrol\u0119 centrum. Strategia Czarnych jest s\u0142uszna: wpierw wymieni\u0107 Go\u0144ca, a potem ustawi\u0107 piony na ciemnych polach kreuj\u0105c dobr\u0105 perspektyw\u0119 dla drugiego Go\u0144ca. Teraz wszystkie figury mog\u0105 zosta\u0107 \u0142atwo wyprowadzone. Partia 649 kontynuuje z tego miejsca.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435. \u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0430: \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430, \u0430 \u0437\u0430\u0442\u0435\u043c \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 \u0442\u0435\u043c\u043d\u044b\u0445 \u043f\u043e\u043b\u044f\u0445, \u0434\u0430\u0432\u0430\u044f \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u0443 \u0434\u0440\u0443\u0433\u043e\u043c\u0443 \u0421\u043b\u043e\u043d\u0443. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u0444\u0438\u0433\u0443\u0440\u044b \u043c\u043e\u0433\u0443\u0442 \u043b\u0435\u0433\u043a\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f. \u0418\u0433\u0440\u0430 649 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

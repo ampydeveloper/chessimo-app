@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Escandinava",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Scandinavian defense",
+            "de": "Skandinavische Verteidigung",
+            "es": "Defensa Escandinava",
+            "pt": "Defensa Escandinava",
+            "zh": "\u65af\u582a\u7684\u7eb3\u7ef4\u4e9a\u9632\u5fa1",
+            "pl": "Obrona skandynawska",
+            "ru": "\u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 d5 ",
+                "comment": {
+                    "pt": "A defesa Escandinava tem por objetivo destruir imediatamente o centro branco, mas o inconveniente \u00e9 a prematura exposi\u00e7\u00e3o de sua dama, que representara uma perda de tempo.",
+                    "en": "Scandinavian defense aims to destroy the white center immediately but the problem is the premature exposure of the Queen that will represent loss of tempo.",
+                    "es": "La Defensa Escandinava tiene por objetivo destruir inmediatamente el  centro blanco, pero el inconveniente es la exposici\u00f3n prematura de su dama, lo que acarrear\u00e1 p\u00e9rdidas de tiempo.",
+                    "de": "Die Skandinavische Verteidigung hat die schnelle Aufl\u00f6sung des wei\u00dfen Zentrums zum Ziel, hat aber den Nachteil, die Dame zu fr\u00fch ins Spiel zu bringen, was mit Tempoverlust verbunden ist.",
+                    "zh": "\u65af\u582a\u7684\u7eb3\u7ef4\u4e9a\u9632\u5fa1\u76ee\u7684\u662f\u4e3a\u4e86\u7acb\u5373\u6467\u6bc1\u767d\u65b9\u4e2d\u5fc3\uff0c\u4f46\u662f\u95ee\u9898\u5728\u4e8e\u8fc7\u65e9\u7684\u66b4\u9732\u540e\uff0c\u8fd9\u4f53\u73b0\u5728\u4e22\u5931\u5148\u624b\u3002",
+                    "pl": "Obrona skandynawska ma w zamierzeniu prowadzi\u0107 do natychmiastowego rozpadu centrum, ale jej problemem jest przedwczesne ods\u0142onienie Hetmana, co reprezentuje utrata tempa.",
+                    "ru": "\u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0430 \u043d\u0430 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435 \u0446\u0435\u043d\u0442\u0440\u0430 \u0411\u0435\u043b\u044b\u0445, \u0441 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043e\u0439 \u043f\u0440\u0435\u0436\u0434\u0435\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u043e\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043d\u0430 \u0424\u0435\u0440\u0437\u044f, \u0447\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043e\u0437\u043d\u0430\u0447\u0430\u0442\u044c \u043f\u043e\u0442\u0435\u0440\u044e \u0442\u0435\u043c\u043f\u0430."
+                }
+            },
+            {
+                "move": "   2. exd5 Qxd5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel tentar recuperar o pe\u00e3o com 2...Nf6. Neste caso as brancas podem tentar defender o pe\u00e3o com 3-c4 e 3-Bb5 (partida 308) ou jogar 3-d4 e ap\u00f3s ... Nxd5 4-c4 obtendo vantagem no centro.",
+                    "en": "It's also possible to try to recover the pawn with 2...Nf6. In this case, White may try to defend the pawn with 3-c4 and 3-Bb5 (game 308) or play 3-d4 and after ...Nxd5, 4-c4 obtaining central advantage.",
+                    "es": "Tambi\u00e9n es posible tratar de recuperar el pe\u00f3n con 2...Cf6. En este caso las blancas pueden intentar defender el pe\u00f3n con 3-c4 y 3-Ab5 (partida 308) o jugar 3-d4; despu\u00e9s de  ...Cxd5 4-c4 obtendr\u00edan ventaja en el centro.",
+                    "de": "Man kann den Bauern auch mit  2...Sf6 zur\u00fcckgewinnen. Wei\u00df kann versuchen, ihn mit 3. c4 bzw. 3. Lb5  (Partie Nr. 308) zu behalten, oder nach 3. d4 Sxd5 4. c4 Vorteil im Zentrum zu erreichen.",
+                    "zh": "\u75282...Nf6\u6765\u91cd\u65b0\u593a\u56de\u5175\u4e5f\u662f\u53ef\u884c\u7684\u3002\u8fd9\u6837\u767d\u65b9\u5e94\u8be5\u8d703-c4\u548c3-Bb5\uff08\u68cb\u5c40308\uff09\u6765\u9632\u5fa1\u5175\u6216\u8005 ...Nxd5, 4-c4\u4e4b\u540e\u8d703-d4\u6765\u83b7\u5f97\u4e2d\u5fc3\u4f18\u52bf\u3002",
+                    "pl": "Mo\u017cliwe jest tak\u017ce odzyskanie piona dzi\u0119ki 2. ... Sf6. W tym wypadku Bia\u0142e mog\u0105 pr\u00f3bowa\u0107 broni\u0107 piona przez 3. c4 i 3. Gb5 (gra 308) lub zagranie 3. d4 i p\u00f3\u017aniejsze ... Sxd5, 4. c4 utrzymuje przewag\u0119 w centrum.",
+                    "ru": "\u041a\u0440\u043e\u043c\u0435 \u0432\u0441\u0435\u0433\u043e, \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u0445\u043e\u0434\u043e\u043c  2...Nf6. \u0412 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 3-c4 \u0438 3-Bb5 (\u0438\u0433\u0440\u0430 308) \u0438\u043b\u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c 3-d4, \u0430 \u0437\u0430\u0442\u0435\u043c ...Nxd5, 4-c4, \u043f\u043e\u043b\u0443\u0447\u0430\u044f \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435."
+                }
+            },
+            {
+                "move": "   3. Nc3 Qa5 ",
+                "comment": {
+                    "pt": "As jogadas 3....Dd8 e Dd6 ocorrem nas partidas 306, 307 3 309 de nossa base.",
+                    "en": "3.... Qd8 and Qd6 are presented in games 306, 307 and 309 of our database.",
+                    "es": "Las jugadas 3....Dd8 y Dd6 ocurren en las partidas 306, 307 3 309 de nuestra base.",
+                    "de": "3....Dd8 und Dd6 kann man in den Partien Nr. 306, 307 und 309 unserer Datenbank sehen.",
+                    "zh": "3.... Qd8\u548cQd6\u5728\u68cb\u5c40306\u3001307\u548c309\u4e2d\u5448\u73b0\u3002",
+                    "pl": "3. ... Hd8 i Hd6 zaprezentowano w partiach 306, 307 i 309 naszej bazy.",
+                    "ru": "3...Qd8 \u0438 Qd6 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0432 \u0438\u0433\u0440\u0430\u0445 306, 307 \u0438 309, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   4. d4 Nf6 5. Bc4 c6 6. Nf3 Bf5 7. Bd2 ",
+                "comment": {
+                    "pt": "Novamente as brancas desenvolvem uma pe\u00e7a e criam amea\u00e7as contra a dama preta.",
+                    "en": "Again, White develops a piece and creates threats against the black Queen.",
+                    "es": "Una vez m\u00e1s, las blancas desarrollan una pieza y crean amenazas contra la dama negra.",
+                    "de": "Erneut entwickelt Wei\u00df eine Figur mit Tempogewinn, da sie die schwarze Dame bedroht.",
+                    "zh": "\u767d\u65b9\u518d\u6b21\u51fa\u5b50\u7ed9\u9ed1\u540e\u5236\u9020\u5a01\u80c1\u3002",
+                    "pl": "Ponownie Bia\u0142e wyprowadzaj\u0105 figur\u0119 i zagra\u017caj\u0105 czarnemu Hetmanowi.",
+                    "ru": "\u041e\u043f\u044f\u0442\u044c, \u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0442 \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u0443\u0433\u0440\u043e\u0437\u0443 \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u0424\u0435\u0440\u0437\u044e."
+                }
+            },
+            {
+                "move": "   Qc7 8. Qe2 e6 ",
+                "comment": {
+                    "pt": "Tomar o pe\u00e3o em c2 seria muito arricado devido a grande vantagem branca em desenvolvimento. Estas poderiam seguir com Rc1 e d5.",
+                    "en": "It would be very risky to take the c2-pawn with the Bishop due to White's great advantage in development. It could continue with Rc1 and d5.",
+                    "es": "Tomar el pe\u00f3n en c2 con el alfil ser\u00eda muy arriesgado debido a la gran ventaja blanca en desarrollo. Estas podr\u00edan seguir con Tc1 y d5.",
+                    "de": "Aufgrund des gro\u00dfen Entwicklungsvorsprungs vom Wei\u00df w\u00e4re es zu riskant, den Bauern auf c2 zu schlagen. Wei\u00df k\u00f6nnte dann mitmit Tc1 und d5 fortsetzen.",
+                    "zh": "\u7528\u8c61\u6349c2-\u5175\u662f\u975e\u5e38\u5192\u9669\u7684\uff0c\u56e0\u4e3a\u767d\u65b9\u7684\u51fa\u5b50\u5360\u5148\u5f88\u591a\u3002\u53ef\u4ee5\u7ee7\u7eed\u8d70Rc1\u548cd5\u3002",
+                    "pl": "Ryzykownym by\u0142oby wzi\u0119cie piona c2 Go\u0144cem ze wzgl\u0119du na wielk\u0105 przewag\u0119 w rozwoju Bia\u0142ych. Mo\u017cna kontynuowa\u0107 przez Wc1 i d5.",
+                    "ru": "\u041e\u0447\u0435\u043d\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0440\u0438\u0441\u043a\u043e\u043c \u0431\u0443\u0434\u0435\u0442 \u0432\u0437\u044f\u0442\u0438\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 c2 \u0421\u043b\u043e\u043d\u043e\u043c, \u0438\u0437-\u0437\u0430 \u043b\u0443\u0447\u0448\u0435\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440 \u0443 \u0411\u0435\u043b\u044b\u0445. \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435\u043c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c Rc1 \u0438 d5."
+                }
+            },
+            {
+                "move": "   9. O-O-O Be7 10. Nh4 ",
+                "comment": {
+                    "pt": "E as brancas t\u00eam vantagem devido ao melhor desenvolvimento e agora, garantem a obten\u00e7\u00e3o do par de bispos, que numa posi\u00e7\u00e3o aberta lhes trar\u00e1 vantagem.",
+                    "en": "White has advantage as a result of better development and now it makes sure to obtain the pair of Bishops that will be very useful in an open position.",
+                    "es": "Y las blancas tienen ventaja debido al mejor desarrollo y ahora se aseguran la pareja de alfiles, que en una posici\u00f3n abierta les traer\u00e1 ventaja.",
+                    "de": "Au\u00dfer dem Vorteil aufgrund seiner besseren Entwicklung hat Wei\u00df nun auch noch das L\u00e4uferpaar.",
+                    "zh": "\u767d\u65b9\u7684\u4f18\u52bf\u6765\u6e90\u4e8e\u51fa\u5b50\u9886\u5148\uff0c\u62e5\u6709\u53cc\u8c61\uff0c\u8fd9\u5728\u5f00\u653e\u6027\u5c40\u9762\u662f\u5f88\u6709\u7528\u7684\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 przewag\u0119 wynikaj\u0105c\u0105 z lepszego rozwoju i mog\u0105 teraz by\u0107 pewne do utrzymania pary Go\u0144c\u00f3w, co b\u0119dzie bardzo pomocne w otwartej pozycji.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043b\u0443\u0447\u0448\u0435\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0444\u0438\u0433\u0443\u0440 \u0438 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0430\u0440\u043e\u0439 \u0421\u043b\u043e\u043d\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0447\u0435\u043d\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

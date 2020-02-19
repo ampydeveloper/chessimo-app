@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(26)",
+            "zh": "Event 1"
+        },
+        "fen": "2rr2k1\/pb2q1n1\/4n2p\/2pp1pp1\/8\/PPN1PP2\/5BPP\/1BRRQ1K1 w - - 0 32",
+        "moves": [
+            {
+                "move": "32. b4 ",
+                "comment": {
+                    "pt": "Enfraquecendo as casas pretas do advers\u00e1rio, que n\u00e3o possui o bispo desta cor.",
+                    "en": "Weakening the dark enemy squares, since the opponent doesn't have a Bishop on this color.",
+                    "de": "Schw\u00e4cht die schwarzen Felder vom Gegner, der den schwarzfeldrigen L\u00e4ufer bereits abgetauscht hat.",
+                    "es": "Debilitando las casillas negras del adversario, que no tiene el alfil de este color.",
+                    "zh": "\u524a\u5f31\u654c\u65b9\u7684\u9ed1\u683c\uff0c\u56e0\u4e3a\u5bf9\u624b\u8fd9\u6ca1\u6709\u8fd9\u4e2a\u989c\u8272\u7684\u8c61\u3002",
+                    "pl": "Os\u0142abienie ciemnych p\u00f3l przeciwnika - oponent nie posiada ciemnopolowego Go\u0144ca.",
+                    "ru": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u0442\u0435\u043c\u043d\u044b\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u044b \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0443 \u043d\u0435\u0433\u043e \u043d\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(25)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2r1k\/p5np\/2p2np1\/2p1q1N1\/4Pp1P\/3Q1B2\/PP2NP2\/2KR2R1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Qd6 ",
+                "comment": {
+                    "pt": "Desbloqueando a casa e5 e liberando o avan\u00e7o do pe\u00e3o passado.",
+                    "en": "Unlocking e5 and releasing the passed pawn to advance.",
+                    "de": "Beseitigt den Blockierer des Freibauern.",
+                    "es": "Desbloqueando la casilla e5 y liberando el avance del pe\u00f3n pasado.",
+                    "zh": "\u89e3\u653ee5\uff0c\u4f7f\u901a\u8def\u5175\u5f97\u4ee5\u524d\u8fdb\u3002",
+                    "pl": "Odblokowanie e5 i umo\u017cliwienie marszu wolnego piona.",
+                    "ru": "\u0414\u0435\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 e5 \u0438 \u0432\u0432\u043e\u0434\u0438\u0442 \u0442\u0435\u043c \u0441\u0430\u043c \u0432 \u0438\u0433\u0440\u0443 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u0434\u0430\u0432\u0430\u044f \u0435\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(43)",
+            "zh": "Event 1"
+        },
+        "fen": "3r2k1\/p5p1\/1p4n1\/1Ppr1p1p\/P4P2\/3P2P1\/1B3K1P\/2R1R3 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. d4 ",
+                "comment": {
+                    "pt": "J\u00e1 que o pe\u00e3o dama estava perdido de qualquer jeito, esse lance ir\u00e1 abrir a coluna c para a penentra\u00e7\u00e3o da torre branca na s\u00e9tima fila.",
+                    "en": "Since the Queen-pawn is lost anyway, this move will open the c-file for the white Rook to enter the 7th rank.",
+                    "de": "Gibt den ohnehin verlorenen d-Bauern, um die c-Linien zu \u00f6ffnen und auf die siebte Reihe einzudringen.",
+                    "es": "Ya que el pe\u00f3n dama estaba perdido de cualquier manera, esta jugada va a abrir la columna c para la penetraci\u00f3n de la torre blanca en la s\u00e9ptima l\u00ednea.",
+                    "zh": "\u56e0\u4e3a\u540e\u7ffc\u5175\u5982\u8bba\u5982\u4f55\u90fd\u4f1a\u4e22\u5931\uff0c\u8d70\u8fd9\u4e00\u6b65\u4f1a\u7ed9\u767d\u8f66\u5f00\u653ec-\u7ebf\u8fdb\u5165\u4e03\u7ebf\u3002",
+                    "pl": "Skoro pion hetma\u0144ski jest stracony w taki, czy inny spos\u00f3b, ten ruch otworzy kolumn\u0119 c dla bia\u0142ej Wie\u017cy, aby wkroczy\u0142a na si\u00f3dm\u0105 lini\u0119.",
+                    "ru": "\u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0444\u0435\u0440\u0437\u0435\u0432\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0442\u0435\u0440\u044f\u043d\u0430 \u0432 \u043b\u044e\u0431\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435, \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u0431\u0435\u043b\u043e\u0439 \u041b\u0430\u0434\u044c\u0438, \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043c\u043e\u0433\u043b\u0430 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u043d\u0430 \u0441\u0435\u0434\u044c\u043c\u0443\u044e \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(7)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/pp1bb2p\/1q2pnpB\/7P\/4Q3\/P4N2\/1P3PP1\/RB3RK1 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Qe1 ",
+                "comment": {
+                    "pt": "Colocando a dama na \u00fanica casa segura de onde ela poder\u00e1 apoiar o cavalo que ir\u00e1 se instalar em e5 e atacar o rei preto.",
+                    "en": "Placing the Queen on the only safe square, from where it can support the Knight that will move to e5 and attack the black King.",
+                    "de": "Zieht die Dame auf das einzige sichere Feld. Von e1 aus wird sie den Springer unterst\u00fctzen, der den Vorposten e5 besetzen wird.",
+                    "es": "Colocando la dama en la \u00fanica casilla segura de donde podr\u00e1 apoyar al caballo que va a instalarse en e5 y atacar el rey negro.",
+                    "zh": "\u5c06\u540e\u6446\u5230\u552f\u4e00\u5b89\u5168\u7684\u4e00\u683c\uff0c\u4ece\u8fd9\u91cc\u5b83\u53ef\u4ee5\u652f\u6301\u9a6c\uff0c\u4f7f\u9a6c\u53ef\u4ee5\u524d\u8fdb\u5230e5\u524d\u54e8\u4f4d\u7f6e\u5e76\u653b\u51fb\u9ed1\u738b\u3002",
+                    "pl": "Umieszczenie hetmana na jedynym bezpiecznym polu, sk\u0105d mo\u017ce wspiera\u0107 Skoczka, kt\u00f3ry przemie\u015bci si\u0119 na e5 i zaatakuje czarnego Kr\u00f3la.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u0424\u0435\u0440\u0437\u044f \u043d\u0430 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u043f\u043e\u043b\u0435, \u043e\u0442\u043a\u0443\u0434\u0430 \u043e\u043d \u0441\u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u041a\u043e\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u0441\u044f \u043d\u0430 e5, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(7)",
+            "zh": "Event 1"
+        },
+        "fen": "r4r2\/pp1bppkp\/2np2p1\/q4P2\/2P1P3\/2N5\/PP1QB1PP\/3R1R1K w - - 0 17",
+        "moves": [
+            {
+                "move": "17. c5 ",
+                "comment": {
+                    "pt": "Atrav\u00e9s deste sacrif\u00edcio as brancas ir\u00e3o afastar a dama preta do flanco do rei, coloc\u00e1-la em perigo e criar temas de ataque. Se agora ... Dxc5 segue Cd5 ameacando ganhar a dama com b4.",
+                    "en": "By means of this sacrifice, White will drive the black Queen away from the kingside, put it in danger and create attack themes. If ...Qxc5 now, Nd5 will follow threatening to capture the Queen with b4.",
+                    "de": "Mit diesem Opfer entfernt Wei\u00df die schwarze Dame vom K\u00f6nigsfl\u00fcgel und bringt sie dazu noch in eine unstabile Situation. Auf ...Dxc5 folgt Sd5 mit der Drohung b4 mit Damenfang.",
+                    "es": "A trav\u00e9s de este sacrificio las blancas van a alejar la dama negra del flanco rey, colocarla en peligro y crear temas de ataque. Si ahora ... dxc5 sigue Cd5 amenazando ganar la dama con b4.",
+                    "zh": "\u901a\u8fc7\u5f03\u5b50\u767d\u68cb\u5c06\u9ed1\u738b\u9a71\u9010\u51fa\u738b\u7ffc\uff0c\u4f7f\u4e4b\u9650\u4e8e\u9669\u5883\u3002\u5982\u679c\u73b0\u5728\u4e0b...Qxc5\uff0c\u90a3\u4e48Nd5\u4f1a\u8ddf\u4ece\u800c\u5a01\u80c1\u7528b4\u6349\u540e\u3002",
+                    "pl": "Znaczeniem tej ofiary jest odsuni\u0119cie przez Bia\u0142e czarnego Hetmana od skrzyd\u0142a kr\u00f3lewskiego, umieszczenie go w zagro\u017ceniu i stworzenie siatki ataku. Je\u015bli teraz ... Hxc5, nast\u0105pi Sd5 gro\u017c\u0105c zbiciem Hetmana przez b4.",
+                    "ru": "\u0421 \u043f\u043e\u043c\u043e\u0449\u044c \u0436\u0435\u0440\u0442\u0432\u044b \u044d\u0442\u043e\u0439 \u043f\u0435\u0448\u043a\u0438, \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u044e\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0441 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430, \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0434\u043b\u044f \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0430\u0442\u0430\u043a. \u0415\u0441\u043b\u0438 ...Qxc5, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 Nd5, \u0447\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u0443\u0433\u0440\u043e\u0436\u0430\u0442\u044c \u0432\u0437\u044f\u0442\u0438\u0435\u043c \u0424\u0435\u0440\u0437\u044f \u043d\u0430 b4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

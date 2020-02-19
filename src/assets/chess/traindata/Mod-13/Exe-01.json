@@ -1,0 +1,138 @@
+[
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1k2r\/bpppqpp1\/p1n2n1p\/8\/2BPP3\/2N2N2\/PP3PPP\/R1BQ1RK1 w kq - 0 1",
+        "moves": [
+            {
+                "move": "1. e5 ",
+                "comment": {
+                    "pt": "Com este avan\u00e7o as brancas aproveitam sua vantagem central, expulsando o cavalo preto deste setor e na jogada seguinte poder\u00e3o seguir com d5, expulsando o outro cavalo ou Cd5 atacando a dama.",
+                    "en": "With this move, White uses its central advantage and pushes the black Knight out of this sector. The next move might be d5 and drive the other Knight away, or Nd5 attacking the Queen.",
+                    "es": "Con este avance las blancas aprovechan su ventaja central, expulsando al caballo negro de este sector. en la jugada siguiente podr\u00e1n seguir con d5, expulsando el otro caballo o Cd5 atacando a dama.",
+                    "de": "Durch diesen Vorsto\u00df nutzt Wei\u00df seinen Vorteil im Zentrum aus. Er vertreibt den schwarzen Springer vom Zentrum und kann entweder d5 folgen lassen, um auch den anderen Springer zu vertreiben oder Sd5, um die Dame anzugreifen.",
+                    "zh": "\u8d70\u8fd9\u4e00\u7740\uff0c\u767d\u65b9\u53ef\u4ee5\u5229\u7528\u4e2d\u5fc3\u4f18\u52bf\uff0c\u5c06\u9ed1\u9a6c\u6324\u51fa\u8fd9\u5757\u5730\u76d8\u3002\u4e0b\u4e00\u6b65\u53ef\u4ee5\u662fd5\uff0c\u8d76\u8d70\u53e6\u5916\u4e00\u4e2a\u9a6c\uff0c\u6216\u8005\u8d70Cd5\u653b\u51fb\u540e\u3002",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u0438 \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c \u0438\u0437 \u044d\u0442\u043e\u0433\u043e \u0441\u0435\u043a\u0442\u043e\u0440\u0430. \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0445\u043e\u0434 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c d5, \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0449\u0438\u0439 \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u041a\u043e\u043d\u044f, \u0438\u043b\u0438 Cd5 \u0441 \u0430\u0442\u0430\u043a\u043e\u0439 \u043d\u0430 \u0424\u0435\u0440\u0437\u044f.",
+                    "pl": "Tym ruchem Bia\u0142e robi\u0105 u\u017cytek z przewagi w centrum i odpychaj\u0105 czarnego Skoczka z jego sektora. Nast\u0119pnym ruchem m\u00f3g\u0142by by\u0107 d5, co przegoni\u0142oby kolejnego Skoczka, lub Sd5, aby zaatakowa\u0107 Hetmana.",
+                    "fr": "Avec ce coup, les blancs utilisent leur avantage au centre pour chasser le cavalier noir. Au prochain coup, ils pourront jouer d5 pour chasser l’autre cavalier ou Cd5 pour attaquer la dame."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pppp1ppp\/4pn2\/8\/3PP3\/8\/PPP2PPP\/RNBQKBNR w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. e5 ",
+                "comment": {
+                    "pt": "Ao atacar o cavalo, as brancas expulsam o cavalo preto do centro e ganham tempo para ocupa-lo com os pe\u00f5es.",
+                    "en": "As White attacks the Knight and drives it away from the center, it wins tempo to occupy this sector with its pawns.",
+                    "es": "Al atacar el caballo negro, las blancas lo expulsan del centro y ganan tiempo para ocupar a \u00e9ste con los peones.",
+                    "de": "Wei\u00df vertreibt den Springer vom Zentrum und gewinnt Tempo, um es zu besetzen.",
+                    "zh": "\u767d\u65b9\u653b\u51fb\u9ed1\u9a6c\u5e76\u5c06\u5b83\u9a71\u9010\u51fa\u4e2d\u5fc3\uff0c\u8d62\u5f97\u4e00\u624b\uff0c\u5e76\u7528\u5175\u5360\u636e\u8fd9\u4e00\u533a\u57df\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u041a\u043e\u043d\u044f \u0438 \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u0435\u0433\u043e \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430. \u0412\u044b\u0438\u0433\u0440\u0430\u0432 \u0442\u0435\u043c\u043f, \u043e\u043d\u0438 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u044d\u0442\u043e\u0442 \u0441\u0435\u043a\u0442\u043e\u0440 \u043f\u0435\u0448\u043a\u0430\u043c\u0438.",
+                    "pl": "Bia\u0142e atakuj\u0105 Skoczka i przeganiaj\u0105 go z centrum - wygrywaj\u0105 tempo, by samemu zdoby\u0107 ten sektor pionami."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqk1nr\/pppp1ppp\/8\/2b5\/4Pp2\/5N2\/PPPP2PP\/RNBQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. d4 ",
+                "comment": {
+                    "pt": "Com este lance as brancas formam o centro ideal (e4-d4) , atacam o bispo contr\u00e1rio e se preparam para recuperar o pe\u00e3o de f4 com o bispo de casas pretas.",
+                    "en": "With this move, White forms the optimal center (e4-d4), attacks the opponent's Bishop and prepares to recover the f4-pawn with its dark-squared Bishop.",
+                    "es": "Con esta jugada las blancas forman el centro ideal (e4-d4), atacan el alfil contrario y se preparan para recuperar el pe\u00f3n de f4 con el alfil de casillas negras.",
+                    "de": "Mit diesem Zug bildet Wei\u00df das ideale Mittelspiel (e4-d4), greift den gegnerischen L\u00e4ufer an und wird anschlie\u00dfend den Bauern auf f4 zur\u00fcckgewinnen.",
+                    "zh": "\u8d70\u8fd9\u4e00\u6b65\u767d\u68cb\u53ef\u4ee5\u6253\u9020\u6700\u4f73\u4e2d\u5fc3\uff08e4-d4\uff09\uff0c\u653b\u51fb\u5bf9\u65b9\u8c61\u5e76\u4e14\u6700\u7ec8\u8ba9\u593a\u56def4-\u5175\u3002",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u0444\u043e\u0440\u043c\u0438\u0440\u0443\u044e\u0442 \u043e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 (e4-d4), \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0442 \u043d\u0430 \u0421\u043b\u043e\u043d\u0430 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430 \u0438 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044e\u0442 f4-\u043f\u0435\u0448\u043a\u0443 \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u043c \u0421\u043b\u043e\u043d\u043e\u043c.",
+                    "pl": "Tym posuni\u0119ciem Bia\u0142e formuj\u0105 optymalne centrum (e4-d4), atakuj\u0105 Go\u0144ca przeciwnika i przygotowuj\u0105 odbicie piona f4 swoim czarnopolowym Go\u0144cem."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqk2r\/ppppbppp\/4pn2\/8\/2PP4\/2N5\/PP2PPPP\/R1BQKBNR w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. e4 ",
+                "comment": {
+                    "pt": "Construindo um grande centro e amea\u00e7ando incomodar o cavalo preto com e5.",
+                    "en": "Building up a great center and disturbing the black Knight with e5.",
+                    "es": "Construyendo un centro grande y amenazando molestar al caballo negro con e5.",
+                    "de": "Bildet ein grosses Zentrum und droht, den schwarzen Springer mit e5 zu vertreiben.",
+                    "zh": "\u5efa\u7acb\u5f3a\u5927\u4e2d\u5fc3\uff0c\u7528e5\u9a71\u8d76\u9ed1\u9a6c\u3002",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u043d\u0430\u0434\u0435\u0436\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u043c\u0443 \u041a\u043e\u043d\u044e \u043d\u0430 e5.",
+                    "pl": "Buduj\u0105c \u015bwietne centrum i przeszkadzaj\u0105c czarnemu Skoczkowi dzi\u0119ki e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/pp1p1ppp\/2n1pn2\/2p5\/2PP4\/2N2N2\/PP2PPPP\/R1BQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. d5 ",
+                "comment": {
+                    "pt": "Aumentando o dom\u00ednio central e expulsando o cavalo preto deste setor.",
+                    "en": "Increasing central domain and driving the black Knight off this sector.",
+                    "es": "Aumentando el dominio central y expulsando al caballo negro de este sector.",
+                    "de": "Erh\u00f6ht die Kontrolle \u00fcber das Zentrum und vertreibt den schwarzen Springer.",
+                    "zh": "\u63d0\u5347\u4e2d\u5fc3\u7edf\u6cbb\uff0c\u5c06\u9ed1\u9a6c\u9a71\u9010\u51fa\u4e2d\u5fc3\u3002",
+                    "ru": "\u041d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u0432\u044b\u0442\u0435\u0441\u043d\u044f\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0438\u0437 \u044d\u0442\u043e\u0433\u043e \u0441\u0435\u043a\u0442\u043e\u0440\u0430.",
+                    "pl": "Zwi\u0119kszanie centralnej dominacji i przeganianie czarnego Skoczka z jego sektora."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

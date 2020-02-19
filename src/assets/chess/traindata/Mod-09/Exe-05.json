@@ -1,0 +1,182 @@
+[
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1003)"
+        },
+        "fen": "8\/8\/p7\/1p6\/1k6\/p3B3\/P1K5\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Kd3 Ka5 2. Kc3 b4+ 3. Kc4 b3 4. axb3 a2 5. Kc5 a1=Q 6. Bd2+ Qc3+ 7. Bxc3#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1004)"
+        },
+        "fen": "8\/5p1B\/7P\/1K6\/1p6\/p7\/1k6\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bc2 a2 2. h7 a1=Q 3. h8=Q+ Ka2 4. Bb3+ Kb1 5. Qh7+ Kb2 6. Qc2+ Ka3 7. Bd5 Qf1+ 8. Ka5",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1005)"
+        },
+        "fen": "8\/2kB4\/8\/7p\/6p1\/8\/P5Kp\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bf5 g3 2. Be4 h4 3. Kh3 Kd6 4. Kxh4 Kc5 5. Kxg3 Kb4 6. Kxh2 Ka3 7. Bd5 (7. Bb1 $11)",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1006)"
+        },
+        "fen": "8\/8\/2P1k3\/3pB3\/3K2p1\/p7\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Kc5 a2 2. Bd4 g3 3. Kb6 g2 4. c7 a1=Q 5. c8=Q+ Kf7 6. Qd7+ (6. Qf5+ $11) (6. Qc7+) (6. Qb7+ $11) 6... Kf8 7. Qg7+ Ke8 8. Bxa1",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1007)"
+        },
+        "fen": "3KB3\/3P4\/p7\/k7\/8\/p7\/1p6\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Kc8 b1=Q 2. d8=Q+ Qb6 3. Qd2+ Qb4 4. Qd5+ Kb6 5. Qc6+ Ka5 6. Qc7+ Qb6 7. Qc3+ Qb4 8. Qe5+ Kb6 9. Qc7#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1008)"
+        },
+        "fen": "4B1K1\/8\/2P2p1k\/8\/6p1\/1p6\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. c7 b2 2. Bg6 Kxg6 3. c8=Q b1=Q 4. Qxg4+ Kh6 5. Qh4+ Kg6 6. Qh7+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1009)"
+        },
+        "fen": "7B\/4p1K1\/8\/7p\/1p2k3\/8\/2P5\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Kf7 Kd5 2. Kg6 h4 3. Kf5 h3 4. Be5 e6+ 5. Kf6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1010)"
+        },
+        "fen": "B6K\/8\/4p3\/P1p5\/8\/1p6\/7k\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. a6 c4 2. a7 c3 3. Bh1 c2 4. a8=Q c1=Q 5. Qg2#",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1011)"
+        },
+        "fen": "8\/8\/k7\/p1p5\/2K5\/1P5p\/8\/6B1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Kxc5 a4 2. b4 Kb7 3. Kc4 Ka6 4. Bh2 Kb6 5. Be5 (5. Bg3 $11) (5. Bf4 $11) 5... Ka6 6. Bf4 (6. Bg3 $11) 6... Kb6 7. Bh2 Ka6 8. Bg1 (8. b5+ $11) 8... Kb7 9. Kc3 Ka6 10. Kb2 Kb5 11. Ka3 Ka6 12. Kxa4",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "BP x PPP",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(1012)"
+        },
+        "fen": "6B1\/8\/1p1k4\/1p1P4\/1K6\/7p\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bh7 Kxd5 2. Bf5 h2 3. Bc8 Kc6 4. Bg4 h1=Q 5. Bf3+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

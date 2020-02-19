@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(10)",
+            "zh": "Event 1"
+        },
+        "fen": "1b1r2k1\/2r2pp1\/pqn2n1p\/3p1B2\/Pp1P2P1\/2N1B3\/1P3PP1\/R2QR1K1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. a5 ",
+                "comment": {
+                    "pt": "Liberando a casa a4 para o cavalo branco, de onde poder\u00e1 se instalar em c5.",
+                    "en": "Liberating a4 for the white Knight, from where it may move to c5.",
+                    "de": "R\u00e4umt das Feld a4 f\u00fcr den wei\u00dfen Springer, der von dort aus c5 besetzen kann.",
+                    "es": "Liberando la casilla a4 para el caballo blanco, de donde podr\u00e1 saltar para instalarse en c5.",
+                    "zh": "\u7ed9\u767d\u9a6c\u6e05\u7a7aa4\uff0c\u8fd9\u6837\u5b83\u53ef\u4ee5\u79fb\u52a8\u5230c5\u3002",
+                    "pl": "Uwolnienie a4 dla bia\u0142ego Skoczka, sk\u0105d mo\u017ce przemie\u015bci\u0107 si\u0119 na c5.",
+                    "ru": "\u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 a4 \u0434\u043b\u044f \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f, \u043e\u0442\u043a\u0443\u0434\u0430 \u043e\u043d \u0441\u043c\u043e\u0436\u0435\u0442 \u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 c5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(46)",
+            "zh": "Event 1"
+        },
+        "fen": "1r1r2k1\/2b1qp1p\/b1p3p1\/p1p1p3\/2P1P3\/1PN1BP2\/P1Q3PP\/R2R2K1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Rd4 ",
+                "comment": {
+                    "pt": "Sacrificando a qualidade em troca da reabilita\u00e7\u00e3o de sua estrutura de pe\u00f5es, maior dom\u00ednio das casas pretas e cria\u00e7\u00e3o de um pe\u00e3o passado.",
+                    "en": "Sacrificing quality in order to recover pawn structure, get greater dominance over dark squares and create a passed pawn.",
+                    "de": "Opfert die Qualit\u00e4t, um die Bauernkette wiederherzustellen. Au\u00dferdem wird die Kontrolle der schwarzen Felder versch\u00e4rft und ein Freibauer geschaffen.",
+                    "es": "Sacrificando la calidad a cambio de la rehabilitaci\u00f3n de su estructura de peones, un mayor dominio de las casillas negras y la creaci\u00f3n de un pe\u00f3n pasado.",
+                    "zh": "\u4e0d\u60dc\u727a\u7272\u5b50\u529b\u6765\u6062\u590d\u5175\u5f62\uff0c\u8d62\u5f97\u5bf9\u9ed1\u683c\u7684\u7edf\u6cbb\u5e76\u4e14\u5236\u9020\u901a\u8def\u5175\u3002",
+                    "pl": "Po\u015bwi\u0119cenie jako\u015bci w celu odtworzenia struktury pion\u00f3w, zdobycia wi\u0119kszej dominacji nad ciemnymi polami i stworzenie wolnego piona.",
+                    "ru": "\u041f\u0440\u0438\u043d\u043e\u0441\u0438\u0442 \u0432 \u0436\u0435\u0440\u0442\u0432\u0443 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0434 \u0442\u0435\u043c\u043d\u044b\u043c\u0438 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430\u043c\u0438 \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(87)",
+            "zh": "Event 1"
+        },
+        "fen": "1nb2rk1\/2p1bp2\/3p2pp\/2nPp2N\/4P2P\/2P1R2N\/q1B2PP1\/2BQ2K1 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. Rg3 ",
+                "comment": {
+                    "pt": "Mantendo o cavalo de h5 e liberando a a\u00e7\u00e3o do bispo de c1. Se as pretas jogarem ...Bxh4, segue Dd2!.",
+                    "en": "Keeping the h5-Knight and liberating the range of the c1-Bishop. If Black plays ...Bxh4, Qd2! will follow.",
+                    "de": "Beh\u00e4lt den Springer und \u00f6ffnet die Diagonale f\u00fcr den L\u00e4ufer. Auf ...Lxh4 w\u00fcrde Dd2! folgen.",
+                    "es": "Manteniendo el caballo de h5 y liberando la acci\u00f3n del alfil de c1. Si las negras juegan ...Axh4, sigue Dd2!.",
+                    "zh": "\u4fdd\u5b58h5-\u9a6c\u5e76\u4e14\u7ed9c1\u8c61\u5f00\u653e\u5c04\u7a0b\u3002\u5982\u679c\u4e0b...Bxh4\uff0c\u4f1a\u8ddfQd2! \u3002",
+                    "pl": "Zachowanie Skoczka h5 i powi\u0119kszenie zasi\u0119gu Go\u0144ca c1. Je\u015bli Czarne zagraj\u0105 ... Gxh4, nast\u0105pi Hd2!",
+                    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u041a\u043e\u043d\u044f \u043d\u0430 h5 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0421\u043b\u043e\u043d\u0430 c1. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...Bxh4, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0432\u044b\u0438\u0433\u0440\u044b\u0448 \u043d\u0430 Qd2!"
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(44)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/1p2bppp\/p1p1p3\/q3P3\/6Q1\/2N5\/PPP2PPP\/R1B2RK1 w - - 0 12",
+        "moves": [
+            {
+                "move": "12. Bg5 ",
+                "comment": {
+                    "pt": "\u00c9 importante, para as brancas , trocar os bispos de casas pretas para eliminar o par de bispos advers\u00e1rio e valorizar o pe\u00e3o de e5, no controle das casas pretas d6 e f6.",
+                    "en": "It's important that White exchanges dark-squared Bishops in order to eliminate the pair of enemy Bishops and improve the value of the e5-pawn that controls the dark d6 and f6 squares.",
+                    "de": "F\u00fcr Wei\u00df ist es wichtig, die schwarzfeldrigen L\u00e4ufer abzutauschen, um das gegnerische L\u00e4uferpaar zu beseitigen, damit der Bauer auf e5 mehr Kontrolle \u00fcber die Felder d6 und f6 hat.",
+                    "es": "Es importante, para las blancas, cambiar los alfiles de casillas negras para eliminar la pareja de alfiles adversaria y valorizar el pe\u00f3n de e5 en el control de las casillas negras d6 y f6.",
+                    "zh": "\u5bf9\u767d\u68cb\u6765\u8bf4\u5151\u6362\u9ed1\u683c\u8c61\u6765\u6d88\u706d\u4e00\u5bf9\u654c\u8c61\u548c\u589e\u5f3a\u63a7\u5236\u9ed1d6\u548cf6\u683c\u7684e5-\u5175\u7684\u4ef7\u503c\u3002",
+                    "pl": "Wa\u017cna jest wymiana ciemnopolowych Go\u0144c\u00f3w w celu eliminacji pary Go\u0144c\u00f3w u przeciwnika oraz poprawy warto\u015bci piona e5, kt\u00f3ry kontroli ciemne pola d6 i f6.",
+                    "ru": "\u0412\u0430\u0436\u043d\u043e \u0447\u0442\u043e\u0431\u044b \u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u043b\u0438\u0441\u044c \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0421\u043b\u043e\u043d\u0430\u043c\u0438, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0430\u0440\u0443 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0445 \u0421\u043b\u043e\u043d\u043e\u0432 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u0435\u0448\u043a\u0438 e5, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0442\u0435\u043c\u043d\u044b\u0435 \u043f\u043e\u043b\u044f d6 \u0438 f6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "2b5\/2r2k1p\/p1pn1p2\/2Np2p1\/1P1N4\/2P2P2\/P4KPP\/R7 w - - 0 25",
+        "moves": [
+            {
+                "move": "25. a4 ",
+                "comment": {
+                    "pt": "Com o objetivo de jogar a5 e fixar o pe\u00e3o em a6, escravizando uma pe\u00e7a advers\u00e1ria em sua defesa.",
+                    "en": "Aiming to play a5 and fix the a6-pawn, enslaving an enemy piece to its defense.",
+                    "de": "Um a5 zu spielen und den Bauern auf a6 zu fixieren. Dadurch wird eine schwarze Figur an die Verteidigung des Bauern auf a6 gebunden.",
+                    "es": "Con el objetivo de jugar a5 y fijar el pe\u00f3n en a6, esclavizando una pieza adversaria en su defensa.",
+                    "zh": "\u76ee\u7684\u662f\u4e3a\u4e86a5\u5e76\u7a33\u5b9aa6-\u5175\uff0c\u8fd9\u6837\u53ef\u4ee5\u4f7f\u4e00\u4e2a\u9ed1\u5b50\u5fd9\u4e8e\u9632\u5fa1\u5175\u3002",
+                    "pl": "W celu zagrania a5 i naprawy piona a6, oddalanie wrogiej figury z obrony.",
+                    "ru": "\u0421 \u0446\u0435\u043b\u044c\u044e \u0438\u0433\u0440\u044b a5 \u0438 \u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0435\u0448\u043a\u0438 a6, \u0441\u0432\u044f\u0437\u0430\u0432 \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u0435 \u0444\u0438\u0433\u0443\u0440\u044b \u043d\u0430 \u0435\u0435 \u0437\u0430\u0449\u0438\u0442\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

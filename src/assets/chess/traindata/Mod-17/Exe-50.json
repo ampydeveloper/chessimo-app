@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Holandesa",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Dutch defense",
+            "de": "Holl\u00e4ndische Verteidigung",
+            "es": "Defensa Holandesa",
+            "pt": "Defesa Holandesa",
+            "zh": "\u8377\u5170\u9632\u5fa1",
+            "pl": "Obrona holenderska",
+            "ru": "\u0413\u043e\u043b\u043b\u0430\u043d\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 f5 ",
+                "comment": {
+                    "pt": "A defesa Holandesa n\u00e3o \u00e9 muito popular atualmente, por enfraquecer a posi\u00e7\u00e3o do rei preto e de algumas casa centrais. O plano das brancas \u00e9 jogar e4 ,no momento oportuno e atacar no centro.",
+                    "en": "The Dutch defense isn't very popular nowadays because it weakens the position of the black King and some central squares. White's plan is e4, at the right moment, and to attack in the center.",
+                    "es": "La defensa Holandesa no es muy popular actualmente, por debilitar la posici\u00f3n del rey negro y algunas casilla centrales. El plan de las blancas es jugar e4, en el momento oportuno, y atacar en el centro.",
+                    "de": "Die Holl\u00e4ndische Verteidigung ist heutzutage nicht allzu popul\u00e4r, da sowohl die schwarze K\u00f6nigsstellung als auch einige Zentralfelder geschw\u00e4cht werden. Der wei\u00dfe Plan besteht darin, im geeigneten Moment e4 zu spielen, und das Zentrum anzugreifen.",
+                    "zh": "\u8377\u5170\u9632\u5fa1\u662f\u73b0\u4eca\u975e\u5e38\u6d41\u884c\u7684\uff0c\u56e0\u4e3a\u5b83\u524a\u5f31\u4e86\u9ed1\u738b\u548c\u67d0\u4e9b\u4e2d\u5fc3\u683c\u3002\u767d\u65b9\u8ba1\u5212\u662fe4\uff0c\u5728\u6070\u5f53\u7684\u65f6\u673a\u653b\u51fb\u4e2d\u5fc3\u3002",
+                    "pl": "Obrona holenderska nie jest zbyt popularna w dzisiejszych czasach, poniewa\u017c os\u0142abia pozycj\u0119 Czarnego Kr\u00f3la i niekt\u00f3rych centralnych p\u00f3l. Planem Bia\u0142ych jest zagranie we w\u0142a\u015bciwym momencie e4 i atak w centrum.",
+                    "ru": "\u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u043d\u0435 \u0441\u0438\u043b\u044c\u043d\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430 \u0432 \u043d\u0430\u0448\u0438 \u0434\u043d\u0438, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d\u0430 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043e\u0432. \u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 e4, \u0432 \u043d\u0443\u0436\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0438 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   2. g3 ",
+                "comment": {
+                    "pt": "O bispo branco atuar\u00e1 muito bem nesta diagonal e est\u00e1 melhor desenvolvido desta forma. As brancas tentaram o interessante sacrif\u00edcio de pe\u00e3o 2-e4, para desenvover rapidamente as pe\u00e7as e aproveitar o enfraquecimento da posi\u00e7\u00e3o do rei preto, nas partidas 563 e 565.",
+                    "en": "The white Bishop acts very well in this diagonal and is better developed in this position. White tries the interesting pawn 2-e4 in order to develop pieces fast and take advantage of the weakened position of the black King, in games 563 and 565.",
+                    "es": "El alfil blanco actuar\u00e1 muy bien en esta diagonal y est\u00e1 mejor desarrollado de esta forma. Las blancas intentaron el interesante sacrificio de pe\u00f3n 2-e4, para desarrollar r\u00e1pidamente las piezas y aprovechar el debilitamiento de la posici\u00f3n del rey negro, en las partidas 563 y 565.",
+                    "de": "Der wei\u00dfe L\u00e4ufer wird auf dieser Diagonale aktiv sein. In den Partien 563 und 565 wird das interessante Bauernopfer 2. e4 gezeigt, dessen Idee ist, die Figuren schnell zu entwickeln und von der geschw\u00e4chten schwarzen K\u00f6nigsstellung zu profitieren.",
+                    "zh": "\u767d\u8c61\u5728\u8fd9\u6761\u659c\u7ebf\u4e0a\u6d3b\u52a8\u975e\u5e38\u79ef\u6781\u3002\u767d\u65b9\u8bd5\u56fe\u75282-e4\u8fd9\u79cd\u6709\u8da3\u7684\u5f03\u5175\u65b9\u5f0f\u6765\u5feb\u901f\u51fa\u5b50\u5e76\u5229\u7528\u88ab\u524a\u5f31\u4e86\u7684\u9ed1\u738b\uff0c\u5982\u5728\u68cb\u5c40563\u548c565\u4e2d\u6240\u793a\u3002",
+                    "pl": "Bia\u0142y Goniec dzia\u0142a bardzo dobrze na tej przek\u0105tnej i jest lepiej wyprowadzony w tej pozycji. Bia\u0142e pr\u00f3buj\u0105 zagra\u0107 2. E4 w celu szybkiego wyprowadzenia figur i uzyskania przewagi z os\u0142abionej pozycji Czarnego Kr\u00f3la, jak to nast\u0105pi\u0142o w partiach 563 i 565.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0439 \u0421\u043b\u043e\u043d \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 \u0438 \u043b\u0443\u0447\u0448\u0435 \u0440\u0430\u0437\u0432\u0438\u0442 \u043d\u0430 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u0411\u0435\u043b\u044b\u0435 \u0437\u0430\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u044b \u0432 \u043f\u0435\u0448\u043a\u0435 2-e4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0441\u043b\u0430\u0431\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0435\u0439 \u0443 \u041a\u043e\u0440\u043e\u043b\u044f \u0447\u0435\u0440\u043d\u044b\u0445, \u0432 \u0438\u0433\u0440\u0435 563 \u0438 565."
+                }
+            },
+            {
+                "move": "   Nf6 3. Bg2 g6 ",
+                "comment": {
+                    "pt": "Este \u00e9 o sistema Leningrado, o mais jogado atualmente. As pretas tamb\u00e9m podem optar pelo desenvolvimento com ... e6-d6 (partidas 564 e 568) ou ainda pelo sistema denominado \"Muro de pedra\" que consiste na forma\u00e7\u00e3o; c6-d5-e6-f5 (partidas 566 e 567)",
+                    "en": "This is the Leningrad system, the most used nowadays. Black can also choose development with ...e6-d6 (games 564 and 568) or through the system called \"Stonewall\" that consists of c6-d5-e6-f5 (games 566 and 567).",
+                    "es": "Este es el sistema Leningrado, el m\u00e1s jugado actualmente. Las negras tambi\u00e9n pueden optar por el desarrollo con ...e6-d6 (partidas 564 y 568) o todav\u00eda por el sistema denominado \"Muro de piedra\" (Stonewall) que consiste en la formaci\u00f3n c6-d5-e6-f5 (partidas 566 y 567).",
+                    "de": "Das ist die Leningrader Variante, die heutzutage die meistgespielte ist. Schwarz kann seine Entwicklung auch mit ... e6 fortsetzen, d6 (Partien Nr. 564 und 568) oder sich f\u00fcr das sogenannten Stonewall-System entscheiden, mit Bauern auf c6, d5, e6 und f5 (Partien Nr. 566 und 567).",
+                    "zh": "\u8fd9\u662f\u73b0\u4eca\u6700\u5e38\u7528\u7684\u5217\u5b81\u683c\u52d2\u4f53\u7cfb\u3002\u9ed1\u65b9\u53ef\u4ee5\u9009\u62e9\u7528...e6-d6\u8fdb\u884c\u51fa\u5b50\uff08\u68cb\u5c40564\u548c568\uff09\uff0c\u6216\u8005\u901a\u8fc7\u201c\u77f3\u5899\u201d\u4f53\u7cfb\uff0c\u7531c6-d5-e6-f5 \u7ec4\u6210\uff08\u68cb\u5c40566\u548c567\uff09\u3002",
+                    "pl": "Oto najpopularniejszy dzisiaj system leningradzki. Czarne mog\u0105 r\u00f3wnie\u017c wybra\u0107 rozw\u00f3j przez ... e6-d6 (564 i 568) lub przez system zwany \u201ckamiennym murem\u201d, kt\u00f3ry zawiera si\u0119 w ruchach c6-d5-e6-f5 (partie 566 i 567).",
+                    "ru": "\u042d\u0442\u043e \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0432 \u043d\u0430\u0448\u0435 \u0432\u0440\u0435\u043c\u044f. \u0427\u0435\u0440\u043d\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 ...e6-d6 (\u0438\u0433\u0440\u044b 564 and 568) \u0438\u043b\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \"\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f \u0441\u0442\u0435\u043d\u0430\", \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0441\u0442\u0440\u043e\u0438\u0442\u0441\u044f \u043d\u0430 c6-d5-e6-f5 (\u0438\u0433\u0440\u044b 566 \u0438 567)."
+                }
+            },
+            {
+                "move": "   4. c4 Bg7 5. Nf3 ",
+                "comment": {
+                    "pt": "O desenvol vimento deste cavalo por h3, para ir a f4 e controlar importantes casas como e6 e d5, ocorreu na partida 571.",
+                    "en": "The development of this Knight through h3 in order to reach f4 and control important squares, such as e6 and d5, is presented in game 571.",
+                    "es": "El desarrollo de este caballo por h3, para ir a f4 y controlar importantes casillas como e6 y d5, ocurri\u00f3 en la partida 571.",
+                    "de": "Dieser Springer kann \u00fcber h3 entwickelt werden, um nach f4 zu gehen und von da aus wichtige Felder wie e6 und d5 zu kontrollieren (Partie Nr. 571).",
+                    "zh": "\u901a\u8fc7h3\u51fa\u9a6c\u6765\u5230\u8fbef4\u5e76\u63a7\u5236\u8981\u5bb3\u683c\uff0c\u8b6c\u5982e6\u548cd5\u683c\uff0c\u5728\u68cb\u5c40571\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Wyprowadzenie Skoczka przez h3 w celu osi\u0105gni\u0119cia f4 i kontroli wa\u017cnych p\u00f3l, takich jak e6 i d5, zaprezentowano w partii 571.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u044d\u0442\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 h3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c f4 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432\u0430\u0436\u043d\u044b\u0435 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u044b, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a e6 \u0438 d5, \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 571."
+                }
+            },
+            {
+                "move": "   O-O 6. O-O d6 7. Nc3 ",
+                "comment": {
+                    "pt": "Neste tipo e posi\u00e7\u00e3o , as brancas tentar\u00e3o jogar e4 e as pretas ...e5. Em alguns casos as pretas optar\u00e3o por um ataque ao rei branco utilizando a manobra ; .... De8-h6-g5-Dh5.",
+                    "en": "In this kind of position, White tries to play e4 and Black ...e5. In some cases Black chooses an attack against the white King using the following maneuver: ... Qe8-h6-g5-Qh5.",
+                    "es": "En este tipo de posici\u00f3n las blancas intentar\u00e1n jugar e4 y las negras ...e5.  En algunos casos las negras optar\u00e1n por un ataque al rey blanco utilizando a maniobra ...De8-h6-g5-Dh5.",
+                    "de": "Auf solchen Stellungstypen strebt Wei\u00df danach, e4 zu spielen, w\u00e4hrend Schwarz ...e5 durchzusetzen versucht. In eigenen F\u00e4llen greift Schwarz den wei\u00dfen K\u00f6nig mit folgendem Man\u00f6ver an: .... De8-h6-g5-Dh5.",
+                    "zh": "\u5728\u8fd9\u79cd\u5c40\u9762\u767d\u65b9\u4f01\u56fe\u8d70e4\uff0c\u9ed1\u65b9\u8d70 ...e5\u3002\u5728\u6709\u4e00\u4e9b\u4f8b\u5b50\u4e2d\u9ed1\u65b9\u9009\u62e9\u4f7f\u7528\u4ee5\u4e0b\u7b56\u7565\u6765\u653b\u51fb\u767d\u738b\uff1a ... Qe8-h6-g5-Qh5\u3002",
+                    "pl": "W tego typu pozycji Bia\u0142e pr\u00f3buj\u0105 zagra\u0107 e4, za\u015b Czarne ... e5. W niekt\u00f3rych przypadkach Czarne wybieraj\u0105 atak przeciwko Bia\u0142emu Kr\u00f3lowi u\u017cywaj\u0105c nast\u0119puj\u0105cego manewru He8-h6-g5-Hh5.",
+                    "ru": "\u0412 \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0431\u0443\u044e\u0442 \u0438\u0433\u0440\u0430\u0442\u044c e4, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 ...e5. \u0412 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u0427\u0435\u0440\u043d\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0441\u0435\u0440\u0438\u044e \u043c\u0430\u043d\u0435\u0432\u0440\u043e\u0432 ...Qe8-h6-g5-Qh5."
+                }
+            },
+            {
+                "move": "   Qe8 8. b3 Na6 ",
+                "comment": {
+                    "pt": "Ainda \u00e9 cedo para ...e5 , devido a dxe5 seguido de Ba3.",
+                    "en": "It's still early for ...e5 , due to dxe5 followed by Ba3.",
+                    "es": "Todav\u00eda es temprano para ...e5, debido a dxe5 seguido de Aa3.",
+                    "de": "Noch geht ...e5 nicht, da Wei\u00df dxe5 nebst La3 spielt.",
+                    "zh": "\u8d70 ...e5\u8fd8\u662f\u6709\u70b9\u592a\u65e9\uff0c\u56e0\u4e3adxe5\u4f1a\u8ddfBa3\u3002",
+                    "pl": "Wci\u0105\u017c jest za wcze\u015bnie na ... e5 z powodu dxe5 kontynuowanego przez Ga3.",
+                    "ru": "\u0415\u0449\u0435 \u0440\u0430\u043d\u043e \u0438\u0433\u0440\u0430\u0442\u044c ...e5, \u0438\u0437-\u0437\u0430 dxe5, \u0447\u0435\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Ba3."
+                }
+            },
+            {
+                "move": "   9. Ba3 c6 10. Qd3 Bd7 11. Rfe1 Rd8 12. Rad1 Kh8 13. e4 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam vantagem ,devido ao maior dom\u00ednio central (partida 570).",
+                    "en": "White has advantage due to greater central dominance (game 570).",
+                    "es": "Las blancas tienen ventaja, debido al mayor dominio central (partida 570).",
+                    "de": "Wei\u00df hat Vorteil wegen der Kontrolle des Zentrums (Partie Nr. 570).",
+                    "zh": "\u767d\u65b9\u56e0\u4e3a\u62e5\u6709\u5bf9\u4e2d\u5fc3\u7684\u7edd\u5bf9\u7edf\u6cbb\u6240\u4ee5\u5360\u4f18\uff08\u68cb\u5c40570\uff09\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 przewag\u0119 z uwagi na wi\u0119ksz\u0105 kontrol\u0119 centrum (partia 570).",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u0430 570)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

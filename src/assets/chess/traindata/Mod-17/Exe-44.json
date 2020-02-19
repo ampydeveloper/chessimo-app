@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante Alapin",
+        "date": "",
+        "event": {
+            "en": "Alapin's variation",
+            "de": "Alapin-Variante",
+            "es": "Variante Alapin",
+            "pt": "Variante Alapin",
+            "zh": "\u963f\u62c9\u5e73\u53d8\u4f8b",
+            "pl": "Wariant Alapina",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0410\u043b\u0430\u043f\u0438\u043d\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. c3 ",
+                "comment": {
+                    "pt": "As brancas buscam a forma\u00e7\u00e3o do centro cl\u00e1ssico \"e4-d4\" e as pretas n\u00e3o devem permitir tal forma\u00e7\u00e3o.",
+                    "en": "White tries to form a classic e4-d4 center and Black doesn't allow this formation.",
+                    "es": "Las blancas buscan la formaci\u00f3n del centro cl\u00e1sico \"e4-d4\" y las negras no deben permitir tal formaci\u00f3n.",
+                    "de": "Wei\u00df versucht, mit e4-d4 ein starkes Zentrum aufzubauen, was Schwarz nicht zulassen kann.",
+                    "zh": "\u767d\u65b9\u4f01\u56fe\u5f62\u6210\u4e00\u4e2a\u5178\u578b\u7684e4-d4\u4e2d\u5fc3\uff0c\u9ed1\u65b9\u5219\u4e0d\u4f1a\u5141\u8bb8\u8fd9\u79cd\u7ed3\u6784\u3002",
+                    "pl": "Bia\u0142e staraj\u0105 si\u0119 sformowa\u0107 klasyczne centrum e4-d4 i Czarne nie mog\u0105 zezwoli\u0107 na t\u0119 formacj\u0119.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u044b\u0442\u0430\u044e\u0442\u0441\u044f \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 e4-d4, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c."
+                }
+            },
+            {
+                "move": "   d5 $1 ",
+                "comment": {
+                    "pt": "Destruindo parcialmente o centro branco . Outra op\u00e7\u00e3o \u00e9 2...Cf6 (partidas 452 e 453).",
+                    "en": "Destroying the white center partially. Another option is 2...Nf6 (games 452 and 453).",
+                    "es": "Destruyendo parcialmente el centro blanco. Otra opci\u00f3n es 2...Cf6 (partidas 452 y 453).",
+                    "de": "Zerst\u00f6rt zum Teil das wei\u00dfe Zentrum. Eine andere M\u00f6glichkeit ist 2...Sf6 (Partien Nr. 452 und 453).",
+                    "zh": "\u90e8\u5206\u6467\u6bc1\u767d\u65b9\u4e2d\u5fc3\u3002\u53e6\u5916\u7684\u9009\u62e9\u662f2...Nf6\uff08\u68cb\u5c40452\u548c453\uff09\u3002",
+                    "pl": "Niszcz\u0105c cz\u0119\u015bciowo bia\u0142e centrum. Inn\u0105 opcj\u0105 jest 2. ... Sf6 (partie 452 i 453).",
+                    "ru": "\u0427\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445. \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 - \u0438\u0433\u0440\u0430\u0442\u044c 2...Nf6 (\u0438\u0433\u0440\u0430 452 \u0438 453)."
+                }
+            },
+            {
+                "move": "   3. exd5 Qxd5 ",
+                "comment": {
+                    "pt": "Geralmente n\u00e3o se deve expor a dama nas primeiras jogadas da abertura, pois ela pode ser atacada por pe\u00e7as contr\u00e1rias com ganho de tempo, como ocorre na defesa Escandinava, para citar um exemplo. No caso atual, as brancas jogaram \"c3\" , o que impossibilita a jogada Cc3 e portanto n\u00e3o podem ganhar tempos sobre a dama preta.",
+                    "en": "Usually, the Queen shouldn't be exposed during the first moves of the opening because it may be attacked by opponent's pieces with tempo as in the Scandinavian defense, for example. In the present case White plays c3 that prevents Nc3 and, therefore Black can't win tempo with the black Queen.",
+                    "es": "Generalmente no se debe exponer la dama en las primeras jugadas de la apertura, pues \u00e9sta puede ser atacada por piezas adversarias con ganancia de tiempo, como ocurre en la Defensa Escandinava, por citar un ejemplo. En el caso actual, las blancas ya jugaron \"c3\", lo que imposibilita a jugada Cc3 y por lo tanto no pueden ganar tiempos atacando la dama negra.",
+                    "de": "Normalerweise muss die Dame nicht so fr\u00fch ins Spiel gebracht werden, da sie mit Tempogewinn von den gegenerischen Figuren gejagt werden kann, wie z. B. in der Skandinavischen Verteidigung. In diesem Beispiel hat Wei\u00df aber bereits einen Bauern auf c3 gezogen, was Sc3 unm\u00f6glich macht.",
+                    "zh": "\u901a\u5e38\u540e\u4e0d\u5e94\u8be5\u5728\u5f00\u5c40\u7b2c\u4e00\u6b65\u65f6\u66b4\u9732\uff0c\u56e0\u4e3a\u5b83\u53ef\u80fd\u4f1a\u88ab\u654c\u5b50\u653b\u51fb\u5e76\u83b7\u5f97\u5148\u624b\uff0c\u5982\u65af\u582a\u7684\u7eb3\u7ef4\u4e9a\u9632\u5fa1\u4e2d\u6240\u793a\u90a3\u6837\u3002\u73b0\u5728\u7684\u60c5\u51b5\u767d\u65b9\u8d70c3\u963b\u6b62Nc3\uff0c\u8fd9\u6837\u9ed1\u65b9\u4e0d\u80fd\u7528\u9ed1\u540e\u8d62\u5f97\u5148\u624b\u3002",
+                    "pl": "Zwykle Hetman nie powinien by\u0107 tak eksponowany podczas pierwszych ruch\u00f3w debiutu, poniewa\u017c mo\u017ce zosta\u0107 zaatakowany przez figury przeciwnika w tempo, jak w obronie skandynawskiej, dla przyk\u0142adu. W tej jednak kwestii Bia\u0142e zagra\u0142y c3, aby uniemo\u017cliwi\u0107 Sc3 i dlatego te\u017c Czarne nie mog\u0105 wygra\u0107 tempo czarnym Hetmanem.",
+                    "ru": "\u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0424\u0435\u0440\u0437\u044c \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0435\u0442 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u0435\u0440\u0432\u044b\u0445 \u0445\u043e\u0434\u043e\u0432 \u0434\u0435\u0431\u044e\u0442\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u0444\u0438\u0433\u0443\u0440\u0430\u043c\u0438 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u043a\u0430\u043a, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0432 \u0421\u043a\u0430\u043d\u0434\u0438\u043d\u0430\u0432\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u0435. \u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435, \u0411\u0435\u043b\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 c3, \u0447\u0442\u043e \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 Nc3, \u0438 \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0442\u0435\u043c\u043f \u0441 \u0447\u0435\u0440\u043d\u044b\u043c \u0424\u0435\u0440\u0437\u0435\u043c."
+                }
+            },
+            {
+                "move": "   4. d4 Nf6 5. Nf3 e6 6. Bd3 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o poss\u00edveis e boas, as jogadas Be2, Be3 e Ca3.",
+                    "en": "Be2, Be3 and Na3 are also good possibilities.",
+                    "es": "Tambi\u00e9n son posibles - y buenas - las jugadas Ae2, Ae3 y Ca3.",
+                    "de": "M\u00f6glich und gut sind auch Le2, Le3 und Sa3.",
+                    "zh": "Be2, Be3\u548cNa3\u4e5f\u662f\u5f88\u597d\u7684\u9009\u62e9\u3002",
+                    "pl": "Ge2, Ge3 i Sa3 s\u0105 r\u00f3wnie\u017c dobrymi mo\u017cliwo\u015bciami.",
+                    "ru": "\u0418\u0433\u0440\u0430 Be2, Be3 \u0438 Na3 \u0442\u0430\u043a\u0436\u0435 \u0434\u0430\u0435\u0442 \u043d\u0435\u043f\u043b\u043e\u0445\u0438\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b."
+                }
+            },
+            {
+                "move": "   Be7 7. O-O O-O 8. Be3 cxd4 9. cxd4 Nc6 10. Nc3 Qd6 ",
+                "comment": {
+                    "pt": "A posi\u00e7\u00e3o est\u00e1 equilibrada. As brancas t\u00eam leve vantagem em desenvolvimento, mas tem seu pe\u00e3o dama isolado em d4, permitindo que as pretas ocupem a casa d5 com uma de suas pe\u00e7as, preferencialmente o cavalo. Se as brancas jogarem agora 11-a3, para evitar a jogada ....Cb4, chegaremos a posi\u00e7\u00e3o da excelente partida 451 de nossa base, que mostra como as brancas podem conseguir vantagem neste tipo de posi\u00e7\u00e3o.",
+                    "en": "The position is in balance. White has a slight advantage in development but its Queen-pawn is isolated, allowing Black to occupy d5 with one of its pieces, preferably the Knight. If White plays 11-a3 now in order to prevent ...Nb4, an excellent position will be reached, as presented in game 451 of our database that demonstrates how White can obtain advantage in this kind of situation.",
+                    "es": "La posici\u00f3n est\u00e1 equilibrada. Las blancas tienen una leve ventaja de desarrollo, pero el pe\u00f3n dama est\u00e1 aislado en d4, lo que permite que las negras ocupen la casilla d5 con una de sus piezas, preferentemente el caballo. Si las blancas juegan ahora 11-a3, para evitar la jugada ...Cb4, llegaremos a la posici\u00f3n de la excelente partida 451 de nuestra base, que muestra c\u00f3mo las blancas pueden conseguir ventaja en este tipo de posici\u00f3n.",
+                    "de": "Die Stellung ist ausgeglichen. Wei\u00df hat einen leichten Entwicklungsvorsprung, daf\u00fcr aber ein Isolani auf d4, was Schwarz die Besetzug des Feldes d5 mit einer Figur,  (vorzugsweise einem Springer) erm\u00f6glicht. Wenn Wei\u00df jetzt 11. a3 spielt (um ...Sb4 zu verhindern) wird eine Stellung der ausgezeichneten Partie 451 unserer Datenbank erreicht, die ein gutes Beispiel daf\u00fcr ist, wie Wei\u00df in dieser Art von Stellungen Vorteil erzielt.",
+                    "zh": "\u5c40\u9762\u5e73\u8861\u3002\u767d\u65b9\u51fa\u5b50\u7a0d\u7a0d\u9886\u5148\u4f46\u662f\u540e\u7ffc\u5175\u88ab\u5b64\u7acb\uff0c\u4f7f\u5f97\u9ed1\u65b9\u53ef\u4ee5,\u7528\u9a6c\u5360\u636ed5\u3002\u5982\u679c\u767d\u65b9\u73b0\u5728\u8d7011-a3\u6765\u963b\u6b62 ...Nb4\uff0c\u90a3\u4e48\u4f1a\u51fa\u73b0\u4e00\u4e2a\u975e\u5e38\u597d\u7684\u5c40\u9762\uff0c\u5c31\u50cf\u68cb\u5e93\u4e2d\u68cb\u5c40451\u6240\u793a\u7684\u90a3\u6837\uff0c\u4ecb\u7ecd\u4e86\u767d\u65b9\u5982\u4f55\u5728\u8fd9\u79cd\u60c5\u51b5\u4e0b\u8d62\u5f97\u4f18\u52bf\u3002",
+                    "pl": "Pozycja jest zbalansowana. Bia\u0142e maj\u0105 niewielk\u0105 przewag\u0119 w rozwoju, ale ich hetma\u0144ski pion jest izolowany, co pozwala Czarnym okupowanie d5 jedn\u0105 z ich figur, zwykle Skoczkiem. Je\u015bli Bia\u0142e zagraj\u0105 teraz 11. A3, aby uniemo\u017cliwi\u0107 ... Sb4, osi\u0105gni\u0119ta zostanie doskona\u0142a pozycja, jak prezentuje to gra 451 z naszej bazy, kt\u00f3ra demonstruje, jak Bia\u0142e mog\u0105 uzyska\u0107 przewag\u0119 w tego typie sytuacji.",
+                    "ru": "\u041f\u043e\u0437\u0438\u0446\u0438\u044f \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430. \u0423 \u0411\u0435\u043b\u044b\u0445 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438, \u043d\u043e \u0438\u0445 \u0444\u0435\u0440\u0437\u0435\u0432\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0430, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0427\u0435\u0440\u043d\u044b\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c d5 \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0438\u0445 \u0444\u0438\u0433\u0443\u0440, \u0441\u043a\u043e\u0440\u0435\u0435 \u0432\u0441\u0435\u0433\u043e \u041a\u043e\u043d\u0435\u043c. \u0411\u0435\u043b\u044b\u0435 \u0441\u0435\u0439\u0447\u0430\u0441 \u0438\u0433\u0440\u0430\u044e\u0442 11-a3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c ...Nb4. \u042d\u0442\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 451, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b, \u0438 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442 \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u043f\u043e\u0434\u043e\u0431\u043d\u043e\u0433\u043e \u0440\u043e\u0434\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f\u0445."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

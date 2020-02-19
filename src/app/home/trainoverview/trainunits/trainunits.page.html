@@ -1,0 +1,1468 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+        {{title}}
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content no-bounce class="page-content trainunit"> 
+  <div class="upper-body  ion-padding">
+    <ion-row class="list-box">
+      <ion-col>
+
+          <h1>{{trainType.name}}</h1>
+
+          <div *ngIf="!isPurchased">
+            <p>{{trainType.brief}}</p>
+            <p>{{trainType.description}}</p>
+          </div>
+
+          <p *ngIf="isPurchased">Now start with your training</p>
+          
+          <div style="margin-bottom: 10px;" *ngIf="!isPurchased">
+            <ion-button color="dark" *ngFor="let u of [0,1,2]; let i = index" (click)="gotoTrainGame({ category: trainType.id, module: 0, unit: i})">{{trainService.trainData.getNameOfUnit(trainType.id, 0, i)}}</ion-button>
+          </div>
+
+          <div style="margin-bottom: 10px;" *ngIf="isPurchased && (trainType.name == 'Openings' || trainType.name == 'Commented Endgames') ">
+            <div *ngFor="let m of trainService.trainData.Units[trainType.id]">
+              <h1 style="margin: 20px 0 10px 0;">{{m.name}}</h1>
+              <ion-row *ngIf="trainType.name != 'Openings'">
+                <ion-col size="4" *ngFor="let u of m.units; let i = index">
+                  <ion-button color="dark"  (click)="gotoTrainGame({ category: trainType.id, module: m.id, unit: i})" style="width: 100%;">{{trainService.trainData.getNameOfUnit(trainType.id, m.id, i)}}</ion-button>
+                </ion-col>  
+              </ion-row>
+              <div  *ngIf="trainType.name == 'Openings'">
+                <div *ngFor="let u of m.units; let i = index" style="display: inline-block; margin-right: 10px;max-width: 100%;">
+                  <ion-button color="dark"  (click)="gotoTrainGame({ category: trainType.id, module: m.id, unit: i})" style="width: 100%;text-overflow: ellipsis;overflow: hidden;white-space: pre-wrap;">{{trainService.trainData.getNameOfUnit(trainType.id, m.id, i)}}</ion-button>
+                </div>
+              </div>  
+            </div>
+          </div>
+          
+
+
+          <!-- Tactics -->
+          <div style="margin-bottom: 10px;" *ngIf="isPurchased && trainType.name == 'Tactics'">
+            <h1 style="margin: 20px 0 10px 0;">MODULE 1</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 0, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 2</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 1, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 3</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 2, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 4</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 3, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 5</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 0})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 4})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 4, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 6</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 0})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 5})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 0, module: 5, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+          </div>
+
+          <!-- Statergies -->
+          <div style="margin-bottom: 10px;" *ngIf="isPurchased && trainType.name == 'Strategies'">
+            <h1 style="margin: 20px 0 10px 0;">MODULE 1</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 0, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 2</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 1, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 3</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 1, module: 2, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+          </div>
+
+          <!-- Endgames -->
+          <div style="margin-bottom: 10px;" *ngIf="isPurchased && trainType.name == 'Endgames'">
+            <h1 style="margin: 20px 0 10px 0;">MODULE 1</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 0, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 2</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 1, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+
+            <h1 style="margin: 20px 0 10px 0;">MODULE 3</h1>
+            <ion-row>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 0})" style="width: 100%;">Unit 1</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 1})" style="width: 100%;">Unit 2</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 2})" style="width: 100%;">Unit 3</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 3})" style="width: 100%;">Unit 4</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 4})" style="width: 100%;">Unit 5</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 5})" style="width: 100%;">Unit 6</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 6})" style="width: 100%;">Unit 7</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 7})" style="width: 100%;">Unit 8</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 8})" style="width: 100%;">Unit 9</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 9})" style="width: 100%;">Unit 10</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 10})" style="width: 100%;">Unit 11</ion-button>
+              </ion-col>
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 11})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 12})" style="width: 100%;">Unit 12</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 13})" style="width: 100%;">Unit 13</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 14})" style="width: 100%;">Unit 14</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 15})" style="width: 100%;">Unit 15</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 16})" style="width: 100%;">Unit 16</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 17})" style="width: 100%;">Unit 17</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 18})" style="width: 100%;">Unit 18</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 19})" style="width: 100%;">Unit 19</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 20})" style="width: 100%;">Unit 20</ion-button>
+              </ion-col>          
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 21})" style="width: 100%;">Unit 21</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 22})" style="width: 100%;">Unit 22</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 23})" style="width: 100%;">Unit 23</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 24})" style="width: 100%;">Unit 24</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 25})" style="width: 100%;">Unit 25</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 26})" style="width: 100%;">Unit 26</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 27})" style="width: 100%;">Unit 27</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 28})" style="width: 100%;">Unit 28</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 29})" style="width: 100%;">Unit 29</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 30})" style="width: 100%;">Unit 30</ion-button>
+              </ion-col>            
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 31})" style="width: 100%;">Unit 31</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 32})" style="width: 100%;">Unit 32</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 33})" style="width: 100%;">Unit 33</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 34})" style="width: 100%;">Unit 34</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 35})" style="width: 100%;">Unit 35</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 36})" style="width: 100%;">Unit 36</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 37})" style="width: 100%;">Unit 37</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 38})" style="width: 100%;">Unit 38</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 39})" style="width: 100%;">Unit 39</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 40})" style="width: 100%;">Unit 40</ion-button>
+              </ion-col>           
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 41})" style="width: 100%;">Unit 41</ion-button>
+              </ion-col>  
+              <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 42})" style="width: 100%;">Unit 42</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 43})" style="width: 100%;">Unit 43</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 44})" style="width: 100%;">Unit 44</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 45})" style="width: 100%;">Unit 45</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 46})" style="width: 100%;">Unit 46</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 47})" style="width: 100%;">Unit 47</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 48})" style="width: 100%;">Unit 48</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 49})" style="width: 100%;">Unit 49</ion-button>
+              </ion-col>            <ion-col size="4">
+                <ion-button color="dark"  (click)="gotoTrainGame({ category: 2, module: 2, unit: 50})" style="width: 100%;">Unit 50</ion-button>
+              </ion-col>
+            </ion-row>
+          </div>
+
+
+
+
+            <div *ngIf="!isPurchased" >
+              <app-product [product]="p" *ngFor="let p of trainType.products"></app-product>
+            </div>
+
+      </ion-col>
+    </ion-row>
+  </div>
+  <div style="padding: 0 10px;"> 
+    <div class="bottom-button" *ngIf="!isPurchased">
+        <ion-button fill="outline" color="white" ><img src="../../assets/images/refresh.png" />Restore Purchase</ion-button>
+    </div>
+  </div>
+  
+</ion-content>
+  

@@ -1,0 +1,118 @@
+[
+    {
+        "title": "",
+        "white": "Nimzoindia",
+        "white_sort": "",
+        "black": "Variante Saemich",
+        "date": "",
+        "event": {
+            "en": "Saemich variation",
+            "de": "S\u00e4misch-Variante",
+            "es": "Variante Saemisch",
+            "pt": "Variante Saemisch",
+            "zh": "\u6770\u7c73\u4ec0\u53d8\u4f8b",
+            "pl": "Wariant Saemischa",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0421\u0430\u0435\u0432\u0438\u0447\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 ",
+                "comment": {
+                    "pt": "Para atacar os pe\u00f5es dobrados brancos as pretas devem fixa-los e abrir a coluna onde est\u00e3o. Esta jogada cumpre estes objetivos. A jogada 5...b6 tamb\u00e9m \u00e9 boa, mas permite que as brancas joguem 6-f3 amea\u00e7ando construir um forte centro, como ocorreu nas partidas 694 e 696. Na partida 703 as pretas n\u00e3o jogam ...c5 e fazem um plano com ...b6-Ba6-Cc6-Ca5, para atacar o pe\u00e3o branco em c4. 5...d6 seguido de ... 0-0 ocorreu na partida 700.",
+                    "en": "In order to attack the white doubled pawns, Black must anchor them and open their file. This move achieves this goal. 5...b6 is also good but allows White to play 6-f3 threatening to build a strong center, as in games 694 and 696. In game 703 Black doesn't play ...c5 and plans to ...b6-Ba6-Cc6-Ca5 in order to attack the white c4-pawn. 5...d6 followed by ...0-0 is presented in game 700.",
+                    "es": "Para atacar los peones doblados blancos las negras deben fijarlos y abrir la columna donde est\u00e1n. Esta jugada cumple estos objetivos. La jugada 5...b6 tambi\u00e9n es buena, pero permite que las blancas jueguen 6-f3 amenazando construir un fuerte centro, como ocurri\u00f3 en las partidas 694 y 696. En la partida 703 las negras no juegan ...c5 y hacen un plan con ...b6-Ba6-Cc6-Ca5, para atacar el pe\u00f3n blanco en c4. 5...d6 seguido de ...0-0 ocurri\u00f3 en la partida 700.",
+                    "de": "Um die wei\u00dfen Doppelbauern anzugreifen muss sie Schwarz zuerst festlegen und dann die Linie \u00f6ffnen, auf der sie sich befinden, was mit dem Textzug erreicht wird. 5...b6 ist auch gut, erlaubt aber dass Wei\u00df 6. f3 spielt und ein starkes Zentrum aufzubauen droht, wie es in den Partien Nr. 694 und 696 geschah. In der Partie 703 verzichtete Schwarz auf ...c5 und f\u00fchrte den Plan  ...b6-La6-Sc6-Sa5 aus, um den wei\u00dfen Bauern auf c4 anzugreifen. 5...d6 nebst ... 0-0 geschah in der Partie Nr. 700.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fb\u767d\u65b9\u7684\u53e0\u5175\uff0c\u9ed1\u65b9\u5fc5\u987b\u5148\u5c06\u5176\u9501\u5b9a\uff0c\u7136\u540e\u5f00\u653e\u4ed6\u4eec\u7684\u7ebf\u8def\u3002\u8fd9\u4e00\u6b65\u80fd\u8fbe\u5230\u8fd9\u4e2a\u76ee\u7684\u30025...b6\u4e5f\u4e0d\u9519\uff0c\u4f46\u662f\u4f1a\u8ba9\u767d\u65b9\u6709\u673a\u4f1a\u8d706-f3\uff0c\u5a01\u80c1\u5efa\u7acb\u4e00\u4e2a\u5f3a\u5927\u7684\u4e2d\u5fc3\uff0c\u5982\u68cb\u5c40694\u548c696\u3002\u5728\u68cb\u5c40703\u4e2d\u9ed1\u65b9\u6ca1\u6709\u8d70...c5\uff0c\u8ba1\u5212\u8d70...b6-Ba6-Cc6-Ca5\u6765\u653b\u51fb\u767d\u65b9c4-\u5175\u30025...d6\u968f\u540e...0-0\u5728\u68cb\u5c40700\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Aby zaatakowa\u0107 zdublowane bia\u0142e piony, Czarne musz\u0105 zakotwiczy\u0107 je i otworzy\u0107 ich kolumn\u0119. \u00d3w ruch zapewnia to. 5. ... b6 jest r\u00f3wnie\u017c dobre, ale pozwala Bia\u0142ym zagra\u0107 6. f3 zagra\u017caj\u0105c zbudowaniem silnego centrum, jak w partiach 694 i 696. W partii 703 Czarne nie zagra\u0142y ... c5 i planowa\u0142y ... b6-Ga6-Sc6-Sa5 w celu ataku bia\u0142ego piona c4. 5. ... d6 kontynuowane przez ... 0-0 prezentuje partia 700.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u0445, \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0438\u0445 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0438\u0445 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0434\u043e\u0431\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u044d\u0442\u043e\u0433\u043e. 5...b6 - \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043d\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c 6-f3, \u0441 \u0443\u0433\u0440\u043e\u0437\u043e\u0439 \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0430\u0445 694 \u0438 696. \u0412 \u0438\u0433\u0440\u0435 703 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...c5, \u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 ...b6-Ba6-Cc6-Ca5, \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0431\u0435\u043b\u0443\u044e \u043f\u0435\u0448\u043a\u0443 c4 \u0438 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 ...b6-Ba6-Cc6-Ca5 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u043b\u0443\u044e \u043f\u0435\u0448\u043a\u0443 c4. \u041d\u0430 \u0445\u043e\u0434 5...d6 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...0-0, \u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 700, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   6. e3 ",
+                "comment": {
+                    "pt": "A t entativa de construir um grande centro com 6-f3 \u00e9 respondida com 6.. .d5 (partida 695).",
+                    "en": "The attempt to build a great center with 6-f3 is answered with 6...d5 (game 695).",
+                    "es": "El intento de construir un centro grande con 6-f3 es respondida con 6...d5 (partida 695).",
+                    "de": "6. f3 mit der Idee, ein starkes Zentrum aufzubauen, wird mit 6...d5 beantwortet (Partie Nr. 695).",
+                    "zh": "\u75286-f3\u53bb\u5efa\u7acb\u4e00\u4e2a\u5f3a\u5927\u7684\u4e2d\u5fc3\u7684\u4f01\u56fe\u88ab\u5e94\u4ee56...d5\uff08\u68cb\u5c40695\uff09\u3002",
+                    "pl": "Pr\u00f3ba zbudowania du\u017cego centrum przez 6. f3 napotyka na 6. ... d5 (partia 695).",
+                    "ru": "\u041d\u0430 \u0445\u043e\u0434 6-f3, \u043a\u0430\u043a \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u0431\u0448\u0438\u0440\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 6...d5 (\u0438\u0433\u0440\u0430 695)."
+                }
+            },
+            {
+                "move": "   Nc6 ",
+                "comment": {
+                    "pt": "6...b6 foi jogado com sucesso na partida 697, mas as brancasresponderam com 7-Ce2, que n\u00e3o \u00e9 t\u00e3o bom quanto 7-Bd3, seguido de Ce2. O plano com 6...0-0, seguido de ... d5, disputando o centro, sem se preocupar em atacar o pe\u00e3o branco em c4 , ocorreu na partida 701.",
+                    "en": "6...b6 is successfully played in game 697, but White answers with 7-Ne2 that isn't as good as 7-Bd3 followed by Ne2. Game 701presents the plan with 6...0-0 followed by ...d5 in order to fight for the center without worrying about attacking the white c4-pawn.",
+                    "es": "6...b6 se jug\u00f3 con \u00e9xito en la partida 697, pero las blancas respondieron con 7-Ce2, que no es tan bueno como 7-Ad3, seguido de Ce2. El plan con 6...0-0, seguido de ...d5, disputando el centro, sin preocuparse por atacar el pe\u00f3n blanco en c4, ocurri\u00f3 en la partida 701.",
+                    "de": "6...b6 wurde in der Partie Nr 697 erfolgreich gespielt, Wei\u00df spielte aber 7. Se2, was nicht so stark ist wie 7. Ld3 nebst Se2. Der Plan mit 6...0-0, nebst ... d5, (k\u00e4mpft um das Zentrum, ohne sich um den Bauern auf c4 zu k\u00fcmmern) geschah in der Partie Nr. 701.",
+                    "zh": "6...b6\u5728\u68cb\u5c40697\u4e2d\u975e\u5e38\u6210\u529f\uff0c\u4f46\u662f\u767d\u65b9\u5e947-Ne2\uff0c\u6ca1\u67097-Bd3 \u968f\u540eNe2\u6765\u7684\u597d\u3002\u68cb\u5c40701\u5c55\u793a\u4e866...0-0\u968f\u540e...d5\u8fd9\u4e2a\u8ba1\u5212\uff0c\u89e3\u9664\u4e86\u62c5\u5fc3c4-\u5175\u88ab\u653b\u51fb\u7684\u540e\u987e\u4e4b\u5fe7\uff0c\u5168\u529b\u6765\u4e89\u593a\u4e2d\u5fc3\u3002",
+                    "pl": "6. ... b6 zosta\u0142o skutecznie zagrane w partii 697, ale Bia\u0142e odpowiedzia\u0142y 7. Se2, co nie jest tak dobre jak 7. Gd3 kontynuowane przez Se2. Partia 701 prezentuje plan 6. ... 0-0 kontynuowane przez ... d5 w celu walki o centrum bez obawy o atak bia\u0142ego piona c4.",
+                    "ru": "6...b6 \u043e\u0442\u043b\u0438\u0447\u043d\u043e \u0441\u044b\u0433\u0440\u0430\u043d \u0432 \u0438\u0433\u0440\u0435 697, \u043d\u043e \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 7-Ne2, \u0447\u0442\u043e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0442\u0430\u043a\u0438\u043c \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u043a\u0430\u043a 7-Bd3, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Ne2. \u0418\u0433\u0440\u0430 701 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0445\u043e\u0434  6...0-0, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...d5, \u0434\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0437\u0430 \u0446\u0435\u043d\u0442\u0440, \u043d\u0435 \u0431\u0435\u0441\u043f\u043e\u043a\u043e\u044f\u0441\u044c \u043e \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u0438 \u043d\u0430 \u0431\u0435\u043b\u0443\u044e \u043f\u0435\u0448\u043a\u0443 c4."
+                }
+            },
+            {
+                "move": "   7. Bd3 b6 ",
+                "comment": {
+                    "pt": "7...e5 8-Ce2 e4 9-Bb1 b6 para jogar ...Ba6 foi tentado por M. Tal, com sucesso , em sua partida contra B.Spassky (698).",
+                    "en": "The game 698 presents the successful attempt by M. Tal against B. Spassky to use 7...e5 8-Ne2 e4 9-Bb1 b6 in order to play ...Ba6.",
+                    "es": "7...e5 8-Ce2 e4 9-Ab1 b6 para jugar ...Aa6 fue intentado por M. Tal, con \u00e9xito, en su partida contra B.Spassky (698).",
+                    "de": "7...e5  8. Se2 e4 9. Lb1 b6 mit der Idee...La6 wurde erfolgreich von Michail Tal gegen Boris Spasskij gespielt (Partie Nr. 698).",
+                    "zh": "\u68cb\u5c40698\u5448\u73b0\u4e86\u5854\u5c14\u5bf9\u65af\u5e15\u65af\u57fa\u6210\u529f\u7684\u5c1d\u8bd5\u4f7f\u75287...e5 8-Ne2 e4 9-Bb1 b6\u6765\u5b9e\u73b0...Ba6\u3002",
+                    "pl": "Gra 698 prezentuje skuteczn\u0105 pr\u00f3b\u0119 Michai\u0142a Tala przeciwko Borysowi Spasskiemu u\u017cycia 7. ... e5 8. Se2 e4 9. Gb1 b6 w celu zagrania ... Ga6.",
+                    "ru": "\u0418\u0433\u0440\u0430 698 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0443\u0441\u043f\u0435\u0448\u043d\u0443\u044e \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0422\u0430\u043b\u044f \u0432 \u0438\u0433\u0440\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u0421\u043f\u0430\u0441\u0441\u043a\u043e\u0433\u043e, \u0433\u0434\u0435 \u043e\u043d \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 7...e5 8-Ne2 e4 9-Bb1 b6, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0445\u043e\u0434\u0438\u0442\u044c ...Ba6."
+                }
+            },
+            {
+                "move": "   8. Ne2 O-O 9. e4 Ne8 ",
+                "comment": {
+                    "pt": "Para evitar a desagrad\u00e1vel cravada que ocorreria ap\u00f3s a jogada branca Bg5.",
+                    "en": "In order to prevent the unpleasant pin that would follow after White's Bg5.",
+                    "es": "Para evitar la desagradable clavada que ocurrir\u00eda despu\u00e9s de la jugada blanca Ag5.",
+                    "de": "Um die unangenehme Fesselung zu vermeiden, die nach Lg5 geschehen w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u907f\u514d\u767d\u65b9\u8d70Bg5\u4e4b\u540e\u51fa\u73b0\u7684\u8ba9\u4eba\u4e0d\u6109\u5feb\u7684\u7275\u5236\u3002",
+                    "pl": "Aby unikn\u0105\u0107 nieprzyjemnego przygwo\u017cd\u017cenia, kt\u00f3re nast\u0105pi\u0142oby po Bia\u0142ym Gg5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u043d\u0435\u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u0441\u0432\u044f\u0437\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 \u0445\u043e\u0434\u0430 \u0411\u0435\u043b\u044b\u0445 Bg5."
+                }
+            },
+            {
+                "move": "   10. O-O ",
+                "comment": {
+                    "pt": "10-e5 abrindo linhas para atacar no flanco rei ocorreu na partida 699.",
+                    "en": "10-e5, opening lines in order to attack on the kingside, is presented in game 699.",
+                    "es": "10-e5 abriendo l\u00edneas para atacar en el flanco rey ocurri\u00f3 en la partida 699.",
+                    "de": "10. e5 \u00f6ffnet Linien, um am K\u00f6nigsfl\u00fcgel anzugreifen (Partie Nr. 699).",
+                    "zh": "10-e5\uff0c\u5f00\u653e\u7ebf\u8def\u6765\u653b\u51fb\u738b\u7ffc\u5728\u68cb\u5c40699\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "10. e5, otwieraj\u0105ce linie do ataku na skrzyd\u0142o kr\u00f3lewskie, jest zaprezentowane w partii 699.",
+                    "ru": "\u0425\u043e\u0434 10-e5, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0439 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 699."
+                }
+            },
+            {
+                "move": "   Ba6 ",
+                "comment": {
+                    "pt": "As pretas atacar\u00e3o o pe\u00e3o c4 das brancas (...Ba6-Ca5-Tc8) e as brancas atacar\u00e3o no flanco rei.",
+                    "en": "Black will attack White's c4-pawn (...Ba6-Na5-Tc8) and White will attack on the kingside.",
+                    "es": "Las negras atacar\u00e1n el pe\u00f3n c4 de las blancas (... Aa6-Ca5-Tc8) y las blancas atacar\u00e1n en el flanco rey.",
+                    "de": "Schwarz greift den wei\u00dfen Bauern c4 an (...La6-Sa5-Tc8), w\u00e4hrend Wei\u00df am K\u00f6nigsfl\u00fcgel angreifen wird.",
+                    "zh": "\u9ed1\u65b9\u4f1a\u653b\u51fb\u767d\u65b9\u7684c4-\u5175\uff08...Ba6-Na5-Tc8\uff09\uff0c\u767d\u65b9\u5219\u4f1a\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Czarne zaatakuj\u0105 bia\u0142ego piona c4 (... Ga6-Sa5-Hc8) i Bia\u0142e zaatakuj\u0105 na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u0443 \u0411\u0435\u043b\u044b\u0445 c4 (...Ba6-Na5-Tc8), \u0430 \u0411\u0435\u043b\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   11. Be3 d6 12. Ng3 Na5 13. Qe2 Qd7 14. f4 f5 ",
+                "comment": {
+                    "pt": "Controlando o ataque das brancas e bloqueando o par de bispos. Esta posi\u00e7\u00e3o ocorreu na famosa e muito instrutiva partida Botvinik-Reshevsky (702).",
+                    "en": "Controlling the white attack and blocking the pair of Bishops. This is presented in the famous and very instructive game between Botvinik-Reshevsky (game 702).",
+                    "es": "Controlando el ataque de las blancas y bloqueando la parej de alfiles. Esta posici\u00f3n ocurri\u00f3 en la famosa y muy instructiva partida Botvinnik-Reshevsky (702).",
+                    "de": "H\u00e4lt den wei\u00dfen Angriff unter Kontrolle und blockiert das L\u00e4uferpaar. Diese Stellung kam in der ber\u00fchmten und sehr lehrreichen Partie Botwinnik - Reshevsky (Partie Nr. 702) vor.",
+                    "zh": "\u63a7\u5236\u767d\u65b9\u7684\u653b\u51fb\uff0c\u5835\u4f4f\u53cc\u8c61\u3002\u8fd9\u5728\u8457\u540d\u7684\u5177\u6709\u6307\u5bfc\u6027\u7684\u9c8d\u7279\u7ef4\u5c3c\u514b\u5bf9Reshevsky\u7684\u5bf9\u5c40\u4e2d\u4ecb\u7ecd\uff08\u68cb\u5c40702\uff09\u3002",
+                    "pl": "Kontroluj\u0105c atak bia\u0142ych i blokuj\u0105c ich par\u0119 Go\u0144c\u00f3w. Zaprezentowano to w s\u0142ynnej i bardzo instrukta\u017cowej partii pomi\u0119dzy Botwinnikiem, a Reshevskim (702).",
+                    "ru": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u0411\u0435\u043b\u044b\u0445 \u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u043f\u0430\u0440\u0443 \u0421\u043b\u043e\u043d\u043e\u0432. \u042d\u0442\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u0438 \u043f\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0430\u0440\u0442\u0438\u0438 \u043c\u0435\u0436\u0434\u0443 \u0411\u043e\u0442\u0432\u0438\u043d\u043d\u0438\u043a\u043e\u043c \u0438 \u0420\u0435\u0448\u0435\u0432\u0441\u043a\u0438\u043c (\u0438\u0433\u0440\u0430 702)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

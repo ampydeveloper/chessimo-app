@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2bpp1\/2p1p2p\/8\/3P4\/2PB4\/PP2QPPP\/R1B1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qe4 ",
+                "comment": {
+                    "pt": "For\u00e7ando um s\u00e9rio enfraquecimento na estrutura de pe\u00f5es contr\u00e1ria. As pretas devem defender a penetra\u00e7\u00e3o em h7 e para tal devem jogar 1...f5 enfraquecendo o pe\u00e3o e a casa e5. A jogada 1...g6 n\u00e3o \u00e9 poss\u00edvel devido a perda do pe\u00e3o em h6; 1...g6 2-Bxh6.",
+                    "en": "Forcing a serious weakness in the opponent's pawn structure. Black must defend the invasion on h7 and therefore play 1...f5, which weakens the e5-pawn. 1...g6 isn't possible, because it leads to the loss of the h6-pawn: 1...g6 2- Bxh6.",
+                    "es": "Provocando un serio debilitamiento en la estructura de peones adversaria. Las negras deben evitar la penetraci\u00f3n en h7 y para eso deben jugar 1...f5, debilitando el pe\u00f3n y la casilla e5. La jugada 1...g6 no es posible debido a la p\u00e9rdida del pe\u00f3n en h6; 1...g6 2-Axh6.",
+                    "de": "Erzwingt eine ernste Schw\u00e4chung der gegnerischen Bauernstruktur. 1...f5 schw\u00e4cht den Bauern auf e6 sowie das Feld e5, 1...g6 geht aber nicht, da der Bauer auf h6 verloren geht: 1...g6 2. Lxh6.",
+                    "zh": "\u903c\u8feb\u5bf9\u624b\u7684\u5175\u5f62\u4ea7\u751f\u81f4\u547d\u7684\u5f31\u70b9\u3002\u9ed1\u65b9\u5fc5\u987b\u62b5\u5fa1h7\u4e0a\u7684\u5165\u4fb5\uff0c\u56e0\u6b64\u4f1a\u8d70 1...f5\u6765\u524a\u5f31e5-\u5175\u548cd5\u683c\u3002\u8d701...g6\u4e0d\u53ef\u884c\uff0c\u56e0\u4e3a\u4f1a\u5bfc\u81f4h6-\u5175\u7684\u4e22\u5931\uff1a 1...g6 2- Bxh6\u3002",
+                    "pl": "Wymuszenie powa\u017cnej s\u0142abo\u015bci w strukturze pion\u00f3w przeciwnika. Czarne musz\u0105 broni\u0107 si\u0119 przed inwazj\u0105 na h7, st\u0105d graj\u0105 1. ... f5, co os\u0142\u0105bia piona e5. 1. ... g6 nie jest mo\u017cliwe, poniewa\u017c prowadzi do utraty piona h6: 1. ... g6 2. Gxh6.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430. \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u0430 \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0432\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u044f \u043d\u0430 h7 \u0438\u0433\u0440\u043e\u0439 1...f5, \u0447\u0442\u043e \u043e\u0441\u043b\u0430\u0431\u0438\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 1...g6 \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u043f\u043e\u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u043e\u043d \u0432\u0435\u0434\u0435\u0442 \u043a \u043f\u043e\u0442\u0435\u0440\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 h6: 1...g6 2- Bxh6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/1p3ppp\/p1p1bn2\/1P1p4\/3P4\/2N1PN2\/P4PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. bxc6 ",
+                "comment": {
+                    "pt": "Ap\u00f3s a retomada das pretas ....bxc6, este pe\u00e3o ficar\u00e1 atrasado. A jogada 1-bxa6 seria um grave erro por n\u00e3o criar fraquezas na posi\u00e7\u00e3o contr\u00e1ria , abrir a coluna para a torre preta e deixar o pr\u00f3prio pe\u00e3o em a2 isolado.",
+                    "en": "After Black's retake ...bxc6, this pawn will be isolated. 1bxa6 would be a big mistake, as it doesn't create any weakness to the opponent and opens the file for the Rook, leaving an isolated pawn behind on a2.",
+                    "es": "Despu\u00e9s de la jugada de las negras ....bxc6, este pe\u00f3n quedar\u00e1 retrasado. La jugada 1-bxa6 ser\u00eda un grave error por que no crear\u00eda debilidades en la posici\u00f3n negra, abrir\u00eda la columna para la torre negra y aislar\u00eda el pe\u00f3n de a2.",
+                    "de": "Nach 1...bxc6 wird dieser Bauer schwach. 1. bxa6 w\u00e4re ein grober Fehler, da dadurch nicht nur keine Schw\u00e4chen in der gegnerischen Stellung verursacht werden w\u00fcrden, sondern die \u00d6ffnung der a-Linie f\u00fcr den Gegner erm\u00f6glicht werden w\u00fcrde.",
+                    "zh": "\u9ed1\u65b9\u53cd\u51fb\u4e0b\u8d70...bxc6\u4e4b\u540e\u8fd9\u4e2a\u5175\u6210\u4e3a\u5b64\u5175\u3002\u8d701bxa6\u662f\u975e\u5e38\u5927\u7684\u9519\u8bef\uff0c\u56e0\u4e3a\u65e2\u4e0d\u4f1a\u7ed9\u5bf9\u65b9\u9020\u6210\u4efb\u4f55\u5a01\u80c1\uff0c\u8fd8\u4e3a\u5bf9\u65b9\u5f00\u653e\u4e86a-\u7ebf\uff0c\u5728a2\u683c\u540e\u4ea7\u751f\u4e00\u4e2a\u5b64\u5175\u3002",
+                    "pl": "Po wzi\u0119ciu Czarnych ... bxc6 ten pion zostanie izolowany. 1. bxa6 by\u0142oby pomy\u0142k\u0105 jako, \u017ce nie tworzy \u017cadnych s\u0142abo\u015bci u przeciwnika i otwiera kolumn\u0119 dla Wie\u017cy, pozostawiaj\u0105c izolowanego piona z ty\u0142u na a2.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f ...bxc6, \u044d\u0442\u0430 \u043f\u0435\u0448\u043a\u0430 \u0441\u0442\u0430\u043d\u0435\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439. \u041e\u0448\u0438\u0431\u043e\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 - 1bxa6. \u041e\u043d \u043d\u0438\u043a\u043e\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u043d\u0435 \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u0435\u0442 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438 \u0438 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u043e\u0437\u0430\u0434\u0438 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 a2."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pb2bppp\/1pn1pn2\/8\/2pP4\/1P1B1N2\/PB1N1PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. bxc4 ",
+                "comment": {
+                    "pt": "Trazendo um pe\u00e3o para o centro e evitando que o pe\u00e3o em d4 fique isolado.",
+                    "en": "Bringing a pawn to the center and preventing an isolated pawn on d4.",
+                    "es": "Trayendo un pe\u00f3n hacia el centro y evitando que el pe\u00f3n en d4 quede aislado.",
+                    "de": "Bringt einen Bauern zum Zentrum und vermeidet den Isolani auf d4.",
+                    "zh": "\u5c06\u4e00\u4e2a\u5175\u79fb\u5230\u4e2d\u5fc3\uff0c\u4ee5\u9632\u5728d4\u5904\u4ea7\u751f\u5b64\u5175\u3002",
+                    "pl": "Przeniesienie piona do centrum zamiast izolowania go na d4.",
+                    "ru": "\u041f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043a \u0446\u0435\u043d\u0442\u0440\u0443 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044e \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 d4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbq1rk1\/pp1p1ppp\/4pn2\/2P5\/1bP5\/2N1PN2\/PP3PPP\/R1BQKB1R b KQ - 0 1",
+        "moves": [
+            {
+                "move": "1... Ne4 ",
+                "comment": {
+                    "pt": "Para explorar a cravada e garantir que os pe\u00f5es brancos ficar\u00e3o triplicados na coluna c. A jogada 1...Bxc3 tamb\u00e9m seria boa, mas n\u00e3o exploraria a cravada.",
+                    "en": "In order to explore the pin and guarantee tripled white pawns on the c-file. 1...Bxc3 would also be good, but wouldn't explore the pin.",
+                    "es": "Para explotar la clavada y aseguar que los peones blancos quedar\u00e1n triplicados en la columna \"c\". La jugada 1...Axc3 tambi\u00e9n ser\u00eda buena, pero no explotar\u00eda la clavada.",
+                    "de": "Nutzt die Fesselung aus und stellt sicher, da\u00df auf der c-Linie verdreifachte Bauern entstehen werden. 1...Lxc3 w\u00e4re auch gut, w\u00fcrde aber die Fesselung nicht ausnutzen.",
+                    "zh": "\u5145\u5206\u5229\u7528\u7275\u5236\u6218\u672f\uff0c\u4f7f\u767d\u5175\u5728c-\u7ebf\u4ea7\u751f\u4e09\u53e0\u5175\u30021...Bxc3\u4e5f\u662f\u53ef\u4ee5\u7684\u4f46\u662f\u5c31\u4e0d\u80fd\u5145\u5206\u5229\u7528\u7275\u5236\u6218\u672f\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia i gwarancja umieszczenia trzeciego piona w kolumnie c. 1. ... Gxc3 by\u0142oby r\u00f3wnie\u017c dobre, ale nie wykorzystuje przygwo\u017cd\u017cenia.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443, \u0447\u0442\u043e \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0441\u0442\u0440\u0430\u0438\u0432\u0430\u043d\u0438\u0435 \u0431\u0435\u043b\u044b\u0445 \u043f\u0435\u0448\u0435\u043a \u043d\u0430 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0422\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0445\u043e\u0434 1...Bxc3, \u043d\u043e \u043e\u043d \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/pb1nbppp\/1p3n2\/2Pp4\/8\/1P2PN2\/PBQNBPPP\/2R2RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. c6 ",
+                "comment": {
+                    "pt": "Para evitar que as pretas unam seus pe\u00f5es jogando ....bxc5 no pr\u00f3ximo lance.",
+                    "en": "In order to prevent Black from connecting its pawns with ...bxc5 on the next move.",
+                    "es": "Para evitar que las negras unan sus peones jugando ....Axc5 en la pr\u00f3xima jugada.",
+                    "de": "Verhindert, da\u00df Schwarz mit ...bxc5 im n\u00e4chsten Zug seine Bauern verbindet.",
+                    "zh": "\u963b\u6b62\u9ed1\u65b9\u8d70...bxc5\u6765\u8054\u5408\u5b83\u7684\u5175\u3002",
+                    "pl": "Aby zapobiec Czarnym po\u0142\u0105czeniu ich pion\u00f3w przez ... bxc5 w nast\u0119pnym ruchu.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u0427\u0435\u0440\u043d\u044b\u043c \u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c \u0438\u0445 \u043f\u0435\u0448\u043a\u0438 ...bxc5, \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0445\u043e\u0434\u0443."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

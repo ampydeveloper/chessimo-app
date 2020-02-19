@@ -1,0 +1,21 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      ELO History
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content class="ion-padding"  id="elo-history-view-wrapper"> 
+  <div class="contentStyle vListingOptions">
+    <div class="chart-wrapper">
+      <!-- <div id="elochart"></div> -->
+      <canvas id="barChart" #barChart></canvas>
+    </div>
+  </div>
+</ion-content>

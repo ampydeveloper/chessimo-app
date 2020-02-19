@@ -1,0 +1,313 @@
+.header {
+    .logo_toolbar {
+        width: 140px;
+    }
+
+    .profilepic {
+        width: 36px;
+        padding-top: 36px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        background-size: cover !important;
+        box-sizing: content-box;
+    }
+
+    .setting_icon {
+        width: 42px;
+    }
+}
+
+.optionpage {
+
+
+
+.form-box {
+    background: rgba($color: #fff, $alpha: 0.7);
+    padding: 20px 15px;
+    margin: 10px;
+
+    h1 {
+        color: #000;
+        margin: 0;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .input-group {
+        margin: 20px 0 0 0;
+
+        input {
+            width: 100%;
+            line-height: 35px;
+            border: none;
+            border-radius: 1px;
+            color: #000;
+            padding: 10px;
+        }
+
+        .input-row {
+            width: 100%;
+            min-height: 55px;
+            border: none;
+            border-radius: 1px;
+            color: #000;
+            margin-bottom: 15px;
+            background: #fff;
+
+            ion-col {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                &:last-child {
+                    justify-content: flex-end;
+                }
+
+                label {
+                    text-align: left;
+                }
+            }
+
+        }
+    }
+
+    .input-group-open {
+        margin: 0 0 20px 0;
+
+        .input-row {
+            width: 100%;
+            min-height: 55px;
+            border: none;
+            border-radius: 1px;
+            color: #000;
+            justify-content: space-between;
+
+            ion-col {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+
+                &:last-child {
+                    justify-content: flex-end;
+                }
+
+                label {
+                    text-align: left;
+                }
+            }
+
+        }
+    }
+
+    ion-button {
+        width: 100%;
+        background: #67829F;
+        text-transform: capitalize;
+    }
+}
+
+.black-color {
+    color: #000;
+}
+
+
+.design-options-row {
+    display: flex;
+    justify-content: space-between;
+
+    .design-option {
+        padding-top: 15px;
+
+        h2 {
+            margin: 0;
+            color: #000;
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .option-set {
+            width: 94px;
+            display: flex;
+            justify-content: space-between;
+
+            button {
+                padding: 7px 15px;
+                border-radius: 3px;
+            }
+        }
+    }
+}
+
+#options-view .board-wrapper {
+    /* background-position: 0 -27px; */
+    background-size: 400px 400px;
+    width: 100%;
+    height: 105px;
+    border: 2px solid white;
+    max-width: 400px;
+    float: none;
+}
+
+.static-board .row {
+    overflow: auto;
+}
+
+.static-board .row .field {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    float: left;
+}
+
+.static-board.A .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/A/wK.png");
+}
+
+.static-board.A .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/A/wP.png");
+}
+
+.static-board.A .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/A/bK.png");
+}
+
+.static-board.A .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/A/bP.png");
+}
+
+.static-board.B .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/B/wK.png");
+}
+
+.static-board.B .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/B/wP.png");
+}
+
+.static-board.B .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/B/bK.png");
+}
+
+.static-board.B .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/B/bP.png");
+}
+
+.static-board.C .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/C/wK.png");
+}
+
+.static-board.C .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/C/wP.png");
+}
+
+.static-board.C .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/C/bK.png");
+}
+
+.static-board.C .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/C/bP.png");
+}
+
+.static-board.D .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/D/wK.png");
+}
+
+.static-board.D .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/D/wP.png");
+}
+
+.static-board.D .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/D/bK.png");
+}
+
+.static-board.D .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/D/bP.png");
+}
+
+.static-board.E .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/E/wK.png");
+}
+
+.static-board.E .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/E/wP.png");
+}
+
+.static-board.E .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/E/bK.png");
+}
+
+.static-board.E .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/E/bP.png");
+}
+
+.static-board.F .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/F/wK.png");
+}
+
+.static-board.F .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/F/wP.png");
+}
+
+.static-board.F .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/F/bK.png");
+}
+
+.static-board.F .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/F/bP.png");
+}
+
+.static-board.G .wK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/G/wK.png");
+}
+
+.static-board.G .wP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/G/wP.png");
+}
+
+.static-board.G .bK {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/G/bK.png");
+}
+
+.static-board.G .bP {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/G/bP.png");
+}
+
+
+.board-wrapper.board-A {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_A.png");
+}
+
+.board-wrapper.board-B {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-B {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-C {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_C.png");
+}
+
+.board-wrapper.board-D {
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_D.png");
+}
+
+.board-wrapper.board-E {
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_E.png');
+}
+
+.board-wrapper.board-F {
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_F.png');
+}
+
+.board-wrapper.board-G {
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_G.png');
+}
+
+.board-wrapper.board-H {
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_H.png');
+}
+
+}

@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Italiana",
+        "white_sort": "",
+        "black": "Variante 3...Cf6",
+        "date": "",
+        "event": {
+            "en": "3...Nf6 variation",
+            "de": "Variante mit ...Sf6",
+            "es": "Variante 3...Cf6",
+            "pt": "Variante 3...Cf6",
+            "zh": "3...Nf6 \u53d8\u4f8b",
+            "pl": "Wariant 3. ... Sf6",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...Nf6"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 ",
+                "comment": {
+                    "pt": "Esta , e a jogada 3...Bc5, s\u00e3o as principais variantes a disposi\u00e7\u00e3o das pretas.",
+                    "en": "This move and 3...Bc5 are the main variations for Black's position.",
+                    "es": "Esta y la jugada 3...Ac5 son las principales variantes a disposici\u00f3n de las negras.",
+                    "de": "Der Textzug und 3...Lc5 sind die wichtigsten Varianten f\u00fcr Schwarz.",
+                    "zh": "\u8fd9\u4e00\u7740\u548c3...Bc5\u662f\u9ed1\u68cb\u7684\u4e3b\u8981\u53d8\u4f8b\u3002",
+                    "pl": "Ten ruch oraz 3. ... Gc5 s\u0105 g\u0142\u00f3wnymi liniami dla pozycji Czarnych.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0438 3...Bc5 - \u0431\u0430\u0437\u043e\u0432\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0434\u043b\u044f \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   4. Ng5 ",
+                "comment": {
+                    "pt": "A jogada mais agressiva e perigosa para as pretas que devem defender corretamente o ponto f7. 4-d4 Cxe4 5-0-0 ocorre na partida 67 e 4-0-0 Cxe4 5-d4 , transpondo para a mesma posi\u00e7\u00e3o ocorre na partida 72. As pretas devem tomar cuidados para sair bem desta abertura, mas se o fizerem conseguem boa posi\u00e7\u00e3o.",
+                    "en": "The most aggressive and dangerous move against Black that must defend f7 correctly. 4-d4 Nxe4 5-0-0 occurs in game 67 and 4-0-0 Nxe4 5-d4, transposing to the same position, occurs in game 72. Black has to take careful measures in order to leave this opening in good shape and if it does it will reach a good position.",
+                    "es": "La jugada m\u00e1s agresiva y peligrosa para las negras, que deben defender correctamente el punto f7.  4-d4 Cxe4 5-0-0 ocurre en la partida 67 y 4-0-0 Cxe4 5-d4, transponiendo a la misma posici\u00f3n, ocurre en la partida 72. Las negras deben jugar con cuidado para salir bien de esta apertura, pero si lo hacen consiguen buena posici\u00f3n.",
+                    "de": "Der agressivste und aus schwarzer Sicht gef\u00e4hrlichste Zug. Schwarz muss den Punkt f7 mit Genauigkeit verteidigen. 4. d4 Sxe4 5. 0-0 geschah in Partie 67, w\u00e4hrend die Zugumstellung 4. 0-0 Sxe4 5. d4 in Partie 72 zu sehen ist. Schwarz muss vorsichtig spielen, erreicht aber eine gute Stellung, wenn es sich genau verteidigt.",
+                    "zh": "\u5bf9\u6297\u9ed1\u68cb\u6700\u5177\u4fb5\u7565\u6027\u7684\u3001\u6700\u5371\u9669\u7684\u7740\u6cd5\uff0c\u9ed1\u68cb\u5fc5\u987b\u597d\u597d\u7684\u9632\u5fa1f7\u3002 4-d4 Nxe4 5-0-0\u51fa\u73b0\u5728\u68cb\u5c4067\uff0c4-0-0 Nxe4 5-d4\u7684\u53d8\u6362\u51fa\u73b0\u5728\u68cb\u5c4072\u3002\u9ed1\u68cb\u5fc5\u987b\u76f8\u5f53\u8c28\u614e\uff0c\u4f46\u662f\u5982\u679c\u62b5\u6297\u5f97\u5f53\u8fd8\u662f\u53ef\u4ee5\u6c42\u5f97\u4e00\u826f\u597d\u7684\u5c40\u9762\u3002",
+                    "pl": "Najbardziej agresywny i niebezpieczny ruch przeciw Czarnym, kt\u00f3re musz\u0105 obroni\u0107 skutecznie pole f7. 4. d4 Sxe4 5. 0-0 wyst\u0105pi\u0142o w partii 67, a 4. 0-0 Sxe4 5. d4, prowadz\u0105ce do tej samej pozycji, w partii 72. Czarne musz\u0105 by\u0107 bardzo uwa\u017cne i je\u015bli uda si\u0119 im wyj\u015b\u0107 w dobrej formie z tego otwarcia, osi\u0105gn\u0105 dobr\u0105 pozycj\u0119.",
+                    "ru": "\u0411\u043e\u043b\u0435\u0435 \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043d\u044b\u0439 \u0438 \u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u0445\u043e\u0434 \u043f\u0440\u043e\u0442\u0438\u0432 \u0427\u0435\u0440\u043d\u044b\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u043e\u043b\u0436\u0435\u043d \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c f7. 4-d4 Nxe4 5-0-0 \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 67 \u0438 4-0-0 Nxe4 5-d4 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u0432 \u0442\u0443 \u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0447\u0442\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 72. \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0431\u044b\u0442\u044c \u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0432 \u044d\u0442\u043e\u043c \u0434\u0435\u0431\u044e\u0442\u0435, \u0447\u0442\u043e \u0434\u0430\u0441\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u044b \u043d\u0430 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0443\u044e \u0438\u0433\u0440\u0443."
+                }
+            },
+            {
+                "move": "   d5 5. exd5 Na5 ",
+                "comment": {
+                    "pt": "A jogada 5... Cxd5 \u00e9 um erro devido a 6-d4 com forte iniciativa, mas tamb\u00e9m \u00e9 poss\u00edvel 6-Cxf7, sacrificando o cavalo em troca de ataque, como ocorre na partida 71 de nossa base, disputada em 1580! Outra op\u00e7\u00e3o interessante \u00e9 contra-atacar com 5.. .b5, como ocorreu na partida 68 de nossa base.",
+                    "en": "5...Nxd5 is a mistake because of 6-d4 with strong initiative but 6-Nxf7 is another option that sacrifices the Knight in exchange for attack as in game 71 of our database, played in 1580! Another interesting option is counter-attacking with 5...b5, as in game 68 of our database.",
+                    "es": "La jugada 5...Cxd5 es un error debido a 6-d4, con fuerte iniciativa, pero tambi\u00e9n es posible 6-Cxf7, sacrificando el caballo a cambio de ataque, como ocurre en la partida 71 de nuestra base, !disputada en 1580! Otra opci\u00f3n interesante es contraatacar con 5...b5, como ocurri\u00f3 en la partida 68 de nuestra base.",
+                    "de": "5...Sxd5 w\u00e4re ein Fehler wegen 6. d4, mit starker Initiative. Auf 5...Sxd5 w\u00e4re auch 6. Sxf7 m\u00f6glich, mit Angriff f\u00fcr die geopferte Figur, wie man in Partie 71 unserer Datenbank (1580 gespielt!) sehen kann. Der Gegenangriff mit 5...b5 ist eine Alternative (Partie 68 unserer Datenbank).",
+                    "zh": "5...Nxd5\u662f\u4e00\u4e2a\u9519\u8bef\uff0c\u56e0\u4e3a6-d4\u5360\u636e\u4e86\u5f3a\u5927\u7684\u4e3b\u52a8\uff0c\u4f46\u662f6-Nxf7\u662f\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\uff0c\u5f03\u8c61\u6765\u8fdb\u884c\u8fdb\u653b\uff0c\u6b63\u5982\u68cb\u5c4071\u4e2d\u6240\u793a\uff0c\u57281580\u5e74\u4e0b\u8fc7\uff01\u53e6\u5916\u4e00\u4e2a\u6709\u8da3\u7684\u9009\u62e9\u662f\u75285...b5\u8fdb\u884c\u53cd\u653b\uff0c\u5982\u68cb\u5c4068\u4e2d\u6240\u793a\u3002",
+                    "pl": "5. ... Sxd5 jest b\u0142\u0119dem, poniewa\u017c 6. d4 z siln\u0105 inicjatyw\u0105, ale 6. Sxf7 jest kolejn\u0105 opcj\u0105 z zaofiarowaniem Skoczka w zamian za atak, jak pokazuje partia 71, zagrana w 1580 roku! Inn\u0105 interesuj\u0105c\u0105 opcj\u0105 jest kontratak przez 5. ... b5, jak w grze 68 z naszego archiwum.",
+                    "ru": "5...Nxd5 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u043e\u0439, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e 6-d4 \u0441 \u0441\u0438\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u043e\u0439, \u043d\u043e \u0435\u0441\u0442\u044c 6-Nxf7, \u043a\u0430\u043a \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0436\u0435\u0440\u0442\u0432\u0443\u0435\u0442\u0441\u044f \u041a\u043e\u043d\u044c \u0432 \u0437\u0430\u043c\u0435\u043d \u043d\u0430 \u0430\u0442\u0430\u043a\u0443 (\u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 71). \u0414\u0440\u0443\u0433\u0438\u043c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0435\u0441\u0442\u044c \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u0430 5...b5, \u0447\u0442\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 68 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   6. Bb5+ ",
+                "comment": {
+                    "pt": "6-d3 ocorre na partida 69 e \u00e9 respondido com 6...h6 7-Cf3 e4.",
+                    "en": "6-d3 happens in game 69 and it is answered with 6...h6 7-Nf3 e4.",
+                    "es": "6-d3 ocurre en la partida 69 y es respondido con 6....h6 7-Cf3 e4.",
+                    "de": "6. d3 (Partie 69) wird mit 6...h6 7. Sf3 e4 beantwortet.",
+                    "zh": "6-d3\u51fa\u73b0\u5728\u68cb\u5c4069\u4e2d\u5e76\u4e14\u4f1a\u5e94\u4ee56...h6 7-Nf3 e4\u3002",
+                    "pl": "6. d3 zdarzy\u0142o si\u0119 w partii 69 i spotka\u0142o si\u0119 z odpowiedzi\u0105 6. ... h6 7. Sf3 e4.",
+                    "ru": "6-d3 (\u043f\u043e\u043a\u0430\u0437\u0430\u043d \u0432 \u0438\u0433\u0440\u0435 69), \u0447\u0435\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 6...h6 7-Nf3 e4."
+                }
+            },
+            {
+                "move": "   c6 7. dxc6 bxc6 ",
+                "comment": {
+                    "pt": "As pretas t\u00eam melhor desenvolvimento como compensa\u00e7\u00e3o pelo pe\u00e3o a menos.",
+                    "en": "Black has better development that compensates for having one pawn down.",
+                    "es": "Las negras tienen mejor desarrollo como compensaci\u00f3n por el pe\u00f3n de menos.",
+                    "de": "Schwarz hat eine bessere Entwicklung f\u00fcr den geopferten Bauern.",
+                    "zh": "\u9ed1\u65b9\u901a\u8fc7\u5f03\u5175\u83b7\u5f97\u51fa\u5b50\u4f18\u52bf\u3002",
+                    "pl": "Rozw\u00f3j czarnych jest lepszy, co kompensuje utrat\u0119 piona.",
+                    "ru": "\u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u043b\u0443\u0447\u0448\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u044b \u0444\u0438\u0433\u0443\u0440\u044b, \u0447\u0435\u043c \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u043d\u0438\u0446\u0430 \u0432 \u043e\u0434\u043d\u0443 \u043f\u0435\u0448\u043a\u0443 \u0441 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u043c."
+                }
+            },
+            {
+                "move": "   8. Be2 h6 9. Nh3 ",
+                "comment": {
+                    "pt": "9-Cf3 seria respondido por e4.",
+                    "en": "9-Cf3 will be answered with e4.",
+                    "es": "9-Cf3 ser\u00eda respondido por e4.",
+                    "de": "9. Sf3 w\u00fcrde mit e4 beantwortet werden.",
+                    "zh": "9-Cf3\u56de\u5e94\u4ee5e4\u3002",
+                    "pl": "9. Sf3 natrafi na e4.",
+                    "ru": "\u041d\u0430 9-Cf3 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 e4."
+                }
+            },
+            {
+                "move": "   Bc5 10. O-O O-O 11. d3 Bxh3 12. gxh3 Qd7 13. Bf3 ",
+                "comment": {
+                    "pt": "Para levar este bispo a g2, defender o rei e atacar atav\u00e9s da grande diagonal. As brancas t\u00eam o par de bispos e maior dom\u00ednio das casas brancas, mas seu rei est\u00e1 um pouco aberto e as pretas j\u00e1 recuperaram o pe\u00e3o. A posi\u00e7\u00e3o est\u00e1a equilibrada e sua continua\u00e7\u00e3o pode ser vista na partida 70 de nossa base.",
+                    "en": "In order to take the Bishop to g2, defend the King and attack through the big diagonal. White has a pair of Bishops and greater dominance over light squares but its King is a bit exposed and Black has already recovered the pawn. The position is balanced and it is continued in game 70 of ou database.",
+                    "es": "Para llevar este alfil a g2, defender el rey y atacar a trav\u00e9s de la gran diagonal. Las blancas tiene la pareja de alfiles y un mayor dominio de las casillas blancas, pero su rey est\u00e1 un poco abierto y las negras ya recuperaron el pe\u00f3n. La posici\u00f3n est\u00e1 equilibrada y su continuaci\u00f3n puede ser vista en la partida 70 de nuestra base.",
+                    "de": "Um den L\u00e4ufer auf g2 zu bringen, wo er den K\u00f6nig verteidigen und auf der langen Diagonalen angreifen wird. Wei\u00df besitzt das L\u00e4uferpaar und eine bessere Kontrolle der zentralen Felder, andererseits ist sein K\u00f6nig etwas ungesch\u00fctzt und Schwarz hat den Bauern zur\u00fcckgewonnen. Die Stellung ist ausgeglichen (Partie 70 unserer Datenbank).",
+                    "zh": "\u4e3a\u4e86\u5c06\u8c61\u79fb\u5230g2\uff0c\u9632\u5fa1\u738b\u5e76\u901a\u8fc7\u5927\u659c\u7ebf\u8fdb\u653b\u3002\u767d\u65b9\u62e5\u6709\u53cc\u8c61\u548c\u5bf9\u767d\u683c\u7684\u7edd\u5bf9\u7edf\u6cbb\uff0c\u4f46\u662f\u767d\u738b\u6709\u4e9b\u66b4\u9732\u800c\u4e14\u9ed1\u65b9\u91cd\u53c8\u593a\u56de\u5175\u3002\u5c40\u9762\u8fbe\u5230\u5e73\u8861\uff0c\u5728\u68cb\u5c4070\u4e2d\u5448\u73b0\u3002",
+                    "pl": "W celu przestawienia Go\u0144ca na g2, chroni\u0105c Kr\u00f3la i atakuj\u0105c przez d\u0142ug\u0105 przek\u0105tn\u0105. Bia\u0142e posiadaj\u0105 par\u0119 Go\u0144c\u00f3w i wi\u0119ksz\u0105 dominacj\u0119 nad jasnymi polami, ale ich Kr\u00f3l jest nieco za bardzo ods\u0142oni\u0119ty i Czarne zd\u0105\u017cy\u0142y zdoby\u0107 straconego piona. Pozycja jest zbalansowana i jest kontynuowana w partii 70 w naszej bazie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 g2, \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043f\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438. \u0423 \u0411\u0435\u043b\u044b\u0445 \u043f\u0430\u0440\u0430 \u0421\u043b\u043e\u043d\u043e\u0432 \u0438 \u0432\u0435\u0441\u043e\u043c\u043e\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0434 \u0441\u0432\u0435\u0442\u043b\u044b\u043c\u0438 \u043f\u043e\u043b\u044f\u043c\u0438, \u043d\u043e \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044c \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043a\u0440\u044b\u0442 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0436\u0435 \u043e\u0442\u044b\u0433\u0440\u0430\u043b\u0438 \u043f\u0435\u0448\u043a\u0443. \u041f\u043e\u0437\u0438\u0446\u0438\u044f \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u0438 \u0431\u0443\u0434\u0435\u0442 \u0434\u0430\u043b\u0435\u0435 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 70, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

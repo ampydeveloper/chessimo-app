@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(72)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3r4\/3P3p\/pp2k3\/7K\/P1P5\/6P1\/3R4 w - - 0 57",
+        "moves": [
+            {
+                "move": "57. Kh5 ",
+                "comment": {
+                    "pt": "Ganhando o pe\u00e3o e a partida devido ao futuro avan\u00e7o do pe\u00e3o g.",
+                    "en": "Winning the pawn and the game due to the future advance of the g-pawn.",
+                    "de": "Gewinnt den Bauern und damit die Partie, weil der g-Bauer vorr\u00fccken und nicht gehalten werden wird.",
+                    "es": "Ganando el pe\u00f3n - y la partida - debido al futuro avance del pe\u00f3n g",
+                    "zh": "\u56e0\u4e3ag-\u5175\u53ef\u4ee5\u6beb\u65e0\u963b\u788d\u7684\u633a\u8fd1\uff0c\u6240\u4ee5\u5403\u6389\u5175\u3001\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Wygrywaj\u0105c piona i gr\u0119 z powodu marszu pionem na kolumnie g.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0438\u0433\u0440\u0443, \u0438\u0437-\u0437\u0430 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f g-\u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(151)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1r2\/pp1q1k1p\/2npp1pn\/5p2\/2P5\/1PN1P1P1\/PQ2NPKP\/3R1R2 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Nb5 ",
+                "comment": {
+                    "pt": "Atacando a principal fraqueza na posi\u00e7\u00e3o contr\u00e1ria.",
+                    "en": "Attacking the main weakness in the enemy position (d6).",
+                    "de": "Greift die Hauptschw\u00e4che der gegnerischen Stellung an (d6).",
+                    "es": "Atacando la principal debilidad en la posici\u00f3n contraria (d6).",
+                    "zh": "\u653b\u51fb\u5bf9\u624b\u4e3b\u8981\u5f31\u70b9\uff08d6\uff09\u3002",
+                    "pl": "Atakuj\u0105c g\u0142\u00f3wn\u0105 s\u0142abo\u015b\u0107 w pozycji przeciwnika (d6).",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u0441\u0430\u043c\u043e\u0435 \u0441\u043b\u0430\u0431\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432\u043e \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 (d6)."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(14)",
+            "zh": "Event 1"
+        },
+        "fen": "2kr3r\/pppb1ppp\/2n2q1n\/4p3\/2B5\/B1Q2N2\/P4PPP\/1R2R1K1 w - - 0 15",
+        "moves": [
+            {
+                "move": "15. Ba6 ",
+                "comment": {
+                    "pt": "Atacando o pe\u00e3o e caso as pretas tomem o bispo, as brancas jogar\u00e3o Db2.",
+                    "en": "Attacking the pawn. If Black captures the Bishop, White will play Qb2.",
+                    "de": "Greift den Bauern an. Wenn schwarz den L\u00e4ufer schl\u00e4gt, spielt Wei\u00df Db2.",
+                    "es": "Atacando el pe\u00f3n. Si las negras toman el alfil, las blancas jugar\u00e1n Db2.",
+                    "zh": "\u653b\u51fb\u5175\u3002\u5982\u679c\u9ed1\u68cb\u5403\u6389\u8c61\uff0c\u767d\u68cb\u4f1a\u4e0bQb2\u3002",
+                    "pl": "Atakuj\u0105c piona. Je\u015bli Czarne wezm\u0105 Go\u0144ca, Bia\u0142e zagraj\u0105 Hb2.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u043f\u0435\u0448\u043a\u0443. \u0415\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0435\u0440\u0443\u0442 \u0421\u043b\u043e\u043d\u0430, \u0411\u0435\u043b\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c Qb2."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(113)",
+            "zh": "Event 1"
+        },
+        "fen": "6rk\/6bp\/3R2q1\/1p5r\/5p2\/2P1pP1Q\/1P2B1PP\/3R2K1 b - - 0 33",
+        "moves": [
+            {
+                "move": "33... Bf6 ",
+                "comment": {
+                    "pt": "Defendendo a dama e desobstruindo a a\u00e7\u00e3o da torre atrav\u00e9s da coluna g.",
+                    "en": "Defending the Queen and unlocking the Rook's range through the g-file.",
+                    "de": "Verteidigt die Dame und r\u00e4umt die die g-Linie f\u00fcr den Turm.",
+                    "es": "Defendiendo la dama y desobstruyendo la acci\u00f3n de la torre atrav\u00e9s de la columna g.",
+                    "zh": "\u9632\u5fa1\u540e\uff0c\u6e05\u7a7ag-\u7ad6\u7ebf\u7ed9\u8f66\u3002",
+                    "pl": "Chroni\u0105c Hetmana i odblokowuj\u0105c horyzont Wie\u017cy przez kolumn\u0119 g.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0424\u0435\u0440\u0437\u044f \u0438 \u0434\u0435\u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u041b\u0430\u0434\u044c\u0438 \u043d\u0430 g-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(50)",
+            "zh": "Event 1"
+        },
+        "fen": "r6r\/1p2kpp1\/p2pp3\/4qbRP\/8\/8\/PPPQBP2\/2KR4 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Bg4 ",
+                "comment": {
+                    "pt": "Abrindo a posi\u00e7\u00e3o do rei preto devido a amea\u00e7a Bxf5 seguido de Te1.",
+                    "en": "Opening the black King's position, due to the Bxf5 threat, followed by Re1.",
+                    "de": "Erzwingt die \u00d6ffnung der Stellung vom schwarzen K\u00f6nig wegen der Drohung Lxf5 nebst Te1.",
+                    "es": "Abriendo la posici\u00f3n del rey negro debido la amenaza de Axf5 seguido de Te1.",
+                    "zh": "\u5f97\u76ca\u4e8eBxf5\u548c\u968f\u540eRe1\u7684\u5a01\u80c1\uff0c\u9ed1\u738b\u66b4\u9732\u3002",
+                    "pl": "Otwarcie pozycji czarnego Kr\u00f3la z powodu gro\u017aby Gxf5, kontynuowanej przez We1.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f, \u0438\u0437-\u0437\u0430 \u0443\u0433\u0440\u043e\u0437\u044b Bxf5, \u0441 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c Re1."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1r1k1\/ppq2ppp\/2nbpn2\/3p4\/3P4\/2PB1N2\/PP1NQPPP\/R1B1R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ne5 ",
+                "comment": {
+                    "pt": "Para levar o outro cavalo a f3 e abrir linhas para o bispo de casas pretas. Este lance tamb\u00e9m evita que as pretas joguem ...e5.",
+                    "en": "In order to take the other Knight to f3 and open lines for the dark-squared Bishop. This move also prevents Black from playing ...e5.",
+                    "es": "Para llevar el otro caballo a f3 y abrir l\u00edneas para el alfil de casillas negras. Esta jugada tambi\u00e9n evita que las negras jueguen ...e5.",
+                    "de": "Um den Springer von d2 auf f3 zu bringen und eine Diagonale f\u00fcr den schwarzfeldrigen L\u00e4ufer zu \u00f6ffnen. Dieser Zug verhindert auch das schwarze ...e5.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u4eced2\u79fb\u5230f3\uff0c\u7ed9\u9ed1\u683c\u8c61\u655e\u5f00\u659c\u7ebf\u3002\u8fd9\u4e00\u6b65\u540c\u65f6\u4e5f\u963b\u6b62\u4e86\u9ed1\u65b9\u8d70...e5\u3002",
+                    "pl": "Aby zbi\u0107 drugiego Skoczka na f3 i otworzy\u0107 linie dla ciemnopolowego Go\u0144ca. Powstrzyma to r\u00f3wnie\u017c Czarne przed zagraniem ... e5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 f3, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0442\u0430\u043a\u0436\u0435 \u043c\u0435\u0448\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 ...e5."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pbq2p1p\/1p2pp2\/2b5\/8\/3B1N2\/PPP1QPPP\/3R1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Be4 ",
+                "comment": {
+                    "pt": "Trocando uma das pe\u00e7as pretas mais ativas , desbloqueando a coluna dama para a torre e evitando a poss\u00edvel jogada preta ...Df4.",
+                    "en": "Exchanging one of Black's most active pieces, unblocking the Queen-file for the Rook and preventing Blacks possible move ...Qf4.",
+                    "es": "Cambiando una de las piezas negras m\u00e1s activas, desbloqueando la columna dama para la torre y evitando la posible jugada negra ...Df4.",
+                    "de": "Tauscht eine der aktivsten schwarzen Figuren ab, entlastet die d-Linie und verhindert ...Df4.",
+                    "zh": "\u5151\u6362\u9ed1\u65b9\u6700\u6d3b\u8dc3\u7684\u68cb\u5b50\uff0c\u4e3a\u8f66\u626b\u6e05\u540e\u7ffc\uff0c\u5c3d\u53ef\u80fd\u963b\u6b62\u9ed1\u65b9\u8d70...Qf4\u3002",
+                    "pl": "Wymieniaj\u0105c jedn\u0105 z najbardziej aktywnych figur Czarnych, odblokuj\u0105c hetma\u0144sk\u0105 kolumn\u0119 dla Wie\u017cy i powstrzymuj\u0105c Czarne przed zagraniem ... Hf4.",
+                    "ru": "\u0420\u0430\u0437\u043c\u0435\u043d\u0438\u0432\u0430\u0435\u0442 \u043e\u0434\u043d\u0443 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u0444\u0438\u0433\u0443\u0440 \u0427\u0435\u0440\u043d\u044b\u0445, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0445\u043e\u0434 \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430 ...Qf4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais 3",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qkb1r\/ppp2ppp\/3p1n2\/5bN1\/2PPp3\/2N5\/PP2PPPP\/R1BQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. g4 ",
+                "comment": {
+                    "pt": "As pretas amea\u00e7avam expulsar o cavalo branco com ...h6 e este n\u00e3o teria uma boa retirada. Com esta jogada as brancas for\u00e7am a troca do peoa g pelo pe\u00e3o e contr\u00e1rio, conquistam maioria central e resolvem o problema do seu cavalo que retornar\u00e1 tomando o pe\u00e3o de e4, caso as pretas tomem em g4. Se agora 1...Bg6 segue 2-Bg2.",
+                    "en": "Black threatens to chase the white Knight away with ...h6 and this piece wouldn't have good retreat options. With this move, White forces the exchange of the g-pawn for the opponent's e-pawn, achieves central majority and solves the problem with its own Knight taking the e4-pawn, if Black takes g4. If 1...Bg6, then 2-Bg2 will follow.",
+                    "es": "Las negras amenazaban expulsar el caballo blanco con ...h6 y \u00e9ste no tendr\u00eda una buena retirada. Con esta jugada las blancas fuerzan el cambio del pe\u00f3n \"g\" por el pe\u00f3n \"e\" adversario, conquistan mayor\u00eda central y resuelven el problema del caballo que retornar\u00e1 tomando el pe\u00f3n de e4, si las negras toman en g4. Si ahora 1...Bg6 sigue 2-Bg2 .",
+                    "de": "Schwarz drohte, den Springer mit ...h6 zu vertreiben, nachdem dieser kein gutes Feld zur Verf\u00fcgung h\u00e4tte. Mit dem Textzug zwingt Wei\u00df den Abtausch vom e-Bauern gegen den g-Bauern, erreichen eine Mehrheit im Zentrum und l\u00f6sen das Problem vom Springer, der den Bauern auf e4 schlagen wird.",
+                    "zh": "\u9ed1\u65b9\u8d70...h6\u5a01\u80c1\u5c06\u767d\u9a6c\u8d76\u8d70\uff0c\u6b64\u540e\u8fd9\u4e2a\u5b50\u5c31\u6ca1\u6709\u597d\u7684\u53bb\u8def\u3002\u8d70\u8fd9\u4e00\u6b65\uff0c\u767d\u65b9\u5f3a\u903cg-\u5175\u5151e-\u5175\uff0c\u83b7\u5f97\u4e2d\u5fc3\u4f18\u52bf\uff0c\u89e3\u51b3\u4e86\u9a6c\u5728e4\u4f1a\u53d7\u5230\u653b\u51fb\u7684\u95ee\u9898\u3002",
+                    "pl": "Czarne gro\u017c\u0105 przegonieniem bia\u0142ego Skoczka przez ... h6 i nie ma \u017cadnej sensownej opcji ucieczki. Tym ruchem Bia\u0142e wymuszaj\u0105 wymian\u0119 piona g za wrogi pion e, osi\u0105gaj\u0105c przewag\u0119 w centrum i rozwi\u0105zuj\u0105c problem Skoczka, je\u015bli Czarne wezm\u0105 g4 przez e4. Je\u015bli 1. ... Gg6, wtedy 2. Gg2.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0438 \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u044e\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0441 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 ...h6, \u0434\u043b\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u044d\u0442\u043e \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u043d\u0435 \u043d\u0435\u0441\u0435\u0442 \u043d\u0438\u0447\u0435\u0433\u043e \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e. \u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c, \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u0438\u043d\u0443\u0436\u0434\u0430\u044e\u0442 \u043a \u0440\u0430\u0437\u043c\u0435\u043d\u0443 g-\u043f\u0435\u0448\u043a\u0438 \u043d\u0430 e-\u043f\u0435\u0448\u043a\u0443, \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430, \u0438 \u0440\u0435\u0448\u0430\u044e\u0442 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u043d\u044f, \u0431\u0435\u0440\u044f \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e4, \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0431\u0435\u0440\u0443\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 g4. \u0415\u0441\u043b\u0438 1...Bg6, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 2-Bg2."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centrais",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1nb1rk1\/1p3ppp\/2qpbn2\/1N2p3\/p1P1P3\/4BP2\/PP1NB1PP\/2QR1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Bb6 ",
+                "comment": {
+                    "pt": "Para trocar os bispo e enfraquecer as casas pretas do advers\u00e1rio, que tem a maioria de seu pe\u00f5es centrais em casas brancas.",
+                    "en": "In order to trade the Bishop and weaken the opponent's dark squares, because most of the opponent's central pawns are on light squares.",
+                    "es": "Para cambiar los alfiles y debilitar las casillas negras del adversario, que tiene la mayor\u00eda de su peones centrales en casillas blancas.",
+                    "de": "Um die L\u00e4ufer abzutauschen und die schwarzen Felder vom Wei\u00dfen zu schw\u00e4chen, da die meisten wei\u00dfen Bauern auf wei\u00dfen Feldern stehen.",
+                    "zh": "\u4e3a\u4e86\u5151\u8c61\u5e76\u524a\u5f31\u5bf9\u624b\u7684\u9ed1\u683c\uff0c\u56e0\u4e3a\u5bf9\u624b\u5927\u90e8\u5206\u5175\u90fd\u5904\u5728\u767d\u683c\u4e0a\u3002",
+                    "pl": "Aby wymieni\u0107 Go\u0144ca i os\u0142abi\u0107 ciemne pola przeciwnika, poniewa\u017c wi\u0119kszo\u015b\u0107 centralnych pion\u00f3w oponenta znajduje si\u0119 na jasnych polach.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0442\u0435\u043c\u043d\u044b\u0445 \u043f\u043e\u043b\u0435\u0439 \u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430 \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0442 \u0441\u0432\u0435\u0442\u043b\u044b\u0435 \u043f\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "casas centras",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/1b2n1pp\/pppp1p2\/5P2\/4P3\/1NN5\/PPP3PP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nd4 ",
+                "comment": {
+                    "pt": "Para posicionar o cavalo em e6, onde ele estar\u00e1 muito mais atuante.",
+                    "en": "In order to place the Knight on e6 where it will be very active.",
+                    "es": "Para posicionar el caballo en e6, donde estar\u00e1 mucho m\u00e1s activo.",
+                    "de": "Um den Springer auf e6 zu stellen, wo er viel aktiver stehen wird.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u7f6e\u4e8ee6\uff0c\u5728\u8fd9\u4e2a\u4f4d\u7f6e\u9a6c\u4f1a\u53d8\u5f97\u5f88\u6d3b\u8dc3\u3002",
+                    "pl": "Aby umie\u015bci\u0107 Skoczka na e6, gdzie b\u0119dzie bardzo aktywny.",
+                    "ru": "\u0414\u043b\u044f \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u043f\u043e\u043b\u0435 e6, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0430\u043a\u0442\u0438\u0432\u0435\u043d."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

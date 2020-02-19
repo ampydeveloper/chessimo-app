@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qkb1r\/pbpp1ppp\/1p2pn2\/8\/2PP4\/P1N2N2\/1P2PPPP\/R1BQKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam jogar d5, seguido de e4, dominando o centro. Esta \u00e9 a \u00fanica jogada que evita este plano branco e mant\u00e9m o equil\u00edbrio central.",
+                    "en": "White threatened to play d5, followed by e4, conquering the center. This is the only way to prevent the white plan from happening and to maintain central balance.",
+                    "es": "Las blancas amenazaban jugar d5, seguido de e4, dominando el centro. \u00c9sta es la \u00fanica jugada que evita este plan blanco y que mantiene el equilibrio central.",
+                    "de": "Wei\u00df drohte, d5 nebst e4 zu spielen, um das Zentrum zu beherrschen. Der Textzug ist der einzige Zug, der den wei\u00dfen Plan durchkreuzt und das Gleichgewicht im Zentrum aufrechth\u00e4lt.",
+                    "zh": "\u767d\u65b9\u5a01\u80c1\u5148\u8d70d5\u518d\u8d70e4\uff0c\u62a2\u593a\u4e2d\u5fc3\u3002\u8fd9\u662f\u552f\u4e00\u53ef\u4ee5\u963b\u6b62\u767d\u65b9\u8ba1\u5212\u5f97\u901e\u3001\u4fdd\u6301\u4e2d\u5fc3\u5e73\u8861\u7684\u4e00\u7740\u3002",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0438\u0433\u0440\u043e\u0439 \u043d\u0430 d5, \u043f\u043e\u0441\u043b\u0435 e4, \u0438 \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0442 \u0446\u0435\u043d\u0442\u0440. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 - \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u0443\u0442\u044c \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c \u043f\u043b\u0430\u043d\u0443 \u0411\u0435\u043b\u044b\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u044e\u0442 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0438 \u0443\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0430\u043b\u0430\u043d\u0441\u0430.",
+                    "pl": "Bia\u0142e zagra\u017ca\u0142y zagranie d5, kontynuowane przez e4, co podbi\u0142oby centrum. To jedyna droga, aby pokrzy\u017cowa\u0107 im szyki i utrzyma\u0107 balans w centrum."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pppp1ppp\/5n2\/4p3\/4PP2\/2N5\/PPPP2PP\/R1BQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "Para disputar o centro. Se as brancas tomarem o pe\u00e3o em e5 as pretas recapturam em e4 com o cavalo (2-fxe5 Cxe4). A jogada 1...exf4 seria um erro devido a resposta branca 2-e5, desalojando o cavalo preto.",
+                    "en": "In order to fight for the center. If White takes the e5-pawn, Black will retake it on e4 with 2-fxe5 Nxe4. 1...exf4 would be an error because White would answer with 2-e5, chasing away the Knight.",
+                    "es": "Para disputar el centro. Si las blancas toman el pe\u00f3n en e5 las negras recapturan en e4 con el caballo (2-fxe5 Cxe4). La jugada 1...exf4 ser\u00eda un error debido a la respuesta blanca 2-e5, desalojando al caballo negro.",
+                    "de": "K\u00e4mpft um das Zentrum. Wenn Wei\u00df den Bauern auf e5 schl\u00e4gt, schl\u00e4gt Schwarz auf e4 mit dem Springer (2.fxe5 Sxe4). 1...exf4 w\u00e4re ein Fehler wegen 2.e5, was den schwarzen Springer vertreiben w\u00fcrde.",
+                    "zh": "\u4e3a\u4e86\u4e89\u593a\u4e2d\u5fc3\u3002\u5982\u679c\u767d\u65b9\u6349e5\u5175\uff0c\u90a3\u4e48\u9ed1\u65b9\u4f1a\u5728e4\u4e0b2-fxe5 Nxe4\u8fdb\u884c\u53cd\u51fb\u3002\u8d701...exf4\u662f\u4e0d\u5bf9\u7684\uff0c\u56e0\u4e3a\u767d\u65b9\u4f1a\u5e942-e5\u5c06\u9ed1\u9a6c\u8d76\u8d70\u3002",
+                    "ru": "\u0414\u043b\u044f \u0431\u043e\u0440\u044c\u0431\u044b \u0437\u0430 \u0446\u0435\u043d\u0442\u0440. \u0415\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0431\u0435\u0440\u0443\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e5, \u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u044b\u0433\u0440\u0430\u044e\u0442 \u0435\u0435 \u043d\u0430 e4, \u0438\u0433\u0440\u043e\u0439 2-fxe5 Nxe4. \u0425\u043e\u0434 1...exf4 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u043e\u0439, \u0442\u0430\u043a \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u043e\u0442\u0432\u0435\u0442\u044f\u0442 2-e5, \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u044f \u041a\u043e\u043d\u044f.",
+                    "pl": "W celu walki o centrum. Je\u015bli Bia\u0142e wezm\u0105 piona e5, Czarne zbij\u0105 na e4 poprzez 2. fxe5 Sx4. 1. ... exf4 by\u0142oby b\u0142\u0119dem poniewa\u017c Bia\u0142e odpowiedzia\u0142yby 2. e5, przeganiaj\u0105c Skoczka."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkbnr\/pp2pppp\/8\/2pp4\/8\/1P3N2\/PBPPPPPP\/RN1QKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... f6 ",
+                "comment": {
+                    "pt": "Assegurando que as pretas conseguir\u00e3o jogar ...e5, aumentando o dom\u00ednio central e bloqueando o bispo de b2.",
+                    "en": "Making sure that Black plays ...e5, increasing its central domain and blocking the b2-Bishop.",
+                    "es": "Asegurando que las negras conseguir\u00e1n jugar ...e5, aumentando el dominio central y bloqueando el alfil de b2.",
+                    "de": "Um ...e5 zu spielen, was das schwarze Mittelspiel verst\u00e4rkt und den L\u00e4ufer auf b2 blockiert.",
+                    "zh": "\u786e\u4fdd\u9ed1\u65b9\u8d70...e5\uff0c\u6269\u5927\u5bf9\u4e2d\u5fc3\u7684\u7edf\u6cbb\uff0c\u5c01\u5835b2-\u8c61\u3002",
+                    "ru": "\u0423\u0431\u0435\u0434\u0438\u0432\u0448\u0438\u0441\u044c, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...e5, \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044f \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044f \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 b2.",
+                    "pl": "Upewniaj\u0105c si\u0119, \u017ce Czarne zagraj\u0105 ... e5, zwi\u0119kszaj\u0105c dominacj\u0119 w centrum i blokuj\u0105c Go\u0144ca b2."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/pppp1ppp\/2n2n2\/8\/2BPP3\/5N2\/PP1N1PPP\/R2QK2R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "Para destruir o centro branco, uma vez que esta jogada for\u00e7a a troca do pe\u00e3o de e4.",
+                    "en": "In order to destroy White's center (e4-d4), because this move forces White to a central pawn exchange.",
+                    "es": "Para destruir el centro blanco (e4-d4), ya que esta jugada fuerza el cambio de un pe\u00f3n central blanco.",
+                    "de": "Um das wei\u00dfe Mittelspiel zu zerst\u00f6ren, da der Bauer auf e4 auf jeden Fall getauscht wird.",
+                    "zh": "\u4e3a\u4e86\u6467\u6bc1\u767d\u65b9\u7684\u4e2d\u5fc3\uff08e4-d4\uff09\uff0c\u56e0\u4e3a\u8fd9\u4e00\u6b65\u80fd\u5f3a\u5151\u767d\u65b9\u4e2d\u5fc3\u5175\u3002",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445 (e4-d4), \u0442\u0430\u043a \u043a\u0430\u043a \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u0445 \u0438\u0434\u0442\u0438 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u043d\u0430 \u0440\u0430\u0437\u043c\u0435\u043d \u043f\u0435\u0448\u0435\u043a.",
+                    "pl": "W celu zniszczenia bia\u0142ego centrum (e4-d4), poniewa\u017c dzi\u0119ki temu wymagana jest wymiana pion\u00f3w."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/pppp1ppp\/2n2n2\/2b1P3\/2Bp4\/5N2\/PPP2PPP\/RNBQ1RK1 b kq - 0 1",
+        "moves": [
+            {
+                "move": "1... d5 ",
+                "comment": {
+                    "pt": "O cavalo atacado das pretas n\u00e3o tinha boas jogadas (por exemplo 1... Ce4 2-Te1) e este lance garante uma casa melhor para o cavalo ou sua troca pelo bispo branco.",
+                    "en": "The black Knight didn't have good moves at its service (e.g. 1... Ne4 2-Re1), therefore this move guarantees a better square for the Knight or its exchange for the white Bishop.",
+                    "es": "Al caballo atacado de las negras le faltaban buenas jugadas (por ejemplo si 1... Ce4 2-Te1) y esta jugada le asegura una casilla mejor al caballo o un cambio por el alfil blanco.",
+                    "de": "Der angegriffene schwarze Springer hatte keine guten Z\u00fcge (z.B. 1... Se4 2.Te1). Der Textzug sichert dem Springer entweder ein besseres Feld oder den Abtausch gegen den wei\u00dfen L\u00e4ufer.",
+                    "zh": "\u8fdb\u653b\u4e2d\u7684\u9ed1\u9a6c\u6ca1\u6709\u597d\u7684\u9009\u62e9\uff08\u8b6c\u59821... Ne4 2-Re1\uff09\uff0c\u56e0\u4e3a\u8fd9\u4e48\u8d70\u8981\u4e48\u53ef\u4ee5\u4fdd\u8bc1\u9ed1\u9a6c\u8d70\u5230\u4e00\u4e2a\u66f4\u597d\u683c\u4f4d\uff0c\u8981\u4e48\u53ef\u4ee5\u5151\u6389\u767d\u8c61\u3002",
+                    "ru": "\u0423 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0435 \u0431\u044b\u043b\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0434\u043b\u044f \u0445\u043e\u0440\u043e\u0448\u0438\u0445 \u0445\u043e\u0434\u043e\u0432 (\u0442\u0430\u043a \u043a\u0430\u043a 1... Ne4 2-Re1), \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u041a\u043e\u043d\u044e \u043b\u0443\u0447\u0448\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e, \u0438\u043b\u0438 \u0435\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u043d \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430.",
+                    "pl": "Czarny Skoczek nie ma dobrych mo\u017cliwo\u015bci ruchowych (na przyk\u0142ad: 1. ... Se4 2. We1), wi\u0119c ten ruch gwarantuje lepsze pole dla Skoczka lub jego wymian\u0119 na bia\u0142ego Go\u0144ca."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

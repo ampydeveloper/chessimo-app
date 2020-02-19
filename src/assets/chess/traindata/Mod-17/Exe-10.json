@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Vienesa",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Viena game",
+            "de": "Wiener Partie",
+            "es": "Apertura Vienesa",
+            "pt": "Abertura Vienesa",
+            "zh": "\u7ef4\u4e5f\u7eb3\u5f00\u5c40",
+            "pl": "Partia wiede\u0144ska",
+            "ru": "\u0412\u0435\u043d\u0441\u043a\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nc3 Nf6 3. f4 ",
+                "comment": {
+                    "pt": "A id\u00e9ia desta abertura \u00e9 semelhante a do gambito do rei , por\u00e9m neste caso as pretas n\u00e3o devem aceitar o gambito. A op\u00e7\u00e3o 3-Bc4, com posi\u00e7\u00e3o similar a da abertura italiana, aparece em duas partidas de nossa base (50-51).) 3-g3 para jogar Bg2-Cge2-0-0 tamb\u00e9m \u00e9 poss\u00edvel e foi a jogada preferida do ex campe\u00e3o mundial Boris Spassky. As pretas podem seguir com 3... d5 (partidas 163 e 164) ou 3...Bc5 (partida 165)",
+                    "en": "The idea of this opening is similar to the King's Gambit but in this case Black shouldn't accept the Gambit. The option 3-Bc4, with similar position as in the Italian opening, is presented in two games of our database (50-51). 3-g3 intending Bg2-Nge2-0-0 is also possible and was the favorite move of the former World Champion Boris Spassky. Black is able to continue with 3... d5 (games 163 and 164) or 3...Bc5 (game 165).",
+                    "es": "La idea de esta apertura es semejante a la del Gambito de Rey, pero en este caso las negras no deben aceptar el gambito. La opci\u00f3n 3-Ac4, con posici\u00f3n similar a la de la Apertura Italiana,  aparece en dos partidas de nuestra base (50-51).  3-g3 para jugar Ag2-Cge2-0-0 tambi\u00e9n es posible y fue la jugada preferida del ex campe\u00f3n mundial Boris Spassky. Las negras pueden seguir con 3... d5 (partidas 163 y 164) o 3...Ac5 (partida 165).",
+                    "de": "Die Idee dieser Er\u00f6ffnung ist \u00e4hnlich wie die vom K\u00f6nigsgambit, wobei hier Schwarz den Bauern nicht annehmen kann. 3. Lc4 ist in zwei Partien unserer Datenbank zu sehen (Partien 50 und 51) und f\u00fchrt zu Stellungen der Italienischen Er\u00f6ffnung. 3 g3 mit der Idee Lg2 nebst Sge2 und 0-0 ist auch m\u00f6glich und war Spasskijs Lieblingszug. Schwarz kann 3...d5 (Partien 163 und 164) oder auch 3... Lc5 (Partie 165) spielen.",
+                    "zh": "\u8fd9\u4e2a\u5f00\u5c40\u7684\u601d\u8def\u8ddf\u738b\u7ffc\u5f03\u5175\u5dee\u4e0d\u591a\uff0c\u4f46\u662f\u8fd9\u4e2a\u4f8b\u5b50\u9ed1\u65b9\u4e0d\u5e94\u8be5\u63a5\u53d7\u5f03\u5175\u3002\u53e6\u4e00\u4e2a\u9009\u62e93-Bc4\uff0c\u8ddf\u610f\u5927\u5229\u5f00\u5c40\u7c7b\u4f3c\uff0c\u4f1a\u5728\u68cb\u5c4050-50\u4e2d\u5448\u73b0\u30023-g3\u8ddf\u540e\u7eedBg2-Nge2-0-0\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u8fd9\u662f\u524d\u4e16\u754c\u51a0\u519b\u9c8d\u91cc\u65af\u00b7\u65af\u5e15\u65af\u57fa\u6700\u949f\u7231\u7684\u4e00\u7740\u3002\u9ed1\u65b9\u53ef\u4ee5\u7ee7\u7eed\u8d703... d5\uff08\u68cb\u5c40163\u548c164\uff09\u6216\u80053...Bc5\uff08\u68cb\u5c40165\uff09\u3002",
+                    "pl": "Idea tego otwarcia jest podobna do Gambitu kr\u00f3lewskiego, ale w tym wypadku Czarne nie powinny akceptowa\u0107 Gambitu. Opcja 3. Gc4, z podobn\u0105 pozycj\u0105 jak w partii w\u0142oskiej, jest zaprezentowana w dw\u00f3ch grach z naszej bazy (50-51). 3. g3 ma na my\u015bli Gg2-Sge2-0-0 i jest r\u00f3wnie\u017c mo\u017cliwe. By\u0142 to tak\u017ce ulubiony ruch by\u0142ego Mistrza \u015awiata Borysa Spasskiego. Czarne s\u0105 w stanie kontynuowa\u0107 przez 3. ... d5 (gry 163 i 164) lub 3. ... Gc5 (gra 165).",
+                    "ru": "\u0418\u0434\u0435\u044f \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0434\u0435\u0431\u044e\u0442\u0430 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0445\u043e\u0436\u0430 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442, \u043d\u043e \u0432 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0433\u0430\u043c\u0431\u0438\u0442. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 3-Bc4, \u0441 \u0442\u043e\u0447\u043d\u043e \u0442\u0430\u043a\u043e\u0439 \u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0435\u0439 \u043a\u0430\u043a \u0432 \u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u043c \u0434\u0435\u0431\u044e\u0442\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u0432 \u0438\u0433\u0440\u0430\u0445 50 \u0438 52 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u043f\u0430\u0440\u0442\u0438\u0439. 3-g3 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f Bg2-Nge2-0-0, \u0442\u043e\u0436\u0435 \u043a\u0430\u043a \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0438 \u0431\u044b\u043b \u043b\u044e\u0431\u0438\u043c\u044b\u043c \u0445\u043e\u0434\u043e\u043c \u044d\u043a\u0441-\u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u043c\u0438\u0440\u0430 \u0411\u043e\u0440\u0438\u0441\u0430 \u0421\u043f\u0430\u0441\u0441\u043a\u043e\u0433\u043e. \u0427\u0435\u0440\u043d\u044b\u0439 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c\u0441\u044f \u043d\u0430 3...d5 (\u0438\u0433\u0440\u044b 163 \u0438 164) \u0438\u043b\u0438 3...Bc5 (\u0438\u0433\u0440\u0430 165)."
+                }
+            },
+            {
+                "move": "   d5 ",
+                "comment": {
+                    "pt": "3...exf4 seria um erro devido a 4-e5.",
+                    "en": "3...exf4 would be a mistake due to 4-e5.",
+                    "es": "3... exf4 ser\u00eda un error debido a 4-e5.",
+                    "de": "3...exf4 w\u00e4re ein Fehler wegen 4. e5.",
+                    "zh": "\u8d703...exf4\u4f1a\u662f\u4e00\u4e2a\u5931\u8bef\u56e0\u4e3a\u53ef\u4ee5\u8d704-e5\u5bf9\u6297\u3002",
+                    "pl": "3. ... exf4 by\u0142oby b\u0142\u0119dem z powodu 4. e5.",
+                    "ru": "3...exf4 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u043e\u0439 \u0438\u0437-\u0437\u0430 \u0438\u0433\u0440\u044b 4-e5."
+                }
+            },
+            {
+                "move": "   4. fxe5 ",
+                "comment": {
+                    "pt": "Ap\u00f3s 4-exd5 e4 (4. .. exf4 tamb\u00e9m \u00e9 poss\u00edvel) transpor\u00edamos para a variante do Contra-gambito Falkber no Gambito do Rei.",
+                    "en": "After 4-exd5 e4 (4...exf4 is also possible) a transposition is advisable to the Falkber counter gambit variation in the King's gambit.",
+                    "es": "Despu\u00e9s de 4-exd5 e4 (4...exf4 tambi\u00e9n es posible), transpondr\u00edamos a la variante del Contragambito Falkbeer en el Gambito de Rey.",
+                    "de": "Nach 4 exd5 e4 (4... exf4 geht auch) w\u00e4re eine Variante des Falkbeer-Gegengambit per Zugumstellung erreicht worden.",
+                    "zh": "\u8d704-exd5 e4\uff084...exf4\u4e5f\u662f\u53ef\u884c\u7684\uff09\u4e4b\u540e\u5efa\u8bae\u5c06\u738b\u7ffc\u5f03\u5175\u53d8\u6362\u6210\u4f5b\u514b\u6bd4\u5c14\u53cd\u5f03\u5175\u3002",
+                    "pl": "Po 4. exd5 e4 (4. ... exf4 jest r\u00f3wnie\u017c mo\u017cliwe) transpozycja wskazuje na kontrgambit Falkbera - wariacj\u0119 Kr\u00f3lewskiego gambitu.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 4-exd5 e4 (4...exf4 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442) \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u0442 \u0432 \u043a\u043e\u043d\u0442\u0440\u0433\u0430\u043c\u0431\u0438\u0442 \u0424\u0430\u043b\u044c\u043a\u0431\u0435\u0440\u0430, \u043a\u0430\u043a \u043e\u0434\u0438\u043d \u0438\u0437 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0433\u0430\u043c\u0431\u0438\u0442\u0430."
+                }
+            },
+            {
+                "move": "   Nxe4 5. Nf3 ",
+                "comment": {
+                    "pt": "5-Df3 \u00e9 outra op\u00e7\u00e3o.",
+                    "en": "5-Qf3 is another option.",
+                    "es": "5-Df3 es otra opci\u00f3n.",
+                    "de": "Df3 ist eine andere M\u00f6glichkeit.",
+                    "zh": "5-Qf3\u662f\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\u3002",
+                    "pl": "5. Hf3 jest kolejn\u0105 mo\u017cliwo\u015bci\u0105.",
+                    "ru": "5-Qf3 \u0434\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442."
+                }
+            },
+            {
+                "move": "   Be7 6. Qe2 ",
+                "comment": {
+                    "pt": "Contra 6-d3 as pretas jogariam ...Cxc3 7-bxc3 c5.",
+                    "en": "Against 6-d3 Black plays ...Nxc3 7-bxc3 c5.",
+                    "es": "Contra 6-d3 las negras jugar\u00edan ...Cxc3 7-bxc3 c5.",
+                    "de": "Auf 6. d3 w\u00fcrde Schwarz ...Sxc3 7. bxc3 c5 spielen.",
+                    "zh": "\u4e3a\u4e86\u5bf9\u4ed86-d3\uff0c\u9ed1\u65b9\u8d70...Nxc3 7-bxc3 c5\u3002",
+                    "pl": "Przeciw 6. d3 Czarne graj\u0105 ... Sxc3 7. bxc3 c5.",
+                    "ru": "\u041d\u0430 6-d3 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...Nxc3 7-bxc3 c5."
+                }
+            },
+            {
+                "move": "   Nxc3 ",
+                "comment": {
+                    "pt": "Karpov jogou 6...Cg5 contra Hellers e venceu (partida 161).",
+                    "en": "Karpov played 6...Ng5 against Hellers and won (game 161).",
+                    "es": "Karpov jug\u00f3 6...Cg5 contra Hellers y venci\u00f3 (partida 161).",
+                    "de": "Karpow zog 6...Sg5 gegen Hellers und gewann (Partie 161).",
+                    "zh": "\u5361\u5c14\u6ce2\u592b\u8d706...Ng5\u6765\u5bf9\u6297\u6d77\u52d2\u65af\u5e76\u4e14\u83b7\u5f97\u4e86\u80dc\u5229\uff08\u68cb\u5c40161\uff09\u3002",
+                    "pl": "Karpow zagra\u0142 6. ... Sg5 przeciw Hellersowi i wygra\u0142 (gra 161).",
+                    "ru": "\u041a\u0430\u0440\u043f\u043e\u0432 \u0438\u0433\u0440\u0430\u043b 6...Ng5 \u043f\u0440\u043e\u0442\u0438\u0432 \u0425\u0435\u043b\u043b\u0435\u0440\u0441 \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u043f\u0430\u0440\u0442\u0438\u044e (\u0438\u0433\u0440\u0430 161)."
+                }
+            },
+            {
+                "move": "   7. dxc3 c5 8. Bf4 Nc6 9. O-O-O Be6 ",
+                "comment": {
+                    "pt": "Com jogo equilibrado, conforme demonstrado na partida 161 de nossa base.",
+                    "en": "With balanced game as presented in game 161 of our database.",
+                    "es": "Con juego equilibrado, como se demuestra en la partida 161 de nuestra base.",
+                    "de": "Mit gleichem Spiel, wie die Partie 161 unserer Datenbank zeigt.",
+                    "zh": "\u5982\u68cb\u5c40161\u6240\u5448\u73b0\u7684\u5c40\u9762\u5e73\u8861\u3002",
+                    "pl": "Ze zbalansowan\u0105 gr\u0105 jak pokazuje gra 161 w naszej bazie.",
+                    "ru": "\u0414\u043b\u044f \u0431\u0430\u043b\u0430\u043d\u0441\u0430 \u0432 \u0438\u0433\u0440\u0435, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 161 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

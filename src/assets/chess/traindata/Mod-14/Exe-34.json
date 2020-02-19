@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(48)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/2p1bppp\/p2p1n2\/np2p3\/4P3\/1BP2N1P\/PP1P1PP1\/RNBQR1K1 w - - 0 10",
+        "moves": [
+            {
+                "move": "10. Bc2 ",
+                "comment": {
+                    "pt": "Evitando a troca do cavalo pelo bispo e apoiando o pe\u00e3o de e4.",
+                    "en": "Avoiding the Bishop-Knight exchange and supporting the e4-pawn.",
+                    "de": "Vermeidet den Abtausch vom L\u00e4ufer gegen den Springer und unterst\u00fctzt den Bauern e4.",
+                    "es": "Evitando el cambio de caballo por alfil y apoyando el pe\u00f3n de e4.",
+                    "zh": "\u9632\u6b62\u8c61\u5151\u9a6c\u5e76\u652f\u6301e4-\u5175\u3002",
+                    "pl": "Unikni\u0119cie wymiany Goniec-Skoczek i wsparcie piona e4.",
+                    "ru": "\u0418\u0437\u0431\u0435\u0433\u0430\u0435\u0442 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u041a\u043e\u043d\u044f \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 e4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(30)",
+            "zh": "Event 1"
+        },
+        "fen": "q4rk1\/1bp1bppp\/2np4\/1pn1p3\/4P3\/1BPP1N2\/1P1N1PPP\/2BQR1K1 w - - 0 14",
+        "moves": [
+            {
+                "move": "14. Bc2 ",
+                "comment": {
+                    "pt": "Defendendo o pe\u00e3o de d3, preservando o Bispo e preparando d4.",
+                    "en": "Defending the d3-pawn, preserving the Bishop and preparing 4.",
+                    "de": "Verteidigt den Bauern von d3, beh\u00e4lt den L\u00e4ufer und bereitet d4 vor.",
+                    "es": "Defendiendo el pe\u00f3n de d3, preservando el alfil y preparando d4.",
+                    "zh": "\u9632\u5fa1d3-\u5175\uff0c\u4fdd\u5168\u8c61\u5e76\u51c6\u5907\u4e0bd4\u3002",
+                    "pl": "Obrona piona d3, zachowanie Go\u0144ca i przygotowanie d4.",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 d3, \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 d4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(36)",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/p2q1ppp\/1p6\/1Nrp4\/5B2\/6P1\/P2QPPKP\/3R4 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Nd4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo e colocando-o numa posi\u00e7\u00e3o onde n\u00e3o poder\u00e1 ser expulso pelos pe\u00f5es advers\u00e1rios.",
+                    "en": "Centralizing the Knight and placing it on a position where it can't be chased away by enemy pawns.",
+                    "de": "Zentralisiert den Springer und stellt ihn auf eine Stellung, von der er von gegnerischen Bauern nicht vertrieben werden kann.",
+                    "es": "Centralizando el caballo y coloc\u00e1ndolo en una posici\u00f3n del que no podr\u00e1 ser expulsado por los peones adversarios.",
+                    "zh": "\u628a\u9a6c\u79fb\u5230\u4e2d\u5fc3\uff0c\u5c06\u5b83\u7f6e\u4e8e\u4e00\u4e2a\u4e0d\u4f1a\u88ab\u654c\u5175\u9a71\u8d76\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "Centralizacja Skoczka i umieszczenie go na pozycji, z kt\u00f3rej nie mo\u017ce zosta\u0107 przegoniony przez wrogie piony.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f \u0438 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0435\u0442 \u0435\u0433\u043e \u043d\u0430 \u0442\u0430\u043a\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0434\u043b\u044f \u0430\u0442\u0430\u043a \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u0438\u043c\u0438 \u043f\u0435\u0448\u043a\u0430\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(42)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2ppbp\/3p1np1\/8\/2PnP3\/2N1B3\/PP2BPPP\/R2Q1RK1 w - - 0 10",
+        "moves": [
+            {
+                "move": "10. Bxd4 ",
+                "comment": {
+                    "pt": "Disputando a grande diagonal com o bispo e n\u00e3o com a dama.",
+                    "en": "Disputing the long diagonal with the Bishop, not with the Queen.",
+                    "de": "Bestreitet die lange Diagonale mit dem L\u00e4ufer und nicht mit der Dame.",
+                    "es": "Disputando la gran diagonal con el alfil y no con la dama.",
+                    "zh": "\u7528\u8c61\u800c\u4e0d\u662f\u540e\u53bb\u4e89\u593a\u957f\u659c\u7ebf\u3002",
+                    "pl": "Sp\u00f3r o d\u0142ug\u0105 przek\u0105tn\u0105 dzi\u0119ki Go\u0144cowi, nie Hetmanowi.",
+                    "ru": "\u041e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u0434\u043b\u0438\u043d\u043d\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0421\u043b\u043e\u043d\u043e\u043c, \u0430 \u043d\u0435 \u0424\u0435\u0440\u0437\u0435\u043c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(175)",
+            "zh": "Event 1"
+        },
+        "fen": "1r5b\/pq2pk2\/2r3p1\/4p2n\/2p4R\/P1N1BP2\/1PP5\/K1Q4R w - - 0 28",
+        "moves": [
+            {
+                "move": "28. Ne4 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo, criando amea\u00e7as contra o rei preto e evitando que as pretas joguem ...e4 abrindo a diagonal para o seu bispo.",
+                    "en": "Centralizing the Knight, creating new threats against the black King and preventing Black from playing ...e4 that would open the diagonal for its Bishop.",
+                    "de": "Zentralisiert den Springer, stellt Drohungen gegen den schwarzen K\u00f6nig und verhindert, dass Schwarz e4 spielt und die Diagonale f\u00fcr seinen L\u00e4ufer \u00f6ffnet.",
+                    "es": "Centralizando el caballo, creando amenazas contra el rey negro y evitando que las negras jueguen ...e4, lo que abrir\u00eda la diagonal para el alfil.",
+                    "zh": "\u628a\u9a6c\u79fb\u5411\u4e2d\u5fc3\uff0c\u7ed9\u9ed1\u738b\u5236\u9020\u65b0\u7684\u5a01\u80c1\uff0c\u963b\u6b62\u9ed1\u68cb\u4e0b...e4\u6765\u5f00\u653e\u659c\u7ebf\u7ed9\u5b83\u7684\u8c61\u3002",
+                    "pl": "Centralizacja Skoczka, kreowanie nowych zagro\u017ce\u0144 przeciwko czarnemu Kr\u00f3lowi i uniemo\u017cliwienia zagrania czarnym ... e4, co mog\u0142oby otworzy\u0107 przek\u0105tn\u0105 dla ich Go\u0144ca.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f, \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0443\u0433\u0440\u043e\u0437\u044b \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u043e\u0442 \u0438\u0433\u0440\u044b \u0427\u0435\u0440\u043d\u044b\u0445 ...e4, \u0447\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u043b\u043e \u0431\u044b \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0438\u0445 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

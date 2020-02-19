@@ -1,0 +1,177 @@
+[
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/8\/kr3p2\/2K2P2\/8\/8\/8\/4R3 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Re6 ",
+                "comment": {
+                    "pt": "For\u00e7ando a troca de torres e cria\u00e7\u00e3o de um pe\u00e3o passado, que n\u00e3o poder\u00e1 ser detido.",
+                    "en": "Forcing a Rook exchange and creating a passed pawn that can't be detained.",
+                    "es": "Forzando el cambio de torres y la creaci\u00f3n de un pe\u00f3n pasado, que no podr\u00e1 ser detenido.",
+                    "de": "Zwingt den Abtausch der T\u00fcrme und schafft einen Freibauern, der nicht mehr gehalten werden kann.",
+                    "zh": "\u5f3a\u5151\u8f66\uff0c\u5236\u9020\u4e0d\u4f1a\u88ab\u622a\u7559\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Wymuszaj\u0105c wymian\u0119 Wie\u017cy i tworz\u0105c wolnego piona, kt\u00f3ry nie mo\u017ce by\u0107 zatrzymany.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u043a \u0440\u0430\u0437\u043c\u0435\u043d\u0443 \u041b\u0430\u0434\u044c\u0438 \u0438 \u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0435 \u0441\u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430."
+                }
+            },
+            {
+                "move": "Rxe6 2. fxe6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5p1p\/6P1\/6PP\/3k4\/8\/8\/K7 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... fxg6 ",
+                "comment": {
+                    "pt": "Evitando que as brancas criem um pe\u00e3o passado, o que ocorreria ap\u00f3s as jogadas 1...hxg6 2-h6.",
+                    "en": "Preventing White from creating a passed pawn, which would happen after 1...hxg6 2-h6.",
+                    "es": "Evitando que las blancas creen un pe\u00f3n pasado, lo que ocurrir\u00eda despu\u00e9s de las jugadas 1... hxg6 2-h6.",
+                    "de": "Anders w\u00fcrde Wei\u00df einen Freibauern schaffen: 1...hxg6 2. h6.",
+                    "zh": "\u963b\u6b62\u767d\u65b9\u5236\u9020\u901a\u8def\u5175\uff1a1...hxg6 2-h6\u3002",
+                    "pl": "Zapobiegaj\u0105c przed stworzeniem przez Bia\u0142e wolnego piona, co sta\u0142oby si\u0119 po 1. ... hxg6 2. h6.",
+                    "ru": "\u041d\u0435 \u0434\u0430\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0411\u0435\u043b\u044b\u043c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u043f\u043e\u0441\u043b\u0435 1...hxg6 2-h6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/2pk4\/1p6\/3KP3\/1P6\/8\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. b5 ",
+                "comment": {
+                    "pt": "Este pe\u00e3o branco consegue, ap\u00f3s esta jogada, conter os dois pe\u00f5es pretos em c7 e b6 ,de modo que as pretas n\u00e3o criem um pe\u00e3o passado. As brancas ir\u00e3o vencer gra\u00e7as ao seu pe\u00e3o passado em e5.",
+                    "en": "After this move, the white pawn will be able to detain both black pawns, on c7 and b6, so that Black won't be able to create a passed pawn. White will win, due to its passed pawn on e5.",
+                    "es": "Este pe\u00f3n blanco logra, despu\u00e9s de esta jugada, contener los dos peones negros en c7 y b6, de modo que las negras no creen un pe\u00f3n pasado. Las blancas ganan gracias a su pe\u00f3n pasado en e5.",
+                    "de": "Dieser Bauer stoppt die beiden schwarzen Bauern und verhindert, da\u00df Schwarz einen Freibauern erh\u00e4lt. Wei\u00df wird aufgrund seines Freibauern auf e5 gewinnen.",
+                    "zh": "\u8d70\u8fd9\u6b65\uff0c\u767d\u5175\u53ef\u4ee5\u963b\u62e6\u5728c7\u548cb6\u7684\u4e24\u4e2a\u9ed1\u5175\uff0c\u963b\u6b62\u9ed1\u901a\u8def\u5175\u7684\u51fa\u73b0\u3002\u767d\u65b9\u56e0\u4e3a\u5728e5\u62e5\u6709\u901a\u8def\u5175\uff0c\u6240\u4ee5\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Po tym ruchu bia\u0142y pion jest w stanie si\u0119gn\u0105\u0107 oba czarne na c7 i b6, co nie pozwoli Czarnym stworzy\u0107 wolnego piona. Bia\u0142e zwyci\u0119\u017c\u0105 dzi\u0119ki wolnego pionowi na e5.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430 \u0431\u0435\u043b\u0430\u044f \u043f\u0435\u0448\u043a\u0430 \u043c\u043e\u0436\u0435\u0442 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043e\u0431\u0435\u0438\u0445 \u0447\u0435\u0440\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a \u043d\u0430 c7 \u0438 b6, \u043d\u0435 \u0434\u0430\u0432, \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c, \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443. \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u0430\u044e\u0442 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0432\u043e\u0435\u0439 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0435 \u043d\u0430 e5."
+                }
+            },
+            {
+                "move": "   Ke7 2. Kc6 Kd8 3. e6 Ke7 4. Kxc7 Kxe6 5. Kxb6 ",
+                "comment": {
+                    "pt": "Seguido de Ra7 e o avan\u00e7o de pe\u00e3o.",
+                    "en": "Followed by Ka7 and the advance of the pawn.",
+                    "es": "Seguido de Ra7 y el avance del pe\u00f3n.",
+                    "de": "$ Nebst Ka7 und Vorr\u00fccken des b-Bauern.",
+                    "zh": "\u8ddf\u7740\u4e0bKa7\uff0c\u524d\u8fdb\u5175\u3002",
+                    "pl": "Kontynuowane przez Ka7 i marsz pionem.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 Ka7 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "peao passado",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5p2\/2k5\/6p1\/1PK5\/8\/6P1\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g4 ",
+                "comment": {
+                    "pt": "Contendo a cria\u00e7ao de um pe\u00e3o passado das pretas que ocorreria ap\u00f3s as jogadas ...f5-f4-g4-f3. Agora as brancas vencer\u00e3o gra\u00e7as ao seu pe\u00e3o passado, que ser\u00e1 sacrificado em troca de pe\u00f5es pretos. \u00c9 recomend\u00e1vel que voc\u00ea tente executar este plano e vencer.",
+                    "en": "Hindering the creation of a black passed pawn that would have appeared after ...f5-f4-g4-f3. Now White wins thanks to its own passed pawn that will be sacrificed in exchange for black pawns. Try to win.",
+                    "es": "Evitando la creaci\u00f3n de un pe\u00f3n pasado de las negras, que ocurrir\u00eda despu\u00e9s de las jugadas ...f5-f4-g4-f3. Ahora las blancas vencer\u00e1n gracias a su pe\u00f3n pasado, que ser\u00e1 sacrificado a cambio de peones negros. Es recomendable que usted trate de ejecutar este plan y vencer.",
+                    "de": "Verhindert, da\u00df Schwarz einen Freibauern nach ...f5-f4-g4-f3 erh\u00e4lt. Nun gewinnt Wei\u00df dank seines Freibauern, der geopfert wird, damit der wei\u00dfe K\u00f6nige die \u00fcbrigen schwarzen schl\u00e4gt. Es ist empfehlenswert, da\u00df Sie selbst versuchen, diesen Gewinnplan durchzuf\u00fchren.",
+                    "zh": "\u4e0b ...f5-f4-g4-f3\u4ee5\u540e\u53ef\u4ee5\u963b\u6b62\u9ed1\u65b9\u5236\u9020\u901a\u8def\u5175\u3002\u73b0\u5728\u767d\u65b9\u901a\u8fc7\u5f03\u901a\u8def\u5175\u8ba9\u767d\u738b\u53ef\u4ee5\u653b\u51fb\u4f59\u4e0b\u7684\u9ed1\u5b50\uff0c\u5e76\u6700\u7ec8\u8d62\u5f97\u80dc\u5229\u3002",
+                    "pl": "Utrudniaj\u0105c stworzenie czarnego wolnego piona, kt\u00f3re nast\u0105pi\u0142oby po ... f5-f4-g4-f3. Teraz Bia\u0142\u0119 wygrywaj\u0105 dzi\u0119ki w\u0142asnemu wolnemu pionowi, kt\u00f3ry zostanie po\u015bwi\u0119cony w zamian za czarne. Spr\u00f3buj wygra\u0107.",
+                    "ru": "\u041f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0447\u0435\u0440\u043d\u044b\u043c \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 ...f5-f4-g4-f3. \u0422\u0435\u043f\u0435\u0440\u044c \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u0430\u044e\u0442 \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0441\u0432\u043e\u0435\u0439 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0435, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u0430\u0441\u044c \u043f\u0440\u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u0435 \u0441 \u0447\u0435\u0440\u043d\u044b\u043c\u0438 \u043f\u0435\u0448\u043a\u0430\u043c\u0438."
+                }
+            },
+            {
+                "move": "   f6 ",
+                "comment": {
+                    "pt": "Ap\u00f3s a jogada 1...f5 as pretas criam um pe\u00e3o passado , mas ao sacrificar um pe\u00e3o deixam as brancas com dois pe\u00f5es passados e seu rei \u00e9 incapaz de cont\u00ea-los, enquanto o rei branco pode evitar a coroa\u00e7ao do pe\u00e3o preto; 2-gxf5 g4 3-Rd3 (entrando no quadrado do pe\u00e3o) ...Rb5 4-f6 e as pretas n\u00e3o conseguem evitar a coroa\u00e7\u00e3o deste pe\u00e3o.",
+                    "en": "After 1... f5, Black will create a passed pawn, but as it sacrifices a pawn, it leaves White with two passed pawns that the black King won't be able to restrain. The white King, on the other hand, is able to prevent the promotion of the black King: 2-gxf5 g4 3-Kd3 (entering the \"square\" of the pawn) ...Kb5 4-f6 and Black won't be able to prevent this pawn's promotion.",
+                    "es": "Despu\u00e9s de la jugada 1. ..f5 las negras crean un pe\u00f3n pasado, pero al sacrificar un pe\u00f3n dejan a las blancas con dos peones pasados y su rey es incapaz de contenerlos, mientras el rey blanco puede evitar la coronaci\u00f3n del pe\u00f3n negro; 2-gxf5 g4 3-Rd3 (entrando en el cuadrado del pe\u00f3n) ...Rb5 4-f6 y las negras no consiguen evitar la coronaci\u00f3n de este pe\u00f3n.",
+                    "de": "$ Nach 1...f5 schafft Schwarz einen Freibauern, der aber vom wei\u00dfen K\u00f6nig gehalten werden kann, w\u00e4hrend der schwarze K\u00f6nig nicht in der Lage ist, die beiden wei\u00dfen Freibauern zu halten: 2.gxf5 g4 3. Kd3 (erreicht das Quadrat) ...Kb5 4. f6 und Schwarz kann die Umwandlung des f-Bauern nicht mehr verhindern.",
+                    "zh": "\u8d701... f5\u540e\u9ed1\u65b9\u5236\u9020\u4e00\u4e2a\u901a\u8def\u5175\uff0c\u4f46\u662f\u88ab\u767d\u738b\u622a\u7559\uff0c\u540c\u65f6\u9ed1\u738b\u53c8\u4e0d\u80fd\u540c\u65f6\u538b\u5236\u4e24\u4e2a\u767d\u901a\u8def\u5175\uff1a2.gxf5 g4 3. Kd3 \uff08\u5230\u8fbe\u65b9\u5f62\u533a\uff09 ...Kb5 4. f6\uff0c\u9ed1\u65b9\u518d\u4e5f\u65e0\u6cd5\u963b\u6b62f-\u5175\u7684\u5347\u53d8\u3002",
+                    "pl": "Po 1. ... f5 Czarne stworz\u0105 wolnego piona, ale jako, \u017ce po\u015bwi\u0119c\u0105 jednego, zostawi\u0105 Bia\u0142\u0119 z dwoma wolnymi pionami, kt\u00f3re czarny Kr\u00f3l jest w stanie zbi\u0107. Z drugiej strony bia\u0142y Kr\u00f3l jest w stanie zapobiec promocji: 2. gxf5 g4 3. Kd3 (wchodz\u0105c w \"kwadrat\" piona) ... Kb5 4. f6 i Czarne nie s\u0105 w stanie zapobiec promocji piona.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 1... f5, \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443, \u043d\u043e \u0442\u0430\u043a \u043a\u0430\u043a \u043e\u043d\u0438 \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u043e\u0439, \u043e\u043d\u0438 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0443 \u0411\u0435\u043b\u044b\u0445 \u0434\u0432\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u043c \u0447\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u043d\u0438\u043a\u0430\u043a \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u0435\u0448\u0430\u0442\u044c. \u0421 \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u044b, \u0431\u0435\u043b\u044b\u0439 \u041a\u043e\u0440\u043e\u043b\u044c \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f: 2-gxf5 g4 3-Kd3 (\u0432\u0445\u043e\u0434\u0438\u0442 \u0432 \"\u043f\u0435\u0448\u0435\u0447\u043d\u044b\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\").  ...Kb5 4-f6 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u043f\u0435\u0448\u043a\u0438."
+                }
+            },
+            {
+                "move": "   2. Kd4 Kb5 3. Ke4 Kxb4 4. Kf5 Kc5 5. Kxf6 Kd6 6. Kxg5 ",
+                "comment": {
+                    "pt": "ganhando",
+                    "en": "winning.",
+                    "es": "Ganando",
+                    "de": "$ Und gewinnt",
+                    "zh": "\u8d62\u4e86",
+                    "pl": "Wygrywaj\u0105c.",
+                    "ru": "\u041f\u043e\u0431\u0435\u0436\u0434\u0430\u0435\u0442."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "bloqueio",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq2k1\/p1p2ppp\/2p1r3\/1pb5\/8\/2P2B2\/PP1P1PPP\/R1BQ1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Qd3 ",
+                "comment": {
+                    "pt": "Evitando que as brancas joguem d4 , seguido do desenvolvimento do bispo. A dama preta n\u00e3o pode ser atacada nesta casa.",
+                    "en": "Preventing White from completing development with d4, followed by the development of the Bishop. The black Queen can't be attacked on this square.",
+                    "es": "Evitando que las blancas jueguen d4 , seguido del desarrollo del alfil. La dama negra no puede ser atacada en esta casilla.",
+                    "de": "Verhindert, da\u00df Wei\u00df d4 spielt und dann den L\u00e4ufer entwickelt. Auf diesem Feld kann die Dame nicht angegriffen werden.",
+                    "zh": "\u963b\u6b62\u767d\u65b9\u8d70d4\u5b8c\u6210\u51fa\u5b50\u548c\u7d27\u63a5\u4e0b\u6765\u51fa\u8c61\u3002\u9ed1\u540e\u5728\u8fd9\u683c\u4e0d\u4f1a\u53d7\u5230\u653b\u51fb\u3002",
+                    "pl": "Uniemo\u017cliwiaj\u0105c Bia\u0142ym uko\u0144czenie rozwoju poprzez d4, kontynuowane przez wyprowadzenie Go\u0144ca. Czarny Hetman nie mo\u017ce by\u0107 atakowany na tym polu.",
+                    "ru": "\u041c\u0435\u0448\u0430\u0435\u0442 \u0411\u0435\u043b\u044b\u043c \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 d4, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0435 \u0437\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u0421\u043b\u043e\u043d\u0430. \u0427\u0435\u0440\u043d\u044b\u0439 \u0424\u0435\u0440\u0437\u044c \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043d\u0430 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0435."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "title": "",
+        "white": "Abertura dos 4 cavalos",
+        "white_sort": "",
+        "black": "Variante Cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Classical variation",
+            "de": "Klassische Variante",
+            "es": "Variante Cl\u00e1sica",
+            "pt": "Variante Cl\u00e1ssica",
+            "zh": "\u7ecf\u5178\u53d8\u4f8b",
+            "pl": "Klasyczna wariacja",
+            "ru": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 ",
+                "comment": {
+                    "pt": "Nesta abertura, um pouco fora de moda atualmente, as brancas se preocupam em desenvolver suas pe\u00e7as e rocar, sem acelerar a jogada d4 ou pressionar imediatamente o centro preto.",
+                    "en": "In this position that is a little unfashionable these days, White wants to develop its pieces and castle without accelerating d4 or placing pressure on the black center.",
+                    "es": "En esta apertura, un poco fuera de moda actualmente, las blancas se preocupan en desarrollar sus piezas y enrocarse, sin acelerar la jugada d4 ni presionar inmediatamente sobre el centro negro.",
+                    "de": "In dieser etwas aus der Mode geratenen Er\u00f6ffnung versucht Wei\u00df, seine Figuren zu entwicklen und zu rochieren, ohne d4 sofort zu spielen bzw.  Druck auf das schwarze Zentrum auszu\u00fcben.",
+                    "zh": "\u8fd9\u4e2a\u5c40\u9762\u73b0\u4eca\u6709\u70b9\u4e0d\u592a\u6d41\u884c\u4e86\uff0c\u767d\u65b9\u4f01\u56fe\u51fa\u5b50\u5e76\u8fdb\u884c\u738b\u8f66\u6613\u4f4d\uff0c\u800c\u4e0d\u9a6c\u4e0a\u8d70d4\u6216\u7ed9\u9ed1\u68cb\u4e2d\u5fc3\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "W tej niemodne ju\u017c dzi\u015b pozycji Bia\u0142e d\u0105\u017c\u0105 do wyprowadzenia swoich figur i roszowania bez zbyt szybkiego ryzykowania d4 oraz wywierania presji na czarnym centrum.",
+                    "ru": "\u041d\u0435 \u043c\u043e\u0434\u043d\u043e\u0435, \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f\u0448\u043d\u0438\u0439 \u0434\u0435\u043d\u044c, \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043f\u0430\u0440\u0442\u0438\u0438. \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u0438 \u0440\u043e\u043a\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0431\u0435\u0437 \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f d4 \u0438\u043b\u0438 \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433\u0430 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   4. Bb5 ",
+                "comment": {
+                    "pt": "4-Bc4 \u00e9 uma op\u00e7\u00e3o assim como 4-d4. Contra 4-Bc4 a jogada mais natural \u00e9 4... Bc5 e ap\u00f3s 5-d3 d6, estaremos seguindo a partida 40 de nossa base, onde Capablanca, com as pretas, derrotou Nimzovitsch.",
+                    "en": "4-Bc4 is an option and 4-d4 also. Against 4-Bc4 the most natural move is 4... Bc5 and after 5-d3 d6 the continuation is presented in the game 40 of our database where Capablanca, on the black side, defeated Nimzovitsch.",
+                    "es": "4-Ac4 es una opci\u00f3n, as\u00ed como 4-d4. Contra 4-Ac4 la jugada m\u00e1s natural es 4...Ac5 y despu\u00e9s de 5-d3 d6, estaremos siguiendo la partida 40 de nuestra base, donde Capablanca, con las negras, derrot\u00f3 a Nimzovitsch.",
+                    "de": "4. Lc4 und 4. d4 sind Alternativen. Auf 4. Lc4 ist 4...Lc5 der nat\u00fcrlichste Zug. Nach 5. d3 d6 entsteht die Stellung der Partie 40 auf unserer Datenbank (Schwarzsieg Capablancas gegen Nimzowitsch).",
+                    "zh": "4-Bc4\u548c4-d4\u662f\u53e6\u5916\u7684\u9009\u62e9\u3002\u5bf9\u4ed84-Bc4\u6700\u5e38\u7528\u7684\u4e00\u7740\u662f4... Bc5\uff0c\u8d70\u4e865-d3 d6\u7684\u540e\u7eed\u4f1a\u5728\u6e38\u620f\u5e93\u4e2d\u6e38\u620f40\u4f53\u73b0\uff0c\u8fd9\u91cc\u5361\u5e15\u5e03\u5170\u5361\u6267\u9ed1\u80dc\u5c3c\u59c6\u4f50\u7ef4\u8328\u57fa\u3002",
+                    "pl": "4. Gc4 jest mo\u017cliwy, jak i 4. d4. Przeciw 4. Gc4 najbardziej naturalnym ruchem jest 4. ... Gc5 i po 5. d3 d6 kontynuacja jest zaprezentowana w partii 40, gdzie Capablanca graj\u0105c czarnymi pokona\u0142 Nimzovitscha.",
+                    "ru": "\u0425\u043e\u0434 4-Bc4 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c, \u043a\u0430\u043a \u0438 4-d4. \u041d\u0430 \u0445\u043e\u0434 4-Bc4 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 4... Bc5, \u0430 \u043f\u043e\u0441\u043b\u0435 5-d3 d6, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u043e \u0432 \u0438\u0433\u0440\u0435 40 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0433\u0434\u0435 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0427\u0435\u0440\u043d\u044b\u0445, \u043f\u043e\u0431\u0435\u0434\u0438\u043b \u041d\u0438\u043c\u0446\u043e\u0432\u0438\u0447\u0430."
+                }
+            },
+            {
+                "move": "   Bb4 ",
+                "comment": {
+                    "pt": "A joga da 4...Cd4 \u00e9 uma excelente op\u00e7\u00e3o para as pretas e est\u00e1 analisada no pr\u00f3ximo exemplo. A jogada 4. ..d6 \u00e9 passiva, por\u00e9m s\u00f3lida e foi jogada por Capablanca (partida 41 de nossa base) contra Nimzovitsch. Esta partida \u00e9 muito boa e vale a pena ser estudada.",
+                    "en": "4...Cd4 is an excellent option for Black that will be analyzed in the next example. 4...d6 is passive, but solid and was performed by Capablanca (game 41 of our database) against Nimzovitsch. That is a very good game and studying it is worthwhile.",
+                    "es": "La jugada 4...Cd4 es una excelente opci\u00f3n para las negras y ser\u00e1 analizada en el pr\u00f3ximo ejemplo. La jugada 4...d6 es pasiva pero s\u00f3lida y fue jugada por Capablanca (partida 41 de nuestra base) contra Nimzovitsch. Esta partida es muy buena y vale la pena estudiarla.",
+                    "de": "4...Sd4 ist sehr gut f\u00fcr Schwarz und wird im n\u00e4chsten Beispiel analysiert. 4...d6 ist passiv jedoch solide und wurde von Capablanca gegen Nimzowitsch (Partie 40 unserer Datenbank) gespielt. Es lohnt sich, diese gute Partie nachzuspielen.",
+                    "zh": "4...Cd4\u5bf9\u9ed1\u65b9\u6765\u8bf4\u662f\u5f88\u597d\u7684\u9009\u62e9\uff0c\u8fd9\u5c06\u5728\u4e0b\u4e2a\u4f8b\u5b50\u4e2d\u5206\u6790\u3002\u8d704...d6\u4f1a\u53d8\u5f97\u88ab\u52a8\uff0c\u4f46\u662f\u7a33\u56fa\uff0c\u5e76\u4e14\u88ab\u5361\u5e15\u5e03\u5170\u5361\uff08\u68cb\u5c4041\uff09\u7528\u6765\u5bf9\u4ed8\u5c3c\u59c6\u4f50\u7ef4\u5947\u3002\u8fd9\u662f\u4e00\u4e2a\u975e\u5e38\u597d\u7684\u68cb\u5c40\uff0c\u975e\u5e38\u503c\u5f97\u7814\u7a76\u3002",
+                    "pl": "4. ... Sd4 jest \u015bwietnym wyborem dla Czarnych - zostanie on zanalizowany w nast\u0119pnym przyk\u0142adzie. 4. ... d6 jest pasywne, ale solidne i zosta\u0142o zaprezentowane przez Capablanc\u0119 (partia 41 w bazie) przeciw Nimzovitschowi. To \u015bwietna partia i warta bli\u017cszego zapoznania.",
+                    "ru": "\u0418\u0433\u0440\u0430 4...Cd4 \u0431\u0443\u0434\u0435\u0442 \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445, \u0438 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043f\u0440\u0438\u043c\u0435\u0440\u0435. \u0425\u043e\u0434 4...d6 \u0431\u0443\u0434\u0435\u0442 \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u044b\u043c, \u043d\u043e \u0431\u044b\u043b \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u043e\u0439 (\u0438\u0433\u0440\u0430 41) \u043f\u0440\u043e\u0442\u0438\u0432 \u041d\u0438\u043c\u0446\u043e\u0432\u0438\u0447\u0430. \u042d\u0442\u043e\u0442 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c."
+                }
+            },
+            {
+                "move": "   5. O-O O-O 6. d3 ",
+                "comment": {
+                    "pt": "6-Bxc6 dxc6 7-d3 foi jogado por Winter contra Capablanca (partida 43) e o ex campe\u00e3o mundial produziu um brilhante exemplo estrat\u00e9gico , explorando o tema de uma pe\u00e7a mal colocada na posi\u00e7\u00e3o advers\u00e1ria.",
+                    "en": "6-Bxc6 dxc6 7-d3 was played by Winter against Capablanca (game 43) and the former World Champion provided a brilliant strategic example, exploring the theme of a badly-placed piece in the opponent's position.",
+                    "es": "6-Axc6 dxc6 7-d3 fue jugada por Winter contra Capablanca (partida 43) y el ex campe\u00f3n mundial produjo un brillante ejemplo estrat\u00e9gico, explotando el tema de pieza mal colocada en la posici\u00f3n adversaria.",
+                    "de": "6-Lxc6 dxc6 7-d3 wurde von Winter gegen Capablanca gespielt (Partie 43). Der ehemalige Weltmeister nutzte das Thema einer falsch plazierten gegnerischen Figur gl\u00e4nzend aus.",
+                    "zh": "6-Bxc6 dxc6 7-d3\u88abWinter\u7528\u6765\u5bf9\u4ed8\u5361\u5e15\u5e03\u5170\u5361\uff08\u68cb\u5c4043\uff09\u3002\u8fd9\u4f4d\u524d\u56fd\u9645\u8c61\u68cb\u4e16\u754c\u51a0\u519b\u4e3a\u6211\u4eec\u5c55\u793a\u4e86\u4e00\u4e2a\u5145\u5206\u5229\u7528\u654c\u65b9\u68cb\u5b50\u7cdf\u7cd5\u5c40\u9762\u83b7\u80dc\u7684\u7cbe\u5f69\u6218\u672f\u4f8b\u5b50\u3002",
+                    "pl": "6. Gxc6 dxc6 7. d3 zosta\u0142o zagrane przez Wintera przeciwko Capablance (gra 43) i by\u0142y Mistrz \u015awiata wykorzysta\u0142 \u015bwietnie ten strategiczny moment wykorzystuj\u0105c temat \u017ale ustawionej figury w pozycji oponenta.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 6-Bxc6 dxc6 7-d3 \u0431\u044b\u043b \u0441\u044b\u0433\u0440\u0430\u043d \u0432 \u043f\u0430\u0440\u0442\u0438\u0438 \u0412\u0438\u043d\u0442\u0435\u0440\u0430 \u0438 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0438 (\u0438\u0433\u0440\u0430 43), \u0433\u0434\u0435 \u0431\u044b\u0432\u0448\u0438\u0439 \u0427\u0435\u043c\u043f\u0438\u043e\u043d \u043c\u0438\u0440\u0430 \u043f\u0440\u043e\u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043b \u0431\u043b\u0435\u0441\u0442\u044f\u0449\u0438\u0439 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0438\u0435\u043c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043f\u043b\u043e\u0445\u0438\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0444\u0438\u0433\u0443\u0440 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0430."
+                }
+            },
+            {
+                "move": "   d6 7. Bg5 ",
+                "comment": {
+                    "pt": "7-Ce2 para ir com o cavalo a g3 foi jogado por Rubinstein (partida 37) com bom resultado contra Marshal. Entretanto a jogada n\u00e3o \u00e9 t\u00e3o boa e foi corretamente respondida com 7. ..Bg4 e as pretas t\u00eam boa posi\u00e7\u00e3o.",
+                    "en": "Rubinstein used 7-Ne2 in order to reach g3 with the Knight (game 37) with a good result against Marshal. However the move isn't that good and correctly answered with 7...Bg4 Black has a good position.",
+                    "es": "7-Ce2 para ir con el caballo a g3 fue jugado por Rubinstein (partida 37) con buen resultado contra Marshall. Sin embargo la jugada no es tan buena y fue correctamente respondida con 7...Ag4, con buena posici\u00f3n para las negras.",
+                    "de": "7. Se2 mit der Idee Sg3 wurde von Rubinstein gegen Marshall (Partie Nr. 37) mit Erfolg angewandt. Der Zug ist aber trotzdem nicht so stark und wurde mit 7...Lg4, mit guter Stellung f\u00fcr Schwarz, richtig beantwortet.",
+                    "zh": "\u9c81\u5bbe\u65af\u5766\u75287-Ne2\u5bf9\u6297\u9a6c\u6b47\u5c14\uff0c\u8ba9\u9a6c\u5230\u8fbeg3\uff08\u68cb\u5c4037\uff09\uff0c\u5e76\u4e14\u53d6\u5f97\u4e86\u826f\u597d\u7684\u6548\u679c\u3002\u4f46\u662f\u8fd9\u4e00\u7740\u5e76\u4e0d\u662f\u5341\u5168\u5341\u7f8e\uff0c\u9ed1\u65b9\u5e947...Bg4\u5c31\u80fd\u53d6\u5f97\u4e00\u4e2a\u5f88\u597d\u7684\u5c40\u9762\u3002",
+                    "pl": "Rubinstein u\u017cy\u0142 7. Se2 w celu osi\u0105gni\u0119cia g3 Skoczkiem (gra 37) z dobrym wynikiem przeciw Marshalowi. Jednak\u017ce ten ruch nie jest najlepszy i przy odpowiedniej odpowiedzi 7. ... Gg4 Czarne osi\u0105gaj\u0105 dobr\u0105 pozycj\u0119.",
+                    "ru": "\u0420\u0443\u0431\u0438\u043d\u0448\u0442\u0435\u0439\u043d \u0438\u0433\u0440\u0430\u043b 7-Ne2 \u0432 \u0446\u0435\u043b\u044f\u0445 \u0437\u0430\u043d\u044f\u0442\u0438\u044f g3 \u041a\u043e\u043d\u0435\u043c (\u0438\u0433\u0440\u0430 37), \u0447\u0442\u043e \u0434\u0430\u043b\u043e \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0432 \u0438\u0433\u0440\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u041c\u0430\u0440\u0448\u0430\u043b\u043b\u0430. \u041e\u0434\u043d\u0430\u043a\u043e \u044d\u0442\u043e\u0442 \u0445\u043e\u0434 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c \u0441 7...Bg4, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            },
+            {
+                "move": "   Bxc3 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam Cd5.",
+                    "en": "White threatened Nd5.",
+                    "es": "Las blancas amenazaban Cd5.",
+                    "de": "Wei\u00df drohte Sd5.",
+                    "zh": "\u767d\u65b9\u5a01\u80c1Nd5\u3002",
+                    "pl": "Bia\u0142e gro\u017c\u0105 Sd5.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 Nd5."
+                }
+            },
+            {
+                "move": "   8. bxc3 ",
+                "comment": {
+                    "pt": "E agora, para sair da desagrad\u00e1vel cravada imposta pelo bispo branco em g5, as pretas t\u00eam a seguinte manobra;",
+                    "en": "And now Black has to escape the unpleasant pin created by the g5-Bishop with the following maneuver:",
+                    "es": "Y ahora, para salir de la desagradable clavada impuesta por el alfil blanco en g5, las negras disponen de la siguiente maniobra:",
+                    "de": "Und nun muss Schwarz wie folgt man\u00f6vrieren, um sich von der l\u00e4stigen Fesselung durch den wei\u00dfen L\u00e4ufer auf g5 zu befreien.",
+                    "zh": "\u73b0\u5728\u9ed1\u65b9\u5fc5\u987b\u8fd9\u6837\u8c03\u5175\u9063\u5c06\u6765\u89e3\u8131\u7531g5-\u8c61\u5236\u9020\u7684\u7275\u5236\u3002",
+                    "pl": "I Czarne musz\u0105 ucieka\u0107 od nieprzyjemnego przygwo\u017cd\u017cenia przez Go\u0144ca g5 nast\u0119puj\u0105cym manewrem:",
+                    "ru": "\u0418 \u0442\u0435\u043f\u0435\u0440\u044c \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0443\u0445\u043e\u0434\u0438\u0442\u044c \u043e\u0442 \u043d\u0435\u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u043a\u0438, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u043e\u0439 \u0421\u043b\u043e\u043d\u043e\u043c \u043d\u0430 g5 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u043c\u0430\u043d\u0435\u0432\u0440\u043e\u043c:"
+                }
+            },
+            {
+                "move": "   Qe7 9. Re1 ",
+                "comment": {
+                    "pt": "9-Bxc6 bxc6 10-Dc1 h6 foi jogado na partida 44 de nossa base e a posi\u00e7\u00e3o est\u00e1 equilibrada. Ao trocar o bispo pelo cavalo (9-Bxc6) as brancas abriram m\u00e3o da principal vantagem que tinham, o par de bispos.",
+                    "en": "9-Bxc6 bxc6 10-Qc1 h6 was used in the game 44 of our database and position was balanced. By exchanging Bishop for Knight (9-Bxc6) White gave up the main advantage it had: the pair of Bishops.",
+                    "es": "9-Axc6 bxc6 10-Dc1 h6 fue jugado en la partida 44 de nuestra base, con posici\u00f3n equilibrada. Al cambiar el alfil por el caballo (9-Axc6) las blancas se quedaron sin la principal ventaja que ten\u00edan, la pareja de alfiles.",
+                    "de": "9. Lxc6 bxc6 10. Dc1 h6 mit Ausgleich wurde in der Partie 44 unserer Partiendatenbank gespielt. Durch 9. Lxc6 gibt Wei\u00df den Vorteil vom L\u00e4uferpaar her.",
+                    "zh": "9-Bxc6 bxc6 10-Qc1 h6\u5728\u68cb\u5c4044\u4e2d\u88ab\u7528\u5230\uff0c\u5c40\u9762\u8fbe\u5230\u5e73\u8861\u3002\u7528\u8c61\u5151\u9a6c\uff089-Bxc6\uff09\u767d\u65b9\u653e\u5f03\u53cc\u8c61\u7684\u4e3b\u8981\u4f18\u52bf\u3002",
+                    "pl": "9. Gxc6 bxc6 10. Hc1 h6 zosta\u0142o u\u017cyte w partii 44 z naszej bazy - wyr\u00f3wnuje ono pozycj\u0119. Przez wymian\u0119 Go\u0144ca na Skoczka (9. Gxc6) Bia\u0142e oddaj\u0105 g\u0142\u00f3wn\u0105 posiadan\u0105 przewag\u0119: par\u0119 Go\u0144c\u00f3w.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 9-Bxc6 bxc6 10-Qc1 h6 (\u0431\u044b\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d \u0438 \u0438\u0433\u0440\u0435 44 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b), \u043f\u043e\u0441\u043b\u0435 \u0447\u0435\u0433\u043e \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0441\u0442\u0430\u043b\u0430 \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439. \u041f\u0440\u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u0435 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u041a\u043e\u043d\u044f (9-Bxc6), \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0442\u0435\u0440\u044f\u043b\u0438 \u0441\u0432\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u043e\u0435 \u0432 \u043f\u0430\u0440\u0435 \u0421\u043b\u043e\u043d\u043e\u0432."
+                }
+            },
+            {
+                "move": "   Nd8 10. d4 Ne6 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o 10... Bg4 tamb\u00e9m \u00e9 razo\u00e1vel e foi jogada por Rubinstein na partida 46 de nossa base com bom resultado para as pretas. A partida seguiu; 11-h3 Bh5 12 g4 Bg6 e agora parece que uma boa op\u00e7\u00e3o para as brancas \u00e9 13-d5, para controlar os saltos do cavalo em d8.",
+                    "en": "10... Bg4 is also a reasonable option and it was used by Rubinstein in the game 46 of our database with good result for Black. The game continued as follows: 11-h3 Bh5 12 g4 Bg6 and now it seems that a good option for White is 13-d5 in order to control the moves of the d8-Knight.",
+                    "es": "La opci\u00f3n 10...Ag4 tambi\u00e9n es aceptable y fue jugada por Rubinstein en la partida 46 de nuestra base con buen resultado para las negras. La partida sigui\u00f3: 11-h3 Ah5 12 g4 Ag6 y ahora parece que 13-d5 es una buena opci\u00f3n para las blancas, para controlar los saltos del caballo en d8.",
+                    "de": "10...Lg4 ist auch Akzeptabel und wurde erfolgreich von Rubinstein (Partie 46) angewandt. Es folgte: 11 h3 Lh5 12 g4 Lg6; nun scheint 13. d5 gut zu sein, denn dadurch wird der Springer auf d8 unter Kontrolle gehalten.",
+                    "zh": "10... Bg4\u4e5f\u662f\u5408\u7406\u7684\u9009\u62e9\uff0c\u5b83\u88ab\u9c81\u5bbe\u65af\u5766\u5728\u68cb\u5c4046\u4e2d\u7528\u5230\uff0c\u5bf9\u9ed1\u65b9\u662f\u6709\u5229\u7684\u3002\u68cb\u5c40\u7ee7\u7eed\u5982\u4e0b\uff1a11-h3 Bh5 12 g4 Bg6 \uff0c\u73b0\u5728\u770b\u8d77\u6765\u8d7013-d5\u5bf9\u767d\u65b9\u6765\u8bf4\u597d\u7684\u9009\u62e9\uff0c\u53ef\u4ee5\u63a7\u5236d8-\u9a6c\u7684\u6d3b\u52a8\u3002",
+                    "pl": "10. ... Gg4 r\u00f3wnie\u017c jest rozs\u0105dn\u0105 opcj\u0105 i zosta\u0142 u\u017cyty przez Rubinsteina z dobrym rezultatem przez Czarne w grze 46 z naszej bazy. Partia nast\u0119powa\u0142a w ten spos\u00f3b: 11. h3 Gh5 12. g4 Gg6 i wydaje si\u0119, \u017ce dobrym wyborem dla Bia\u0142ych jest 13. d5 w celu uzyskania kontroli ruch\u00f3w Skoczka d8.",
+                    "ru": "\u0425\u043e\u0434 10... Bg4 \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0443\u043c\u043d\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0438 \u0431\u044b\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d \u0420\u0443\u0431\u0438\u043d\u0448\u0442\u0435\u0439\u043d\u043e\u043c (\u0438\u0433\u0440\u0430 46) \u0441 \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0438\u0441\u0445\u043e\u0434\u043e\u043c \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445. \u0418\u0433\u0440\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u043b\u0430\u0441\u044c: 11-h3 Bh5 12 g4 Bg6 \u0441 \u0445\u043e\u0440\u043e\u0448\u0438\u043c\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0434\u043b\u044f \u0411\u0435\u043b\u044b\u0445 \u0438\u0433\u0440\u0430\u0442\u044c 13-d5 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0433\u0440\u0443 \u041a\u043e\u043d\u044f \u043d\u0430 d8."
+                }
+            },
+            {
+                "move": "   11. Bc1 ",
+                "comment": {
+                    "pt": "Se 11-Bh4 segue Cf4, com a id\u00e9ia de seguir Cg6 e se 12-Bg5 h6, for\u00e7ando as brancas a abandonare a cravada.",
+                    "es": "11. Bh4 Nf4, con la idea de seguir ...Cg6 y, si Ag5, entonces ...h6, obligando a las blancas a abandonar la clavada.",
+                    "en": "If 11-Bh4 Then Nf4, intending to continue with Ng6 and if 12-Ag5, then ...h6, forcing white to release the pin.",
+                    "de": "Auf 11. Lh4 folgt Sf4 mit der Idee Sg6 und falls 12. Lg5 dann ...h6, was Wei\u00df dazu zwingt, die Fesselung aufzugeben.",
+                    "zh": "\u5982\u679c\u5148\u8d7011-Bh4\u7136\u540eNf4\uff0c\u76ee\u7684\u7ee7\u7eedNg6\uff0c\u5982\u679c\u8d7012-Ag5\uff0c\u7136\u540e...h6\uff0c\u8feb\u4f7f\u767d\u65b9\u89e3\u9664\u7275\u5236\u3002",
+                    "pl": "Je\u015bli 11. Gh4, wtedy Sf4 z zamiarem kontynuacji Sg6 oraz je\u015bli 12. Gg5, wtedy ... h6 zmuszaj\u0105c bia\u0142e do odej\u015bcia od przygwo\u017cd\u017cenia.",
+                    "ru": "\u0415\u0441\u043b\u0438 11-BH4, \u0442\u043e\u0433\u0434\u0430 Nf4, \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044f\u0441\u044c \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c Ng6 \u0438 \u0435\u0441\u043b\u0438 12-AG5, \u0442\u043e ...h6, \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u044f \u0411\u0435\u043b\u044b\u0445, \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u0441\u0432\u044f\u0437\u043a\u0443."
+                }
+            },
+            {
+                "move": "   c5 ",
+                "comment": {
+                    "pt": "As brancas tem maior dom\u00ednio central e o par de bispos, mas a posi\u00e7\u00e3o est\u00e1 relativamente fechada, o que favorece os cavalos e as pretas podem vir a explorar os pe\u00f5es dobrados na coluna c. As partidas 154 e 155 de nossa base mostram poss\u00edveis sequ\u00eancias desta posi\u00e7\u00e3o.",
+                    "en": "White has rgeater central dominance and the pair of Bishops but its position is relatively closed, which favours the Knights and Black may explore the doubled pawns in the c-file. The games 154 and 155 of our database demonstrate sequences of this position.",
+                    "es": "Las blancas tienen mayor dominio central y la pareja de alfiles, pero la posici\u00f3n est\u00e1 relativamente cerrada, lo que favorece a los caballos y las negras pueden llegar a explotar los peones doblados en la columna c. Las partidas 154 y 155 de nuestra base muestran posibles continuaciones de esta posici\u00f3n.",
+                    "de": "Wei\u00df kontrolliert das Zentrum und hat das L\u00e4uferpaar. Die Stellung ist jedoch geschlossen, was die schwarzen Springer beg\u00fcnstigt; au\u00dferdem kann Schwarz den Doppelbauern auf der c-Linie ausnutzen. Die Partien 154 und 155 auf unserer Partiendatenbank zeigen m\u00f6gliche Fortsetzungen.",
+                    "zh": "\u767d\u65b9\u62e5\u6709\u5bf9\u4e2d\u5fc3\u7684\u7edf\u6cbb\u5e76\u62e5\u6709\u53cc\u8c61\uff0c\u4f46\u5c40\u9762\u76f8\u5bf9\u5c01\u95ed\uff0c\u6709\u5229\u4e8e\u9a6c\u548c\u9ed1\u68cb\u5229\u7528c-\u7ebf\u53e0\u5175\u3002\u68cb\u5c40154\u548c155\u6f14\u793a\u4e86\u8fd9\u4e2a\u5c40\u9762\u7684\u68cb\u5e8f\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 wi\u0119ksz\u0105 dominacj\u0119 w centrum i par\u0119 Go\u0144c\u00f3w, ale ich pozycja jest relatywnie zamkni\u0119ta, co faworyzuje Skoczki, a Czarne mog\u0105 wykorzysta\u0107 zdublowane piony na kolumnie c. Partie 154 i 155 z naszej bazy ukazuj\u0105 sekwencje tej pozycji.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0442 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u0438\u043c\u0435\u044e\u0442 \u043f\u0430\u0440\u0443 \u0421\u043b\u043e\u043d\u043e\u0432, \u0447\u044c\u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u043a\u0440\u044b\u0442\u044b, \u0447\u0442\u043e \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u0435\u0442 \u041a\u043e\u043d\u044f\u043c \u0447\u0435\u0440\u043d\u044b\u0445 \u043e\u0431\u0440\u0430\u0449\u0430\u0442\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u0441\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438. \u0418\u0433\u0440\u0430 154 \u0438 155 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u0435\u0440\u0438\u044e \u0445\u043e\u0434\u043e\u0432 \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

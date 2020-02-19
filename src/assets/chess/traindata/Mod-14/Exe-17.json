@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(34)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1r1k1\/1p1nqppp\/p1p1p3\/8\/3P4\/2Q1PN2\/PP2BPPP\/2R2RK1 b - - 0 13",
+        "moves": [
+            {
+                "move": "13... e5 ",
+                "comment": {
+                    "pt": "Disputando o centro e abrindo linhas para seu bispo.",
+                    "en": "Disputing the center and opening lines for the Bishop.",
+                    "de": "K\u00e4mpft um das Zentrum und \u00f6ffnet Linien f\u00fcr seinen L\u00e4ufer.",
+                    "es": "Disputando el centro y abriendo l\u00edneas para el alfil.",
+                    "zh": "\u4e89\u593a\u4e2d\u5fc3\u3001\u4e3a\u8c61\u5f00\u653e\u8def\u7ebf\u3002",
+                    "pl": "Sp\u00f3r o centrum i otwarcie linii dla Go\u0144ca.",
+                    "ru": "\u041e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(13)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/pppp1ppp\/2n5\/2b1p3\/2B1P3\/2P2N2\/P2P1PPP\/RNBQK2R w KQkq - 0 6",
+        "moves": [
+            {
+                "move": "6. d4 ",
+                "comment": {
+                    "pt": "Dominando o centro e abrindo linhas para o desenvolvimento.",
+                    "en": "Dominating the center and opening lines for development.",
+                    "de": "Beherrscht das Zentrum und \u00f6ffnet Linien bzw. Diagonalen f\u00fcr die Entwicklung.",
+                    "es": "Dominando el centro y abriendo l\u00edneas para el desarrollo.",
+                    "zh": "\u7edf\u6cbb\u4e2d\u5fc3\uff0c\u4e3a\u51fa\u5b50\u5f00\u653e\u7ebf\u8def\u3002",
+                    "pl": "Dominacja w centrum i otwarcie linii dla wyprowadzenia figur.",
+                    "ru": "\u0414\u0430\u0435\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "2r3k1\/5pp1\/p3p2p\/1p2q3\/4n3\/P3P2P\/1P2NPP1\/1R2Q1K1 w - - 0 28",
+        "moves": [
+            {
+                "move": "28. Rc1 ",
+                "comment": {
+                    "pt": "Disputando a coluna aberta.",
+                    "en": "Disputing the open file.",
+                    "de": "K\u00e4mpft um die offene Linie.",
+                    "es": "Disputando la columna abierta.",
+                    "zh": "\u62a2\u5360\u5f00\u653e\u7ebf\u3002",
+                    "pl": "Sp\u00f3r o otwart\u0105 kolumn\u0119.",
+                    "ru": "\u041e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(38)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp1nqppp\/8\/2pp4\/3P4\/4PN2\/PPQ2PPP\/R3KB1R w KQ - 0 11",
+        "moves": [
+            {
+                "move": "11. Bd3 ",
+                "comment": {
+                    "pt": "Desenvolvendo o bispo e amea\u00e7ando o pe\u00e3o de h7.",
+                    "en": "Developing the Bishop and threatening the h7-pawn.",
+                    "de": "Entwickelt den L\u00e4ufer und droht den Bauern auf h7.",
+                    "es": "Desarrollando el alfil y amenazando el pe\u00f3n de h7.",
+                    "zh": "\u51fa\u8c61\u3001\u5a01\u80c1h7-\u5175\u3002",
+                    "pl": "Wyprowadzenie Go\u0144ca i gro\u017aba na piona h7.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0435 h7."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(6)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3r2\/1p6\/3p1pk1\/p1bBp3\/P3P1P1\/1P1K3R\/1P6\/5R2 w - - 0 30",
+        "moves": [
+            {
+                "move": "30. Rfh1 ",
+                "comment": {
+                    "pt": "Garantindo o dom\u00ednio da coluna h.",
+                    "en": "Ensuring the dominance of the h-file.",
+                    "de": "Sichert sich die Kontrolle der h-Linie.",
+                    "es": "Asegurando el dominio de la columna h.",
+                    "zh": "\u786e\u4fddh-\u7ebf\u7684\u7edf\u6cbb\u3002",
+                    "pl": "Zapewniaj\u0105c dominacj\u0119 na kolumnie h.",
+                    "ru": "\u041e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

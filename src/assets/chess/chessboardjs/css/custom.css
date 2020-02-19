@@ -1,0 +1,360 @@
+
+.black-3c85d {
+	background-color: #00000000 !important;
+	color: #00000000;
+}
+
+.white-1e1d7 {
+	background-color: #00000000 !important;
+	color: #00000000 !important;
+}
+
+.board-wrapper .board-b72b1{
+	background-image: url("/assets/chess/chessboardjs/chesspieces/board_A.png");
+	background-repeat: no-repeat;
+	background-size: cover;;
+}
+
+.board-wrapper.board-A .board-b72b1{
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_A.png");
+}
+
+.board-wrapper.board-B .board-b72b1{
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-B .board-b72b1{
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-C .board-b72b1{
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_C.png");
+}
+
+.board-wrapper.board-D .board-b72b1{
+    background-image: url("/assets/chess/chessboardjs/chesspieces/board_D.png");
+}
+
+.board-wrapper.board-E .board-b72b1{
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_E.png');
+}
+
+.board-wrapper.board-F .board-b72b1{
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_F.png');
+}
+
+.board-wrapper.board-G .board-b72b1{
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_G.png');
+}
+
+.board-wrapper.board-H .board-b72b1{
+    background-image: url('/assets/chess/chessboardjs/chesspieces/board_H.png');
+}
+
+.chessboard-63f37 .highlight1-32417 {
+	-webkit-box-shadow: inset 0 0 3px 3px yellow;
+	box-shadow: inset 0 0 3px 3px yellow;
+}
+
+.chessboard-63f37 .highlight2 {
+	-webkit-box-shadow: inset 0 0 3px 3px yellow;
+	box-shadow: inset 0 0 3px 3px yellow;
+}
+.chessboard-63f37 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.piece-417db.pieceImg{
+	background-size: contain !important;
+	background-position: center !important;
+}
+
+.piece-A .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/A/bB.png');
+}
+.piece-A .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/A/bK.png');
+}
+.piece-A .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/A/bN.png');
+}
+.piece-A .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/A/bP.png');
+}
+.piece-A .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/A/bQ.png');
+}
+.piece-A .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/A/bR.png');
+}
+.piece-A .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/A/wB.png');
+}
+.piece-A .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/A/wK.png');
+}
+.piece-A .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/A/wN.png');
+}
+.piece-A .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/A/wP.png');
+}
+.piece-A .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/A/wQ.png');
+}
+.piece-A .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/A/wR.png');
+}
+
+
+
+
+.piece-B .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/B/bB.png');
+}
+.piece-B .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/B/bK.png');
+}
+.piece-B .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/B/bN.png');
+}
+.piece-B .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/B/bP.png');
+}
+.piece-B .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/B/bQ.png');
+}
+.piece-B .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/B/bR.png');
+}
+.piece-B .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/B/wB.png');
+}
+.piece-B .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/B/wK.png');
+}
+.piece-B .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/B/wN.png');
+}
+.piece-B .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/B/wP.png');
+}
+.piece-B .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/B/wQ.png');
+}
+.piece-B .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/B/wR.png');
+}
+
+
+
+
+.piece-C .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/C/bB.png');
+}
+.piece-C .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/C/bK.png');
+}
+.piece-C .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/C/bN.png');
+}
+.piece-C .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/C/bP.png');
+}
+.piece-C .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/C/bQ.png');
+}
+.piece-C .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/C/bR.png');
+}
+.piece-C .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/C/wB.png');
+}
+.piece-C .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/C/wK.png');
+}
+.piece-C .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/C/wN.png');
+}
+.piece-C .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/C/wP.png');
+}
+.piece-C .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/C/wQ.png');
+}
+.piece-C .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/C/wR.png');
+}
+
+
+
+
+
+.piece-D .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/D/bB.png');
+}
+.piece-D .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/D/bK.png');
+}
+.piece-D .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/D/bN.png');
+}
+.piece-D .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/D/bP.png');
+}
+.piece-D .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/D/bQ.png');
+}
+.piece-D .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/D/bR.png');
+}
+.piece-D .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/D/wB.png');
+}
+.piece-D .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/D/wK.png');
+}
+.piece-D .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/D/wN.png');
+}
+.piece-D .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/D/wP.png');
+}
+.piece-D .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/D/wQ.png');
+}
+.piece-D .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/D/wR.png');
+}
+
+
+
+
+
+.piece-E .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/E/bB.png');
+}
+.piece-E .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/E/bK.png');
+}
+.piece-E .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/E/bN.png');
+}
+.piece-E .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/E/bP.png');
+}
+.piece-E .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/E/bQ.png');
+}
+.piece-E .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/E/bR.png');
+}
+.piece-E .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/E/wB.png');
+}
+.piece-E .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/E/wK.png');
+}
+.piece-E .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/E/wN.png');
+}
+.piece-E .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/E/wP.png');
+}
+.piece-E .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/E/wQ.png');
+}
+.piece-E .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/E/wR.png');
+}
+
+
+
+
+
+.piece-F .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/F/bB.png');
+}
+.piece-F .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/F/bK.png');
+}
+.piece-F .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/F/bN.png');
+}
+.piece-F .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/F/bP.png');
+}
+.piece-F .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/F/bQ.png');
+}
+.piece-F .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/F/bR.png');
+}
+.piece-F .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/F/wB.png');
+}
+.piece-F .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/F/wK.png');
+}
+.piece-F .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/F/wN.png');
+}
+.piece-F .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/F/wP.png');
+}
+.piece-F .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/F/wQ.png');
+}
+.piece-F .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/F/wR.png');
+}
+
+
+.piece-G .piece-417db.pieceImg.bB{
+	background: url('../chesspieces/G/bB.png');
+}
+.piece-G .piece-417db.pieceImg.bK{
+	background: url('../chesspieces/G/bK.png');
+}
+.piece-G .piece-417db.pieceImg.bN{
+	background: url('../chesspieces/G/bN.png');
+}
+.piece-G .piece-417db.pieceImg.bP{
+	background: url('../chesspieces/G/bP.png');
+}
+.piece-G .piece-417db.pieceImg.bQ{
+	background: url('../chesspieces/G/bQ.png');
+}
+.piece-G .piece-417db.pieceImg.bR{
+	background: url('../chesspieces/G/bR.png');
+}
+.piece-G .piece-417db.pieceImg.wB{
+	background: url('../chesspieces/G/wB.png');
+}
+.piece-G .piece-417db.pieceImg.wK{
+	background: url('../chesspieces/G/wK.png');
+}
+.piece-G .piece-417db.pieceImg.wN{
+	background: url('../chesspieces/G/wN.png');
+}
+.piece-G .piece-417db.pieceImg.wP{
+	background: url('../chesspieces/G/wP.png');
+}
+.piece-G .piece-417db.pieceImg.wQ{
+	background: url('../chesspieces/G/wQ.png');
+}
+.piece-G .piece-417db.pieceImg.wR{
+	background: url('../chesspieces/G/wR.png');
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Shop
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content force-overscroll class="ion-padding">
+    <ion-row class="list-box">
+      <ion-col>
+          <app-product [product]="p" *ngFor="let p of appService.productsList"></app-product>
+      </ion-col>
+    </ion-row>
+
+    <div class="bottom-button">
+        <ion-button fill="outline" color="white" (click)="restore()"><img src="../../assets/images/refresh.png"  />Restore Purchase</ion-button>
+    </div>
+</ion-content>

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(76)",
+            "zh": "Event 1"
+        },
+        "fen": "r1r3k1\/pp1bpp1p\/3p1npQ\/q3n3\/3NP1P1\/1BN2P2\/PPP5\/2KR3R b - - 0 16",
+        "moves": [
+            {
+                "move": "16... Rxc3 ",
+                "comment": {
+                    "pt": "Abrindo a posi\u00e7\u00e3o do rei branco e iniciando um contra-ataque.",
+                    "en": "Opening the white King's position and starting a counter attack.",
+                    "de": "\u00d6ffnet die Stellung vom wei\u00dfen K\u00f6nig und leiten einen Gegenangriff ein.",
+                    "es": "Abriendo la posici\u00f3n del rey blanco e iniciando un contraataque.",
+                    "zh": "\u5f00\u653e\u767d\u738b\u7684\u4f4d\u7f6e\uff0c\u5e76\u5f00\u59cb\u53cd\u51fb\u3002",
+                    "pl": "Otwarcie pozycji bia\u0142ego Kr\u00f3la i rozpocz\u0119cie kontrataku.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(111)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1bk1\/pp3r1p\/3p1nn1\/3Pp1p1\/4Pp2\/2NN1P2\/PPRQBBPP\/5RK1 b - - 0 18",
+        "moves": [
+            {
+                "move": "18... g4 ",
+                "comment": {
+                    "pt": "Para abrir linhas e iniciar um ataque ao rei branco.",
+                    "en": "In order to open lines and start an attack on the white King.",
+                    "de": "Um Linien zu \u00f6ffnen und einen Angriff auf den wei\u00dfen K\u00f6nig einzuleiten.",
+                    "es": "Para abrir l\u00edneas e iniciar un ataque al rey blanco.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653e\u7ebf\u8def\u5e76\u5f00\u59cb\u653b\u51fb\u767d\u738b\u3002",
+                    "pl": "W celu otwarcia linii i rozpocz\u0119cia ataku na bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043b\u0438\u043d\u0438\u0438 \u0438 \u043d\u0430\u0447\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(17)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/pp1p1ppp\/2n1pn2\/8\/4P3\/P1N5\/1PP2PPP\/R1BQKB1R b KQkq - 0 8",
+        "moves": [
+            {
+                "move": "8... d5 ",
+                "comment": {
+                    "pt": "Disputando o centro antes que as brancas joguem Bg5, que impediria esta jogada.",
+                    "en": "Disputing the center before White plays Bg5, which would prevent this move.",
+                    "de": "Bestreitet das Zentrum, bevor Wei\u00df Lg5 spielt und den Textzug verhindert.",
+                    "es": "Disputando el centro antes de que las blancas jueguen Ag5, que impedir\u00eda esta jugada.",
+                    "zh": "\u5728\u767d\u68cb\u4e0bBg5\u4e4b\u524d\u4e89\u593a\u4e2d\u5fc3\uff0c\u4ee5\u9632\u4e0d\u80fd\u4e0b\u8fd9\u4e00\u7740\u3002",
+                    "pl": "Sp\u00f3r o centrum zanim Bia\u0142e zagraj\u0105 Gg5, co uniemo\u017cliwia\u0142oby ten ruch.",
+                    "ru": "\u041e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0434\u043e \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 \u0445\u043e\u0434\u043e\u043c Bg5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0442\u0441\u0435\u043a \u0431\u044b \u044d\u0442\u0443 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(96)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2bppp\/2n1p3\/2p5\/3PP3\/3B1N2\/PP3PPP\/R1BQ1RK1 w - - 0 11",
+        "moves": [
+            {
+                "move": "11. dxc5 ",
+                "comment": {
+                    "pt": "Deslocando o bispo preto para esta casa e assim desviando sua aten\u00e7\u00e3o do flanco do rei, onde as brancas pretendem atacar.",
+                    "en": "Moving the Bishop to this square, driving attention away from the kingside, on which White intends to attack.",
+                    "de": "Lenkt den L\u00e4ufer vom K\u00f6nigsfl\u00fcgel ab, an dem Wei\u00df anzugreifen beabsichtigt.",
+                    "es": "Atrayendo el alfil negro a esta casilla y desviando de esta manera su atenci\u00f3n del flanco rey, donde las blancas pretenden atacar.",
+                    "zh": "\u5c06\u8c61\u79fb\u5230\u6b64\u5904\uff0c\u5c06\u767d\u68cb\u610f\u56fe\u653b\u51fb\u7684\u6ce8\u610f\u529b\u4ece\u738b\u7ffc\u8f6c\u79fb\u3002",
+                    "pl": "Przesuni\u0119cie Go\u0144ca na to pole, odwr\u00f3cenie uwagi od skrzyd\u0142a kr\u00f3lewskiego, na kt\u00f3rym Bia\u0142e zamierzaj\u0105 podj\u0105\u0107 atak.",
+                    "ru": "\u041f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u044d\u0442\u043e\u0442 \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0443\u0432\u043e\u0434\u0438\u0442 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043e\u0442 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(88)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq1rk1\/1p2bppp\/p3pn2\/3bN1B1\/P2P3Q\/1B1R4\/1P3PPP\/R5K1 w - - 0 7",
+        "moves": [
+            {
+                "move": "7. Rh3 ",
+                "comment": {
+                    "pt": "Refor\u00e7ando o ataque sobre h7.",
+                    "en": "Reinforcing the attack on h7.",
+                    "de": "Verst\u00e4rkt den Angriff auf h7.",
+                    "es": "Reforzando el ataque al punto h7.",
+                    "zh": "\u52a0\u5f3a\u5bf9h7\u7684\u653b\u51fb\u3002",
+                    "pl": "Wzmacnianie ataku na h7.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 h7."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Francesa",
+        "white_sort": "",
+        "black": "Variante do avan\u00e7o",
+        "date": "",
+        "event": {
+            "en": "Advance variation",
+            "de": "Vorsto\u00df-Variante",
+            "es": "Variante del avance",
+            "pt": "Variante do avan\u00e7o",
+            "zh": "\u63a8\u8fdb\u53d8\u4f8b",
+            "pl": "Wariant zaawansowany",
+            "ru": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e6 2. d4 d5 3. e5 ",
+                "comment": {
+                    "pt": "Nesta variante as brancas garantem uma vantagem de espa\u00e7o, mas dever\u00e3o sustentar o centro, que ser\u00e1 atacado por v\u00e1rias pe\u00e7as pretas.",
+                    "en": "In this variation White guarantees a space advantage but must support the center that will be attacked with several black pieces.",
+                    "es": "En esta variante las blancas se aseguran una ventaja de espacio, pero deber\u00e1n sostener el centro, que ser\u00e1 atacado por varias piezas negras.",
+                    "de": "Wei\u00df sichert sich Raumvorteil, muss aber das Zentrum verteidigen, das von den schwarzen Figuren unter Beschuss genommen wird.",
+                    "zh": "\u5728\u8fd9\u4e2a\u53d8\u4f8b\u4e2d\u767d\u65b9\u786e\u4fdd\u7a7a\u95f4\u4f18\u52bf\uff0c\u4f46\u662f\u5fc5\u987b\u652f\u6301\u4e2d\u5fc3\uff0c\u56e0\u4e3a\u4f1a\u88ab\u591a\u4e2a\u9ed1\u5b50\u653b\u51fb\u3002",
+                    "pl": "W tym wariancie Bia\u0142e gwarantuj\u0105 sobie przewag\u0119 przestrzenn\u0105, ale musz\u0105 wspiera\u0107 centrum, kt\u00f3re b\u0119dzie atakowane wieloma figurami czarnych.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u044e\u0442 \u0441\u0435\u0431\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043d\u043e \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u0444\u0438\u0433\u0443\u0440\u0430\u043c\u0438 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            },
+            {
+                "move": "   c5 4. c3 ",
+                "comment": {
+                    "pt": "Est\u00e1 \u00e9 a melhor jogada e \u00fanica para sustenatr o centro branco. Outras tentativas como 4-Cf3 e 4-dxc5 aparecem nas partidas 227 a 230 de nossa base.",
+                    "en": "This is the best and only move to support the white center. Other attempts, such as 4-Nf3 and 4-dxc5 appear in games 227 to 230 of our database.",
+                    "es": "Esta es la mejor jugada y tambi\u00e9n la \u00fanica para sostener el centro blanco. Otras tentativas como 4-Cf3 y 4-dxc5 aparecen en las partidas 227 a 230 de nuestra base.",
+                    "de": "Der einzige und zugleich beste Zug, um das wei\u00dfe Zentrum zu halten. Alternativen wie 4. Sf3 und dxc5 kann man in den Partien 227 bis 230 sehen.",
+                    "zh": "\u8fd9\u662f\u6700\u4f73\u4e5f\u662f\u552f\u4e00\u53ef\u4ee5\u652f\u6301\u767d\u65b9\u4e2d\u5fc3\u7684\u4e00\u7740\u3002\u53e6\u5916\u4e00\u79cd\u5c1d\u8bd5\u5c31\u50cf4-Nf3\u548c4-dxc5\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40227\u5230230\u4e2d\u3002",
+                    "pl": "Najlepszy i jedyny ruch by wesprze\u0107 bia\u0142e centrum. Inne pr\u00f3by, takie jak 4. Sf3 i 4. Dxc5 pojawia\u0142y si\u0119 w partiach od 227 do 230 z naszego archiwum gier.",
+                    "ru": "\u042d\u0442\u043e \u043b\u0443\u0447\u0448\u0438\u0439 \u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0445\u043e\u0434 \u0411\u0435\u043b\u044b\u0445, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0441\u0432\u043e\u0439 \u0446\u0435\u043d\u0442\u0440. \u0414\u0440\u0443\u0433\u0430\u044f \u043f\u043e\u043f\u044b\u0442\u043a\u0430, \u0442\u0430\u043a\u0430\u044f \u043a\u0430\u043a 4-Nf3 \u0438 4-dxc5, \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0430\u0445 227-230, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   Nc6 5. Nf3 Qb6 6. Be2 ",
+                "comment": {
+                    "pt": "A jogada 6-Bd3 (partida 232) \u00e9 incorreta devido a ...cxd4 7-cxd4 Bd7 amea\u00e7ando o peao d. Na partida 232 as pretas n\u00e3o jogaram corretamente e as brancas obtiveram vantagem , ganhando uma partida que consta em v\u00e1rios livros de estrat\u00e9gia como um modelo sobre o tema \"bloqueio\" . Vale a penaestuda-la!",
+                    "en": "6-Bd3 (game 232) is incorrect due to ...cxd4 7-cxd4 Bd7 threatening the d-pawn. In game 232 Black doesn't play correctly and White obtains advantage winning a match that presented in several strategy books as a model for the \"blockade\". It's worth studying!",
+                    "es": "La jugada 6-Ad3 (partida 232) es incorrecta debido a ...cxd4 7-cxd4 Ad7, amenazando el pe\u00f3n d. En la partida 232 las negras no jugaron correctamente y las blancas obtuvieron ventaja ganando una partida que consta en varios libros de estrategia como un modelo sobre el tema\"bloqueo\". !Vale la pena estudiarla!.",
+                    "de": "6. Ld3 (Partie 232) ist falsch wegen ...cxd4 7. cxd4 Ld7, was den d-Bauern bedroht. In der erw\u00e4hnten Partie spielte Schwarz nicht richtig und Wei\u00df erreichte Vorteil. Diese Partie steht in vielen Schachb\u00fccher \u00fcber Strategie als Model des Themas Blockade. Es lohnt sich, sie nachzuspielen!",
+                    "zh": "6-Bd3\uff08\u68cb\u5c40232\uff09\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a...cxd4 7-cxd4 Bd7\u4f1a\u5a01\u80c1d-\u5175\u3002\u5728\u68cb\u5c40232\u9ed1\u65b9\u8d70\u7684\u4e0d\u6b63\u786e\uff0c\u767d\u65b9\u83b7\u5f97\u4f18\u52bf\u5e76\u6c42\u5f97\u80dc\u5229\uff0c\u5728\u5f88\u591a\u6218\u7565\u624b\u518c\u4e2d\u6709\u63d0\u5230\u8be5\u201c\u5c01\u9501\u201d\u6a21\u578b\u3002\u503c\u5f97\u7814\u7a76\uff01",
+                    "pl": "6. Gd3 (partia 232) jest niepoprawny skoro ... cxd4 7. cxd4 Gd7 z gro\u017an\u0105 wzi\u0119cia piona d. W grze 232 Czarne nie zagra\u0142y poprawnie i Bia\u0142e osi\u0105gn\u0119\u0142y zwyci\u0119sk\u0105 przewag\u0119 w meczu prezentowanym w wielu ksi\u0105\u017ckach o strategii szachowej jako model \u201cblokady\u201d. Partia jest warta pochylenia si\u0119 nad ni\u0105!",
+                    "ru": "\u0425\u043e\u0434 6-Bd3 (\u0438\u0433\u0440\u0430 232) - \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439, \u0438\u0437-\u0437\u0430 ...cxd4 7-cxd4 Bd7 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 d-\u043f\u0435\u0448\u043a\u0435. \u0412 \u0438\u0433\u0440\u0435 232 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e, \u0438 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442 \u043f\u0430\u0440\u0442\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u043f\u0438\u0441\u0430\u043d\u0430 \u0432\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u043a\u043d\u0438\u0433\u0430\u0445, \u043a\u0430\u043a \u043c\u043e\u0434\u0435\u043b\u044c \"\u0431\u043b\u043e\u043a\u0430\u0434\u0430\". \u042d\u0442\u0443 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0441\u0442\u043e\u0438\u0442 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c \u0438 \u0432\u044b\u0443\u0447\u0438\u0442\u044c!"
+                }
+            },
+            {
+                "move": "   cxd4 7. cxd4 Nge7 8. Na3 ",
+                "comment": {
+                    "pt": "8-b3 para defender o pe\u00e3o d, com Bb2, tamb\u00e9m \u00e9 poss\u00edvel.",
+                    "en": "8-b3 in order to defend the d-pawn with Bb2 is also possible.",
+                    "es": "8-b3 para defender el pe\u00f3n d, con Ab2, tambi\u00e9n es posible.",
+                    "de": "8. b3 nebst Lb2 (deckt den Bauern) ist auch m\u00f6glich.",
+                    "zh": "\u8d708-b3\u4e3a\u4e86\u7528Bb2\u9632\u5fa1d\u5175\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "8. b3 w celu obrony piona d przez Gb2 jest r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "8-b3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c d-\u043f\u0435\u0448\u043a\u0443 \u0445\u043e\u0434\u043e\u043c Bb2, \u0442\u0430\u043a\u0436\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e."
+                }
+            },
+            {
+                "move": "   Nf5 9. Nc2 Bd7 ",
+                "comment": {
+                    "pt": "9...h5, para prevenir g4 e 9...Be7, tamb\u00e9m s\u00e3o poss\u00edveis.",
+                    "en": "9... h5 in order to prevent g4 and also 9...Be7 would both be possible.",
+                    "es": "Tambi\u00e9n ser\u00edan posibles: 9...h5 - para evitar g4  - y 9...Ae7.",
+                    "de": "9...h5 (verhindert g4) und 9...Le7 sind auch m\u00f6glich.",
+                    "zh": "9... h5\u4e3a\u4e86\u963b\u6b62g4\u4ee5\u53ca9...Be7\u90fd\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "9. ... h5 w celu uniemo\u017cliwienia g4, ale te\u017c 9. ... Ge7 s\u0105 s\u0142usznymi opcjami.",
+                    "ru": "9... h5, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c g4 \u0438 9...Be7, \u043e\u0431\u0430 \u0431\u0443\u0434\u0443\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b."
+                }
+            },
+            {
+                "move": "   10. g4 Nfe7 11. O-O h5 12. h3 hxg4 13. hxg4 ",
+                "comment": {
+                    "pt": "Chegamos a uma posi\u00e7\u00e3o complexa onde as brancas t\u00eam mais espa\u00e7o, mas seu rei est\u00e1 um pouco desprotegido. A partida 231 de nossa base seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "A complex position is reached where White has more space but its King is a bit unprotected. Game 231 of our database continued from this point on.",
+                    "es": "Llegamos a una posici\u00f3n compleja donde las blancas tienen m\u00e1s espacio, pero su rey est\u00e1 un poco desprotegido. La partida 231 de nuestra base sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Auf dieser komplexen Stellung hat Wei\u00df mehr Raum, sein K\u00f6nig ist aber etwas ungesch\u00fctzt. Partie Nr. 231 zeigt eine Fortsetzung von dieser Variante.",
+                    "zh": "\u8fd9\u4e2a\u5c40\u9762\u6bd4\u8f83\u590d\u6742\uff0c\u767d\u65b9\u62e5\u6709\u66f4\u591a\u7a7a\u95f4\u4f46\u662f\u767d\u738b\u4fdd\u62a4\u529b\u91cf\u6b20\u7f3a\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40231\u4ece\u8fd9\u70b9\u7ee7\u7eed\u3002",
+                    "pl": "Skomplikowana pozycja, w kt\u00f3rej Bia\u0142e posiadaj\u0105 wi\u0119cej miejsca, ale ich Kr\u00f3l jest s\u0142abo broniony. Partia 231 w naszej bazie zaczyna si\u0119 w tym miejscu.",
+                    "ru": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0433\u0434\u0435 \u0443 \u0411\u0435\u043b\u044b\u0445 \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430, \u043d\u043e \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044c \u043d\u0435 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0437\u0430\u0449\u0438\u0449\u0435\u043d. \u0418\u0433\u0440\u0430 231, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u044d\u0442\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

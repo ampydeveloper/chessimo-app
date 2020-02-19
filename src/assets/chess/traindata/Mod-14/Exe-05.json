@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(59)",
+            "zh": "Event 1"
+        },
+        "fen": "2q1rb2\/5Qpk\/5pNp\/B1p2P2\/1nP5\/7P\/1P4P1\/3R3K w - - 0 46",
+        "moves": [
+            {
+                "move": "46. Rd7 ",
+                "comment": {
+                    "pt": "Amea\u00e7ando tomar o bispo com o cavalo e dar mate em g7.",
+                    "en": "Threatening to take the Bishop with the Knight and mate on g7.",
+                    "de": "Droht, den L\u00e4ufer mit dem Springer zu nehmen nebst Matt auf g7.",
+                    "es": "Amenazando tomar el alfil con el caballo, seguido de mate en g7.",
+                    "zh": "\u5a01\u80c1\u7528\u9a6c\u5151\u8c61\uff0c\u968f\u540e\u5728g7\u5904\u903c\u548c\u3002",
+                    "pl": "Gro\u017c\u0105c wzi\u0119cie Go\u0144ca Skoczkiem i matem na g7.",
+                    "ru": "\u0423\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0432\u0437\u044f\u0442\u0438\u0435\u043c \u0421\u043b\u043e\u043d\u0430 \u041a\u043e\u043d\u0435\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0430\u0442\u043e\u043c \u043d\u0430 g7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(108)",
+            "zh": "Event 1"
+        },
+        "fen": "2k5\/5p2\/p3pq1p\/1pP3p1\/1P2pP2\/P1r1P1P1\/1Q3K1P\/5R2 w - - 0 41",
+        "moves": [
+            {
+                "move": "41. Rc1 ",
+                "comment": {
+                    "pt": "Explorando a cravada.",
+                    "en": "Exploring the pin.",
+                    "de": "Nutzt die Fesselung aus.",
+                    "es": "Explotando la clavada.",
+                    "zh": "\u5145\u5206\u5229\u7528\u7275\u5236\u3002",
+                    "pl": "Wykorzystuj\u0105c przygwo\u017cd\u017cenie.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(112)",
+            "zh": "Event 1"
+        },
+        "fen": "r7\/ppq3b1\/2p1k1p1\/3p1pB1\/3P4\/8\/PPPQ1P2\/2K3R1 w - - 0 27",
+        "moves": [
+            {
+                "move": "27. Re1+ ",
+                "comment": {
+                    "pt": "Para atacar atrav\u00e9s desta coluna e entrar em e7.",
+                    "en": "In order to attack through this file and enter e7.",
+                    "de": "Um \u00fcber diese Linie anzugreifen und auf e7 einzudrigen.",
+                    "es": "Para atacar a trav\u00e9s de esta columna y entrar en e7.",
+                    "zh": "\u4e3a\u4e86\u901a\u8fc7\u8fd9\u6761\u7ad6\u7ebf\u653b\u51fb\u5e76\u4fb5\u5165e7\u3002",
+                    "pl": "W celu ataku przez kolumn\u0119 i wej\u015bcie na e7.",
+                    "ru": "\u0414\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0447\u0435\u0440\u0435\u0437 \u044d\u0442\u0443 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u0432\u0445\u043e\u0434\u0430 \u043d\u0430 \u043f\u043e\u043b\u0435 e7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(142)",
+            "zh": "Event 1"
+        },
+        "fen": "5q1k\/1p1r4\/p1n4p\/P3p1pQ\/8\/4R3\/1P3PP1\/1B4K1 w - - 0 39",
+        "moves": [
+            {
+                "move": "39. Rf3 ",
+                "comment": {
+                    "pt": "Obrigando a dama preta a sair de sua excelente posi\u00e7\u00e3o defensiva.",
+                    "en": "Forcing the black Queen to leave its excellent defensive position.",
+                    "de": "Zwingt die schwarze Dame, ihre hervorragende defensive Stellung zu verlassen.",
+                    "es": "Obligando a la dama negra a salir de su excelente posici\u00f3n defensiva.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u738b\u79bb\u5f00\u8fd9\u4e2a\u6781\u4f73\u7684\u9632\u5fa1\u4f4d\u7f6e\u3002",
+                    "pl": "Wymuszaj\u0105c na czarnym Hetmanie opuszczenie jego doskona\u0142ej pozycji obronnej.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u044c \u043e\u0442\u043b\u0438\u0447\u043d\u0443\u044e \u043e\u0431\u043e\u0440\u043e\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(117)",
+            "zh": "Event 1"
+        },
+        "fen": "r3qrk1\/1pp2pp1\/p1b1p3\/4P2Q\/1Bn5\/4P3\/PP3PPP\/R2R2K1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Rd4 ",
+                "comment": {
+                    "pt": "Atacando o cavalo e amea\u00e7ando Th4.",
+                    "en": "Attacking the Knight and threatening Rh4.",
+                    "de": "Greift den Springer an und droht Th4.",
+                    "es": "Atacando el caballo y amenazando Th4.",
+                    "zh": "\u653b\u51fb\u9a6c\u5e76\u5a01\u80c1Rh4\u3002",
+                    "pl": "Atakuj\u0105c Skoczka i gro\u017c\u0105c Wh4.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u041a\u043e\u043d\u044f \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Rh4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

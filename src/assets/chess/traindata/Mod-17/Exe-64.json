@@ -1,0 +1,70 @@
+[
+    {
+        "title": "",
+        "white": "Nimzoindia",
+        "white_sort": "",
+        "black": "Variante Capablanca",
+        "date": "",
+        "event": {
+            "en": "Capablanca variation",
+            "de": "Capablanca-Variante",
+            "es": "Variante Capablanca",
+            "pt": "Variante Capablanca",
+            "zh": "\u5361\u5e15\u5e03\u5170\u5361\u53d8\u4f8b",
+            "pl": "Wariant Capablanki",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u041a\u0430\u043f\u0430\u0431\u043b\u0430\u043d\u043a\u0438"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 ",
+                "comment": {
+                    "pt": "Com este lance, as brancas pretendem jogar a3 e depois da troca em c3, retomar de dama , sem enfraquecer a estrutura de pe\u00f5es, como ocorre na variante Saemich.",
+                    "en": "With this move, White intends to play a3 and, after the exchange on c3, retake with the Queen without weakening the pawn structure, as in the Saemisch variation.",
+                    "es": "Con esta jugada las blancas pretenden jugar a3 y despu\u00e9s del cambio en c3, retomar de dama , sin debilitar la estructura de peones, como ocurre en la variante Saemisch.",
+                    "de": "Wei\u00df hat vor, a3 zu spielen und nach dem Abtausch auf c3 mit der Dame zur\u00fcckzuschlagen und somit die Bauernstruktur schonen, wie es in der S\u00e4misch-Variante geschieht.",
+                    "zh": "\u8d70\u8fd9\u4e00\u6b65\u767d\u65b9\u7684\u76ee\u7684\u662f\u8d70a3\uff0c\u5728c3\u4e0a\u5151\u6362\u4e4b\u540e\uff0c\u7528\u540e\u91cd\u65b0\u593a\u56de\u5175\u800c\u4e0d\u4f1a\u524a\u5f31\u5175\u5f62\uff0c\u6b63\u5982\u6770\u7c73\u4ec0\u53d8\u4f8b\u6240\u793a\u3002",
+                    "pl": "Tym ruchem Bia\u0142e zamierzaj\u0105 zagra\u0107 a3 i po wymianie na tym polu, wzi\u0119cie Hetmanem bez os\u0142abiania struktury pion\u00f3w, jak w wariacji Saemischa.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c, \u0411\u0435\u043b\u044b\u0435 \u043d\u0430\u043c\u0435\u0440\u0435\u0432\u0430\u044e\u0442\u0441\u044f \u0438\u0433\u0440\u0430\u0442\u044c a3, \u043f\u043e\u0441\u043b\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u043d\u0430 c3, \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u044f\u0441\u044c \u0424\u0435\u0440\u0437\u0435\u043c \u0438 \u043d\u0435 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044f \u0441\u043b\u0430\u0431\u044b\u0445 \u043c\u0435\u0441\u0442 \u0432 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435, \u043a\u0430\u043a \u0432 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u0421\u0430\u0435\u0432\u0438\u0447\u0430."
+                }
+            },
+            {
+                "move": "   O-O ",
+                "comment": {
+                    "pt": "As op\u00e7\u00f5es 4...d6 (partidas 680 e 693) ,4...c5 (partidas 681, 684 ,687 e 692) , 4...Cc6 (partida 686) e 4...d5 (partidas 682, 683 e 691) s\u00e3oigualmente boas, mas 4...b6, permitindo 5-e4 \u00e9 ruim para as pretas (partidas 685 e 690).",
+                    "en": "The options 4...d6 (games 680 and 693), 4. ..c5 (games 681, 684, 687 and 692), 4...Nc6 (game 686) and 4...d5 (games 682, 683 and 691) are also good but 4...b6, enabling 5-e4, is bad for the black side (games 685 and 690).",
+                    "es": "Las opciones 4...d6 (partidas 680 y 693), 4... c5 (partidas 681, 684 ,687 y 692), 4...Cc6 (partida 686) y 4...d5 (partidas 682, 683 y 691) son igualmente buenas, pero 4...b6, permitiendo 5-e4 es malo para las negras (partidas 685 y 690).",
+                    "de": "Die folgenden Z\u00fcge: 4...d6 (Partien Nr. 680 und 693), 4...c5 (Partien Nr. 681, 684, 687 und 692), 4...Sc6 (Partie Nr. 686) und 4...d5 (Partien Nr. 682, 683 und 691) sind alle gleichwertig; hingegen ist 4...b6 schwach, da 5. e4 zugelassen wird (Partien Nr. 685 und 690).",
+                    "zh": "\u9009\u62e94...d6\uff08\u68cb\u5c40680\u548c693\uff09\uff0c4. ..c5\uff08\u68cb\u5c40681\u3001684\u3001687 \u548c692\uff09\uff0c4...Nc6\uff08\u68cb\u5c40686\uff09\u548c4...d5\uff08\u68cb\u5c40682\u3001 683\u548c691\uff09\u4e5f\u662f\u4e0d\u9519\u7684\uff0c\u4f46\u662f\u8d704...b6\u7684\u8bdd\u53ef\u4ee5\u5e945-e4\uff0c\u5bf9\u4e8e\u9ed1\u65b9\u662f\u4e0d\u5229\u7684\uff08\u68cb\u5c40685\u548c690\uff09\u3002",
+                    "pl": "Opcje 4. ... d6 (680 i 693), 4. ... c5 (681, 684, 687 i 692), 4. ... Sc6 (686) i 4. ... d5 (682, 683 i 691) s\u0105 dobre, za\u015b 4. ... b6 pozwala na 5. e4, co jest niekorzystne dla czarnej strony (partie 685 i 690).",
+                    "ru": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: 4...d6 (\u0438\u0433\u0440\u044b 680 \u0438 693), 4...c5 (\u0438\u0433\u0440\u044b 681, 684, 687 \u0438 692), 4...Nc6 (\u0438\u0433\u0440\u0430 686) \u0438 4...d5 (\u0438\u0433\u0440\u044b 682, 683 \u0438 691) \u0442\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438, \u043d\u043e 4...b6, \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 5-e4, \u043f\u043b\u043e\u0445\u043e\u0439 \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 (\u0438\u0433\u0440\u044b 685 \u0438 690)."
+                }
+            },
+            {
+                "move": "   5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 ",
+                "comment": {
+                    "pt": "Antes de jogar e3, as brancas desenvolvem seu bispo e incomodam muito as pretas com esta cravada, uma vez que estas j\u00e1 trocaram seu bispo.",
+                    "en": "Before e3, White develops its Bishop and disturbs Black a lot with this pin because the black Bishop has already been exchanged.",
+                    "es": "Antes de jugar e3, las blancas desarrollan su alfil y molestan mucho a las negras con esta clavada, ya que \u00e9stas ya cambiaron su alfil.",
+                    "de": "Wei\u00df entwickelt den L\u00e4ufer, bevor er e3 spielt, und st\u00f6rt Schwarz ungemein mit dieser Fesselung, vor allem weil Schwarz den schwarzfeldrigen L\u00e4ufer bereits ausgetauscht hat.",
+                    "zh": "\u5728\u8d70e3\u4e4b\u524d\uff0c\u767d\u65b9\u51fa\u52a8\u8c61\uff0c\u7528\u7275\u5236\u672f\u5927\u5927\u6270\u4e71\u9ed1\u65b9\u9635\u811a\uff0c\u56e0\u4e3a\u9ed1\u8c61\u5df2\u7ecf\u88ab\u5151\u6389\u4e86\u3002",
+                    "pl": "Przed e3 Bia\u0142e wyprowadzaj\u0105 Go\u0144ca i utrudniaj\u0105 bardzo gr\u0119 Czarnym tym przygwo\u017cd\u017ceniem, poniewa\u017c czarny Goniec ju\u017c zosta\u0142 wymieniony.",
+                    "ru": "\u0414\u043e e3, \u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0442 \u0441\u0432\u043e\u0435\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u0431\u0435\u0441\u043f\u043e\u043a\u043e\u044f\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u044d\u0442\u043e\u0439 \u0441\u0432\u044f\u0437\u043a\u043e\u0439, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0447\u0435\u0440\u043d\u044b\u0439 \u0421\u043b\u043e\u043d \u0443\u0436\u0435 \u0431\u044b\u043b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u043d."
+                }
+            },
+            {
+                "move": "   Bb7 8. e3 d6 9. f3 Nbd7 10. Bd3 c5 11. Ne2 Rc8 ",
+                "comment": {
+                    "pt": "As pretas entregaram o par de bispos , mas obtiveram boa posi\u00e7\u00e3o central e podem jogar ...d5 a qualquer momento. As partidas 688 e 689 seguiram a partir desta posi\u00e7\u00e3o.",
+                    "en": "Black gives up the pair of Bishops but obtains good central position and enables playing ...d5 at any moment. Games 688 and 689 continue this game from this position on.",
+                    "es": "Las negras entregaron la pareja de alfiles, pero obtuvieron buena posici\u00f3n central y pueden jugar ...d5 a cualquier momento. Las partidas 688 y 689 siguieron a partir de esta posici\u00f3n.",
+                    "de": "Schwarz verzichtete auf das L\u00e4uferpaar, hat aber eine gute Stellung im Zentrum und kann jederzeit ...d5 spielen. Die Partien Nr. 688 und 689 zeigen eine Fortsetzung.",
+                    "zh": "\u9ed1\u65b9\u653e\u5f03\u53cc\u8c61\uff0c\u4f46\u662f\u53d6\u5f97\u5f88\u597d\u7684\u4e2d\u5fc3\u4f4d\u7f6e\u5e76\u4e14\u53ef\u4ee5\u968f\u65f6\u8d70...d5\u3002\u68cb\u5c40688\u548c689\u4ecb\u7ecd\u4e86\u4e00\u4e2a\u5c40\u9762\u7684\u4e00\u79cd\u5ef6\u7eed\u3002",
+                    "pl": "Czarne poddaj\u0105 par\u0119 Go\u0144c\u00f3w, ale utrzymuj\u0105 dobr\u0105 centraln\u0105 pozycj\u0119 i mo\u017cliwo\u015b\u0107 zagrania ... d5 w ka\u017cdej chwili. Partie 688 i 689 kontynuuj\u0105 z tego miejsca.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043e\u0442\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043e\u0442 \u043f\u0430\u0440\u044b \u0421\u043b\u043e\u043d\u043e\u0432, \u043d\u043e \u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u043c\u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u043c\u0438 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u0432 \u043b\u044e\u0431\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0432\u043a\u043b\u044e\u0447\u0430\u0442 \u0432 \u0438\u0433\u0440\u0443 ...d5. \u0418\u0433\u0440\u044b 688 \u0438 689 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

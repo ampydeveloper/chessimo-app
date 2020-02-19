@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Petrof",
+        "white_sort": "",
+        "black": "Petroff's defense",
+        "date": "",
+        "event": {
+            "en": "Petrov's Defense",
+            "de": "Petrow-Verteidigung",
+            "es": "Defensa Petroff",
+            "pt": "Defesa Petroff",
+            "zh": "\u5f7c\u5f97\u7f57\u592b\u9632\u5fa1",
+            "pl": "Obrona rosyjska",
+            "ru": "\u0417\u0430\u0449\u0438\u0442\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nf6 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a defesa Russa ou Petrof. A id\u00e9ia das pretas \u00e9 simplificar a situa\u00e7\u00e3o no centro atrav\u00e9s da troca dos pe\u00f5es. A variante principal segue assim;",
+                    "en": "This is the Russian Defense or Petroff's Defense. Black's idea is to simplify the center with pawn exchanges. The main variation is the following:",
+                    "es": "Esta es la defensa Rusa o Petrof. La idea de las negras es simplificar la situaci\u00f3n en el centro a trav\u00e9s de cambio de peones. La variante principal es la siguiente:",
+                    "de": "Das ist die Russische Verteidigung, auch oder Petrow-Verteidigung genannt. Die Idee des Schwarzen besteht darin, die Lage im Zentrum durch Abtauschen von Bauern zu kl\u00e4ren. Die Hauptvariante ist folgende:",
+                    "zh": "\u8fd9\u662f\u4fc4\u7f57\u65af\u9632\u5fa1\u53c8\u79f0\u5f7c\u5f97\u7f57\u592b\u9632\u5fa1\u3002\u9ed1\u65b9\u7684\u610f\u56fe\u662f\u901a\u8fc7\u5151\u5175\u7b80\u5316\u4e2d\u5fc3\u3002\u4e3b\u8981\u7684\u53d8\u4f8b\u5982\u4e0b\uff1a",
+                    "pl": "Tak zwana Obrona rosyjska lub Obrona Petroffa. Podstawow\u0105 ide\u0105 czarnych jest upro\u015bci\u0107 gr\u0119 w centrum przez wymian\u0119 pion\u00f3w. G\u0142\u00f3wna linia przebiega jak nast\u0119puje:",
+                    "ru": "\u042d\u0442\u043e \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430 \u0438\u043b\u0438 \u0417\u0430\u0449\u0438\u0442\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0430. \u0418\u0434\u0435\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u0432 \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u0438\u0438 \u0446\u0435\u043d\u0442\u0440\u0430 \u043f\u043e\u043b\u044f, \u043f\u0443\u0442\u0435\u043c \u0440\u0430\u0437\u043c\u0435\u043d\u0430 \u043f\u0435\u0448\u0435\u043a. \u041e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u0438:"
+                }
+            },
+            {
+                "move": "   3. Nxe5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m \u00e9 poss\u00edvel 3-Cc3, podendo haver uma transposi\u00e7\u00e3o para a abertura dos quatro cavalos, caso as pretas joguem ...Nc6. Outra op\u00e7\u00e3o contra 3-Cc3 seria 3...Bb4.",
+                    "en": "3-Nc3 is also possible and a transposition to the 4 Knights opening may happen if Black plays ...Nc6. Another option against 3-Nc3 would be 3... Bb4.",
+                    "es": "Tambi\u00e9n es posible 3-Cc3, pudiendo haber una transposici\u00f3n para la apertura de los cuatro caballos, si las negras juegan... Cc6. Otra opci\u00f3n contra 3-Cc3 ser\u00eda 3...Ab4.",
+                    "de": "3. Sc3 ist auch m\u00f6glich, wonach die 4-Springerer\u00f6ffnung durch Zugumstellung erreicht werden kann, falls Schwarz ...Sc6 spielt. Eine andere M\u00f6glichkeit w\u00e4re Lb4.",
+                    "zh": "3-Nc3\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u5982\u679c\u9ed1\u65b9\u8d70...Nc6\uff0c\u53ef\u4ee5\u53d8\u6362\u4e3a\u56db\u9a6c\u5f00\u5c40\u3002\u53e6\u5916\u4e00\u79cd\u5e94\u5bf93-Nc3\u7684\u8d70\u6cd5\u662f\u4e0b3... Bb4\u3002",
+                    "pl": "3. Sc3 jest r\u00f3wnie\u017c mo\u017cliwe i transpozycja do Obrony czterech skoczk\u00f3w mog\u0142aby si\u0119 zdarzy\u0107, gdyby Czarne zagra\u0142y ... Sc6. Inn\u0105 mo\u017cliwo\u015bci\u0105 odpowiedzi na 3. Sc3 mo\u017ce by\u0107 3. ... Gb4.",
+                    "ru": "\u0425\u043e\u0434 3-Nc3 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u0438 \u043f\u0430\u0440\u0442\u0438\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0434\u0435\u0431\u044e\u0442 \u0447\u0435\u0442\u044b\u0440\u0435\u0445 \u041a\u043e\u043d\u0435\u0439, \u0435\u0441\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 ...Nc6. \u0414\u0440\u0443\u0433\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u043d\u0430 3-Nc3 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c 3...Bb4."
+                }
+            },
+            {
+                "move": "   d6 ",
+                "comment": {
+                    "pt": "3... Cxe4 seria um erro e as brancas obt\u00e9m vantagem com 4-De2.",
+                    "en": "3...Nxe4 would be a mistake. White obtains advantage with 4-Qe2.",
+                    "es": "3...Cxe4 ser\u00eda un error, pues las blancas obtendr\u00edan ventaja con 4-De2.",
+                    "de": "...Sxe4 w\u00e4re ein Fehler, da Wei\u00df nach 4. De2 Vorteil hat.",
+                    "zh": "3...Nxe4\u662f\u4e00\u4e2a\u9519\u8bef\u3002\u767d\u65b9\u4f1a\u4e0b4-Qe2\u53d6\u5f97\u4f18\u52bf\u3002",
+                    "pl": "3. ... Sxe4 by\u0142oby b\u0142\u0119dem. Bia\u0142e uzyska\u0142yby przewag\u0119 dzi\u0119ki 4. He2.",
+                    "ru": "\u0425\u043e\u0434 3...Nxe4 \u043e\u0448\u0438\u0431\u043e\u0447\u043d\u044b\u0439. \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438\u0433\u0440\u043e\u0439 4-Qe2."
+                }
+            },
+            {
+                "move": "   4. Nf3 Nxe4 5. d4 ",
+                "comment": {
+                    "pt": "Para jogar Bd3 e ganhar um tempo atacando o cavalo. 5-Cc3 com o intuito de responder a ... Cxc3 com 6-dxc3, planejando desenvolver o flanco dama e rocar grande tamb\u00e9m \u00e9 uma possibilidade. 5-De2 De7 6-d3 para trocar damas leva a uma posi\u00e7\u00e3o igualada ( partida 35).",
+                    "en": "In order to play Bd3 and win a tempo attacking the Knight. 5-Cc3 intending to answer ...Nxc3 with 6-dxc3, planning to develop the queenside and occasionally queencastling. 5-Qe2 Qe7 6-d3 in order to exchange Queens results in a balanced position (game 35).",
+                    "es": "Para jugar Ad3 y ganar un tiempo atacando el caballo. 5-Cc3 con la intenci\u00f3n de responder a ...Cxc3 con 6-dxc3, planeando desarrollar el flanco dama y enrocarse en largo tambi\u00e9n es una posibilidad. 5-De2 De7 6-d3 para cambiar damas lleva a una posici\u00f3n igualada (partida 35).",
+                    "de": "Um Ld3 zu spielen und den Springer mit Tempogewinn anzugreifen. Eine andere M\u00f6glichkeit w\u00e4re 5. Sc3, um ...Sxc3 mit 6.dxc3 zu beantworten, mit der Absicht, den Damenfl\u00fcgel zu entwickeln und lang zu rochieren. 5-De2 De7 6-d3, um die Damen abzutauschen f\u00fchrt zum Ausgleich (Partie 35).",
+                    "zh": "\u4e3a\u4e86\u53ef\u4ee5\u4e0bBd3\u653b\u51fb\u9a6c\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002\u53e6\u5916\u4e00\u79cd\u53ef\u80fd\u662f\u8d705-Cc3\uff0c\u6765\u5e94...Nxc3\u8ddf6-dxc3\uff0c\u76ee\u7684\u662f\u540e\u7ffc\u51fa\u5b50\u5e76\u8fdb\u884c\u957f\u6613\u4f4d\u3002\u8d705-Qe2 Qe7 6-d3 \u5151\u540e\u6c42\u5f97\u4e00\u4e2a\u5e73\u8861\u7684\u5c40\u9762\uff08\u68cb\u5c4035\uff09\u3002",
+                    "pl": "W celu zagrania Gd3 i zdobycia tempo atakuj\u0105c Skoczka. 5. 5. Sc3 zmierza do ... Sxc3 wraz z 6. dxc3, z planem wyprowadzenia figur ze skrzyd\u0142a hetma\u0144skiego i mo\u017cliwo\u015bci\u0105 d\u0142ugiej roszady. 5. H2 He7 6. d3 w celu wymiany Hetman\u00f3w skutkuje zbalansowan\u0105 pozycj\u0105 (gra 35).",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Bd3 \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0442\u0435\u043c\u043f, \u0430\u0442\u0430\u043a\u0443\u044f \u041a\u043e\u043d\u044f. \u041d\u0430 \u0438\u0433\u0440\u0443 5-Cc3 \u0441 \u043e\u0442\u0432\u0435\u0442\u043e\u043c ...Nxc3 6-dxc3, \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044f\u0441\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0440\u043e\u043a\u0438\u0440\u0443\u044f\u0441\u044c \u043d\u0430 \u0442\u043e\u0442 \u0436\u0435 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433. 5-Qe2 Qe7 6-d3, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0424\u0435\u0440\u0437\u0435\u0439 \u0438, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435, \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438\u0433\u0440\u0443 (\u0438\u0433\u0440\u0430 35)."
+                }
+            },
+            {
+                "move": "   d5 ",
+                "comment": {
+                    "pt": "5...Be7 seria passivo e foi jogado nas partidas 30 e 36 de nossa base.",
+                    "en": "5...Be7 would be passiv and is presented in games 30 and 36 of our database.",
+                    "es": "5...Ae7 ser\u00eda pasivo y fue jugado en las partidas 30 y 36 de nuestra base..",
+                    "de": "...Le7 w\u00e4re passiv und ist in den Partien 30 und 36 unserer Partiendatenbank zu sehen.",
+                    "zh": "\u8d705...Be7\u4f1a\u53d8\u5f97\u88ab\u52a8\uff0c\u5728\u68cb\u5e93\u4e2d\u68cb\u5c4030\u548c36\u4e2d\u6709\u4f53\u73b0\u3002",
+                    "pl": "5. ... Ge7 by\u0142oby zbyt pasywne. Zaprezentowali\u015bmy ten ruch w partiach 30 oraz 36 z naszej bazy.",
+                    "ru": "\u0418\u0433\u0440\u0430 5...Be7 \u0431\u0443\u0434\u0435\u0442 \u043f\u0430\u0441\u0441\u0438\u0432\u043d\u043e\u0439, \u0447\u0442\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0430\u0445 30 \u0438 36 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   6. Bd3 ",
+                "comment": {
+                    "pt": "6...Bd6 tamb\u00e9m \u00e9 poss\u00edvel e as brancas devem seguir com 7-0-0 0-0 8-c4, mas n\u00e3o com 7-c4 diretamente devido a ....Bb4 conforme partidas 31 e 33 de nossa base, onde as pretas conseguiram boa posi\u00e7\u00e3o na abertura.",
+                    "en": "6...Bd6 is also possible and White must continue with 7-0-0 0-0 8-c4 but no with 7-c4 directly because of ....Bb4 as in the games 31 and 33 of our database where Black conquered a good position in the opening.",
+                    "es": "6...Ad6 tambi\u00e9n es posible y las blancas deben seguir con 7-0-0 0-0 8-c4, pero no con 7-c4 directamente, debido a ....Ab4, como en las partidas 31 y 33 de nuestra base, donde las negras consiguieron buena posici\u00f3n en la apertura.",
+                    "de": "6...Ld6 geht auch; Wei\u00df muss 7-0-0 0-0 8-c4 spielen. Nach 7.c4 (Partien 31 und 33 unserer Datenbank) erreicht Schwarz mit ...Lb4 eine gute Stellung.",
+                    "zh": "6...Bd6\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u767d\u65b9\u5fc5\u987b\u8d707-0-0 0-0 8-c4\u3002\u5982\u679c\u767d\u65b9\u76f4\u63a57-c4\uff0c\u90a3\u4e48\u9ed1\u65b9\u8d70....Bb4\u4e4b\u540e\u5728\u8fd9\u79cd\u5f00\u5c40\u4e2d\u53d6\u5f97\u4e00\u4e2a\u975e\u5e38\u597d\u7684\u5c40\u9762\uff08\u5982\u68cb\u5e93\u4e2d\u68cb\u5c4031\u548c33\uff09\u3002",
+                    "pl": "6. ... Gd6 jest r\u00f3wnie\u017c mo\u017cliwe i Bia\u0142e musz\u0105 kontynuowa\u0107 przez 7. 0-0 0-0 8. c4, ale nie przez 7. c4 poniewa\u017c ... Gb4, jak pokazali\u015bmy w grach 31 i 33 naszej bazy, gdzie Czarne zdobywaj\u0105 bardzo dobr\u0105 pozycj\u0119 w otwarciu.",
+                    "ru": "\u0418\u0433\u0440\u0430 6...Bd6 \u0442\u043e\u0436\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0438 \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c 7-0-0 0-0 8-c4, \u043d\u043e \u043d\u0435 \u0445\u043e\u0434\u043e\u043c 7-c4 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0438\u0437-\u0437\u0430 ....Bb4, \u043a\u0430\u043a \u0438\u0433\u0440\u0430\u0445 31 \u0438 33, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0437\u0430\u0432\u043e\u0435\u0432\u044b\u0432\u0430\u044e\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0432 \u0434\u0435\u0431\u044e\u0442\u0435."
+                }
+            },
+            {
+                "move": "   Be7 7. O-O Nc6 8. Re1 ",
+                "comment": {
+                    "pt": "8-c4 \u00e9 o lance mais jogado nos dias de hoje, para desestabilizar a posi\u00e7\u00e3o do cavalo preto no centro. A partida poderia seguir; 8...Nb4 9. Be2 O-O 10. Nc3 Be6 11. Be3) ou 8. .. Bg4 9. c3 f5 10. Nbd2 O-O 11-Qb3 (partida 34).",
+                    "en": "8-c4 is the most popula move nowadays.The main idea is to put pressure on black's knight on e4. The game could follow 8...Nb4 9. Be2 O-O 10. Nc3 Be6 11. Be3) ou 8. .. Bg4 9. c3 f5 10. Nbd2 O-O 11-Qb3 (game 34).",
+                    "es": "{ 8-c4 es la jugada m\u00e1s usada hoy en d\u00eda, para desestabilizar la posici\u00f3n del caballo negro en el centro. La partida podr\u00eda seguir as\u00ed: 8...Cb4 9. Ae2 0-0 10. Cc3 Ae6 11. Ae3 o 8... Ag4 9. c3 f5 10. Cbd2 0-0 11. Qb3 (partida 34).",
+                    "de": "8. c4 wird heutzutage am h\u00e4ufigsten gespielt, mit der Idee, den schwarzen Springer im Zentrum zu befragen. Es k\u00f6nnte folgen: 8...Sb4 9. Le2 O-O 10. Sc3 Le6 11. Le3 oder auch Lg4 9. c3 f5 10. Sbd2 O-O 11-Db3 (Partie 34)",
+                    "zh": "8-c4\u662f\u73b0\u4eca\u6700\u6d41\u884c\u7684\u8d70\u6cd5\u3002\u4e3b\u8981\u7684\u610f\u56fe\u662f\u4e3a\u4e86\u7ed9e4\u7684\u9ed1\u9a6c\u65bd\u52a0\u538b\u529b\u3002\u68cb\u5c40\u53ef\u4ee5\u5982\u4e0b\u7ee7\u7eed\uff1a8...Nb4 9. Be2 O-O 10. Nc3 Be6 11. Be3\u6216\u80058. .. Bg4 9. c3 f5 10. Nbd2 O-O 11-Qb3 \uff08\u68cb\u5c4034\uff09\u3002",
+                    "pl": "8. c4 jest najpopularniejszym ruchem w dzisiejszych czasach. Podstawow\u0105 ide\u0105 jest wywarcie presji na czarnego Skoczka na e4. Gra mo\u017ce by\u0107 kontynuowana przez 8. ... Sb4 9. Ge2 0-0 10. Sc3 Ge6 11. Ge3 lub 8. ... Gg4 9. c3 f5 10. Sbd2 0-0 11. Hb3 (partia 34).",
+                    "ru": "\u0425\u043e\u0434 8-c4 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u0438\u0433\u0440\u044b \u0432 \u043d\u0430\u0448\u0438 \u0434\u043d\u0438. \u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0438\u0434\u0435\u044f \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0432 \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433\u0435 \u043d\u0430 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 e4. \u0418\u0433\u0440\u0430 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0441\u044f 8...Nb4 9. Be2 O-O 10. Nc3 Be6 11. Be3) \u0438\u043b\u0438 8. .. Bg4 9. c3 f5 10. Nbd2 O-O 11-Qb3 (\u0438\u0433\u0440\u0430 34)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

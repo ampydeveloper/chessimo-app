@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(33)",
+            "zh": "Event 1"
+        },
+        "fen": "3R4\/5p1k\/1pq3p1\/2p5\/P2p3P\/3Q1PP1\/1P4K1\/4r3 b - - 0 38",
+        "moves": [
+            {
+                "move": "38... Re3 ",
+                "comment": {
+                    "pt": "Pressionando f3 e obrigando a dama contr\u00e1ria a permanecer passiva.",
+                    "en": "Pressuring f3 and forcing the enemy Queen to stay in passivity.",
+                    "de": "\u00dcbt Druck auf f3 aus und zwingt die gegnerische Dame, passiv zu bleiben.",
+                    "es": "Presionando f3 y obligando a la dama contraria a permanecer pasiva.",
+                    "zh": "\u5411f3\u65bd\u52a0\u538b\u529b\uff0c\u8feb\u4f7f\u654c\u540e\u5904\u4e8e\u88ab\u52a8\u3002",
+                    "pl": "Wywieranie presji na f3 i wymuszenie pasywno\u015bci na wrogim Hetmanie.",
+                    "ru": "\u041e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 f3 \u0438 \u043d\u0435 \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u043c\u0443 \u0424\u0435\u0440\u0437\u044e \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0438\u0433\u0440\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(6)",
+            "zh": "Event 1"
+        },
+        "fen": "4R3\/p1b2p2\/1n5p\/3k4\/5P2\/6P1\/P3K2P\/8 w - - 0 39",
+        "moves": [
+            {
+                "move": "39. Re7 ",
+                "comment": {
+                    "pt": "Para ganhar material.",
+                    "en": "In order to win material.",
+                    "de": "Um Material zu gewinnen.",
+                    "es": "Para ganar material.",
+                    "zh": "\u4e3a\u4e86\u83b7\u5f97\u5b50\u529b\u4f18\u52bf\u3002",
+                    "pl": "W celu zdobycia materia\u0142u.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(55)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b1k2r\/pp1n1ppp\/2p1p3\/q2n2B1\/1b1P4\/2N1PN2\/PP1Q1PPP\/R3KB1R w KQkq - 0 9",
+        "moves": [
+            {
+                "move": "9. Rc1 ",
+                "comment": {
+                    "pt": "\u00danica defesa para o ponto c3.",
+                    "en": "Only defense for c3.",
+                    "de": "Einzige Verteidigung f\u00fcr den Punkt c3.",
+                    "es": "\u00danica defensa para el punto c3.",
+                    "zh": "c3\u7684\u552f\u4e00\u9632\u5fa1\u3002",
+                    "pl": "Jedyna obrona dla c3.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b c3."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(41)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5k2\/5r1p\/1p2p3\/p1n5\/P1Pr2B1\/1P2R1K1\/4R3 b - - 0 43",
+        "moves": [
+            {
+                "move": "43... Rg6 ",
+                "comment": {
+                    "pt": "Cravando o bispo branco.",
+                    "en": "Pinning the white Bishop.",
+                    "de": "Fesselt den wei\u00dfen L\u00e4ufer.",
+                    "es": "Clavando el alfil blanco.",
+                    "zh": "\u7275\u5236\u767d\u8c61\u3002",
+                    "pl": "Przygwo\u017cd\u017caj\u0105c bia\u0142ego Go\u0144ca.",
+                    "ru": "\u0421\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "1",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(156)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1r2\/p4k1p\/2p2n2\/1N3p2\/3p3R\/1P2P1P1\/P4PK1\/3R4 w - - 0 31",
+        "moves": [
+            {
+                "move": "31. Rhxd4 ",
+                "comment": {
+                    "pt": "Ganhando um pe\u00e3o. A tomada de cavalo (Cxd4) seria ruim em vista de ...c5.",
+                    "en": "Winning a pawn. Capturing the Knight (Nxd4) would be bad, considering ...c5.",
+                    "de": "Gewinnt einen Bauern. Mit dem Springer zu schlagen w\u00e4re schlecht wegen ...c5.",
+                    "es": "Ganando un pe\u00f3n. La captura de caballo (Cxd4) ser\u00eda mala en vista de ...c5.",
+                    "zh": "\u8d62\u5f97\u4e00\u4e2a\u5175\u3002\u8003\u8651\u5230 ...c5\uff0c\u5403\u9a6c\uff08Nxd4\uff09\u6548\u679c\u4e0d\u597d\u3002",
+                    "pl": "Wygrywaj\u0105c piona. Wzi\u0119cie Skoczkiem (Sxd4) by\u0142oby z\u0142e, rozwa\u017caj\u0105c ... c5.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443. \u0417\u0430\u043c\u0435\u0442\u044c\u0442\u0435, \u0447\u0442\u043e \u0431\u0440\u0430\u0442\u044c \u041a\u043e\u043d\u044f (Nxd4) \u043f\u043b\u043e\u0445\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f ...c5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

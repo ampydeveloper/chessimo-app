@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(76)",
+            "zh": "Event 1"
+        },
+        "fen": "6r1\/1p2qr1k\/p2pN1pp\/P2Pnp2\/2P2R2\/1P2Q2P\/6P1\/4R2K w - - 0 35",
+        "moves": [
+            {
+                "move": "35. c5 ",
+                "comment": {
+                    "pt": "Aproveitando a instabilidade do cavalo em e5 para criar um pe\u00e3o passado.",
+                    "en": "Taking advantage of the instability of the e5-Knight to create a passed pawn.",
+                    "de": "Nutzt die unsichere Lage des Springers aus, um einen Freibauern zu schaffen.",
+                    "es": "Aprovechando la inestabilidad del caballo en e5 para crear un pe\u00f3n pasado.",
+                    "zh": "\u5229\u7528e5-\u9a6c\u7684\u4e0d\u7a33\u5b9a\u6027\u6765\u5236\u9020\u901a\u8def\u5175\u3002",
+                    "pl": "Wykorzystanie niestabilno\u015bci Skoczka e5 do stworzenia wolnego piona.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 e5 \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(107)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/1p1n2pp\/p2p1q2\/3P1pb1\/2P1P3\/2NB4\/PP2QBPP\/R4RK1 b - - 0 17",
+        "moves": [
+            {
+                "move": "17... f4 ",
+                "comment": {
+                    "pt": "Conquistando uma maioria de pe\u00f5es no flanco rei e ap\u00f3s a ocupa\u00e7\u00e3o da casa e5 com o cavalo, a jogada f3 passar\u00e1 a ser uma forte amea\u00e7a.",
+                    "en": "Conquering pawn majority on the kingside. After the Knight's occupation of e5, f3 will become a strong threat.",
+                    "de": "Erreicht eine Bauernmehrheit am K\u00f6nigsfl\u00fcgel. Nach der Besetzung des Feldes e5 durch den Springer entsteht auch die Drohung f3.",
+                    "es": "Conquistando una mayor\u00eda de peones en el flanco rey. Despu\u00e9s de la ocupaci\u00f3n de la casilla e5 con el caballo, la jugada f3 pasar\u00e1 a ser una amenaza fuerte.",
+                    "zh": "\u83b7\u5f97\u738b\u7ffc\u591a\u5175\u3002e5\u88ab\u9a6c\u5360\u636e\u4e4b\u540ef3\u4f1a\u53d8\u6210\u4e00\u4e2a\u5f3a\u5927\u7684\u5a01\u80c1\u3002",
+                    "pl": "Osi\u0105gaj\u0105c wi\u0119kszo\u015b\u0107 pion\u00f3w na skrzydle kr\u00f3lewskim. Po podbiciu pola e5 przez Skoczka, f3 stanie si\u0119 niezwykle gro\u017ane.",
+                    "ru": "\u0414\u043e\u0431\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435. \u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u041a\u043e\u043d\u044c \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 e3, f3 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u0441\u0438\u043b\u044c\u043d\u0443\u044e \u0443\u0433\u0440\u043e\u0437\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(51)",
+            "zh": "Event 1"
+        },
+        "fen": "r1r3k1\/p2bppbp\/3p1nP1\/q7\/2pNP1P1\/2N1BP2\/PPPQ4\/2KR3R b - - 0 16",
+        "moves": [
+            {
+                "move": "16... fxg6 ",
+                "comment": {
+                    "pt": "A retomada ...hxg6 preserva uma estrutura melhor, mas as pretas n\u00e3o podem permitir que a coluna h seja aberta devido a seguran\u00e7a de seu rei.",
+                    "en": "The ...hxg6 retake preserve a better pawn structure, but Black should prevent the h-file from opening, considering the safety of its King.",
+                    "de": "...hxg6 w\u00fcrde zwar die Bauernstruktur schonen aber auch die h-Linien \u00f6ffnen, was Schwarz nicht zulassen kann.",
+                    "es": "La recaptura ...hxg6 conserva una estructura mejor, pero las negras no pueden permitir que se abra la columna h, porque dejar\u00eda desprotegido el rey.",
+                    "zh": "\u53cd\u51fb...hxg\u53ef\u4ee5\u4fdd\u6301\u826f\u597d\u7684\u5175\u5f62\uff0c\u4f46\u662f\u9ed1\u68cb\u8003\u8651\u5230\u738b\u7684\u5b89\u5168\u5e94\u8be5\u963b\u6b62h-\u7ebf\u5f00\u653e\u3002",
+                    "pl": "Wzi\u0119cie ... hxg6 zachowuje lepsz\u0105 struktur\u0119 pion\u00f3w, ale Czarne powinny chroni\u0107 kolumn\u0119 h przed otwarciem bior\u0105c pod uwag\u0119 bezpiecze\u0144stwo w\u0142asnego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u044b\u0433\u0440\u044b\u0448 ...hxg6 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443, \u043d\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0435 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438, \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(108)",
+            "zh": "Event 1"
+        },
+        "fen": "2rq2rk\/1p1bbp1p\/p1Nppp2\/8\/4PP2\/2N2B2\/PPP3PP\/R2Q1R1K b - - 0 14",
+        "moves": [
+            {
+                "move": "14... bxc6 ",
+                "comment": {
+                    "pt": "Neste caso refor\u00e7ar o centro \u00e9 mais importante do que manter a coluna c aberta e evitar que o pe\u00e3o a fique isolado.",
+                    "en": "In this case reinforcing the center is more important than maintaining the c-file open or preventing the isolation of the a-pawn.",
+                    "de": "Das Zentrum zu verst\u00e4rken ist in diesem Fall wichtiger als die offene c-Linie. Au\u00dferdem wird die Entstehung eines Isolanis vermieden.",
+                    "es": "En este caso reforzar el centro es m\u00e1s importante que mantener la columna c abierta y evitar que el pe\u00f3n a quede aislado.",
+                    "zh": "\u5728\u8fd9\u4e2a\u4f8b\u5b50\u4e2d\u5de9\u56fa\u4e2d\u5fc3\u6bd4\u4fdd\u6301c-\u7ebf\u5f00\u66f4\u4e3a\u91cd\u8981\u3002\u6b64\u5916\u8fd8\u907f\u514d\u4e86\u5b64\u5175\u7684\u4ea7\u751f\u3002",
+                    "pl": "W tym przypadku wzmocnienie centrum jest bardziej istotne ni\u017c utrzymanie otwartej kolumny c lub uniemo\u017cliwienie izolacji piona a.",
+                    "ru": "\u0412 \u044d\u0442\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435, \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u0435 \u0446\u0435\u043d\u0442\u0440\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0435\u0439, \u0447\u0435\u043c \u0443\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u0435 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439, \u043a\u0430\u043a \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(16)",
+            "zh": "Event 1"
+        },
+        "fen": "3rr1k1\/1b1n1ppp\/5n2\/3p1BB1\/1bpN4\/2N1P3\/1P3PPP\/2RR2K1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Bxd7 ",
+                "comment": {
+                    "pt": "Destruindo a estrutura de pe\u00f5es pretos na ala do rei, j\u00e1 que, depois da retomada ...Txd7, as brancas jogar\u00e3o Bxf6.",
+                    "en": "Destroying the black pawn structure on the kingside, since after recapture ...Rxd7, White will play Bxf6.",
+                    "de": "Zerst\u00f6rt die schwarze Bauernstruktur am K\u00f6nigsfl\u00fcgel, da auf ...Txd7 Wei\u00df Lxf6 spielt.",
+                    "es": "Destruyendo la estructura de peones negros en el ala rey, ya que, despu\u00e9s de la recaptura ...Txd7, las blancas jugar\u00e1n Axf6.",
+                    "zh": "\u6467\u6bc1\u738b\u7ffc\u9ed1\u5175\u7684\u5175\u5f62\uff0c\u56e0\u4e3a\u4e0b...Rxd7\uff0c\u9ed1\u65b9\u4f1a\u5e94Bxf6\u3002",
+                    "pl": "Niszcz\u0105c czarn\u0105 struktur\u0119 pion\u00f3w na skrzydle kr\u00f3lewskim z uwagi, \u017ce po wzi\u0119ciu ... Wxd7, Bia\u0142e powinny zagra\u0107 Gxf6.",
+                    "ru": "\u0420\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0427\u0435\u0440\u043d\u044b\u0445, \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u043e\u0441\u043b\u0435 \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0430 ...Rxd7, \u0411\u0435\u043b\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c Bxf6."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

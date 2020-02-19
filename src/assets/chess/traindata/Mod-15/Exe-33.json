@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(23)",
+            "zh": "Event 1"
+        },
+        "fen": "qnb2rk1\/2p2ppp\/3p1b2\/2nPp3\/4P2P\/2P2NN1\/2B2PP1\/2BQR1K1 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Ng5 ",
+                "comment": {
+                    "pt": "Iniciando o ataque ao flanco do rei e amea\u00e7ando Dh5.",
+                    "en": "Starting the kingside attack and threatening Qh5.",
+                    "de": "Leitet einen Angriff auf den K\u00f6nigsfl\u00fcgel ein und droht Dh5.",
+                    "es": "Iniciando el ataque al flanco rey y amenazando Dh5.",
+                    "zh": "\u5f00\u59cb\u8fdb\u653b\u738b\u7ffc\u5e76\u5a01\u80c1Qh5\u3002",
+                    "pl": "Rozpocz\u0119cie ataku na skrzydle kr\u00f3lewskim i gro\u017aba Hh5.",
+                    "ru": "\u041d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 Qh5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(99)",
+            "zh": "Event 1"
+        },
+        "fen": "4rr1k\/1ppb3p\/2q1n1p1\/p7\/3b4\/1BP1B3\/PP3PP1\/2KR1Q1R w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Rxd4 ",
+                "comment": {
+                    "pt": "Mantendo o bispo de casas pretas e ao mesmo tempo amea\u00e7ando dobrar as torres na coluna h.",
+                    "en": "Keeping the dark-squared Bishop and, at the same time, threatening to double Rooks in the h-file.",
+                    "de": "Beh\u00e4lt den schwarzfeldrigen L\u00e4ufer und droht, die T\u00fcrme auf der h-Linie zu verdoppeln.",
+                    "es": "Manteniendo el alfil de casillas negras y amenazando al mismo tiempo doblar las torres en la columna h.",
+                    "zh": "\u4fdd\u5b58\u9ed1\u683c\u8c61\uff0c\u540c\u65f6\u5a01\u80c1\u5728h-\u7ebf\u53d6\u5f97\u53cc\u8f66\u3002",
+                    "pl": "Zachowanie ciemnopolowego Go\u0144ca i w tym samym czasie zagro\u017cenie zdublowaniem Wie\u017c na kolumnie h.",
+                    "ru": "\u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438, \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0441 \u044d\u0442\u0438\u043c, \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u043d\u0438\u044e \u041b\u0430\u0434\u0435\u0439 \u043d\u0430 h-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(93)",
+            "zh": "Event 1"
+        },
+        "fen": "4rr1k\/1ppb2bp\/2q1n1p1\/p3p3\/8\/1BPPBN2\/PP3PP1\/2KR1Q1R w - - 0 21",
+        "moves": [
+            {
+                "move": "21. d4 ",
+                "comment": {
+                    "pt": "Abrindo linhas para o ataque e amea\u00e7ando d5.",
+                    "en": "Opening lines for the attack and threatening d5.",
+                    "de": "\u00d6ffnet Linien f\u00fcr den Angriff und droht d5.",
+                    "es": "Abriendo l\u00edneas para el ataque y amenazando d5.",
+                    "zh": "\u5f00\u653e\u8def\u7ebf\u4ee5\u4fbf\u8fdb\u653b\u5e76\u4e14\u5a01\u80c1d5\u3002",
+                    "pl": "Otwarcie linii dla ataku i gro\u017aba d5.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(108)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rn1\/1p3p1k\/p2p2pp\/2pPq3\/P3P3\/R1N4P\/1P3PP1\/1B1QR1K1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. a5 ",
+                "comment": {
+                    "pt": "Fixando a estrutura de pe\u00f5es no flanco da dama e garantindo o dom\u00ednio da casa b6, que poder\u00e1 ser usada , no futuro, pela torre ou pelo cavalo.",
+                    "en": "Fixing the pawn structure on the queenside and ensuring the b6 dominance, which may be used in the future by the white Rook or Knight.",
+                    "de": "Fixiert die Bauernstruktur am Damenfl\u00fcgel und sichert sich die Kontrolle \u00fcber das Feld b6, das vom Turm oder Springer besetzt werden kann.",
+                    "es": "Fijando la estructura de peones en el flanco dama y asegurando el dominio de la casilla b6, que podr\u00e1 ser usada, en el futuro, por la torre o por el caballo.",
+                    "zh": "\u4fee\u590d\u5728\u738b\u7ffc\u7684\u5175\u5f62\u5e76\u4e14\u786e\u4fddb6\u7684\u7edf\u6cbb\uff0c\u6b64\u5904\u4ee5\u540e\u53ef\u80fd\u88ab\u8f66\u6216\u9a6c\u5229\u7528\u3002",
+                    "pl": "Naprawa struktury pion\u00f3w na skrzydle hetma\u0144skim i zapewnienie dominacji b6, co mo\u017ce zosta\u0107 u\u017cyte w przysz\u0142o\u015bci przez bia\u0142\u0105 Wie\u017c\u0119 lub Skoczka.",
+                    "ru": "\u0423\u043a\u0440\u0435\u043f\u043b\u044f\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 b6, \u0447\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u043e \u0432 \u0431\u0443\u0434\u0443\u0449\u0435\u043c \u0431\u0435\u043b\u043e\u0439 \u041b\u0430\u0434\u044c\u0435\u0439 \u0438\u043b\u0438 \u041a\u043e\u043d\u0435\u043c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(48)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq2k1\/2p2r2\/3p1nnb\/P2Pp1pp\/PN2Pp2\/2N2P1P\/4BBP1\/R2Q1RK1 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... g4 ",
+                "comment": {
+                    "pt": "Abrindo linhas para atacar o rei branco.",
+                    "en": "Opening lines in order to attack the white King.",
+                    "de": "\u00d6ffnet Linien, um den wei\u00dfen K\u00f6nig anzugreifen.",
+                    "es": "Abriendo l\u00edneas para atacar el rey blanco.",
+                    "zh": "\u5f00\u653e\u7ebf\u8def\u4e3a\u4e86\u653b\u51fb\u767d\u738b\u3002",
+                    "pl": "Otwarcie linii w celu ataku na bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

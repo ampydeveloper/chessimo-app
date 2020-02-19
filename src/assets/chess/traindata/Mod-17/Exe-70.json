@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Abertura Inglesa",
+        "white_sort": "",
+        "black": "Sistemas com  ...Cf6...e6",
+        "date": "",
+        "event": {
+            "en": "Sistems with ...Nf6...e6",
+            "de": "Systeme mit ...Cf6...e6",
+            "es": "Sistemas con...Cf6...e6",
+            "pt": "Sistemas com  ...Cf6...e6",
+            "zh": "...Nf6...e6\u4f53\u7cfb",
+            "pl": "Systemy ... Sf6 ... e6",
+            "ru": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 ...Nf6...e6"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. c4 Nf6 2. Nc3 e6 3. Nf3 ",
+                "comment": {
+                    "pt": "3-e4 tamb\u00e9m \u00e9 poss\u00edvel e ocorre nas partidas 784 e 785, onde as pretas responderam corretamente com 3...d5.",
+                    "en": "3-e4 is another possibility presented in games 784 and 785 where Black answers correctly with 3...d5.",
+                    "es": "3-e4 tambi\u00e9n es posible y ocurre en las partidas 784 y 785, donde las negras respondieron correctamente con 3...d5.",
+                    "de": "3. e4 ist auch m\u00f6glich und geschieht in den Partien 784 und 785, in denen Schwarz richtig 3...d5 spielte.",
+                    "zh": "3-e4\u662f\u53e6\u5916\u4e00\u4e2a\u53ef\u80fd\uff0c\u9ed1\u65b9\u6b63\u786e\u8d70\u6cd5\u662f3...d5\uff0c\u5728\u68cb\u5c40784\u548c785\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "3. e4 jest kolejn\u0105 mo\u017cliwo\u015bci\u0105 prezentowan\u0105 w partiach 784 i 785, gdzie Czarne odpowiedzia\u0142y poprawnie przez 3. ... d5.",
+                    "ru": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 3-e4 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 784 \u0438 785, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 3...d5."
+                }
+            },
+            {
+                "move": "   Bb4 ",
+                "comment": {
+                    "pt": "Ap\u00f3s 3...d5 pode haver uma transposi\u00e7\u00e3o ao gambito da dama, se as brancas jogarem 4-d4. Uma forma de evitar a transposi\u00e7\u00e3o \u00e9 seguir no esp\u00edrito da abertura inglesa e jogar 4-e3, seguido de 5-b3, como ocorreu nas partidas 787 e 788. 3...c5 (partida 786) e 3. ..b6 (partida 798) tamb\u00e9m s\u00e3o poss\u00edveis.",
+                    "en": "After 3...d5 there can be a transposition to the Queen's gambit if White plays 4-d4. One way to prevent it is to follow the spirit of the English opening and play 4-e3 followed by 5-b3, as in games 787 and 788. 3. ..c5 (game 786) and 3...b6 (game 798) are also possible.",
+                    "es": "Despu\u00e9s de  3.. .d5 puede haber una transposici\u00f3n al Gambito de Dama, si las blancas juegan 4-d4. Una forma de evitar la transposici\u00f3n es seguir en el esp\u00edritu de la Apertura Inglesa y jugar 4-e3, seguido de 5-b3, como ocurri\u00f3 en las partidas 787 y 788. 3...c5 (partida 786) y 3...b6 (partida 798) tambi\u00e9n son posibles.",
+                    "de": "Nach 3...d5 kann Wei\u00df mit 4. d4 ins Damengambit \u00fcbergehen oder aber die Partie mit 4. e3 nebst 5. b3 im Sinne der Englischen Er\u00f6ffnung fortsetzen, wie es in den Partien 787 und 788 geschah. 3...c5 (Partie Nr. 786) und 3...b6 (Partie Nr. 798) sind weitere M\u00f6glichkeiten.",
+                    "zh": "\u8d703...d5\u4e4b\u540e\u5982\u679c\u767d\u65b9\u8d704-d4\u53ef\u4ee5\u53d8\u6362\u4e3a\u540e\u7ffc\u5f03\u5175\u3002\u6709\u4e00\u4e2a\u963b\u6b62\u7684\u65b9\u6cd5\u662f\u8ffd\u968f\u82f1\u56fd\u5f0f\u5f00\u5c40\u7684\u7cbe\u795e\u8d704-e3\u968f\u540e\u8ddf5-b3\uff0c\u89c1\u68cb\u5c40787\u548c788\u30023. ..c5\uff08\u68cb\u5c40786\uff09\u548c3...b6 \uff08\u68cb\u5c40798\uff09\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Po 3. ... d5 partia mo\u017ce zosta\u0107 transponowana do hetma\u0144skiego gambitu je\u015bli Bia\u0142e zagraj\u0105 4. D4. Jedn\u0105 z dr\u00f3g unikni\u0119cia tego jest pod\u0105\u017canie z duchem partii angielskiej i zagranie 4. e3 kontynuowane przez 5. b3, jak w partiach 787 i 788. 3. ... c5 (786) oraz 3. ... b6 (798) s\u0105 r\u00f3wnie\u017c mo\u017cliwe.",
+                    "ru": "\u041f\u043e\u0441\u043b\u0435 3...d5, \u0438\u0433\u0440\u0430 \u043c\u043e\u0436\u0435\u0442 \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0424\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0433\u0430\u043c\u0431\u0438\u0442, \u0435\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0441\u044b\u0433\u0440\u0430\u044e\u0442 4-d4. \u041e\u0434\u0438\u043d \u0438\u0437 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u044d\u0442\u043e \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c, \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0434\u0443\u0445\u0443 \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0434\u0435\u0431\u044e\u0442\u0430 \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c 4-e3, \u0447\u0435\u043c\u0443 \u0441\u043b\u0435\u0434\u0443\u0435\u0442 5-b3, \u043a\u0430\u043a \u0432 \u0438\u0433\u0440\u0430\u0445 787 \u0438 788. \u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b \u0438 \u0442\u0430\u043a\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: 3...c5 (\u0438\u0433\u0440\u0430 786) \u0438 3...b6 (\u0438\u0433\u0440\u0430 798)."
+                }
+            },
+            {
+                "move": "   4. g3 ",
+                "comment": {
+                    "pt": "4-Dc2 para jogar a3 e retomar em c3 de dama , ocorreu na partida 799.",
+                    "en": "Game 799 presents 4-Qc2 intending a3 and retaking on c3 with the Queen.",
+                    "es": "4-Dc2, para jugar a3 y retomar en c3 con la dama, ocurri\u00f3 en la partida 799.",
+                    "de": "4. Dc2, mit der Idee, a3 zu spielen und mit der Dame auf c3 zur\u00fcckzuschlagen, geschah  in der Partie Nr. 799.",
+                    "zh": "\u68cb\u5c40799\u4e2d\u8d70\u76844-Qc2 \uff0c\u76ee\u7684\u662fa3\u5e76\u4e14\u7528\u540e\u91cd\u65b0\u593a\u56dec3\u3002",
+                    "pl": "Partia 799 prezentuje 4. Hc2 z zamiarem a3 oraz odbiorem na c3 przez Hetmana.",
+                    "ru": "\u0418\u0433\u0440\u0430 799 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 4-Qc2, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c a3 \u0438 \u043e\u0442\u044b\u0433\u0440\u044b\u0448\u0430 c3 \u0424\u0435\u0440\u0437\u0435\u043c."
+                }
+            },
+            {
+                "move": "   b6 5. Bg2 Bb7 6. O-O ",
+                "comment": {
+                    "pt": "6-d3 para seguir com e4, ocorreu na partida 796.",
+                    "en": "Game 796 presents 6-d3 intending e4.",
+                    "es": "6-d3, para seguir con e4, ocurri\u00f3 en la partida 796.",
+                    "de": "6. d3, um mit e4 fortzusetzen, geschah in der Partie Nr. 796.",
+                    "zh": "\u68cb\u5c40796\u4ecb\u7ecd\u4e866-d3\u76ee\u7684\u662fe4\u7684\u8d70\u6cd5\u3002",
+                    "pl": "Partia 796 prezentuje 6. d3 z zamiarem e4.",
+                    "ru": "\u0418\u0433\u0440\u0430 796 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 6-d3, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c e4."
+                }
+            },
+            {
+                "move": "   O-O 7. Qc2 ",
+                "comment": {
+                    "pt": "As brancas ainda n\u00e3o definiram como v\u00e3o ocupar o centro (e4 ou d4) e as pretas t\u00eam op\u00e7\u00f5es como ...c5 e d5. A partida Timman-Karpov (789) seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "White still hasn't determined whether it occupies the center with e4 or d4 and Black has options like: ...c5 and d5. Timman-Karpov (game 789) continues from this position on.",
+                    "es": "Las blancas todav\u00eda no definieron c\u00f3mo van a ocupar el centro (e4 o d4) y las negras tienen opciones como ...c5 y d5. La partida Timman-Karpov (789) sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Wei\u00df hat noch nicht entschieden, wie er das Zentrum besetzen wird (e4 oder d4); seinerseits hat Schwarz verschiedene M\u00f6glichkeiten wie ...c5 und d5. Die Partie Timman - Karpow (Nr. 789) ist ein Beispiel f\u00fcr diese Stellung.",
+                    "zh": "\u767d\u65b9\u8fd8\u6ca1\u6709\u786e\u5b9a\u662f\u5426\u7528e4\u6216\u8005d4\u6765\u5360\u636e\u4e2d\u5fc3\uff0c\u9ed1\u65b9\u6709\u5982\u4e0b\u9009\u62e9\uff1ac5\u548cd5\u3002Timman\u5bf9\u5361\u5c14\u6ce2\u592b\u7684\u68cb\u5c40\uff08\u68cb\u5c40789\uff09\u662f\u8fd9\u4e2a\u5c40\u9762\u7684\u5178\u578b\u4f8b\u5b50\u3002",
+                    "pl": "Bia\u0142e wci\u0105\u017c nie zadecydowa\u0142y czy b\u0119d\u0105 okupowa\u0107 centrum przez e4 lub d4, za\u015b Czarne posiadaj\u0105 takie oto opcje: ... c5 oraz d5. Timman \u2013 Karpow (partia 789) kontynuuje z tej pozycji.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 \u043d\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u043b\u0438\u0441\u044c \u043a\u0430\u043a \u0438\u043c \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440, \u0438\u0433\u0440\u043e\u0439 e4 \u0438\u043b\u0438 d4, \u0430 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445 \u0435\u0441\u0442\u044c \u0442\u0430\u043a\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: ...c5 \u0438 d5. \u041f\u0430\u0440\u0442\u0438\u044f \u0422\u0438\u043c\u043c\u0430\u043d-\u041a\u0430\u0440\u043f\u043e\u0432 (\u0438\u0433\u0440\u0430 789) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

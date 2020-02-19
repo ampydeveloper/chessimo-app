@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262017370061",
+    "firebase_url": "https://chessimo-14308.firebaseio.com",
+    "project_id": "chessimo-14308",
+    "storage_bucket": "chessimo-14308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262017370061:android:7972e05e81f88495dc2684",
+        "android_client_info": {
+          "package_name": "de.chessimo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262017370061-ktfp0813ud10ic3ffmk6km06optre4sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANA1kcvZX3ve9c9gYnK6Y5Usw8J20Yk3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262017370061-ktfp0813ud10ic3ffmk6km06optre4sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

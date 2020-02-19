@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkbnr\/pp2pppp\/2p5\/3P4\/3P4\/8\/PPP2PPP\/RNBQKBNR b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... cxd5 ",
+                "comment": {
+                    "pt": "Mantendo o equil\u00edbrio central e liberando a casa c6 para o desenvolvimento do cavalo. A jogada ....Dxd5 seria ruim por permitir que as brancas ganhem um tempo atacando a dama com Cc3 e aumentem seu dom\u00ednio central.",
+                    "en": "Maintaining central balance and leaving c6 open for the Knight's development. ....Qxd5 would be a bad choice, because it would allow White to get time to attack the Queen with Nc3 and increase its central domain.",
+                    "es": "Manteniendo el equilibrio central y liberando a casilla c6 para desarrolar el caballo. La jugada ....Dxd5 ser\u00eda mala por permitir que las blancas ganen un tiempo atacando la dama con Cc3 y aumenten su dominio central.",
+                    "de": "H\u00e4lt das Gleichgewicht im Zentrum aufrecht und r\u00e4umt das Feld c6 f\u00fcr den Springer auf b8. 1....Dxd5 w\u00e4re schlecht, weil er 2. Sc3 zul\u00e4sst, was die Dame mit Tempogewinn angreift und die wei\u00dfe Zentralstellung verst\u00e4rkt.",
+                    "zh": "\u4fdd\u6301\u4e2d\u5fc3\u5e73\u8861\uff0c\u817e\u51fac6\u4e3a\u9a6c\u7684\u51fa\u52a8\u6253\u5f00\u901a\u8def\u3002....Qxd5\u662f\u4e00\u4e2a\u7cdf\u7cd5\u7684\u9009\u62e9\uff0c\u56e0\u4e3a\u4f1a\u8ba9\u767d\u65b9\u6709\u673a\u4f1a\u7528Nc3\u653b\u51fb\u9ed1\u540e\uff0c\u5e76\u589e\u5f3a\u5bf9\u4e2d\u5fc3\u7684\u63a7\u5236\u3002",
+                    "ru": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0431\u0430\u043b\u0430\u043d\u0441 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u043f\u043e\u043b\u0435 c6 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u041a\u043e\u043d\u044f. \u0425\u043e\u0434 ...Qxd5 \u0431\u0443\u0434\u0435\u0442 \u043f\u043b\u043e\u0445\u0438\u043c \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044d\u0442\u043e \u0434\u0430\u0441\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0424\u0435\u0440\u0437\u044f \u043d\u0430 Nc3 \u0438 \u0443\u0441\u0438\u043b\u0438\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u0441\u0442\u0432\u043e.",
+                    "pl": "Utrzymanie balansu centrum i uwolnienie c6 dla wyprowadzenia Skoczka. ... Hxd5 jest z\u0142ym wyborem, poniewa\u017c pozwala Bia\u0142ym uzyska\u0107 potrzebny czas do ataku Hetmana poprzez Sc3 i zwi\u0119kszy\u0107 dominacj\u0119 w centrum."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/pp2pppp\/3p1n2\/8\/3NP3\/8\/PPP2PPP\/RNBQKB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. Nc3 ",
+                "comment": {
+                    "pt": "Defendendo o pe\u00e3o e ao mesmo tempo desenvolvendo uma pe\u00e7a atuante no centro.",
+                    "en": "Defending the pawn and, at the same time, developing a piece with central action.",
+                    "es": "Defendiendo el pe\u00f3n y al mismo tiempo desarrollando una pieza activa en el centro.",
+                    "de": "Verteidigt den Bauern und entfesselt eine Figur, die im Zentrum aktiv sein wird.",
+                    "zh": "\u9632\u5fa1\u5175\u7684\u540c\u65f6\u51fa\u52a8\u4e00\u4e2a\u80fd\u5728\u4e2d\u5fc3\u79ef\u6781\u6d3b\u52a8\u7684\u68cb\u5b50\u3002",
+                    "ru": "\u0417\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443 \u0434\u043b\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435.",
+                    "pl": "Obrona piona oraz jednocze\u015bnie wyprowadzenie figury do centrum."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkbnr\/pp2pppp\/2np4\/8\/3QP3\/5N2\/PPP2PPP\/RNB1KB1R w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. Bb5 ",
+                "comment": {
+                    "pt": "Desenvolvendo uma pe\u00e7a , preparando o roque e defendendo a dama que estava atacada.",
+                    "en": "Developing a piece, preparing for castling and defending the Queen that was under attack.",
+                    "es": "Desarrollando una pieza, preparando el enroque y defendiendo la dama que estaba atacada.",
+                    "de": "Entwickelt eine Figur, bereitet die Rochade vor und verteidigt die angegriffene Dame.",
+                    "zh": "\u51fa\u52a8\u5b50\u529b\uff0c\u51c6\u5907\u738b\u8f66\u6613\u4f4d\uff0c\u9632\u5fa1\u6b63\u5728\u88ab\u653b\u51fb\u7684\u540e\u3002",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443, \u043f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a \u0440\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0435 \u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u043b\u0441\u044f \u043f\u043e\u0434 \u0430\u0442\u0430\u043a\u043e\u0439.",
+                    "pl": "Wyprowadzenie figury, przygotowanie do roszady i obrona b\u0119d\u0105ce pod atakiem Hetmana."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rnbqkb1r\/ppp2ppp\/4pn2\/3p4\/3PP3\/8\/PPPN1PPP\/R1BQKBNR w KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1. e5 ",
+                "comment": {
+                    "pt": "Ganhando espa\u00e7o no centro e expulsando o cavalo contr\u00e1rio.",
+                    "en": "Winning space in the center and chasing the opponent's Knight away.",
+                    "es": "Ganando espacio en el centro y expulsando al caballo adversario.",
+                    "de": "Gewinnt Raum im Zentrum und vertreibt den gegnerischen Springer.",
+                    "zh": "\u8d62\u53d6\u4e2d\u5fc3\u7a7a\u95f4\uff0c\u5c06\u5bf9\u624b\u9a6c\u9a71\u8d76\u51fa\u4e2d\u5fc3\u3002",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u043e\u0442\u0442\u0435\u0441\u043d\u044f\u0435\u0442 \u041a\u043e\u043d\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430.",
+                    "pl": "Zdobywaj\u0105c przestrze\u0144 w centrum i przeganiaj\u0105c Skoczka."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "centro",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk2r\/pppp1ppp\/2n2n2\/2b5\/2BPP3\/5N2\/PP3PPP\/RNBQK2R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Bb4+ ",
+                "comment": {
+                    "pt": "Esta pe\u00e7a estava atacada e desta forma as pretas a defendem com ganho de tempo, uma vez que estao dando x\u00e9que. Tamb\u00e9m \u00e9 importante evitar, ao menos temporariamente, que os pe\u00f5es brancos avan\u00e7em e ataquem os cavalos pretos.",
+                    "en": "This piece was under attack and with this move it is defended with time advantage, due to check that temporarily prevents white pawns from attacking the black Knights.",
+                    "es": "Esta pieza estaba atacada y de esta forma las negras la defienden con ganancia de tiempo, ya que est\u00e1n dando jaque. Tambi\u00e9n es importante evitar, al menos temporariamente, que los peones blancos avancen y ataquen los caballos negros.",
+                    "de": "Verteidigt die angegriffene Figur mit Tempogewinn (Schachgebot). Andererseits ist es auch wichtig, das Vorr\u00fccken der wei\u00dfen Bauern zu verhindern (auch wenn nur zeitweilig), die die schwarzen Springer angreifen w\u00fcrden.",
+                    "zh": "\u9632\u5fa1\u8fd9\u4e2a\u6b63\u5728\u88ab\u653b\u51fb\u7684\u68cb\u5b50\uff0c\u8fd9\u4e48\u8d70\u53ef\u4ee5\u5c06\u6740\u5360\u7684\u5148\u624b\u3002\u53e6\u5916\u975e\u5e38\u91cd\u8981\u7684\u662f\u53ef\u4ee5\uff08\u6216\u6682\u65f6\uff09\u963b\u6b62\u767d\u5175\u633a\u8fdb\u5e76\u653b\u51fb\u9ed1\u9a6c\u3002",
+                    "ru": "\u042d\u0442\u0430 \u043f\u0435\u0448\u043a\u0430 \u0431\u044b\u043b\u0430 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d\u0430, \u0430 \u043f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0434 \u0437\u0430\u0449\u0438\u0442\u043e\u0439. \u0428\u0430\u0445 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u0445 \u043e\u0442 \u043d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u044f \u043d\u0430 \u0447\u0435\u0440\u043d\u044b\u0445 \u041a\u043e\u043d\u0435\u0439.",
+                    "pl": "Figura by\u0142a pod atakiem, wi\u0119c tym sposobem zosta\u0142a obroniona z przewag\u0105 czasow\u0105 dzi\u0119ki szachowi, kt\u00f3ry tymczasowo powstrzymuje bia\u0142e piony przed atakiem czarnych Skoczk\u00f3w."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

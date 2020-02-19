@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(44)",
+            "zh": "Event 1"
+        },
+        "fen": "2k5\/2r1bp2\/pq1np1pp\/1p1p4\/3P1N2\/PP2P3\/4QPPP\/1B3RK1 w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Nd3 ",
+                "comment": {
+                    "pt": "Com o objetivo de colocar o cavalo num posto avan\u00e7ado (e5 ou c5).",
+                    "en": "Aiming to place the Knight on an outpost (e5 or c5).",
+                    "de": "Beabsichtigt, den Springer auf einen Vorposten (entweder e5 oder c5) zu stellen.",
+                    "es": "Con el objetivo de colocar el caballo en un puesto avanzado (e5 o c5).",
+                    "zh": "\u76ee\u7684\u662f\u8ba9\u9a6c\u5904\u5728\u524d\u54e8\u3002",
+                    "pl": "W celu umieszczenia Skoczka na plac\u00f3wce (e5 lub c5).",
+                    "ru": "\u0421\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c \u0444\u043e\u0440\u043f\u043e\u0441\u0442 (e5 \u0438\u043b\u0438 c5)."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(65)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/1pqbbppp\/p1nppn2\/8\/3NPP2\/2N1B3\/PPP1B1PP\/R3QR1K w - - 0 12",
+        "moves": [
+            {
+                "move": "12. Qg3 ",
+                "comment": {
+                    "pt": "Apoiando o avan\u00e7o de e5 e levando a dama para atacar no flanco do rei.",
+                    "en": "Supporting the e5 advance and taking the Queen to a kingside attack.",
+                    "de": "Unterst\u00fctzt den Vorsto\u00df e5 und bringt die Dame zum Angriff auf den K\u00f6nigsfl\u00fcgel.",
+                    "es": "Apoyando el avance de e5 y llevando a la dama para atacar en el flanco rey.",
+                    "zh": "\u652f\u6301e5\u524d\u8fdb\uff0c\u8ba9\u540e\u6295\u5165\u738b\u7ffc\u7684\u6218\u6597\u4e2d\u3002",
+                    "pl": "Wsparcie marszu na e5 i przyst\u0105pienie Hetmana do ataku na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 e5 \u0438 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u0442 \u0424\u0435\u0440\u0437\u044f \u043d\u0430 \u0430\u0442\u0430\u043a\u0443\u0435\u043c\u044b\u0439 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(3)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q2k1\/pp1b1r1p\/3p2n1\/3Pp2n\/4P3\/3NbP2\/PPRNB1PB\/2R1Q2K b - - 0 26",
+        "moves": [
+            {
+                "move": "26... Qg5 ",
+                "comment": {
+                    "pt": "Trazendo a dama para o ataque e abrindo caminho para a torre de a8.",
+                    "en": "Bringing in the Queen for the attack and opening the way for the a8-Rook.",
+                    "de": "Bringt die Dame zum Angriff und l\u00e4sst die Grundreihe f\u00fcr den Turm auf 8 frei.",
+                    "es": "Trayendo a la dama al ataque y abri\u00e9ndole camino a la torre de a8.",
+                    "zh": "\u5c06\u540e\u6295\u5165\u6218\u6597\uff0c\u7ed9a8-\u8f66\u626b\u6e05\u8def\u7ebf\u3002",
+                    "pl": "Sprowadzenie Hetmana z posi\u0142k\u00f3w do ataku i otwarcie drogi dla Wie\u017cy a8.",
+                    "ru": "\u041f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442 \u0424\u0435\u0440\u0437\u044f \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0443\u0442\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438 a8."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(123)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/1p2bppp\/p1n1pn2\/8\/P1BP4\/2N2N2\/1P2QPPP\/R1BR2K1 b - - 0 11",
+        "moves": [
+            {
+                "move": "11... Nb4 ",
+                "comment": {
+                    "pt": "Para ocupar a casa d5.",
+                    "en": "In order to occupy d5.",
+                    "de": "Um das Feld d5 zu besetzen.",
+                    "es": "Para ocupar la casilla d5.",
+                    "zh": "\u4e3a\u4e86\u5360\u636ed5\u3002",
+                    "pl": "W celu okupacji d5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c d5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(32)",
+            "zh": "Event 2"
+        },
+        "fen": "4rbk1\/2nq2p1\/5p1p\/B1p2P2\/2P2N2\/1Q6\/1P4PP\/4R2K w - - 0 40",
+        "moves": [
+            {
+                "move": "40. Rd1 ",
+                "comment": {
+                    "pt": "Mantendo a torre em jogo e aproveitando a pouca mobilidade da dama negra, que est\u00e1 atada a defesa do cavalo.",
+                    "en": "Keeping the Rook in the game and taking advantage of the poor mobility of the black Queen, busy defending the Knight.",
+                    "de": "Vermeidet den Abtausch und nutzt die geringe Bewegungsfreiheit der schwarzen Dame, die an die Verteidigung des Springers gebunden ist.",
+                    "es": "Manteniendo la torre en juego y aprovechando la poca movilidad de la dama negra, que est\u00e1 atada a la defensa del caballo.",
+                    "zh": "\u907f\u514d\u5151\u6362\u8f66\uff0c\u5145\u5206\u5229\u7528\u9ed1\u540e\u5fd9\u4e8e\u9632\u5fa1\u9a6c\u800c\u5bfc\u81f4\u7684\u673a\u52a8\u6027\u5dee\u3002",
+                    "pl": "Zatrzymanie Wie\u017cy w grze i wykorzystanie s\u0142abej mobilno\u015bci czarnego Hetmana, zaj\u0119tego obron\u0105 Skoczka.",
+                    "ru": "\u0412\u0432\u043e\u0434\u0438\u0442 \u041b\u0430\u0434\u044c\u044e \u0432 \u0438\u0433\u0440\u0443 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043f\u043b\u043e\u0445\u0443\u044e \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u043d\u044f\u0442 \u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

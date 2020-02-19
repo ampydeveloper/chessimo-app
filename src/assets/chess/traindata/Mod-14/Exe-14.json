@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(49)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/4bppp\/p2p1n2\/npp1p3\/4P3\/2P2N1P\/PPBP1PP1\/RNBQR1K1 w - - 0 11",
+        "moves": [
+            {
+                "move": "11. d4 ",
+                "comment": {
+                    "pt": "Ocupando o centro e abrindo linhas para o desenvolvimento.",
+                    "en": "Occupying the center and opening lines for development.",
+                    "de": "Besetzt das Zentrum und \u00f6ffnet Linien und die Diagonale f\u00fcr die Entwicklung der Figuren.",
+                    "es": "Ocupando el centro y abriendo l\u00edneas para el desarrollo.",
+                    "zh": "\u5360\u636e\u4e2d\u5fc3\uff0c\u5f00\u653e\u8def\u7ebf\u4fbf\u4e8e\u51fa\u5b50\u3002",
+                    "pl": "Okupacja centrum i otwarcie linii dla wyprowadzenia figur.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(32)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pppq1ppp\/2n5\/3p4\/1b1P4\/3QB3\/PPP1NPPP\/R4RK1 b - - 0 12",
+        "moves": [
+            {
+                "move": "12... Rfe8 ",
+                "comment": {
+                    "pt": "Ocupando a coluna aberta.",
+                    "en": "Occupying the open file.",
+                    "de": "Besetzt die \u00f6ffnene Linie.",
+                    "es": "Ocupando la columna abierta.",
+                    "zh": "\u5360\u636e\u5f00\u653e\u7ebf\u3002",
+                    "pl": "Okupacja otwartej kolumny.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043e\u0442\u043a\u0440\u044b\u0442\u0443\u044e \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(26)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pp2bppp\/2npbn2\/8\/4Pp2\/1NN5\/PPP1B1PP\/R1BQ1R1K w - - 0 11",
+        "moves": [
+            {
+                "move": "11. Bxf4 ",
+                "comment": {
+                    "pt": "Recuperando o pe\u00e3o e desenvolvendo uma pe\u00e7a.",
+                    "en": "Retaking the pawn and developing a piece.",
+                    "de": "Gewinnt den Bauern zur\u00fcck und entwickelt eine Figur.",
+                    "es": "Recuperando el pe\u00f3n y desarrollando una pieza.",
+                    "zh": "\u593a\u56de\u5175\u5e76\u51fa\u4e00\u4e2a\u5b50\u3002",
+                    "pl": "Odzyskanie piona i wyprowadzenie figury.",
+                    "ru": "\u041e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0444\u0438\u0433\u0443\u0440\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(14)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/ppp2ppp\/2np4\/2b5\/2BpP3\/2P2N2\/P4PPP\/RNBQ1RK1 w kq - 0 8",
+        "moves": [
+            {
+                "move": "8. cxd4 ",
+                "comment": {
+                    "pt": "Consolidando o dom\u00ednio do centro, ganhando um pe\u00e3o e atacando o bispo contr\u00e1rio.",
+                    "en": "Consolidating the central dominance, winning a pawn and attacking the opposite Bishop.",
+                    "de": "Konsolidiert die Beherrschung vom Zentrum, gewinnt einen Bauern zur\u00fcck und greift den gegnerischen L\u00e4ufer an.",
+                    "es": "Consolidando el dominio del centro, ganando un pe\u00f3n y atacando el alfil contrario.",
+                    "zh": "\u5de9\u56fa\u5bf9\u4e2d\u5fc3\u7684\u7edf\u6cbb\uff0c\u5403\u5175\uff0c\u653b\u51fb\u654c\u8c61\u3002",
+                    "pl": "Konsolidacja centralnej dominacji, wygranie piona i atak na Go\u0144ca przeciwnika.",
+                    "ru": "\u041a\u043e\u043d\u0441\u043e\u043b\u0438\u0434\u0438\u0440\u0443\u0435\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0438 \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(52)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/1p1n2pp\/p2p1q2\/3P2b1\/2P1Pp2\/2NB4\/PP2QBPP\/R4R1K b - - 0 18",
+        "moves": [
+            {
+                "move": "18... Ne5 ",
+                "comment": {
+                    "pt": "Centralizando o cavalo , amea\u00e7ando ...f3 e facilitando o desenvolvimento do bispo de casas brancas.",
+                    "en": "Centralizing the Knight, threatening ...f3 and making development easier for the light-squared Bishop.",
+                    "de": "Zentralisiert den Springer, droht f3 und beg\u00fcnstigt die Entwicklung vom wei\u00dffeldrigen L\u00e4ufer.",
+                    "es": "Centralizando el caballo, amenazando ...f3 y facilitando el desarrollo del alfil de casillas blancas.",
+                    "zh": "\u628a\u8c61\u79fb\u5411\u4e2d\u5fc3\uff0c\u5a01\u80c1...f3\uff0c\u4f7f\u51fa\u52a8\u767d\u683c\u8c61\u66f4\u4e3a\u65b9\u4fbf\u3002",
+                    "pl": "Centralizacja Skoczka, gro\u017aba ... f3 i u\u0142atwianie wyprowadzenia jasnopolowego Go\u0144ca.",
+                    "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u041a\u043e\u043d\u044f, \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 ...f3 \u0438 \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0431\u043e\u043b\u0435\u0435 \u043b\u0435\u0433\u043a\u043e\u043c\u0443 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

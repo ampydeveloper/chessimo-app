@@ -1,0 +1,70 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Francesa",
+        "white_sort": "",
+        "black": "variante 3...dxe4",
+        "date": "",
+        "event": {
+            "en": "3...dxe4 variation",
+            "de": "Variante mit 3...dxe4",
+            "es": "Variante 3...dxe4",
+            "pt": "Variante 3...dxe4",
+            "zh": "3...dxe4\u53d8\u4f8b",
+            "pl": "3. ... dxe4",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...dxe4"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e6 2. d4 d5 3. Nc3 dxe4 ",
+                "comment": {
+                    "pt": "Com este lance as pretas entregam parcialmente o centro, mas terminar\u00e3o seu desenvolvimento com facilidade. Esta jogada serve contra 3-Cc3 e 3-Cd2.",
+                    "en": "With this move Black gives up the center partially but completes its development easily. It works against 3-Nc3 and 3-Nd2.",
+                    "es": "Con esta jugada las negras entregan parcialmente el centro, pero terminar\u00e1n su desarrollo con facilidad. Esta jugada sirve contra 3-Cc3 y 3-Cd2.",
+                    "de": "Schwarz gibt das Zentrum vor\u00fcbergehend auf, beendet aber problemlos seine Entwicklung. Der Textzug kann sowohl gegen 3. Sc3 oder 3. Sd2 angewandt werden.",
+                    "zh": "\u8d70\u8fd9\u4e00\u7740\u9ed1\u65b9\u653e\u5f03\u90e8\u5206\u4e2d\u5fc3\uff0c\u4f46\u662f\u4fbf\u4e8e\u7ed3\u675f\u51fa\u5b50\u3002\u8fd9\u7740\u7528\u6765\u5bf9\u4ed83-Nc3\u62163-Nd2",
+                    "pl": "Tym ruchem Czarne cz\u0119\u015bciowo poddaj\u0105 centrum, ale ko\u0144cz\u0105 rozw\u00f3j z \u0142atwo\u015bci\u0105. Skutkuje to przeciwko 3. Sc3 oraz 3. Sd2.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0427\u0435\u0440\u043d\u044b\u0435 \u0447\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043e\u0442\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430, \u043d\u043e \u043b\u0435\u0433\u043a\u043e \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u044e\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440. \u042d\u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043f\u0440\u043e\u0442\u0438\u0432 3-Nc3 \u0438 3-Nd2."
+                }
+            },
+            {
+                "move": "   4. Nxe4 Nd7 ",
+                "comment": {
+                    "pt": "Para jogar ...Cgf6 e trocar pe\u00e7as no centro. 4...Cf6 seria um erro devido a 5-Cxf6 Dxf6 6-Cf3 e as brancas ganhar\u00e3o um tempo no desenvolvimento atacando a dama (Bg5). Aqui h\u00e1 uma cilada famosa ap\u00f3s 6...b6 7-Bd3 Bb7 8-Bg5 Bxf3 9-Dd2! ganhando a dama. Tamb\u00e9m \u00e9 muito jogado 4... Bd7, com a id\u00e9ia de ...Bc6.",
+                    "en": "In order to play ...Ngf6 and exchange pieces in the center. 4...Nf6 would be a mistake due to 5-Nxf6 Qxf6 6-Nf3 and White will win a tempo in development attacking the Queen (Bg5). There is a famous trap after 6...b6: 7-Bd3 Bb7 8-Bg5 Bxf3 9-Qd2! winning the Queen. 4... Bd7, intending ...Bc6, is also used a lot.",
+                    "es": "Para jugar ...Cgf6 y cambiar piezas en el centro. 4...Cf6 ser\u00eda un error debido a 5-Cxf6 Dxf6 6-Cf3 y las blancas ganar\u00e1n un tiempo en el desarrollo atacando la dama (Ag5). Aqu\u00ed hay una celada famosa despu\u00e9s de  6...b6 7-Ad3 Ab7 8-Ag5 Axf3 9-Dd2! ganando la dama. Tambi\u00e9n es muy jugada 4...Ad7, con la idea de ...Ac6.",
+                    "de": "Um ...Sgf6 zu spielen und Figuren im Zentrum abzutauschen. 4...Sf6 w\u00e4re ein Fehler wegen 5. Sxf6 Dxf6 6. Sf3 und Wei\u00df greift die Dame mit Tempogewinn an (Lg5). Hier wickelt sich eine bekannte Er\u00f6ffnungsfalle ab: 6...b6 7. Ld3 Lb7 8. Lg5 Lxf3 9. Dd2! Mit Damenfang. Auch wird oft  4... Ld7 mit der Idee ...Lc6 gespielt.",
+                    "zh": "\u4e3a\u4e86\u8d70 ...Ngf6\u5e76\u4e14\u5728\u4e2d\u5fc3\u5151\u5b50\u3002\u9274\u4e8e5-Nxf6 Qxf6 6-Nf3\u8d704...Nf6\u662f\u9519\u8bef\u7684\uff0c\u767d\u65b9\u4f1a\u8d62\u5f97\u4e00\u4e2a\u51fa\u5b50\u5148\u624b\u5e76\u653b\u51fb\u540e\uff08Bg5\uff09\u3002\u57286...b6: 7-Bd3 Bb7 8-Bg5 Bxf3 9-Qd2!\u4e4b\u540e\u4ea7\u751f\u4e00\u4e2a\u8457\u540d\u7684\u9677\u9631\uff0c\u6349\u540e\u3002 \u53e6\u5916\u8d704... Bd7\u76ee\u7684\u4e3a\u4e86\u8d70...Bc6\u4e5f\u88ab\u5e7f\u6cdb\u4f7f\u7528\u3002",
+                    "pl": "Aby zagra\u0107 ... Sgf6 i wymieni\u0107 figury w centrum. 4. ... Sf6 by\u0142by b\u0142\u0119dem z powodu 5. Sxf6 Hxf6 6. Sf3 i Bia\u0142e wygrywaj\u0105 tempo w rozwoju atakuj\u0105c Hetmana (Gg5). Istnieje tutaj s\u0142ynna pu\u0142apka po 6. ... b6: 7. Gd3 Gb7 8. Gg5 Gxf3 9. Hd2! Wygrywaj\u0105c Hetmana. 4. ... Gd7, z zamiarem ... Gc6, jest r\u00f3wnie\u017c cz\u0119sto u\u017cywane.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c ...Ngf6 \u0438 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u044b \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. 4...Nf6 \u0431\u0443\u0434\u0435\u0442 \u043e\u0448\u0438\u0431\u043e\u0447\u043d\u044b\u043c \u0445\u043e\u0434\u043e\u043c, \u0438\u0437-\u0437\u0430 5-Nxf6 Qxf6 6-Nf3, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442 \u0442\u0435\u043c\u043f \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0424\u0435\u0440\u0437\u044f (Bg5). \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043b\u043e\u0432\u0443\u0448\u043a\u0430 \u043f\u043e\u0441\u043b\u0435 6...b6: 7-Bd3 Bb7 8-Bg5 Bxf3 9-Qd2! \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0424\u0435\u0440\u0437\u044c. 4...Bd7, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c ...Bc6, \u0442\u0430\u043a\u0436\u0435 \u043c\u043d\u043e\u0433\u0438\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442."
+                }
+            },
+            {
+                "move": "   5. Nf3 ",
+                "comment": {
+                    "pt": "O jogo das brancas \u00e9 simples e suas pe\u00e7as podem ser desenvolvidas com facilidade. Em nossa base as partidas 281 a 285 tratam desta posi\u00e7\u00e3o.",
+                    "en": "White's game is simple and its pieces are able to develop easily. Games 281 to 285 of our database deal with this position.",
+                    "es": "El juego de las blancas es simple y sus piezas pueden ser desarrolladas con facilidad. En nuestra base las partidas 281 a 285 tratan esta posici\u00f3n.",
+                    "de": "Wei\u00df entwickelt problemlos seine Figuren. Siehe Partien Nr. 281 bis 285 auf unserer Datenbank.",
+                    "zh": "\u767d\u65b9\u5c40\u9762\u7b80\u5355\uff0c\u5b83\u7684\u68cb\u5b50\u90fd\u5f88\u5bb9\u6613\u51fa\u5b50\u3002\u68cb\u5e93\u4e2d\u68cb\u5c40281\u548c285\u6d89\u53ca\u5230\u8fd9\u4e2a\u5c40\u9762\u3002",
+                    "pl": "Dalsza gra bia\u0142ych jest prosta, a ich figury zostan\u0105 szybko wyprowadzone. Gry od 281 do 285 z naszej bazy dziel\u0105 t\u0119 pozycj\u0119.",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u043d\u0435\u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u0438 \u0438\u0445 \u0444\u0438\u0433\u0443\u0440\u044b \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b \u043b\u0435\u0433\u043a\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f. \u0418\u0433\u0440\u044b 281 \u0438 285, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0442\u0441\u044f \u0441 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            },
+            {
+                "move": "   Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5 8. dxc5 Bxc5 9. O-O O-O 10. Bg5 b6 11. Qe2 ",
+                "comment": {
+                    "pt": "A posi\u00e7\u00e3o branca \u00e9 prefer\u00edvel e mais f\u00e1cil de jogar (partida 284). A pr\u00f3xima jogada deve ser Tad1, completando o desenvolvimento e planejando um ataque no flanco rei.",
+                    "en": "White's position is preferable and easier (game 284). The next move must be Rad1, completing development and planning an attack on the kingside.",
+                    "es": "La posici\u00f3n blanca es preferible y m\u00e1s f\u00e1cil de jugar (partida 284). La pr\u00f3xima jugada debe ser Tad1, completando el desarrollo y planeando un ataque en el flanco rey.",
+                    "de": "Die wei\u00dfe Stellung ist vorzuziehen und l\u00e4sst sich einfach spielen (Partie Nr. 284). Als n\u00e4chstes kommt Tad1,  was die Entwicklung vollendet und einen Angriff auf den K\u00f6nigsfl\u00fcgel vorbereitet.",
+                    "zh": "\u767d\u65b9\u7684\u5c40\u9762\u7565\u80dc\u4e00\u7b79\u4e5f\u66f4\u52a0\u5bb9\u6613\uff08\u68cb\u5c40284\uff09\u3002\u4e0b\u4e00\u6b65\u5fc5\u987b\u8d70Rad1\uff0c\u7ed3\u675f\u51fa\u5b50\u5e76\u8ba1\u5212\u738b\u7ffc\u653b\u51fb\u3002",
+                    "pl": "Preferowana i \u0142atwiejsza jest pozycja Bia\u0142ych (gra 284). Nast\u0119pnym ruchem musi by\u0107 Wad1, wie\u0144cz\u0105cy rozw\u00f3j i planuj\u0105cy atak na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u041f\u043e\u0437\u0438\u0446\u0438\u044f \u0411\u0435\u043b\u044b\u0445 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u0435\u0439 \u0438 \u043f\u0440\u043e\u0449\u0435 (\u0438\u0433\u0440\u0430 284). \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0445\u043e\u0434 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c Rad1, \u0437\u0430\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

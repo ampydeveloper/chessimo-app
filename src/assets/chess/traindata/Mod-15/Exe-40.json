@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(95)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3kb3\/1n1p3p\/2pPpNr1\/1p2P3\/1P1K2P1\/PN6\/5R2 w - - 0 38",
+        "moves": [
+            {
+                "move": "38. Nc4 ",
+                "comment": {
+                    "pt": "Melhorando o posicionamento desta pe\u00e7a e buscando sua troca para enfatizar a debilidade do bispo preto.",
+                    "en": "Improving the position of this piece and intending to exchange it in order to intensify the weakness of the black Bishop.",
+                    "de": "Verbessert die Stellung von dieser Figur und versucht, sie abzutauschen, damit die Schw\u00e4che vom L\u00e4ufer noch deutlicher wird.",
+                    "es": "Mejorando el posicionamento de esta pieza y buscando su cambio para enfatizar la debilidad del alfil negro.",
+                    "zh": "\u6539\u5584\u8fd9\u4e2a\u68cb\u5b50\u7684\u4f4d\u7f6e\uff0c\u8ba1\u5212\u5151\u8fd9\u4e2a\u5b50\u4e3a\u4e86\u5f3a\u5316\u9ed1\u8c61\u7684\u5f31\u70b9\u3002",
+                    "pl": "Poprawa pozycji tej figury oraz zamiar jej wymiany w celu zwi\u0119kszenia s\u0142abo\u015bci czarnego Go\u0144ca.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u0435\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u0430, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "(30)",
+            "zh": "Event 1"
+        },
+        "fen": "2br1rk1\/2qn1p1p\/p4np1\/4p3\/P1p1P3\/2P1QNNP\/2B2PP1\/1R1R2K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Qg5 ",
+                "comment": {
+                    "pt": "Escravizando o cavalo de d7 aos pontos e5 e f6 e, ao mesmo tempo, amea\u00e7ando jogar Cf5.",
+                    "en": "Enslaving the d7-Knight to e5 and f6 and, at the same time, threatening to play Nf5.",
+                    "de": "Dadurch wird der Springer d7 an die Verteidigung der Punkte e5 und f6 gebunden. Zudem wird noch Sf5 gedroht.",
+                    "es": "Esclavizando el caballo de d7 a los puntos e5 y f6 y, al mismo tiempo, amenazando jugar Cf5.",
+                    "zh": "\u4e3a\u4e86\u8ba9d7-\u9a6c\u5fd9\u4e8e\u9632\u5fa1e5\u548cf6\uff0c\u540c\u65f6\u5a01\u80c1\u4e0bNf5\u3002",
+                    "pl": "Uwolnienie p\u00f3l e5 i f6 dla Skoczka d7 oraz w tym samym czasie zagro\u017cenie ruchu Sf5.",
+                    "ru": "\u041f\u0440\u0438\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u041a\u043e\u043d\u044f d7 \u043a \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u043e\u043b\u0435\u0439 e5 \u0438 f6 \u0438 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e, \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0438\u0433\u0440\u043e\u0439 Nf5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(146)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qkb1r\/5p2\/pn1p1np1\/1p1Pp2p\/8\/1N2BP2\/PPPQ2PP\/1K1R1B1R w kq - 0 14",
+        "moves": [
+            {
+                "move": "14. Qc3 ",
+                "comment": {
+                    "pt": "Explorando a fraqueza da casa c6 e a posi\u00e7\u00e3o do rei preto no centro. Se agora ...Tc8 segue Bxb6 ganhando.",
+                    "en": "Exploring the c6 weakness and the black King's position in the center. If ...Rc8 now, Bxb6 will follow winning.",
+                    "de": "Nutzt die Schw\u00e4che vom Feld c6 und Stellung vom schwarzen K\u00f6nig im Zentrum aus. Auf ...Tc8 w\u00fcrde jetzt Lxd6 mit Gewinn folgen.",
+                    "es": "Explotando la debilidad de la casilla c6 y la posici\u00f3n del rey negro en el centro. Si ahora ...Tc8 sigue Axb6 ganando.",
+                    "zh": "\u5145\u5206\u5229\u7528c6\u7684\u5f31\u70b9\u548c\u9ed1\u738b\u5728\u4e2d\u5fc3\u7684\u4f4d\u7f6e\u3002\u5982\u679c\u73b0\u5728\u4e0b...Rc8\uff0c\u90a3\u4e48\u8ddfBxb6\u80fd\u53d6\u5f97\u80dc\u5229\u3002",
+                    "pl": "Wykorzystanie s\u0142abo\u015bci c6 i pozycji czarnego Kr\u00f3la w centrum. Je\u015bli teraz ... Wc8, nast\u0105pi zwyci\u0119skie Gxb6.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c c6 \u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0415\u0441\u043b\u0438 \u0431\u0443\u0434\u0435\u0442 ...Rc8, \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0432\u044b\u0438\u0433\u0440\u044b\u0448 Bxb6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(67)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/1b3p2\/1p1Bp2Q\/p1n1P3\/8\/2P5\/1q3PPP\/1B2R1K1 b - - 0 28",
+        "moves": [
+            {
+                "move": "28... Ne4 ",
+                "comment": {
+                    "pt": "Interrompendo a a\u00e7\u00e3o do bispo branco na diagonal, amea\u00e7ando f2 e defendendo o rei. Esta jogada \u00e9 possivel devido ao tema t\u00e1tico do mate na oitava fila.",
+                    "en": "Interrupting the action of the white Bishop on the diagonal, threatening f2 and defending the King. This move is possible, due to the tactic theme of the backrank mate.",
+                    "de": "Unterbricht die Wirkung des wei\u00dffeldrigen L\u00e4ufers und droht f2. Dieser Zug ist nur wegen des Themas des Grundreihenmatts m\u00f6glich.",
+                    "es": "Interrumpiendo la acci\u00f3n del alfil blanco en la diagonal, amenazando f2 y defendiendo el rey. Esta jugada es posible debido al tema t\u00e1ctico del mate en la octava l\u00ednea.",
+                    "zh": "\u963b\u65ad\u767d\u8c61\u5728\u8fd9\u6761\u659c\u7ebf\u7684\u6d3b\u52a8\uff0c\u5a01\u80c1f2\u5e76\u4e14\u9632\u5fa1\u738b\u3002\u8fd9\u4e00\u7740\u4ec5\u5728\u5e95\u7ebf\u5c06\u6740\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Przeszkadzanie w akcji bia\u0142ego Go\u0144ca na przek\u0105tnej, gro\u017c\u0105c f2 i broni\u0105c Kr\u00f3la. Ruch ten jest mo\u017cliwy z powodu taktycznej pozycji i mo\u017cliwo\u015bci mata na tylnych liniach.",
+                    "ru": "\u041f\u0440\u0435\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438, \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 f2 \u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(127)",
+            "zh": "Event 1"
+        },
+        "fen": "2n3k1\/ppN4p\/3p2p1\/3P4\/2Pb1B2\/1P5P\/P3Q1PK\/q7 b - - 0 30",
+        "moves": [
+            {
+                "move": "30... Ne7 ",
+                "comment": {
+                    "pt": "Aproveitando o momento t\u00e1tico (x\u00e9que em g1 seguido de x\u00e9que em f2, caso as brancas tomem em e7) para trazer mais uma pe\u00e7a que atacar\u00e1 o rei branco.",
+                    "en": "Taking advantage of the tactic moment (check on g1, followed by check on f2, if White captures on e7) to bring in another piece to attack the white King.",
+                    "de": "Nutzt den taktischen Trick (Schachgebot auf g1 nebst und auf f2, falls Wei\u00df auf e7 schl\u00e4gt), um noch eine Figur zum Angriff zu bringen.",
+                    "es": "Aprovechando el momento t\u00e1ctico (jaque en g1 seguido de jaque en f2, si las blancas toman en e7) para sumar una pieza m\u00e1s al ataque al rey blanco.",
+                    "zh": "\u5229\u7528\u6218\u672f\u65f6\u673a\uff08\u5982\u679c\u767d\u68cb\u653b\u51fbe7\uff0cg1\u5904\u5c06\u519b\uff0c\u8ddf\u7740f2\u5c06\u519b\uff09\u4f7f\u5176\u4ed6\u68cb\u5b50\u653b\u51fb\u767d\u738b\u3002",
+                    "pl": "Wykorzystanie taktycznego momentu (szach na g1, kontynuowany przez szach na f2, je\u015bli Bia\u0142e wezm\u0119 na e7) na sprowadzenie kolejnej figury do ataku na bia\u0142ego Kr\u00f3la.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043c\u043e\u043c\u0435\u043d\u0442 \u0442\u0430\u043a\u0442\u0438\u043a\u0438 (\u0428\u0410\u0425 \u043d\u0430 g1, \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0428\u0410\u0425 \u043d\u0430 f2, \u0435\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u0431\u044c\u044e\u0442 \u043d\u0430 e7), \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u0443\u044e \u0444\u0438\u0433\u0443\u0440\u0443 \u0432 \u0430\u0442\u0430\u043a\u0435 \u043d\u0430 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

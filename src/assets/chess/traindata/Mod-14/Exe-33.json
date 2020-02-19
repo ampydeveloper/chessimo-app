@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(149)",
+            "zh": "Event 1"
+        },
+        "fen": "2bqnrk1\/1pp3b1\/6pp\/2nPp3\/2N1Pp2\/2N4P\/5PP1\/Q1B1KB1R w K - 0 19",
+        "moves": [
+            {
+                "move": "19. Ba3 ",
+                "comment": {
+                    "pt": "Cravando o cavalo e melhorando a posi\u00e7\u00e3o do bispo.",
+                    "en": "Pinning the Knight and improving the Bishop's position.",
+                    "de": "Fesselt Springer und verbessert die Stellung vom L\u00e4ufer.",
+                    "es": "Clavando el caballo y mejorando la posici\u00f3n del alfil.",
+                    "zh": "\u7275\u5236\u9a6c\u5e76\u4e14\u6539\u5584\u8c61\u7684\u5c40\u9762\u3002",
+                    "pl": "Przygwo\u017cd\u017cenie Skoczka i poprawa pozycji Go\u0144ca.",
+                    "ru": "\u0421\u0432\u044f\u0437\u044b\u0432\u0430\u0435\u0442 \u041a\u043e\u043d\u044f \u0438 \u0443\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(26)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q3k\/pp3bpp\/nr6\/1N1p1p2\/3P1b2\/Q2B1N2\/PPR2PPP\/4R1K1 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Ne5 ",
+                "comment": {
+                    "pt": "Melhorando a posi\u00e7\u00e3o desta pe\u00e7a.",
+                    "en": "Improving the position of this piece.",
+                    "de": "Verbessert die Stellung dieser Figur.",
+                    "es": "Mejorando la posici\u00f3n de esta pieza.",
+                    "zh": "\u6539\u5584\u8fd9\u4e2a\u5b50\u7684\u5c40\u9762\u3002",
+                    "pl": "Poprawa pozycji tej figury.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(152)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pbn1ppbp\/1p4p1\/2pPP3\/2B2B2\/1Q3N2\/P4PPP\/1R2R1K1 w - - 0 17",
+        "moves": [
+            {
+                "move": "17. d6 ",
+                "comment": {
+                    "pt": "Avan\u00e7ando o pe\u00e3o passado e abrindo a diagonal a2-g8.",
+                    "en": "Advancing the passed pawn and opening the a2-g8 diagonal.",
+                    "de": "R\u00fcckt den Freibauern vor und \u00f6ffnet die Diagonale a2-g8.",
+                    "es": "Avanzando el pe\u00f3n pasado y abriendo la diagonal a2-g8.",
+                    "zh": "\u524d\u8fdb\u901a\u8def\u5175\u5e76\u5f00\u653ea2-g8\u659c\u7ebf\u3002",
+                    "pl": "Marsz wolnym pionem i otwarcie przek\u0105tnej a2-g8.",
+                    "ru": "\u041f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(98)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/pp2qp1p\/6p1\/3p4\/8\/3QPN2\/PP3PPP\/2R1K2R b K - 0 14",
+        "moves": [
+            {
+                "move": "14... Bf5 ",
+                "comment": {
+                    "pt": "Desenvolvendo o bispo com ganho de tempo, apesar do sacrificio de pe\u00e3o. As pretas planejam explorar a posi\u00e7\u00e3o central do rei branco caso estas aceitem o pe\u00e3o jogando Dxd5.",
+                    "en": "Developing the Bishop with a gain of tempo, despite the pawn sacrifice. Black plans to explore the central position in case White accepts the pawn with Qxd5.",
+                    "de": "Opfert einen Bauern, um den L\u00e4ufer mit Tempogewinn zu entwickeln. Schwarz plant, die offene K\u00f6nigsstellung von Schwarz auszunutzen, falls das Opfer angenommen wird.",
+                    "es": "Desarrollando el alfil con ganancia de tiempo. A pesar del sacrificio de pe\u00f3n. las negras planean explotar la posici\u00f3n central del rey blanco, si \u00e9stas acepten el pe\u00f3n jugando Dxd5.",
+                    "zh": "\u5f03\u5175\u4ee5\u4fbf\u80fd\u51fa\u8c61\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002\u9ed1\u65b9\u8ba1\u5212\u4e00\u65e6\u767d\u65b9\u63a5\u53d7\u5f03\u5175\u5c31\u53ef\u4ee5\u5229\u7528\u9ed1\u738b\u7684\u5f00\u653e\u4f4d\u7f6e\u3002",
+                    "pl": "Wyprowadzenie Go\u0144ca z zyskaniem tempa, pomimo ofiary piona. Planem czarnych jest wykorzystanie centralnej pozycji w przypadku, gdy Bia\u0142e zaakceptuj\u0105 wymian\u0119 piona przez Hxd5.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u044b\u043c \u0442\u0435\u043c\u043f\u043e\u043c, \u043d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0436\u0435\u0440\u0442\u0432\u0443 \u043f\u0435\u0448\u043a\u0438. \u041f\u043b\u0430\u043d \u0427\u0435\u0440\u043d\u044b\u0445 \u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u043e\u0437\u0438\u0446\u0438\u0439, \u0432 \u0441\u043b\u0443\u0447\u0430\u0435, \u0435\u0441\u043b\u0438 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u043f\u0435\u0448\u043a\u0443 Qxd5."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(13)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqnrk1\/ppp1ppbp\/3p2p1\/4P3\/1nBP1P2\/2N1BN2\/PPP3PP\/R2QK2R b KQ - 0 9",
+        "moves": [
+            {
+                "move": "9... Bf5 ",
+                "comment": {
+                    "pt": "Desenvolvendo o bispo da dama com ganho de tempo, j\u00e1 que as brancas devem defender c2.",
+                    "en": "Developing the queenside Bishop with a gain of tempo, since White has to defend c2.",
+                    "de": "Entwickelt den L\u00e4ufer mit Tempogewinn, da Wei\u00df c2 verteidigen muss.",
+                    "es": "Desarrollando el alfil dama con ganancia de tiempo, ya que las blancas deben defender c2.",
+                    "zh": "\u51fa\u540e\u7ffc\u8c61\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\uff0c\u56e0\u4e3a\u767d\u68cb\u5fc5\u987b\u9632\u5b88c2\u3002",
+                    "pl": "Wyprowadzenie Go\u0144ca hetma\u0144skiego z zyskiem tempa w czasie, gdy Bia\u0142e musz\u0105 broni\u0107 c2.",
+                    "ru": "\u0420\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0433\u043e \u0444\u043b\u0430\u043d\u0433\u0430 \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u043d\u044b\u043c \u0442\u0435\u043c\u043f\u043e\u043c, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f, \u043a\u0430\u043a \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c c2."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

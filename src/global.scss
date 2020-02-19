@@ -1,0 +1,167 @@
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+
+/* Core CSS required for Ionic components to work properly */
+@import "~@ionic/angular/css/core.css";
+
+/* Basic CSS for apps built with Ionic */
+@import "~@ionic/angular/css/normalize.css";
+@import "~@ionic/angular/css/structure.css";
+@import "~@ionic/angular/css/typography.css";
+@import '~@ionic/angular/css/display.css';
+
+/* Optional CSS utils that can be commented out */
+@import "~@ionic/angular/css/padding.css";
+@import "~@ionic/angular/css/float-elements.css";
+@import "~@ionic/angular/css/text-alignment.css";
+@import "~@ionic/angular/css/text-transformation.css";
+@import "~@ionic/angular/css/flex-utils.css";
+
+/** App Theme **/
+ion-toolbar{
+    border-bottom: 2px solid #fff;
+}
+ion-content {
+    --color: #fff;
+    --background:none;
+    background: url('/assets/images/background.png') no-repeat 70% 100% / cover;   
+    background-size: cover; 
+}
+
+.d-flex {
+    display: flex;
+    &.flex-row {
+        flex-direction: row;
+    }
+
+    &.flex-column{
+        flex-direction: column;
+    }
+    .flex-1{
+        flex:1;
+    }
+    .justify-content-center {
+    justify-content: center;
+    }
+    
+    .align-items-center {
+    align-items: center;
+    }
+    
+    .space-between {
+    justify-content: space-between;
+    }
+}
+
+.page-content {
+    height: calc(100% - 56px);
+    overflow: hidden;
+}
+
+.page-content-scroll{
+overflow-y: auto;
+height: 100%;
+}
+
+.click-effect {
+    cursor: pointer;
+    // &:active {
+    //     transform: scale(0.9);
+    // }
+}
+
+* {
+    -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+}
+
+.ion-padding{
+    padding: 5px !important;
+}
+
+// ==============================================
+// Core Application / Full MQ Support
+// ==============================================
+
+$mq-support: true;
+$mq-fixed-value: false;
+
+$bp-xsmall: 335px;
+$bp-small: 599px;
+$bp-medium: 770px;
+$bp-large: 979px;
+$bp-xlarge: 1199px;
+
+$bp-smallheight: 480px;
+
+$cho-dark-grey: #2f383d;
+$cho-solution-color-from: yellow;
+$cho-solution-color-to: #DBF948;
+
+$mq-support: true !default;
+$mq-fixed-value: 1024px !default;
+
+/* viewport width / height functions */
+@mixin bp($feature, $value) {
+    // Set global device param
+    $media: only screen;
+
+    // Media queries supported
+    @if $mq-support == true {
+
+        @media #{$media} and ($feature: $value) {
+            @content;
+        }
+
+        // Media queries not supported
+    } @else {
+
+        @if $feature == 'min-width' {
+            @if $value <= $mq-fixed-value {
+                @content;
+            }
+        } @else if $feature == 'max-width' {
+            @if $value >= $mq-fixed-value {
+                @content;
+            }
+        }
+
+    }
+}
+
+/* Resolution */
+@mixin if-min-resolution($dppx) {
+    @include if-resolution(min, $dppx) {
+        @content;
+    }
+}
+
+@mixin if-max-resolution($dppx) {
+    @include if-resolution(max, $dppx) {
+        @content;
+    }
+}
+
+@mixin if-resolution($prefix, $dppx) {
+    // 1px = 96dpi
+    $dpi: $dppx * 96;
+    @media
+    (-webkit-#{$prefix}-device-pixel-ratio: #{$dppx}),
+    (   #{$prefix}--moz-device-pixel-ratio: #{$dppx}),
+    (     -o-#{$prefix}-device-pixel-ratio: #{$dppx*2}/2),
+    (        #{$prefix}-device-pixel-ratio: #{$dppx}),
+    (                #{$prefix}-resolution: #{$dpi}dpi),
+    (                #{$prefix}-resolution: #{$dppx}dppx) {
+        @content;
+    }
+}
+
+

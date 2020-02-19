@@ -1,0 +1,26 @@
+<ion-header class="header">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button></ion-back-button>
+      </ion-buttons>
+      <ion-title>
+        Game Database
+      </ion-title>
+      <app-header-buttons  slot="secondary"></app-header-buttons>
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-content class="ion-padding">
+      <ion-row class="list-box">
+        <ion-col class="ion-padding">
+          <div class="databaselist" *ngFor="let d of traindata.gamedata; let i = index">
+            <div class="inittext">{{i+1}}</div>
+            <div class="middletext">
+              <div class="uppertext">{{d.white}}</div>
+              <div class="lowertext">{{d.black}}</div>
+            </div>
+            <div class="endtext">{{d.game_terminator}}</div>
+          </div>
+        </ion-col>
+      </ion-row>
+  </ion-content>

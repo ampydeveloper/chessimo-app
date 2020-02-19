@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(15)",
+            "zh": "Event 1"
+        },
+        "fen": "r3kb1r\/1p3ppp\/pqnp1n2\/4pP2\/P3P3\/1PN5\/1P2B1PP\/R1BQK2R w KQkq - 0 12",
+        "moves": [
+            {
+                "move": "12. Bg5 ",
+                "comment": {
+                    "pt": "Para eliminar a \u00fanica pe\u00e7a que controla a casa d5.",
+                    "en": "In order to eliminate the only piece that controls the d5-square.",
+                    "de": "Um die einzige Figur zu beseitigen, die das Feld d5 deckt.",
+                    "es": "Para eliminar la \u00fanica pieza que controla la casilla d5.",
+                    "zh": "\u4e3a\u4e86\u6d88\u706d\u552f\u4e00\u4e00\u4e2a\u63a7\u5236d5\u683c\u7684\u68cb\u5b50\u3002",
+                    "pl": "W celu eliminacji jedynej figury kontroluj\u0105cej pole d5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u0444\u0438\u0433\u0443\u0440\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u043f\u043e\u043b\u0435 d5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(54)",
+            "zh": "Event 1"
+        },
+        "fen": "r1q2rk1\/3nbp2\/2p3p1\/p3p2p\/Pn2P1B1\/2N1B2P\/1PP2RP1\/R4QK1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. Bxd7 ",
+                "comment": {
+                    "pt": "Para evitar que as pretas joguem ...Bc5 e troquem o seu bispo mau pelo bispo bom branco.",
+                    "en": "In order to prevent Black from playing ...Bc5 and trading its bad Bishop for the good white one.",
+                    "de": "Um zu vermeiden, dass Schwarz Lc5 spielt und seinen schlechten L\u00e4ufer gegen den guten wei\u00dfen L\u00e4ufer abtauscht.",
+                    "es": "Para evitar que las negras jueguen ...Ac5 y cambien el alfil malo por el alfil bueno del blanco.",
+                    "zh": "\u4e3a\u4e86\u963b\u6b62\u9ed1\u68cb\u4e0b...Bc5\uff0c\u7528\u5b83\u8f83\u5f31\u7684\u9ed1\u8c61\u6765\u5151\u6362\u8f83\u597d\u7684\u767d\u5b50\u3002",
+                    "pl": "W celu zapobie\u017cenia Czarnym zagrania ... Gc5 i wymianie s\u0142abego Go\u0144ca na silnego Go\u0144ca bia\u0142ych.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0427\u0435\u0440\u043d\u044b\u0445 \u0438\u0433\u0440\u0430\u0442\u044c ...Bc5, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e, \u043e\u043d\u0438 \u043d\u0435 \u0441\u043c\u043e\u0433\u0443\u0442 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0441\u0432\u043e\u0435\u0433\u043e \u0441\u043b\u0430\u0431\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043d\u0430 \u0441\u0438\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0411\u0435\u043b\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(48)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/3r4\/3P3p\/pp3k2\/8\/P1PR3K\/6P1\/8 w - - 0 55",
+        "moves": [
+            {
+                "move": "55. Kh4 ",
+                "comment": {
+                    "pt": "Para ganhar o pe\u00e3o h.",
+                    "en": "In order to win the h-pawn.",
+                    "de": "Um den h-Bauern zu gewinnen.",
+                    "es": "Para ganar el pe\u00f3n h.",
+                    "zh": "\u4e3a\u4e86\u8d62\u53d6h-\u5175\u3002",
+                    "pl": "W celu zdobycia piona h.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c h-\u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "r5k1\/4bppp\/pq1p1n2\/4pP2\/1r2P3\/1NN5\/1PP1Q1PP\/R4R1K w - - 0 19",
+        "moves": [
+            {
+                "move": "19. Ra2 ",
+                "comment": {
+                    "pt": "Para dobrar as torres e atacar a6.",
+                    "en": "In order to double Rooks and attack a6.",
+                    "de": "Um die T\u00fcrme zu verdoppeln und a6 anzugreifen.",
+                    "es": "Para doblar las torres y atacar a6.",
+                    "zh": "\u4e3a\u4e86\u53d6\u5f97\u53cc\u8f66\u5e76\u653b\u51fba6.",
+                    "pl": "W celu zdublowania Wie\u017c i ataku na a6.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0432\u043e\u0438\u0442\u044c \u041b\u0430\u0434\u044c\u0438 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 a6."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(34)",
+            "zh": "Event 1"
+        },
+        "fen": "3rrnk1\/2p1q1pp\/p2b1p2\/1pp4P\/4P3\/2B2NP1\/PPP1QP2\/1K1RR3 w - - 0 21",
+        "moves": [
+            {
+                "move": "21. Nh4 ",
+                "comment": {
+                    "pt": "Para levar o cavalo a f5, liberar o avan\u00e7o do pe\u00e3o f e abrir passagem para a dama ir a g4.",
+                    "en": "In order to take the Knight to f5, liberate the f-pawn advance and make way for the Queen to g4.",
+                    "de": "F\u00fchrt den Springer auf f5 und erm\u00f6glicht sowohl das Vorr\u00fccken des f-Bauern als auch den Zug Dg4.",
+                    "es": "Para llevar el caballo a f5, liberar el avance del pe\u00f3n f y abrirle paso a la dama hacia g4.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u79fb\u5230f5\uff0c\u4f7ff-\u5175\u5f97\u4ee5\u524d\u8fdb\u5e76\u626b\u6e05\u540e\u901a\u5f80g4\u7684\u9053\u8def\u3002",
+                    "pl": "W celu wzi\u0119cia Skoczka na f5, umo\u017cliwienia marszu piona f i utorowania drogi na g4 dla Hetmana.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 f5, \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c f-\u043f\u0435\u0448\u043a\u0443 \u0434\u043b\u044f \u0435\u0451 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u043f\u0443\u0442\u044c \u0424\u0435\u0440\u0437\u044e \u043d\u0430 g4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

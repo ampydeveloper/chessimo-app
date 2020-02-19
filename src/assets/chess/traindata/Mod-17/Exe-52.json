@@ -1,0 +1,115 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Benoni",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Benoni defense",
+            "de": "Benoni-Verteidigung",
+            "es": "Defensa Benoni",
+            "pt": "Defesa Benoni",
+            "zh": "\u522b\u8bfa\u5c3c\u9632\u5fa1",
+            "pl": "Obrona Benoni",
+            "ru": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0411\u0435\u043d\u043e\u043d\u0438"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 c5 ",
+                "comment": {
+                    "pt": "The Benoni defense is one of the most risky defenses against the open Queen-pawn. Black lets White conquer a greater control of the center and attacks on the queenside and the center. This used to be former World Champion M. Tal's favorite.",
+                    "es": "La Defensa Benoni es una de las m\u00e1s arriesgadas contra la apertura de pe\u00f3n dama. Las negras dejan que las blancas obtengan un mayor control central y tratan de atacar en el flanco dama y en el centro. Esta era una de las defensas favoritas del ex campe\u00f3n mundial M. Tal.",
+                    "de": "Die Benoni-Verteidigung ist eine der risikoreichsten gegen 1. d4. Schwarz \u00fcberl\u00e4sst Wei\u00df die Kontrolle des Zentrum und versucht, am Damenfl\u00fcgel und am Zentrum anzugreifen. Sie war eine der Lieblingser\u00f6ffnungen vom ehemaligen Weltmeister M. Tal.",
+                    "zh": "\u522b\u8bfa\u5c3c\u9632\u5fa1\u662f\u5bf9\u4ed81. d4\u98ce\u9669\u6700\u9ad8\u7684\u3002\u9ed1\u65b9\u5c06\u5bf9\u4e2d\u5fc3\u7684\u63a7\u5236\u8f6c\u8ba9\u7ed9\u767d\u65b9\uff0c\u5e76\u4f01\u56fe\u5bf9\u540e\u7ffc\u548c\u4e2d\u5fc3\u53d1\u8d77\u653b\u51fb\u3002\u8fd9\u662f\u524d\u4e16\u754c\u51a0\u519b\u5854\u5c14\u6700\u949f\u7231\u7684\u5f00\u5c40\u4e4b\u4e00\u3002"
+                }
+            },
+            {
+                "move": "   3. d5 e6 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o de fechar o jogo com ...e5 deixa as pretas numa posi\u00e7\u00e3o muito restringida, mas \u00e9 jog\u00e1vel (partidas 574 a 577).",
+                    "en": "The option to close the game with ...e5 would let Black in a very restricted position but it's possible to do (games 574 to 577).",
+                    "es": "La opci\u00f3n de cerrar el juego con ...e5 deja a las negras en una posici\u00f3n muy restringida, pero jugable (partidas 574 a 577).",
+                    "de": "Nach ...e5 hat Schwarz wenig Raum, die Stellung ist aber spielbar (Partien 574 bis 577).",
+                    "zh": "\u9009\u62e9\u8d70...e5\u7684\u8bdd\u4f1a\u8ba9\u9ed1\u65b9\u5904\u5728\u4e00\u4e2a\u975e\u5e38\u53d7\u9650\u7684\u4f4d\u7f6e\uff0c\u4f46\u662f\u4e5f\u662f\u53ef\u4ee5\u8fd9\u4e48\u8d70\u7684\uff08\u68cb\u5c40574\u5230577\uff09\u3002",
+                    "pl": "Opcja zamkni\u0119cia pozycji przez ... e5 doprowadzi\u0142oby Czarne do bardzo ograniczonej pozycji, ale jest mo\u017cliwa skuteczna gra w takowej (partie od 574 do 577).",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0438\u0433\u0440\u0443 \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0439 ...e5, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u043a \u043e\u0447\u0435\u043d\u044c \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 (\u0438\u0433\u0440\u044b 574 \u0438 577)."
+                }
+            },
+            {
+                "move": "   4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 ",
+                "comment": {
+                    "pt": "O bispo atuar\u00e1 muito bem ao longo da grande diagonal e \u00e9 um dos pontos positivos desta defesa. Os pontos negativos s\u00e3o a fraqueza do pe\u00e3o em d6 e o maior dom\u00ednio central branco.",
+                    "en": "The Bishop can act very well along the big diagonal and represents one of the positive aspects of this position. The negative are weakness of the d6-pawn and a greater white central domain.",
+                    "es": "El alfil actuar\u00e1 muy bien a lo largo de la gran diagonal y es uno de los puntos positivos de esta defensa. Los puntos negativos son la debilidad del pe\u00f3n en d6 y el mayor dominio central blanco.",
+                    "de": "Der L\u00e4ufer ist auf der langen Diagonale sehr aktiv; das ist einer der positiven Aspekte dieser Verteidigung. Negative Aspekte sind hingegen die Schw\u00e4che des Bauern auf d6 und die Beherrschung des Zentrums seitens des Wei\u00dfen.",
+                    "zh": "\u8c61\u5728\u5927\u659c\u7ebf\u4e0a\u6d3b\u52a8\u7684\u76f8\u5f53\u79ef\u6781\uff0c\u4ee3\u8868\u4e86\u8fd9\u4e2a\u5c40\u9762\u79ef\u6781\u7684\u65b9\u9762\u3002\u6d88\u6781\u7684\u65b9\u9762\u662fd6-\u5175\u7684\u5f31\u70b9\u548c\u767d\u65b9\u5bf9\u4e2d\u5fc3\u7684\u7edd\u5bf9\u7edf\u6cbb\u3002",
+                    "pl": "Goniec mo\u017ce wp\u0142ywa\u0107 na rozw\u00f3j sytuacji bardzo dobrze przez d\u0142ug\u0105 przek\u0105tn\u0105 i reprezentuje jedenz  pozytywnych aspekt\u00f3w tej pozycji. Negatywnym jest s\u0142abo\u015b\u0107 piona d6 i wi\u0119ksza kontrola centrum przez Bia\u0142e.",
+                    "ru": "\u0421\u043b\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432\u0434\u043e\u043b\u044c \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438, \u0447\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u041e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0444\u0430\u043a\u0442\u043e\u043c \u0441\u043b\u0443\u0436\u0438\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 c6 \u0438 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0411\u0435\u043b\u044b\u0445 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f."
+                }
+            },
+            {
+                "move": "   7. e4 ",
+                "comment": {
+                    "pt": "Alguns jogadores , como Korchnoi, preferem desenvolver o bispo por g2 (partida 578).",
+                    "en": "Some prefer to develop the Bishop through g2, like Korchnoi, for example.",
+                    "es": "Algunos jugadores, como Korchnoi, prefieren desarrollar el alfil por g2 (partida 578).",
+                    "de": "Einige Spieler, wie z. B. Kortschnoi, entwickeln den L\u00e4ufer lieber \u00fcber g2 (Partie Nr. 578).",
+                    "zh": "\u6709\u4e9b\u4eba\u503e\u5411\u4e8e\u901a\u8fc7g2\u51fa\u8c61\uff0c\u6bd4\u5982\u5c31\u50cf\u67ef\u5c14\u5947\u8bfa\u4f9d\u3002",
+                    "pl": "Niekt\u00f3rzy wol\u0105 wyprowadza\u0107 Go\u0144ca przez g2, jak na przyk\u0142ad Korcznoj.",
+                    "ru": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u044e\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 g2, \u043a\u0430\u043a \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u041a\u043e\u0440\u0447\u043d\u043e\u0439, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440."
+                }
+            },
+            {
+                "move": "   Bg7 8. Be2 ",
+                "comment": {
+                    "pt": "Outras op\u00e7\u00f5es s\u00e3o; 8-Bd3 (partida 582) 8-Bg5 (partidas 581 e 583).",
+                    "en": "Other options are: 8-Bd3 (game 582) and 8-Bg5 (games 581 and 583).",
+                    "es": "Otras opciones son: 8-Ad3 (partida 582) 8-Ag5 (partidas 581 y 583).",
+                    "de": "Andere M\u00f6glichkeiten sind: 8. Ld3 (Partie Nr. 582) und 8. Lg5 (Partien Nr. 581 und 583).",
+                    "zh": "\u53e6\u5916\u7684\u9009\u62e9\u662f\uff1a 8-Bd3\uff08\u68cb\u5c40582\uff09\u548c8-Bg5\uff08\u68cb\u5c40581\u548c583\uff09\u3002",
+                    "pl": "Innymi opcjami s\u0105: 8. Gd3 (partia 582) i 8. Gg5 (gry 581 i 583).",
+                    "ru": "\u0414\u0440\u0443\u0433\u0438\u0435 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b: 8-Bd3 (\u0438\u0433\u0440\u0430 582), \u0430 \u0442\u0430\u043a\u0436\u0435 8-Bg5 (\u0438\u0433\u0440\u0430 581 \u0438 583)."
+                }
+            },
+            {
+                "move": "   O-O 9. O-O Re8 10. Nd2 ",
+                "comment": {
+                    "pt": "10-Dc2 tamb\u00e9m \u00e9 poss\u00edvel, mas as pretas podem jogar .. .Ca6 com a perspectiva de ....Cb4 incomodando a dama branca (partida 580).",
+                    "en": "10-Qc2 is also possible but Black can play ...Na6 with the prospective of ...Nb4 that disturbs the white Queen (game 580).",
+                    "es": "10-Dc2 tambi\u00e9n es posible, pero las negras pueden jugar ...Ca6 con la perspectiva de ....Cb4, molestando a la dama blanca (partida 580).",
+                    "de": "10. Dc2 ist auch m\u00f6glich, aber Schwarz kann ... Sa6 mit der Idee ...Sb4 und Angriff auf die wei\u00dfe Dame (Partie Nr. 580).",
+                    "zh": "10-Qc2\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u4f46\u662f\u9ed1\u65b9\u5e94\u8be5\u8d70 ...Na6\uff0c\u9884\u671f\u8d70 ...Nb4\u6765\u6270\u4e71\u767d\u540e\uff08\u68cb\u5c40580\uff09\u3002",
+                    "pl": "10. Hc2 jest r\u00f3wnie\u017c mo\u017cliwe, ale Czarne mog\u0105 zagra\u0107 ... Sa6 z perspektyw\u0105 ... Sb4, co przeszkadza bia\u0142emu Hetmanowi (partia 580).",
+                    "ru": "\u0425\u043e\u0434 10-Qc2, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d, \u043d\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u044b\u0433\u0440\u0430\u0442\u044c ...Na6, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c ...Nb4, \u0447\u0442\u043e \u043c\u0435\u0448\u0430\u0435\u0442 \u0431\u0435\u043b\u043e\u043c\u0443 \u0424\u0435\u0440\u0437\u044e (\u0438\u0433\u0440\u0430 580)."
+                }
+            },
+            {
+                "move": "   Nbd7 ",
+                "comment": {
+                    "pt": "O desenvolvim ento do cavalo por a6, para ir a c7 e apoiar o avan\u00e7o ... b5, \u00e9 perfeitamente vi\u00e1vel e ocorreu na partida 579.",
+                    "en": "It's totally feasible to develop the Knight through a6 in order to reach c7 and support the advance ...b5. This is presented in game 579.",
+                    "es": "El desarrollo del caballo por a6, para ir a c7 y apoyar el avance ...b5, es perfectamente viable y ocurri\u00f3 en la partida 579.",
+                    "de": "Die Entwicklung des Springers \u00fcber a6, um sp\u00e4ter von c7 aus den Vorstoss ... b5 zu unterst\u00fctzen, ist volkommen spielbar und geschah in der Partie 579.",
+                    "zh": "\u901a\u8fc7a6\u6765\u51fa\u9a6c\u662f\u5b8c\u5168\u53ef\u884c\u7684\uff0c\u53ef\u4ee5\u5230\u8fbec7\u5e76\u652f\u6301...b5\u524d\u8fdb\u3002\u8fd9\u5728\u68cb\u5c40579\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Wykonalne jest wyprowadzenie Skoczka przez a6 w celu zaj\u0119cia nim c7 i wspieranie marszu piona na ... b5. Prezentuje to partia 579.",
+                    "ru": "\u041e\u0447\u0435\u0432\u0438\u0434\u043d\u044b\u043c \u0435\u0441\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 a6, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0438\u0447\u044c c7 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 ...b5. \u042d\u0442\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 579."
+                }
+            },
+            {
+                "move": "   11. a4 Ne5 12. Qc2 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam mais espa\u00e7o, devido a maioria de pe\u00f5es no centro, enquanto as pretas t\u00eam suas pe\u00e7as bem colocadas (.. .Bg7-Ce5), mas a posi\u00e7\u00e3o central do cavalo n\u00e3o \u00e9 est\u00e1vel e a qualquer momento as brancas podem expulsa-lo com f4 (partida 584) .",
+                    "en": "White has more space due to majority in the center, while Black has well-placed pieces (... Bg7-Ne5), but the central position of the Knight isn't stable and at any moment White can chase it away with f4 (game 584).",
+                    "es": "Las blancas tienen m\u00e1s espacio, debido a la mayor\u00eda de peones en el centro, mientras que las negras tienen sus piezas bien colocadas (...Ag7-Ce5), pero la posici\u00f3n central del caballo no es estable y a cualquier momento las blancas pueden expulsarlo con f4 (partida 584).",
+                    "de": "Wei\u00df hat mehr Raum wegen der Bauernmehrheit im Zentrum, daf\u00fcr aber sind die schwarzen Figuren gut aufgestellt (Lg7, Se5). Die zentrale Stellung vom Springer ist jedoch unstabil und kann jederzeit durch f4 vertrieben werden (Partie Nr. 584).",
+                    "zh": "\u767d\u65b9\u56e0\u4e3a\u4e2d\u5fc3\u591a\u5175\u6240\u4ee5\u62e5\u6709\u66f4\u591a\u7684\u7a7a\u95f4\uff0c\u76f8\u53cd\u9ed1\u65b9\u7684\u68cb\u5b50\u4f4d\u7f6e\u826f\u597d\uff08(... Bg7-Ne5\uff09\uff0c\u4f46\u662f\u9ed1\u9a6c\u5728\u4e2d\u5fc3\u7684\u4f4d\u7f6e\u4e0d\u591f\u7a33\u56fa\uff0c\u968f\u65f6\u90fd\u53ef\u80fd\u88ab\u767d\u65b9\u7528f4\u8d76\u8d70\uff08\u68cb\u5c40584\uff09\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 wi\u0119cej miejsca z uwagi na wi\u0119kszo\u015b\u0107 w centrum, podczas gdy Czarne maj\u0105 dobrze ustawione figury (... Gg7-Se5), ale centralna pozycja Skoczka nie jest stabilna i w jakimkolwiek momencie Bia\u0142e mog\u0105 przegoni\u0107 go przez f4 (partia 584).",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0437\u0430 \u0441\u0447\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0443 \u0444\u0438\u0433\u0443\u0440 \u0427\u0435\u0440\u043d\u044b\u0445 \u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 (... Bg7-Ne5), \u043d\u043e \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u041a\u043e\u043d\u044f \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u043d\u0435 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u0432 \u043b\u044e\u0431\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043c\u043e\u0433\u0443\u0442 \u0435\u0433\u043e \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c f4 (\u0438\u0433\u0440\u0430 584)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

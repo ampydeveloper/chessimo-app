@@ -1,0 +1,56 @@
+.board-outer{
+    width: 100%;
+    // padding-top: 100%;
+    position: relative;
+    #board{
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        width: 100%;
+        height: 100%;
+        .board-wrapper .board-b72b1 {
+            border: 0;
+            overflow: hidden;
+        }
+    }
+
+    .pausedOuter{
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.8);
+        z-index: 11;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .pauseStrip{
+            width: 100%;
+            background: #9e9e9e;
+            color: #fff;
+            line-height: 70px;
+            font-size: 36px;
+            text-align: center;
+        }
+    }
+
+    .blue-check{
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 11;
+        display: none;
+        justify-content: center;
+        align-items: center;
+        .blue-check-content {
+                width: 100%;
+                height: 93%;
+                background: url('../../assets/chess/images/thumb_solved.png') no-repeat center center;
+                -webkit-background-size: contain;
+                -moz-background-size: contain;
+                -o-background-size: contain;
+                background-size: contain;
+                background-position: center center;
+        }
+    }
+}

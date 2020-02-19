@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pppb1ppp\/2np1n2\/1B2p1B1\/1b2P3\/2NP1N2\/PPP2PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nd5 ",
+                "comment": {
+                    "pt": "Explorando a cravada do cavalo preto na diagonal h4-d8. Note que as pretas nao conseguir\u00e3o evitar que seus pe\u00f5es sejam dobrados ap\u00f3s a tomada em f6 e seu rei ficar\u00e1 mais vulner\u00e1vel.",
+                    "en": "Exploring the pinned black Knight on the h4-d8 diagonal. Note that Black won't be able to prevent pawns from doubling after the f6 capture and its King will get vulnerable.",
+                    "es": "Explotando a clavada del caballo negro en la diagonal h4-d8. Observe que las negras no conseguir\u00e1n evitar que sus peones sean doblados despu\u00e9s de tomar en f6 lo dekar\u00e1 el rey m\u00e1s vulnerable.",
+                    "de": "Nutzt die Fesselung des schwarzen Springers auf der Diagonale h4-d8 aus. Bemerken Sie, da\u00df Schwarz die Bedrohung durch die Doppelbauern, die nach dem Schlag auf f6 entstehen werden, nicht mehr vermeiden kann. Dadurch wird die schwarze K\u00f6nigsstellung geschw\u00e4cht.",
+                    "zh": "\u5145\u5206\u5229\u7528\u9ed1\u9a6c\u88ab\u7275\u5236\u5728h4-d8\u659c\u7ebf\u7684\u673a\u4f1a\u3002\u6ce8\u610f\u9ed1\u65b9\u4e0d\u80fd\u6392\u9664f6\u4e0a\u5403\u5b50\u4e4b\u540e\u4ea7\u751f\u53e0\u5175\u7684\u5a01\u80c1\u3002\u56e0\u6b64\u9ed1\u738b\u53d8\u5f97\u5bb9\u6613\u53d7\u653b\u51fb\u3002",
+                    "pl": "Wykorzystanie przygwo\u017cd\u017cenia czarnego Skoczka na przek\u0105tnej h4-d8. Zauwa\u017c, \u017ce Czarne nie s\u0105 w stanie powstrzyma\u0107 zdublowania pion\u00f3w po zbiciu na f6, wi\u0119c ich Kr\u00f3l b\u0119dzie bardziej nara\u017cony na ataki.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 h4-d8. \u0417\u0430\u043c\u0435\u0442\u044c\u0442\u0435, \u0447\u0442\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0441\u0434\u0432\u0430\u0438\u0432\u0430\u043d\u0438\u0435 \u043f\u0435\u0448\u0435\u043a \u043f\u043e\u0441\u043b\u0435 \u0437\u0430\u0445\u0432\u0430\u0442\u0430 f6."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/pppb1p1p\/2np1p2\/bB1Np3\/4P3\/3P1N2\/PPP2PPP\/R2Q1RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Nh4 ",
+                "comment": {
+                    "pt": "Como as pretas tem os pe\u00f5es dobrados e seu rei est\u00e1 exposto, as brancas , para atac\u00e1-lo abrem caminho para a participa\u00e7\u00e3o da dama, e ainda mant\u00e9m a op\u00e7\u00e3o de jogar f4 e abrir a coluna f para a participa\u00e7\u00e3o da torre.",
+                    "en": "As Black has doubled pawns and an exposed King, White opens way for the Queen to attack, besides maintaining the option to play f4 and open the f-file for the Rook to participate.",
+                    "es": "Como las negras tiene los peones doblados y el rey est\u00e1 expuesto, las blancas le abren camino a la dama para atacar el rey negro, y adem\u00e1s mantienen la opci\u00f3n de jugar f4 y abrir la columna f para a participaci\u00f3n de la torre.",
+                    "de": "Um die geschw\u00e4chte K\u00f6nigsstellung auszunutzen. Der Springer \u00f6ffnet die Diagonale f\u00fcr die Dame und erm\u00f6glicht auch f4, damit auch der Turm am Angriff teilnimmt.",
+                    "zh": "\u4e3a\u4e86\u5145\u5206\u5229\u7528\u9ed1\u65b9\u53e0\u5175\u548c\u66b4\u9732\u9ed1\u738b\u7684\u5f31\u70b9\uff0c\u767d\u65b9\u4e3a\u767d\u540e\u5f00\u8f9f\u653b\u51fb\u8def\u7ebf\uff0c\u540c\u65f6\u4fdd\u7559f4\u7684\u53ef\u80fd\uff0c\u4ee5\u4fbf\u8ba9\u8f66\u6295\u5165\u6218\u6597\u3002",
+                    "pl": "Skoro Czarne maj\u0105 zdublowane piony i otwartego Kr\u00f3la, Bia\u0142e otwieraj\u0105 drogi dla hetma\u0144skiego ataku, a poza tym pozostawiaj\u0105 sobie opcj\u0119 do zagrania f4 i otwarcia kolumny f dla udzia\u0142u Wie\u017cy.",
+                    "ru": "\u0421\u0434\u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u0443 \u0427\u0435\u0440\u043d\u044b\u0445, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0430\u0442\u0430\u043a\u0438 \u0424\u0435\u0440\u0437\u0435\u043c, \u043a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0438\u0433\u0440\u0430\u0442\u044c f4 \u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044c f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp2ppp\/2np1n2\/1B2p1B1\/1b2P3\/2NP1N2\/PPP2PPP\/R2Q1RK1 b - - 0 1",
+        "moves": [
+            {
+                "move": "1... Bxc3 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam Cd5 explorando a cravada do cavalo preto em f6 e portanto , o melhor a fazer \u00e9 eliminar esta amea\u00e7a trocando o bispo pelo cavalo.",
+                    "en": "White threatened to play Nd5, exploring the pinned black Knight on f6. Therefore, it's best to exchange the Bishop for the Knight.",
+                    "es": "Las blancas amenazaban Cd5 explotando la clavada del caballo negro en f6 y, por lo tanto, lo mejor que se puede hacer es eliminar esta amenaza cambiando el alfil por el caballo .",
+                    "de": "Wei\u00df drohte 2. Sd5, um die Fesselung vom Springer auf f6 auszunutzen. Die beste L\u00f6sung besteht darin, den Springer sofort zu beseitigen, indem man den L\u00e4ufer gegen ihn abtauscht.",
+                    "zh": "\u767d\u65d7\u5a01\u80c1\u4e0bNd5\uff0c\u5145\u5206\u5229\u7528\u9ed1\u9a6c\u88ab\u7275\u5236\u5728f6\u7684\u673a\u4f1a\u3002\u56e0\u6b64\u6700\u597d\u7684\u89e3\u51b3\u65b9\u6cd5\u662f\u7528\u8c61\u5151\u6362\u6389\u9a6c\u3002",
+                    "pl": "Bia\u0142e gro\u017c\u0105 zagraniem Sd5, wykorzystuj\u0105c przygwo\u017cd\u017conego czarnego Skoczka na f6. Wi\u0119c najlepiej jest wymieni\u0107 Go\u0144ca na Skoczka.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0438\u0433\u0440\u043e\u0439 \u043d\u0430 Nd5, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u043d\u0430 f6. \u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u043b\u0443\u0447\u0448\u0435 \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u0430 \u043d\u0430 \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/ppp2ppp\/2np1n2\/1B6\/3NP3\/2N5\/PPP2PPP\/R1BQK2R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... Bd7 ",
+                "comment": {
+                    "pt": "\u00danica jogada para defender o cavalo e ao mesmo tempo sair da cravada na diagonal a4-e8.",
+                    "en": "Only possible move to defend the Knight and unpin on the a4-e8 diagonal, at the same time.",
+                    "es": "\u00danica jugada para defender el caballo y salir al mismo tiempo de la clavada en la diagonal a4-e8.",
+                    "de": "Einziger Zug um den Springer zu decken und zur gleichen Zeit die Fesselung auf der Diagonale a4-e8 aufzuheben.",
+                    "zh": "\u552f\u4e00\u53ef\u4ee5\u9632\u5fa1\u9a6c\u7684\u4e00\u7740\uff0c\u5e76\u4e14\u540c\u65f6\u80fd\u89e3\u9664a4-e8\u659c\u7ebf\u7684\u7275\u5236\u3002",
+                    "pl": "Jedyna mo\u017cliwa obrona Skoczka i usuni\u0119cie przygwo\u017cd\u017cenia na przek\u0105tnej a4-e8 w tym samym czasie.",
+                    "ru": "\u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0445\u043e\u0434 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0438, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043e\u0442 \u0441\u0432\u044f\u0437\u043a\u0438 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a4-e8."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "cravada",
+        "white_sort": "",
+        "black": "1",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkbnr\/1pp2ppp\/p1np4\/4p3\/B2PP3\/5N2\/PPP2PPP\/RNBQK2R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... b5 ",
+                "comment": {
+                    "pt": "Para saira da cravada e ao mesmo tempo ganhar um tempo atacando o bispo branco.",
+                    "en": "In order to unpin the piece and win a tempo attacking the white Bishop.",
+                    "es": "Para salir de la clavada y al mismo tiempo ganar un tiempo atacando el alfil blanco.",
+                    "de": "Hebt die Fesselung mit Tempogewinn (Angriff auf den wei\u00dffeldrigen L\u00e4ufer) auf.",
+                    "zh": "\u4e3a\u4e86\u89e3\u9664\u7275\u5236\uff0c\u8d62\u5f97\u5148\u624b\u653b\u51fb\u767d\u8c61\u3002",
+                    "pl": "Aby usun\u0105\u0107 przygwo\u017cd\u017cenie figury i wygra\u0107 tempo atakuj\u0105c bia\u0142ego Go\u0144ca.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0432\u044f\u0437\u0430\u0442\u044c \u0444\u0438\u0433\u0443\u0440\u0443 \u0438 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0442\u0435\u043c\u043f, \u0430\u0442\u0430\u043a\u0443\u044f \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

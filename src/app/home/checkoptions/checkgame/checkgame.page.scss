@@ -1,0 +1,138 @@
+// old
+.fillWidth {
+	width: 100%;
+}
+
+.bgWhite {
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+.defBoxPadding {
+    padding: 0.4em;
+}
+
+.outerBoxWrapper {
+    width: 100%;
+    font-size: 10pt;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+@media only screen and (max-width: 335px) {
+    .outerBoxWrapper {
+        font-size: 8pt;
+    }
+}
+
+.outerBox {
+    text-align: left;
+    color: black;
+    padding: 0;
+}
+
+.boxPlayerState {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    font-weight: bold;
+}
+
+.boxPlayerState .boxWhoIsNext {
+    font-size: 120%;
+    line-height: 1.5em;
+    vertical-align: bottom;
+}
+
+.boxSymbolPlay {
+    margin-top: 0.1em;
+    font-size: 180%;
+    margin-right: 0.3em;
+}
+
+.white {
+    color: white !important;
+}
+
+.boxStepping {
+    text-align: center;
+    font-size: 130% !important;
+}
+
+.boxSymbolClock {
+    margin-top: 0.1em;
+    font-size: 150%;
+    margin-right: 0.3em;
+}
+
+.boxClockContent {
+    float: right;
+    font-size: 150%;
+}
+
+.boxInstructionsText {
+    color: #66829f;
+    display: block;
+    padding: 0.5em;
+}
+
+/*.boxContentClock:after {
+	content:'';
+	display:block;
+	clear:both;
+}*/
+.choclearer {
+    clear: both;
+}
+
+
+//old end  
+
+.checkgamepage {
+
+    .bottom-button{
+        ion-button {
+            span {
+                font-size: 14px;
+                margin-right: 3px;
+            }
+
+            font-size: 9px;
+        }
+    }
+
+    .gameScreen {
+        position: relative;
+        app-gameboard{
+            width:100%;
+            justify-content: center;
+            display: flex;
+        }
+    }
+
+
+    .gamefinishview {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 3000;
+        background:
+        rgba(0,0,0,0.9);
+        background: url("/assets/images/background.png") no-repeat 70% 100%/cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .content {
+            padding: 15px;
+            h1 {
+                text-align: center;
+                font-weight: 600;
+            }
+            .buttons {
+                display: flex;
+                flex-direction: column;
+                margin-top: 20px;
+            }
+        }
+    }
+}

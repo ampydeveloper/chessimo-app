@@ -1,0 +1,70 @@
+[
+    {
+        "title": "",
+        "white": "Ruy Lopez",
+        "white_sort": "",
+        "black": "3...f5",
+        "date": "",
+        "event": {
+            "en": "3...f5",
+            "de": "3...f5",
+            "es": "3...f5",
+            "pt": "3...f5",
+            "zh": "3...f5",
+            "pl": "Wariant 3. ... f5",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 3...f5"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 ",
+                "comment": {
+                    "pt": "Este gambito tem semelhan\u00e7as com o Gambito do Rei, Gambito Let\u00e3o e Abertura Vienesa.",
+                    "en": "This gambit is similar to the King's gambit, Letvian gambit and to the Vienna opening.",
+                    "es": "Este gambito es parecido a los gambitos de Rey y Let\u00f3n, as\u00ed como a la Apertura Vienesa..",
+                    "de": "Dieses Gambit hat \u00c4hnlichkeiten mit dem K\u00f6nigs-sowie dem Lettischen Gambit und der Wiener Partie.",
+                    "zh": "\u8fd9\u4e2a\u5f03\u5175\u5c40\u8ddf\u738b\u7ffc\u5f03\u5175\u3001\u62c9\u8131\u7ef4\u4e9a\u5f03\u5175\u5c40\u548c\u7ef4\u4e5f\u7eb3\u5f00\u5c40\u7c7b\u4f3c\u3002",
+                    "pl": "Ten gambit jest podobny do kr\u00f3lewskiego, \u0142otewskiego i do partii wiede\u0144skiej.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0433\u0430\u043c\u0431\u0438\u0442 \u043f\u043e\u0445\u043e\u0436 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442, \u041b\u0430\u0442\u044b\u0448\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442 \u0438 \u0412\u0435\u043d\u0441\u043a\u0438\u0439 \u0433\u0430\u043c\u0431\u0438\u0442."
+                }
+            },
+            {
+                "move": "   4. Nc3 Nd4 ",
+                "comment": {
+                    "pt": "4...fxe4 5-Cxe4 d5 6-Cxe5 dxe4 7-Cxc6 \u00e9 por muitos considerada a variante principal desta abertura e ocorreu nas partidas 290 a 295 de nossa base.",
+                    "en": "4...fxe4 5-Nxe4 d5 6-Nxe5 dxe4 7-Cxc6 is considered by many the main variation of this opening and is present in the games 290 to 295 of our database.",
+                    "es": "4...fxe4 5-Cxe4 d5 6-Cxe5 dxe4 7-Cxc6 es considerada por muchos la variante principal de esta apertura y se puede ver en las partidas 290 a 295 de nuestra base.",
+                    "de": "4...fxe4 5. Sxe4 d5 6. Sxe5 dxe4 7. Sxc6 wird von vielen f\u00fcr die Hauptvariante dieser Er\u00f6ffnung gehalten (Partien 290 bis 295 unserer Datenbank).",
+                    "zh": "4...fxe4 5-Nxe4 d5 6-Nxe5 dxe4 7-Cxc6\u88ab\u8ba4\u4e3a\u662f\u8fd9\u4e2a\u5f00\u5c40\u7684\u4e3b\u53d8\u4f8b\uff0c\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40290\u5230295\u90fd\u4f53\u73b0\u4e86\u8fd9\u79cd\u5f00\u5c40\u3002",
+                    "pl": "4. ... fxe4 5. Sxe4 d5 6. Sxe5 dxe4 7. Sxc6 jest przez wielu uznawany za podstawow\u0105 wariacj\u0119 tego debiutu, prezentuj\u0105 go partie od 290 do 295 z naszego archiwum.",
+                    "ru": "4...fxe4 5-Nxe4 d5 6-Nxe5 dxe4 7-Cxc6, \u043f\u043e \u043c\u043d\u0435\u043d\u0438\u044e \u043c\u043d\u043e\u0433\u0438\u0445 - \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u044d\u0442\u043e\u0433\u043e \u0434\u0435\u0431\u044e\u0442\u0430, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u044b\u0439 \u0432 \u0438\u0433\u0440\u0430\u0445 290-295, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   5. Ba4 Nf6 6. Nxe5 ",
+                "comment": {
+                    "pt": "6- 0-0 tamb\u00e9m \u00e9 uma boa jogada e ocorreu na partida 289.",
+                    "en": "6- 0-0 is also a good move and appears in game 289.",
+                    "es": "6- 0-0 tambi\u00e9n es una buena jugada y ocurri\u00f3 en la partida 289.",
+                    "de": "6. 0-0 ist auch gut (Partie 289).",
+                    "zh": "6- 0-0\u4e5f\u662f\u5f88\u597d\u7684\u4e00\u7740\uff0c\u5728\u68cb\u5c40289\u4e2d\u51fa\u73b0\u3002",
+                    "pl": "6. 0-0 jest r\u00f3wnie\u017c dobrym posuni\u0119ciem i pojawia si\u0119 w partii 289.",
+                    "ru": "6. 0-0 \u0442\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0445\u043e\u0434, \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0435 289."
+                }
+            },
+            {
+                "move": "   fxe4 7. O-O Bc5 8. Nxe4 Nxe4 9. Qh5+ g6 10. Nxg6 ",
+                "comment": {
+                    "pt": "Ocorreu na partida 209 de nossa base e as brancas venceram.",
+                    "en": "This happens in game 209 of our database and White wins.",
+                    "es": "Ocurri\u00f3 en la partida 209 de nuestra base y las blancas vencieron.",
+                    "de": "Das geschah in der Partie 209, die Wei\u00df gewann.",
+                    "zh": "\u8fd9\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40209\u4e2d\u51fa\u73b0\uff0c\u5e76\u4e14\u767d\u65b9\u8d62\u3002",
+                    "pl": "To zdarzy\u0142o si\u0119 w partii 209 z naszej bazy i doprowadzi\u0142o do wygrany Bia\u0142ych.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 209, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u044e\u0442."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

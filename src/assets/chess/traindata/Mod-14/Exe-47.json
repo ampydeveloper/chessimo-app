@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(22)",
+            "zh": "Event 1"
+        },
+        "fen": "3R4\/5p1k\/1p2q1p1\/2ppr3\/7P\/3Q2P1\/PP3P2\/6K1 b - - 0 35",
+        "moves": [
+            {
+                "move": "35... d4 ",
+                "comment": {
+                    "pt": "Avan\u00e7ando o pe\u00e3o passado e abrindo a diagonal a8-h1.",
+                    "en": "Advancing the passed pawn and opening the a8-h1 diagonal.",
+                    "de": "R\u00fcckt den Freibauern vor und \u00f6ffnet die Diagonale a8-h1.",
+                    "es": "Avanzando el pe\u00f3n pasado y abriendo la diagonal a8-h1.",
+                    "zh": "\u524d\u8fdb\u901a\u8def\u5175\uff0c\u5f00\u653ea8-h1\u659c\u7ebf\u3002",
+                    "pl": "Marsz wolnym pionem i otwarcie przek\u0105tnej a8-h1.",
+                    "ru": "\u041f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a8-h1."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(1)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/5b1R\/p4k2\/1p2p3\/1P2Pp1P\/P7\/3rB3\/5K2 b - - 0 51",
+        "moves": [
+            {
+                "move": "51... Bg6 ",
+                "comment": {
+                    "pt": "Ganhando o pe\u00e3o de e4 e transformando os pe\u00f5es centrais em pe\u00f5es passados unidos.",
+                    "en": "Winning the e4-pawn and turning central pawns into connected passed pawns.",
+                    "de": "Gewinnt den Bauern e4, wodurch die Zentralbauern zu verbundenen Freibauern werden.",
+                    "es": "Ganando el pe\u00f3n de e4 y transformando los peones centrales en peones pasados unidos.",
+                    "zh": "\u8d62\u5f97e4-\u5175\u4ee5\u6b64\u5c06\u4e2d\u5fc3\u5175\u53d8\u4e3a\u76f8\u4e92\u8054\u7cfb\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "Wygrywaj\u0105c piona e4 i zamieniaj\u0105c centralne piony w po\u0142\u0105czone wolne piony.",
+                    "ru": "\u0412\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 e4 \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438, \u0432 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(152)",
+            "zh": "Event 1"
+        },
+        "fen": "3r1r2\/pp2qk1p\/2n1p1pn\/1N1p1p2\/2P5\/QP2P1P1\/P3NPKP\/3R1R2 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. cxd5 ",
+                "comment": {
+                    "pt": "For\u00e7ando as pretas a isolarem o seu pe\u00e3o dama.",
+                    "en": "Forcing Black to isolate its Queen-pawn.",
+                    "de": "Dadurch entsteht ein Isolani auf d5.",
+                    "es": "Forzando las negras a aislar el pe\u00f3n dama.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u68cb\u5b64\u7acbd5\u5175\u3002",
+                    "pl": "Wymuszaj\u0105c na Czarnych izolacj\u0119 piona hetma\u0144skiego.",
+                    "ru": "\u0417\u0430\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(77)",
+            "zh": "Event 1"
+        },
+        "fen": "1r1q1r2\/2nbppkp\/3p2p1\/np6\/P3PP2\/1PN3PP\/4N1B1\/1R1Q1RK1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. b4 ",
+                "comment": {
+                    "pt": "Para seguir com a5 e criar um pe\u00e3o passado protegido.",
+                    "en": "In order to continue with a5 and create a protected passed pawn.",
+                    "de": "Um a5 folgen zu lassen und einen gesch\u00fctzten Freibauern zu erhalten.",
+                    "es": "Para seguir con a5 y crear un pe\u00f3n pasado protegido.",
+                    "zh": "\u4e3a\u4e86\u7ee7\u7eed\u4e0ba5\uff0c\u5236\u9020\u4e00\u4e2a\u53d7\u4fdd\u62a4\u7684\u901a\u8def\u5175\u3002",
+                    "pl": "W celu kontynuacji przez a5 i stworzenia chronionego wolnego piona.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c a5 \u0438 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "3",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(12)",
+            "zh": "Event 1"
+        },
+        "fen": "1r3r1k\/1pq3pp\/pR1p4\/P2Pp1b1\/1PP1RpB1\/8\/3Q1PPP\/6K1 w - - 0 28",
+        "moves": [
+            {
+                "move": "28. c5 ",
+                "comment": {
+                    "pt": "Para criar um pe\u00e3o passado e ampliar a a\u00e7\u00e3o das torres.",
+                    "en": "Creating a passed pawn and amplifying the Rook's range.",
+                    "de": "Um einen gesch\u00fctzten Freibauern zu erhalten und den Wirkungsbereich der T\u00fcrme zu erweitern.",
+                    "es": "Para crear un pe\u00f3n pasado y ampliar la acci\u00f3n de las torres.",
+                    "zh": "\u5236\u9020\u4e00\u4e2a\u901a\u8def\u5175\uff0c\u6269\u5927\u8f66\u7684\u6d3b\u52a8\u8303\u56f4\u3002",
+                    "pl": "Tworz\u0105c wolnego piona i zwi\u0119kszaj\u0105c zasi\u0119g Wie\u017cy.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

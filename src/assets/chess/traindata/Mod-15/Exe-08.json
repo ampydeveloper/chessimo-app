@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(64)",
+            "zh": "Event 1"
+        },
+        "fen": "r3nr2\/p4Nk1\/b1p1R1P1\/2p4B\/4Pp2\/3n4\/PPK1NP2\/7R w - - 0 32",
+        "moves": [
+            {
+                "move": "32. Bf3 ",
+                "comment": {
+                    "pt": "Dando passagem para a torre ir at\u00e9 h7.",
+                    "en": "Making way for the Rook to reach h7.",
+                    "de": "L\u00e4sst die h-Linie f\u00fcr den Turm frei, damit dieser h7 erreichen kann.",
+                    "es": "Abri\u00e9ndole paso a la torre hacia h7.",
+                    "zh": "\u7ed9\u8f66\u901a\u5f80h7\u626b\u6e05\u9053\u8def\u3002",
+                    "pl": "Utorowanie drogi dla Wie\u017cy w celu osi\u0105gni\u0119cia pola h7.",
+                    "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0443\u0442\u044c \u041b\u0430\u0434\u044c\u0435, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c h7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(126)",
+            "zh": "Event 1"
+        },
+        "fen": "rnbq1rk1\/1p2bppp\/p2p4\/3Pp3\/2P5\/2NB4\/PP3PPP\/R1BQ1RK1 b - - 0 12",
+        "moves": [
+            {
+                "move": "12... f5 ",
+                "comment": {
+                    "pt": "Ganhando espa\u00e7o no setor em que as pretas t\u00eam maioria de pe\u00f5es.",
+                    "en": "Gaining space where Black has pawn majority.",
+                    "de": "Gewinnt Raum am Fl\u00fcgel, an dem Schwarz eine Bauernmehrheit besitzt.",
+                    "es": "Ganando espacio en el sector en que las negras tienen mayor\u00eda de peones.",
+                    "zh": "\u5728\u9ed1\u68cb\u591a\u5175\u4e00\u4fa7\u8d62\u5f97\u7a7a\u95f4\u3002",
+                    "pl": "Zdobywanie przestrzeni, gdzie Czarne posiadaj\u0105 wi\u0119kszo\u015b\u0107 pion\u00f3w.",
+                    "ru": "\u0423\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u0433\u0434\u0435 \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(49)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qkb1r\/2pb2pp\/p1np1pn1\/1p2p3\/3PP3\/1BN1BN2\/PPPQ1PPP\/R3K2R b KQkq - 0 10",
+        "moves": [
+            {
+                "move": "10... Na5 ",
+                "comment": {
+                    "pt": "Para eliminar o bispo branco advers\u00e1rio que est\u00e1 controlando a diagonal a2-g8.",
+                    "en": "In order to eliminate the white-squared enemy Bishop, which is controlling the a2-g8 diagonal.",
+                    "de": "Um den gegnerischen wei\u00dffeldrigen L\u00e4ufer zu beseitigen, der die Diagonale a2-g8 kontrolliert.",
+                    "es": "Para eliminar el alfil blanco adversario que est\u00e1 controlando la diagonal a2-g8.",
+                    "zh": "\u4e3a\u4e86\u6d88\u706d\u63a7\u5236\u7740a2-g8\u659c\u7ebf\u7684\u767d\u683c\u654c\u8c61\u3002",
+                    "pl": "W celu eliminacji jasnopolowego Go\u0144ca przeciwnika, kt\u00f3ry kontroluje przek\u0105tn\u0105 a2-g8.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u0435\u0442\u043b\u043e\u043f\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a2-g8."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(87)",
+            "zh": "Event 1"
+        },
+        "fen": "2k5\/5pq1\/p3p1pp\/1pPp4\/1P2nP2\/P1r1P3\/1Q4PP\/1B3RK1 w - - 0 38",
+        "moves": [
+            {
+                "move": "38. Bxe4 ",
+                "comment": {
+                    "pt": "Eliminando a pe\u00e7a contr\u00e1ria mais ativa.",
+                    "en": "Eliminating the most active enemy piece.",
+                    "de": "Beseitigt die aktivste Figur vom Gegner.",
+                    "es": "Eliminando la pieza contraria m\u00e1s activa.",
+                    "zh": "\u6d88\u706d\u5bf9\u624b\u6700\u6d3b\u8dc3\u7684\u68cb\u5b50\u3002",
+                    "pl": "Eliminuj\u0105c najbardziej aktywn\u0105 wrog\u0105 figur\u0119.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u0443\u044e \u0444\u0438\u0433\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(2)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q2k1\/pp1b1r1p\/3p2n1\/3Pp1bn\/4P3\/3N1P2\/PPRNB1PB\/2R1Q1K1 b - - 0 25",
+        "moves": [
+            {
+                "move": "25... Be3+ ",
+                "comment": {
+                    "pt": "Liberando, com ganho de tempo, a casa g5 para a dama preta.",
+                    "en": "Liberating g5 for the black Queen with a gain of tempo.",
+                    "de": "L\u00e4sst mit Tempogewinn das Feld g5 f\u00fcr die schwarze Dame frei.",
+                    "es": "Liberando, con ganancia de tiempo, la casilla g5 para la dama negra.",
+                    "zh": "\u817e\u7a7ag5\u7ed9\u9ed1\u540e\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u3002",
+                    "pl": "Uwalniaj\u0105c g5 dla czarnego Hetmana wraz z zyskiem tempa.",
+                    "ru": "\u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0430\u0435\u0442 \u043f\u043e\u043b\u0435 g5 \u0434\u043b\u044f \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0438 \u043d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u0435\u0442 \u0442\u0435\u043c\u043f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

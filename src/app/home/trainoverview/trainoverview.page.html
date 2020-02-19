@@ -1,0 +1,52 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Trainoverview
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="d-flex flex-column" style="min-height: 100%; padding-top: 10px">
+      <div class="flex-1">
+        <div class="tacticsBoxOuter" *ngFor="let t of trainings | keyvalue: appService.asIsOrder">
+          <div class="tacticsBox click-effect" (click)="gotoTrainUnits(t.key)">
+          <div class="dotCircle" [style.transform]="'rotate(' + t.value.percentage + 'deg)'"></div>
+            <div class="innerCircle">
+              <div>
+                <div class="heading">{{t.value.name}}</div>
+                <div class="percentage">{{t.value.percentage}}%</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-box-outer">
+          <div class="info-box">
+            <div class="info-content">
+              <h1>Training Targets</h1>
+              <div class="date-info">
+                <span class="text">Start of training:</span>
+                <span class="date"> 11/06/2019</span>
+              </div>
+              <div class="date-info">
+                  <span class="text">End of training:</span>
+                  <span class="date"> 08/06/2020</span>
+              </div>
+              <progress style="width: 100%; margin-top: 10px; background: #fff;" value="{{trainData.OverAllPercentage}}" max="100"></progress>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="bottom-button ion-padding">
+            <ion-button fill="outline" color="white" (click)="gotoShop()"><img src="../../assets/images/shopping-cart.png" />Shop</ion-button>
+            <ion-button fill="outline" color="white" (click)="gotoHelp()"><img src="../../assets/images/light-bulb.png" />Help</ion-button>
+            <ion-button fill="outline" color="white" (click)="gotoAbout()"><img src="../../assets/images/info.png" />About Chessimo</ion-button>
+        </div>
+      </div>
+  </div>
+</ion-content>

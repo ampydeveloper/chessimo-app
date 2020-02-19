@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(17)",
+            "zh": "Event 1"
+        },
+        "fen": "r2r2k1\/4qp2\/2p3p1\/p3p2p\/PnQ1P2b\/2N1B2P\/1PPR2P1\/5RK1 w - - 0 24",
+        "moves": [
+            {
+                "move": "24. Nb1 ",
+                "comment": {
+                    "pt": "Para expulsar o cavalo de b4 com c3 e para melhorar esta pe\u00e7a, que ap\u00f3s a casa d2, poder\u00e1 ir a c4 ou f3.",
+                    "en": "In order to chase the Knight out of b4 with c3 and improve the position of this piece that will be able to move to c4 or f3, after d2.",
+                    "de": "Um den Springer von b4 zu vertreiben und die Stellung des Springers sp\u00e4ter \u00fcber d2-f3 bzw. d2-c4 zu verbessern.",
+                    "es": "Para expulsar el caballo de b4 con c3 y para mejorar esta pieza, que despu\u00e9s de la casilla d2, podr\u00e1 ir a c4 o a f3.",
+                    "zh": "\u4e3a\u4e86\u7528c3\u5c06\u9a6c\u9a71\u9010\u51fab4\u5e76\u4e14\u6539\u5584\u8fd9\u4e2a\u68cb\u5b50\u7684\u4f4d\u7f6e\uff0c\u8fd9\u6837\u5b83\u53ef\u4ee5\u5728d2\u4e4b\u540e\u79fb\u52a8\u5230c4\u6216f3\u3002",
+                    "pl": "W celu przegonienia Skoczka z b4 wraz z c3 oraz poprawa pozycji tej figury, kt\u00f3ra b\u0119dzie mog\u0142a przemie\u015bci\u0107 si\u0119 na c4 lub f3, po d2.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u043e\u0442 b4 \u0441 c3 \u0438 \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u044b, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0439\u0442\u0438 \u043d\u0430 c4 \u0438\u043b\u0438 f3, \u043f\u043e\u0441\u043b\u0435 d2."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(34)",
+            "zh": "Event 1"
+        },
+        "fen": "2r2rk1\/pbqnbpp1\/1pp1pn1p\/8\/2PPN3\/1P1B1N2\/PBQ2PPP\/3R1RK1 w - - 0 14",
+        "moves": [
+            {
+                "move": "14. c5 ",
+                "comment": {
+                    "pt": "O objetivo desta jogada \u00e9 obstruir o bispo de b7 e evitar a jogada simplificadora ... c5. As pretas podem ganhar um pe\u00e3o (...dxc5 dxc5 Cxc5), mas isto permitir\u00e1 a abertura de v\u00e1rias linhas de ataque contra seu pr\u00f3prio rei.",
+                    "en": "The goal of this move is to block the b7-Bishop and prevent the simplifying ...c5 move. Black may win a pawn but this will enable several line openings for attacks against its King.",
+                    "de": "Verhindert ...Lc5, was die Stellung vereinfachen und den wei\u00dffeldrigen L\u00c4ufer aktivieren w\u00fcrde.",
+                    "es": "El objetivo de esta jugada es obstruir el alfil de b7 y evitar la jugada simplificadora ... c5. Las negras pueden ganar un pe\u00f3n (...dxc5 dxc5 Cxc5), pero esto permitir\u00e1 la apertura de varias l\u00edneas de ataque contra su propio rey.",
+                    "zh": "\u8fd9\u4e00\u6b65\u7684\u76ee\u7684\u662f\u4e3a\u4e86\u9650\u5236b7-\u8c61\u5e76\u4e14\u963b\u6b62\u7b80\u5316\u5c40\u9762\u7684...c5\u3002\u9ed1\u68cb\u53ef\u4ee5\u8d62\u5f97\u4e00\u4e2a\u5175\u4f46\u662f\u8fd9\u6837\u4f1a\u5f00\u653e\u597d\u51e0\u6761\u653b\u51fb\u9ed1\u738b\u7684\u7ebf\u8def\u3002",
+                    "pl": "Celem tego ruchu jest zablokowanie Go\u0144ca b7 i uniemo\u017cliwienie u\u0142atwiaj\u0105cego spraw\u0119 ruchu czarnych na ... c5. Czarne mog\u0105 wygra\u0107 piona, ale umo\u017cliwi to otwarcie kilku linii dla atak\u00f3w na ich Kr\u00f3la.",
+                    "ru": "\u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0446\u0435\u043b\u044c \u044d\u0442\u043e\u0433\u043e \u0445\u043e\u0434\u0430, \u044d\u0442\u043e \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0421\u043b\u043e\u043d\u0430 b7 \u0438  \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u0438\u044f, \u0445\u043e\u0434\u043e\u043c ...c5. \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443, \u043d\u043e \u044d\u0442\u043e \u043e\u0442\u043a\u0440\u043e\u0435\u0442 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043b\u0438\u043d\u0438\u0439 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u0438\u0445 \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(39)",
+            "zh": "Event 1"
+        },
+        "fen": "rnbq1rk1\/pp4bp\/3p4\/2pPpp1n\/2P5\/2NBBP2\/PPQ1N1PP\/R3K2R b KQ - 0 1",
+        "moves": [
+            {
+                "move": "1... e4 ",
+                "comment": {
+                    "pt": "Sacrificando um pe\u00e3o para ganhar atividade em suas pe\u00e7as. O lance abre a diagonal para o bispo em g7 e ao mesmo tempo deixa a casa e5 para o cavalo da dama.",
+                    "en": "Sacrificing a pawn in order to gain piece mobility. The move opens the diagonal for the g7-Bishop and, at the same time, leaves e5 for the Queen-Knight.",
+                    "de": "Opfert einen Bauern, um die Figuren zu aktivieren. Der Textzug \u00f6ffnet die Diagonale f\u00fcr den L\u00e4ufer g7 und r\u00e4umt das Feld e5 f\u00fcr den Springer .",
+                    "es": "Sacrificando un pe\u00f3n para dar actividad a sus piezas. La jugada abre la diagonal para el alfil en g7 y al mismo tiempo deja la casilla e5 para el caballo de la dama.",
+                    "zh": "\u5f03\u5175\u4e3a\u4e86\u8d62\u5f97\u5b50\u529b\u4f18\u52bf\u3002\u8fd9\u4e00\u6b65\u7ed9g7-\u8c61\u5f00\u653e\u659c\u7ebf\uff0c\u540c\u65f6\u6e05\u7a7ae5\u7ed9\u9a6c\u3002",
+                    "pl": "Po\u015bwi\u0119cenie piona w celu zdobycia mobilno\u015bci figury. Ruch otwiera przek\u0105tn\u0105 dla Go\u0144ca g7 i w tym samym czasie opuszcza pole e5 dla Skoczka hetma\u0144skiego.",
+                    "ru": "\u0416\u0435\u0440\u0442\u0432\u0443\u0435\u0442 \u043f\u0435\u0448\u043a\u0443 \u0432\u0437\u0430\u043c\u0435\u043d \u043d\u0430 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0444\u0438\u0433\u0443\u0440\u044b. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430 g7 \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 e5 \u0434\u043b\u044f \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u0433\u043e \u041a\u043e\u043d\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(36)",
+            "zh": "Event 1"
+        },
+        "fen": "r1b2rk1\/1p1n2pp\/p2p1q2\/3Pppb1\/2P5\/2NB1P2\/PP2QBPP\/R4RK1 b - - 0 16",
+        "moves": [
+            {
+                "move": "16... e4 ",
+                "comment": {
+                    "pt": "As pretas sacrificam um pe\u00e3o para liberar a casa e5 para o cavalo e, atrav\u00e9s do avan\u00e7o do pe\u00e3o de f, ganhar espa\u00e7o para atacar no flanco do rei.",
+                    "en": "Black sacrifices a pawn in order to liberate e5 for the Knight and gain space to attack on the kingside, by means of the advance of the f-pawn.",
+                    "de": "Schwarz opfert einen Bauern, um das Feld e5 f\u00fcr den Springer zu r\u00e4umen und durch den Vorsto\u00df des f-Bauern Raum f\u00fcr einen Angriff am K\u00f6nigsfl\u00fcgel zu gewinnen.",
+                    "es": "Las negras sacrifican un pe\u00f3n para liberar la casilla e5 para el caballo y, a trav\u00e9s del avance del pe\u00f3n de f, ganar espacio para atacar en el flanco rey.",
+                    "zh": "\u9ed1\u68cb\u5f03\u5175\u4e3a\u4e86\u6e05\u7a7ae5\u7ed9\u9a6c\u5e76\u901a\u8fc7\u633af-\u5175\u8d62\u5f97\u7a7a\u95f4\u6765\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "Czarne po\u015bwi\u0119caj\u0105 piona w celu uwolnienia e5 dla Skoczka oraz zdobycia przestrzeni do ataku na skrzyd\u0142o kr\u00f3lewskie poprzez marsz pionem f.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u0436\u0435\u0440\u0442\u0432\u0443\u044e\u0442 \u043f\u0435\u0448\u043a\u0443, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c e5 \u0434\u043b\u044f \u041a\u043e\u043d\u044f \u0438 \u0440\u0430\u0441\u0448\u0438\u0440\u044f\u044e\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f f-\u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "5",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(11)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1brk1\/4pp1p\/pqnp2p1\/8\/2R2P2\/PP2P1PP\/1Q2N1B1\/3R2K1 w - - 0 23",
+        "moves": [
+            {
+                "move": "23. Nc3 ",
+                "comment": {
+                    "pt": "Para ocupar a casa d5, mesmo a custa de um pe\u00e3o. O dom\u00ednio da grande diagonal, a press\u00e3o pela coluna c e o cavalo em d5 valem mais do que o pe\u00e3o sacrificado.",
+                    "en": "In order to occupy d5, even at the cost of a pawn. The dominance of the big diagonal, the pressure through the c-file and the d5-Knight are worth more than the sacrificed pawn.",
+                    "de": "Um das Feld d5 zu besetzen, auch wenn das ein Bauer kostet. Die Kontrolle \u00fcber die gro\u00dfe Diagonale, der Druck auf der c-Linie und der Vorposten auf d5 sind kompensieren den geopferten Bauern.",
+                    "es": "Para ocupar la casilla d5, aunque cueste un pe\u00f3n. El dominio de la gran diagonal, la presi\u00f3n por la columna c y el caballo en d5 valen m\u00e1s que el pe\u00f3n sacrificado.",
+                    "zh": "\u4e3a\u4e86\u5360\u636ed5\uff0c\u751a\u81f3\u4e0d\u60dc\u4e22\u6389\u4e00\u4e2a\u5175\u3002\u5bf9\u4e8e\u5927\u659c\u7ebf\u7684\u7edf\u6cbb\u3001\u901a\u8fc7c-\u7ebf\u548cd5-\u9a6c\u6240\u65bd\u52a0\u7684\u538b\u529b\u8f83\u4e4b\u5f03\u5175\u8981\u662f\u975e\u5e38\u503c\u5f97\u7684\u3002",
+                    "pl": "W celu zaj\u0119cia d5, nawet za cen\u0119 utraty piona. Dominacja na d\u0142ugiej przek\u0105tnej, presja przez kolumn\u0119 c i Skoczek d5 s\u0105 warte wi\u0119cej ni\u017c ofiarowany pion.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c d5, \u0434\u0430\u0436\u0435 \u0446\u0435\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0414\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433\u0430 \u0447\u0435\u0440\u0435\u0437 c-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u041a\u043e\u043d\u044f \u043d\u0430 d5, \u0441\u0442\u043e\u0438\u0442 \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0431\u043e\u043b\u044c\u0448\u0435 \u0432 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u043f\u043b\u0430\u043d\u0435, \u0447\u0435\u043c \u0436\u0435\u0440\u0442\u0432\u0430 \u043f\u0435\u0448\u043a\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

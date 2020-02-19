@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "Siciliana",
+        "white_sort": "",
+        "black": "Variante Fechada.",
+        "date": "",
+        "event": {
+            "en": "Closed variation",
+            "de": "Geschlossene Variante",
+            "es": "Variante Cerrada",
+            "pt": "Variante Cerrada",
+            "zh": "\u5c01\u95ed\u53d8\u4f8b",
+            "pl": "Zamkni\u0119ta wariacja",
+            "ru": "\u0417\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 c5 2. Nc3 Nc6 3. g3 ",
+                "comment": {
+                    "pt": "Neste sistema, as brancas buscam primeiro o desenvolvimento no flanco rei, para depois definirem o centro, ainda que na maior parte das vezes o centro ficar\u00e1 como est\u00e1 e as brancas atacar\u00e3o no flanco rei, com os pe\u00f5es na frente das pe\u00e7as, comecando com as jogadas \"f4-h3-g4\" e depois, se poss\u00edvel \"g5-f5\". Para melhor entender esta abertura \u00e9 necess\u00e1rio estudar as partidas sem a preocupa\u00e7\u00e3o de memorizar as jogadas. As partidas 446 a 450 de nossa base s\u00e3o muito instrutivas e ajudam na compreens\u00e3o deste sistema.",
+                    "en": "In this system White looks for kingside development first in order to determine the center afterwards even if in most cases the center stays as it is and White attacks on the kingside with pawns in front of its pieces, starting with f4-h3-g4 and then, if possible, g5-f5. In order to understand this opening better it is necessary to study the games without worrying about memorizing the moves. Games 446 to 450 of our database are very instructive and helpful for understanding this system.",
+                    "es": "En este sistema, las blancas buscan primero el desarrollo en el flanco rey, para reci\u00e9n despu\u00e9s definir el centro, que en la mayor parte de las veces quedar\u00e1 como est\u00e1 y las blancas atacar\u00e1n en el flanco rey, con los peones delante de las piezas, comenzando con las jugadas \"f4-h3-g4\" y despu\u00e9s, si es posible, \"g5-f5\". Para entender mejor esta apertura es necesario estudiar las partidas sin preocuparse en memorizar las jugadas. Las partidas 446 a 450 de nuestra base son muy instructivas y ayudan a comprender este sistema.",
+                    "de": "In diesem System entwickelt Wei\u00df zuerst den K\u00f6nigsfl\u00fcgel, bevor er eine Entscheidung im Zentrum trifft. Normalerweise bleibt das Zentrum unver\u00e4ndert und Wei\u00df greift mit den Bauern vor den Figuren am K\u00f6nigsfl\u00fcgel an (mit f4-h3-g4 und sp\u00e4ter gelegentlich mit g5-f5). Um die Er\u00f6ffnung besser zu verstehen, ist  es gut, die Partien nachzuspielen, ohne sich darum zu k\u00fcmmern, die Zugfolge auswendig zu lernen. Partien 446 bis 450 unserer Datenbank sind sehr lehrreich und helfen dabei, dieses System zu verstehen.",
+                    "zh": "\u5728\u8fd9\u4e2a\u4f53\u7cfb\u4e2d\u767d\u65b9\u9996\u5148\u5728\u738b\u7ffc\u51fa\u5b50\u518d\u6765\u51b3\u5b9a\u4e2d\u5fc3\u3002\u5728\u5f88\u591a\u60c5\u51b5\u4e0b\u4e2d\u5fc3\u5c31\u6301\u4e0d\u53d8\uff0c\u767d\u65b9\u5728\u524d\u65b9\u7528\u5175\u653b\u51fb\u738b\u7ffc\uff0c\u7528f4-h3-g4\u5f00\u59cb\uff0c\u5982\u679c\u53ef\u80fd\u7684\u8bdd\u7ee7\u7eed g5-f5\u3002\u4e3a\u4e86\u66f4\u597d\u7684\u7406\u89e3\u8fd9\u4e2a\u5f00\u5c40\u5fc5\u987b\u4ed4\u7ec6\u4e13\u7814\u800c\u4e0d\u62c5\u5fc3\u5982\u4f55\u597d\u597d\u8bb0\u4f4f\u68cb\u5e8f\u3002\u68cb\u5e93\u4e2d\u68cb\u5c40446\u5230450\u5bf9\u7406\u89e3\u8fd9\u4e2a\u4f53\u7cfb\u662f\u975e\u5e38\u6709\u5e2e\u52a9\u6709\u76ca\u7684\u3002",
+                    "pl": "W tym systemie Bia\u0142e szukaj\u0105 najpierw rozwoju figur na skrzydle kr\u00f3lewskim, aby p\u00f3\u017aniej okre\u015bli\u0107 dzia\u0142ania w centrum, nawet je\u015bli sytuacja w centrum pozostanie niezmienna Bia\u0142e zaatakuj\u0105 na skrzydle kr\u00f3lewskim przez piony przed w\u0142asnymi figurami, startuj\u0105c od f4-h3-g4 i potem, w miar\u0119 mo\u017cliwo\u015bci, g5-f5. W celu zrozumienia tego debiutu konieczne jest studiowanie gier bez obawy o zapami\u0119tanie ruch\u00f3w. Partie 446-450 z naszej bazy s\u0105 bardzo instruktarzowe i pomocne w zrozumieniu tego systemu.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0442\u043e\u043c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0441 \u0446\u0435\u043d\u0442\u0440\u043e\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u0435\u0433\u043e \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0435 \u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f. \u0411\u0435\u043b\u044b\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u043f\u0435\u0448\u043a\u0430\u043c\u0438, \u0432\u043f\u0435\u0440\u0435\u0434\u0438 \u0441\u0432\u043e\u0438\u0445 \u0444\u0438\u0433\u0443\u0440, \u043d\u0430\u0447\u0438\u043d\u0430\u044f f4-h3-g4, \u0438, \u0434\u0430\u043b\u0435\u0435, \u0435\u0441\u043b\u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, g5-f5. \u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043b\u0443\u0447\u0448\u0435 \u043f\u043e\u043d\u044f\u0442\u044c \u044d\u0442\u043e\u0442 \u0434\u0435\u0431\u044e\u0442, \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0438\u0437\u0443\u0447\u0438\u0442\u044c \u0438\u0433\u0440\u044b \u0431\u0435\u0437 \u0437\u0430\u0443\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0445\u043e\u0434\u043e\u0432. \u0418\u0433\u0440\u044b 446-450, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e \u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u044e\u0442 \u0442\u0430\u043a\u043e\u0435 \u043d\u0430\u0447\u0430\u043b\u043e."
+                }
+            },
+            {
+                "move": "   g6 ",
+                "comment": {
+                    "pt": "As pretas buscar\u00e3o contraatacar no flanco dama com o avan\u00e7o do seu pe\u00e3o b e colocam o bispo nesta grande diagonal \"h8-a1\" com dois objetivos; defender o rei e pressionar o flanco dama.",
+                    "en": "Black will trytocounter-atta ck on the queenside by advancing its b-pawn. The Bishop is placed on the big h8-a1 diagonal with two goals: to defend the King and put pressure on the queenside.",
+                    "es": "Las negras buscar\u00e1n contraatacar en el flanco dama con el avance de su pe\u00f3n b y colocan el alfil en esta gran diagonal \"h8-a1\" con dos objetivos, defender el rey y presionar el flanco dama.",
+                    "de": "Schwarz sucht Gegenangriff am Damenfl\u00fcgel mit dem Vorr\u00fccken des b-Bauern und stellt den L\u00e4ufer auf die lange Diagonale mit zwei Zielen: den K\u00f6nig zu verteidigen und den gegnerischen Damenfl\u00fcgel unter Druck zu setzen.",
+                    "zh": "\u9ed1\u65b9\u5c1d\u8bd5\u5728\u540e\u7ffc\u633a\u5175\u8fdb\u884c\u53cd\u51fb\u3002\u5c06\u8c61\u6446\u5728h8-a1\u5927\u659c\u7ebf\u6709\u4e24\u4e2a\u76ee\u7684\uff1a\u9632\u5fa1\u738b\u5e76\u7ed9\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Czarne spr\u00f3buj\u0105 kontrataku na skrzydle hetma\u0144skim przez marsz piona b. Goniec jest umieszczony na d\u0142ugiej przek\u0105tnej h8-a1 z dw\u00f3ch powod\u00f3w: aby broni\u0107 Kr\u00f3la oraz wywiera\u0107 presj\u0119 na skrzyd\u0142o hetma\u0144skie.",
+                    "ru": "\u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u043e\u0431\u0443\u044e\u0442 \u043a\u043e\u043d\u0442\u0440\u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044f \u0441\u0432\u043e\u044e b-\u043f\u0435\u0448\u043a\u0443. \u0421\u043b\u043e\u043d \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d \u043d\u0430 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u0438 h8-a1 \u0441 \u0434\u0432\u0443\u043c\u044f \u0446\u0435\u043b\u044f\u043c\u0438: \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u041a\u043e\u0440\u043e\u043b\u044f \u0438 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433."
+                }
+            },
+            {
+                "move": "   4. Bg2 Bg7 5. d3 d6 6. f4 e6 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m s\u00e3o boas as jogadas ...e5 e ... Cf6. A jogada do texto \u00e9 a mais flex\u00edvel, pois n\u00e3o obstrui a diagonal do bispo preto e mant\u00e9m todas as possibilidades de disputar o centro (...e5 ...d5 ...f5) em aberto.",
+                    "en": "...e5 and ...Nf6 are also good. The move of the text is more flexible because it doesn't obstruct the diagonal of the black Bishop and maintains all possibilities open to fight for the center (...e5 ...d5 ...f5).",
+                    "es": "Tambi\u00e9n son buenas las jugadas ...e5 y ...Cf6. La jugada del texto es la m\u00e1s flexible, pues no obstruye la diagonal del alfil negro y mantiene abiertas todas las posibilidades de disputar el centro (...e5 ...d5 ...f5).",
+                    "de": "...e5 und ... Sf6 sind auch gut. Der Textzug ist flexibler, da er die Diagonale des schwarzen L\u00e4ufers nicht sperrt und  alle M\u00f6glichkeiten offen h\u00e4lt, um um das Zentrum zu k\u00e4mpfen (...e5 ...d5 ...f5).",
+                    "zh": "...e5\u548c...Nf6\u4e5f\u662f\u597d\u7684\u3002\u8fd9\u91cc\u8bb2\u7684\u8d70\u6cd5\u8981\u66f4\u52a0\u7075\u6d3b\uff0c\u56e0\u4e3a\u5b83\u4e0d\u4f1a\u963b\u788d\u9ed1\u8c61\u7684\u659c\u7ebf\u5e76\u4e14\u7ee7\u7eed\u4fdd\u6301\u653b\u51fb\u4e2d\u5fc3\u7684\u53ef\u80fd\uff08...e5 ...d5 ...f5\uff09\u3002",
+                    "pl": "... e5 i ... Sf6 s\u0105 r\u00f3wnie\u017c dobre. Posuni\u0119cie z tekstu jest bardziej mobilne, poniewa\u017c nie przes\u0142ania przek\u0105tnej czarnego Go\u0144ca i utrzymuje wszystkie mo\u017cliwo\u015bci otwarte, aby walczy\u0107 o centrum (... e5 ... d5 ... f5).",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442\u044b ...e5 \u0438 ...Nf6 \u0442\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0431\u043e\u043b\u0435\u0435 \u0433\u0438\u0431\u043a\u043e\u0435, \u0442\u0430\u043a \u043a\u0430\u043a \u043d\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0431\u043e\u0440\u044c\u0431\u044b \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 (...e5 ...d5 ...f5)."
+                }
+            },
+            {
+                "move": "   7. Nf3 Nge7 8. O-O O-O 9. Be3 Rb8 ",
+                "comment": {
+                    "pt": "Para atacar no flanco dama com ... b5. As pretas tamb\u00e9m poderiam jogar ...Cd4, evitando que as brancas joguem d4 no seu pr\u00f3ximo lance.",
+                    "en": "In order to attack on the queenside with ...b5. Black can also play ...Nd4, preventing White from d4 on its next move.",
+                    "es": "Para atacar en el flanco dama con ...b5. Las negras tambi\u00e9n podr\u00edan jugar ...Cd4, evitando que las blancas jueguen d4 en su pr\u00f3xima jugada.",
+                    "de": "Um am Damenfl\u00fcgel mit ... b5 anzugreifen. Schwarz k\u00f6nnte ...Sd4 spielen, um das wei\u00dfe d4 im n\u00e4chsten Zug zu verhindern.",
+                    "zh": "\u4e3a\u4e86\u7528 ...b5\u653b\u51fb\u540e\u7ffc\u3002\u9ed1\u65b9\u4e5f\u53ef\u4ee5\u8d70..Nd4\uff0c\u963b\u6b62\u767d\u65b9\u4e0b\u4e00\u6b65\u8d70d4\u3002",
+                    "pl": "Aby zaatakowa\u0107 skrzyd\u0142o hetma\u0144skie przez ... b5. Czarne mog\u0105 r\u00f3wnie\u017c zagra\u0107 ... Sd4, uniemo\u017cliwiaj\u0105c Bia\u0142ym zagranie d4 w nast\u0119pnym ruchu.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 ...b5. \u0427\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0442\u0430\u043a\u0436\u0435 \u0441\u044b\u0433\u0440\u0430\u0442\u044c ...Nd4, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u044f \u0411\u0435\u043b\u044b\u0445 \u0445\u043e\u0434\u0438\u0442\u044c d4, \u043d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0445\u043e\u0434\u0443."
+                }
+            },
+            {
+                "move": "   10. h3 ",
+                "comment": {
+                    "pt": "Abrir o centro com d4 tamb\u00e9m seria uma boa op\u00e7\u00e3o , mas mudaria o car\u00e1ter da variante fechada para um jogo mais aberto.",
+                    "en": "To open the center with d4 is also a good option but changes the character of the closed variation to a more open game.",
+                    "es": "Abrir el centro con d4 tambi\u00e9n ser\u00eda una buena opci\u00f3n, pero cambiar\u00eda el car\u00e1cter de la variante cerrada para un juego m\u00e1s abierto.",
+                    "de": "Das Zentrum mit d4 zu \u00f6ffnen w\u00e4re eine gute M\u00f6glichkeit, dadurch w\u00fcrde aber der Charakter der Variante grunds\u00e4tzlich ver\u00e4ndert.",
+                    "zh": "\u7528d4\u5f00\u653e\u4e2d\u5fc3\u4e5f\u662f\u4e00\u4e2a\u597d\u7684\u9009\u62e9\uff0c\u4f46\u662f\u4f1a\u6539\u53d8\u5c01\u95ed\u53d8\u4f8b\u7684\u6027\u8d28\uff0c\u6210\u4e3a\u4e00\u4e2a\u6bd4\u8f83\u5f00\u653e\u7684\u68cb\u5c40\u3002",
+                    "pl": "Otworzy\u0107 centrum przez d4 jest r\u00f3wnie\u017c dobr\u0105 opcj\u0105, ale zmienia charakter zamkni\u0119tej wariacji na bardziej otwart\u0105 gr\u0119.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0446\u0435\u043d\u0442\u0440 d4, \u043d\u043e \u044d\u0442\u043e \u043c\u0435\u043d\u044f\u0435\u0442 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440 \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 \u0438\u0433\u0440\u044b \u043d\u0430 \u0431\u043e\u043b\u0435\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439."
+                }
+            },
+            {
+                "move": "   b5 11. a3 a5 12. Rb1 b4 13. axb4 axb4 14. Ne2 Ra8 15. g4 ",
+                "comment": {
+                    "pt": "Uma posi\u00e7\u00e3o t\u00edpica da variante fechada. As brancas levam suas pe\u00e7as ao flanco rei, onde atacar\u00e3o com for\u00e7a total, enquanto as pretas t\u00eam vantagem no flanco dama.",
+                    "en": "A typical position of the closed variation. White takes its pieces to the kingside where they will attack with full power while Black has advantage on the queenside.",
+                    "es": "Una posici\u00f3n t\u00edpica de la variante cerrada. Las blancas llevan sus piezas al flanco rey, donde atacar\u00e1n con fuerza total, mientras que las negras tienen ventaja en el flanco dama.",
+                    "de": "Eine typische Stellung der geschlossenen Variante. Wei\u00df gruppiert seine Figuren um, um am K\u00f6nigsfl\u00fcgel anzugreifen, w\u00e4hrend Schwarz am Damenfl\u00fcgel Vorteil hat.",
+                    "zh": "\u5c01\u95ed\u53d8\u4f8b\u4e2d\u6bd4\u8f83\u5178\u578b\u7684\u5c40\u9762\u3002\u767d\u65b9\u5c06\u68cb\u5b50\u79fb\u5230\u738b\u7ffc\uff0c\u4ece\u8fd9\u91cc\u53ef\u4ee5\u5168\u529b\u653b\u51fb\uff0c\u76f8\u53cd\u9ed1\u65b9\u5728\u540e\u7ffc\u5360\u4f18\u3002",
+                    "pl": "Typowa pozycja zamkni\u0119tej wariacji. Bia\u0142e bior\u0105 figury na skrzyd\u0142o kr\u00f3lewskie, gdzie mog\u0105 zaatakowa\u0107 z pe\u0142n\u0105 moc\u0105, podczas gdy Czarne maj\u0105 przewag\u0119 na skrzydle hetma\u0144skim.",
+                    "ru": "\u0422\u0438\u043f\u0438\u0447\u043d\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u0440\u044b\u0442\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430. \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u044e\u0442 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0433\u0434\u0435 \u043e\u043d\u0438 \u043d\u0430\u0447\u043d\u0443\u0442 \u0430\u0442\u0430\u043a\u0443, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0430\u043a \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Francesa",
+        "white_sort": "",
+        "black": "Variante Tarrash",
+        "date": "",
+        "event": {
+            "en": "Tarrasch variation",
+            "de": "Tarrash-Variante",
+            "es": "Variante Tarrash",
+            "pt": "Variante Tarrash",
+            "zh": "\u5854\u62c9\u4ec0\u53d8\u4f8b",
+            "pl": "Wariacja Tarrascha",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0422\u0430\u0440\u0440\u0430\u0448\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 e6 2. d4 d5 3. Nd2 ",
+                "comment": {
+                    "pt": "Com esta jogada as brancas querem manter a tens\u00e3o central, sem permitir a cravada do cavalo, que ocorre ap\u00f3s as jogadas 3-Cc3 Bb4.",
+                    "en": "With this move White wants to maintain central tension without allowing the Knight pin that would occur after 3-Nc3 Bb4.",
+                    "es": "Con esta jugada las blancas quieren mantener la tensi\u00f3n central, sin permitir la clavada del caballo, que ocurre despu\u00e9s de las jugadas 3-Cc3 Ab4.",
+                    "de": "Zweck dieses Zuges ist, die zentrale Spannung aufrechtzuerhalten, ohne eine Fesselung vom Springer zuzulassen, wie sie nach 3. Sc3 Lb4 geschieht.",
+                    "zh": "\u8d70\u8fd9\u4e00\u7740\u767d\u65b9\u8c61\u4fdd\u6301\u4e2d\u5fc3\u5f20\u529b\u5e76\u4fdd\u6301\u5bf9\u9a6c\u7684\u7275\u5236\uff0c\u8fd9\u4f1a\u51fa\u73b0\u57283-Nc3 Bb4\u4e4b\u540e\u3002",
+                    "pl": "Tym ruchem Bia\u0142e pragn\u0105 utrzyma\u0107 presj\u0119 w centrum bez pozwolenia na przygwo\u017cd\u017cenie Skoczka, kt\u00f3re nast\u0105pi\u0142oby po 3. Sc3 Gb4.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u0443\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043d\u0430\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f, \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0441\u0432\u044f\u0437\u043a\u0443 \u041a\u043e\u043d\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u043f\u043e\u0441\u043b\u0435 3-Nc3 Bb4."
+                }
+            },
+            {
+                "move": "   Nf6 ",
+                "comment": {
+                    "pt": "A outra op\u00e7\u00e3o das pretas \u00e9 3...c5, disputando o centro. As brancas costumam seguir com 4-Cf3 Cc6 5-exd5 exd5 isolando o pe\u00e3o dama preto. A vantagem das pretas \u00e9 a facilidade em desenvolver todas as pe\u00e7as. As partidas 236, 238, 239, 240 e 242 de nossa base seguiram esta variante.",
+                    "en": "Another option for Black is 3...c5 disputing the center. White usually follows with 4-Nf3 Nc6 5-exd5 exd5 isolating the black Queen-pawn. Black has the advantage that it's easy to develop all its pieces. Games 236, 238, 239, 240 and 242 of our database followed this variation.",
+                    "es": "La otra opci\u00f3n de las negras es 3. ..c5, disputando el centro. Las blancas suelen seguir con 4-Cf3 Cc6 5-exd5 exd5, aislando el pe\u00f3n dama negro. La ventaja de las negras es la facilidad en desarrollar todas las piezas. Las partidas 236, 238, 239, 240 y 242 de nuestra base siguieron esta variante.",
+                    "de": "Die andere M\u00f6glichkeit f\u00fcr Schwarz ist 3...c5, um um das Zentrum zu k\u00e4mpfen. Darauf spielt Wei\u00df gew\u00f6hnlich 4. Sf3 Sc6 5. exd5 exd5, um den schwarzen d-Bauern zu isolieren. Die problemlose Entwicklung aller Figuren verschafft Wei\u00df Vorteil. Die Partien Nr. 236, 238, 239, 240 und 242 unserer Datenbank zeigen diese Variante.",
+                    "zh": "\u9ed1\u65b9\u53e6\u5916\u4e00\u4e2a\u9009\u62e9\u662f3...c5\u4e89\u593a\u4e2d\u5fc3\u3002\u767d\u65b9\u901a\u5e38\u4f1a\u8ddf4-Nf3 Nc6 5-exd5 exd5\uff0c\u5b64\u7acb\u9ed1\u65b9\u7684\u540e\u7ffc\u5175\u3002\u9ed1\u65b9\u7684\u4f18\u52bf\u5728\u4e8e\u51fa\u5b50\u5bb9\u6613\u3002\u68cb\u5e93\u4e2d\u7684\u68cb\u5c40236\u3001238\u3001239\u548c240\u91c7\u7528\u4e86\u8fd9\u4e2a\u53d8\u4f8b\u3002",
+                    "pl": "Inn\u0105 opcj\u0105 dla Czarnych jest 3. ... c5 poddaj\u0105 centrum debacie. Bia\u0142e zwykle kontynuuj\u0105 4. Sf3 Sc6 5. Exd5 exd5 izoluj\u0105c czarnego piona hetma\u0144skiego. Czarne posiadaj\u0105 przewag\u0119, ale nie jest \u0142atwo wyprowadzi\u0107 wszystkie figury. Gry 236, 238, 239, 240 i 242 z naszej bazy zaczynaj\u0105 si\u0119 od tego miejsca.",
+                    "ru": "\u0414\u0440\u0443\u0433\u0430\u044f \u0432\u0430\u0440\u0438\u0430\u0446\u0438\u044f \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 \u0445\u043e\u0434 3...c5, \u043e\u0441\u043f\u0430\u0440\u0438\u0432\u0430\u044f \u0446\u0435\u043d\u0442\u0440. \u0411\u0435\u043b\u044b\u0435 \u043e\u0431\u044b\u0447\u043d\u043e \u0438\u0433\u0440\u0430\u044e\u0442 4-Nf3 Nc6 5-exd5 exd5, \u0438\u0437\u043e\u043b\u0438\u0440\u0443\u044f \u0444\u0435\u0440\u0437\u0435\u0432\u0443\u044e \u043f\u0435\u0448\u043a\u0443 \u0427\u0435\u0440\u043d\u044b\u0445. \u0423 \u0427\u0435\u0440\u043d\u044b\u0445 \u0435\u0441\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u043e\u043d\u0438 \u043b\u0435\u0433\u043a\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0442 \u0432\u0441\u0435 \u0441\u0432\u043e\u0438 \u0444\u0438\u0433\u0443\u0440\u044b. \u0418\u0433\u0440\u044b 236, 238, 239, 240 \u0438 242, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442 \u044d\u0442\u043e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442."
+                }
+            },
+            {
+                "move": "   4. e5 Nfd7 5. Bd3 ",
+                "comment": {
+                    "pt": "A jogada 5-f4, construindo um grande centro foi tentada nas partidas 234 e 237 de nossa base. O problema das brancas nesta variante \u00e9 a falta de desenvolvimento, mas se conseguirem defender o centro e terminar bem o desenvolvimento, conseguir\u00e3o vantagem devido ao enorme dom\u00ednio central.",
+                    "en": "In games 234 and 237 of our database 5-f4 was used building up a great center. The problem is that in this variation White lacks in development but if it is able to defend the center and complete development well, it will conquer advantage due to an enormous central domain.",
+                    "es": "La jugada 5-f4, construyendo un centro grande fue intentada en las partidas 234 y 237 de nuestra base. El problema de las blancas en esta variante es la falta de desarrollo, pero si consiguen defender el centro y terminar bien el desarrollo, conseguir\u00e1n ventaja debido al enorme dominio central.",
+                    "de": "5. f4, um ein gro\u00dfes Zentrum aufzubauen wurde auch versucht (Partien Nr. 234 und 237 unserer Datenbank). Der Entwicklungsr\u00fcckstand ist ein Problem f\u00fcr Wei\u00df, der aber wegen seine Beherrschung vom Zentrum Vorteil erreichen kann, wenn er sich richtig verteidigt.",
+                    "zh": "\u68cb\u5e93\u4e2d\u68cb\u5c40234\u548c237\u8d705-f4\u6765\u5efa\u7acb\u4e00\u4e2a\u5f3a\u5927\u7684\u4e2d\u5fc3\u3002\u5728\u8fd9\u4e2a\u53d8\u4f8b\u4e2d\u767d\u65b9\u51fa\u5b50\u843d\u540e\u662f\u52a3\u52bf\uff0c\u4f46\u662f\u9274\u4e8e\u5b83\u5bf9\u4e2d\u5fc3\u6781\u597d\u7edf\u6cbb\uff0c\u5982\u679c\u5b83\u80fd\u5f88\u597d\u7684\u9632\u5fa1\u4e2d\u5fc3\u5e76\u7ed3\u675f\u51fa\u5b50\uff0c\u5c31\u53ef\u4ee5\u4e89\u53d6\u5230\u4f18\u52bf\u3002",
+                    "pl": "W grach 234 i 237 z naszej bazy 5. f4 zosta\u0142o u\u017cyte, by zbudowa\u0107 silne centrum. Problem tej wariacji jest taki, i\u017c Bia\u0142e s\u0105 do ty\u0142u w rozwoju figur, ale je\u015bli s\u0105 w stanie obroni\u0107 centrum i uko\u0144czy\u0107 rozw\u00f3j poprawnie, zdob\u0119d\u0105 du\u017c\u0105 przewag\u0119 z uwagi na nietypowo spor\u0105 przewag\u0119 w centrum.",
+                    "ru": "\u0412 \u0438\u0433\u0440\u0435 234 \u0438 237 \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b, \u0445\u043e\u0434\u043e\u043c 5-f4 \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440. \u0421\u043b\u0430\u0431\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u044d\u0442\u043e\u0433\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430 - \u043d\u0435\u0434\u043e\u0440\u0430\u0437\u0432\u0438\u0442\u043e\u0441\u0442\u044c \u0444\u0438\u0433\u0443\u0440 \u0443 \u0411\u0435\u043b\u044b\u0445, \u043d\u043e \u0435\u0441\u043b\u0438 \u043e\u043d\u0438 \u0441\u043c\u043e\u0433\u0443\u0442 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0438 \u0445\u043e\u0440\u043e\u0448\u043e \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435, \u043e\u043d\u0438 \u0431\u0443\u0434\u0443\u0442 \u0437\u0430\u0432\u043e\u0435\u0432\u044b\u0432\u0430\u0442\u044c \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043a\u0440\u0435\u043f\u043a\u043e\u043c\u0443 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e."
+                }
+            },
+            {
+                "move": "   c5 6. c3 Nc6 7. Ne2 ",
+                "comment": {
+                    "pt": "\u00c9 importante desenvolver o cavalo por esta casa, liberando a casa f3 para o outro cavalo ajudar na defesa do pe\u00e3o d4.",
+                    "en": "It's important to develop the Knight through this square and liberate f3 so that the other Knight can help with the defense of the d4-pawn.",
+                    "es": "Es importante desarrollar el caballo por esta casilla, liberando la casilla f3 para que el otro caballo ayude a defender el pe\u00f3n d4.",
+                    "de": "Das Feld f3 muss frei f\u00fcr den anderen Springer stehen, damit er bei der Verteidigung des d-Bauern helfen kann.",
+                    "zh": "\u901a\u8fc7\u8fd9\u683c\u51fa\u9a6c\u5e76\u89e3\u653ef3\uff0c\u8fd9\u6837\u53e6\u5916\u4e00\u4e2a\u9a6c\u53ef\u4ee5\u5e2e\u5fd9\u9632\u5fa1d4-\u5175\u3002",
+                    "pl": "Wa\u017cne jest wyprowadzenie Skoczka przez to pole i uwolnienie f3, aby drugi Skoczek m\u00f3g\u0142 pom\u00f3c w obronie piona d4.",
+                    "ru": "\u0412\u0430\u0436\u043d\u043e \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 \u044d\u0442\u043e\u0442 \u043a\u0432\u0430\u0434\u0440\u0430\u0442 \u0438 \u043e\u0441\u0432\u043e\u0431\u043e\u0434\u0438\u0442\u044c \u043f\u043e\u043b\u0435 f3, \u0447\u0442\u043e\u0431\u044b \u0434\u0440\u0443\u0433\u043e\u0439 \u041a\u043e\u043d\u044c \u043f\u043e\u043c\u043e\u0433 \u0432 \u0437\u0430\u0449\u0438\u0442\u0435 \u043f\u0435\u0448\u043a\u0438 \u043d\u0430 d4."
+                }
+            },
+            {
+                "move": "   Qb6 8. Nf3 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam maior dom\u00ednio central e as pretas uma forte press\u00e3o sobre d4, alem da possibilidade de atacar o centro branco com a jogada ...f6 (partida 233).",
+                    "en": "White has greater central dominance and Black puts great pressure on d4, besides having the possibility to attack the white center with ...f6 (game 233).",
+                    "es": "Las blancas tiene mayor dominio central y las negras una fuerte presi\u00f3n sobre d4, adem\u00e1s de la posibilidad de atacar el centro blanco con la jugada ...f6 (partida 233)..",
+                    "de": "Wei\u00df kontrolliert das Zentrum, w\u00e4hrend Schwarz auf den d-Bauern Druck aus\u00fcbt. Au\u00dferdem kann Schwarz das wei\u00dfe Zentrum mit ...f6 angreifen (Partie Nr. 23).",
+                    "zh": "\u767d\u65b9\u5bf9\u4e2d\u5fc3\u62e5\u6709\u5f3a\u5927\u7684\u7edf\u6cbb\uff0c\u9ed1\u65b9\u7ed9d4\u65bd\u52a0\u5f3a\u5927\u538b\u529b\uff0c\u6b64\u5916\u8fd8\u53ef\u4ee5\u7528...f6 \u653b\u51fb\u767d\u65b9\u4e2d\u5fc3\uff08\u68cb\u5c40233\uff09\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 wi\u0119ksz\u0105 przewag\u0119 w centrum, za\u015b Czarne wywieraj\u0105 spor\u0105 presj\u0119 na d4 poza oczywi\u015bcie posiadaniem mo\u017cliwo\u015bci ataku bia\u0142ego centrum przez ... f6 (partia 233).",
+                    "ru": "\u0423 \u0411\u0435\u043b\u044b\u0445 \u043e\u0449\u0443\u0442\u0438\u043c\u043e\u0435 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044e\u0442 \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433 \u043d\u0430 d4, \u043a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u0438\u043c\u0435\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c  \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440 \u0411\u0435\u043b\u044b\u0445 ...f6 (\u0438\u0433\u0440\u0430 233)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5rk1\/1ppbr1pp\/p2q1p2\/2p2P2\/4PRP1\/2P2NQ1\/PP5P\/4R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. e5 ",
+                "comment": {
+                    "pt": "Para ocupar a casa e5 com o cavalo e melhorar o posicionamento das pe\u00e7as.",
+                    "en": "In order to occupy e5 with the Knight and improve piece positioning.",
+                    "es": "Para ocupar a casilla e5 con el caballo y mejorar el posicionamento de las piezas.",
+                    "de": "Um das Feld e5 zu besetzen und die Stellung der wei\u00dfen Figuren zu verbessern.",
+                    "zh": "\u4e3a\u4e86\u7528\u9a6c\u5360\u636ee5\u683c\uff0c\u6539\u5584\u68cb\u5b50\u7684\u4f4d\u7f6e\u3002",
+                    "pl": "W celu zaj\u0119cia e5 Skoczkiem i poprawy ustawienia figur.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c e5 \u0438 \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0444\u0438\u0433\u0443\u0440\u044b."
+                }
+            },
+            {
+                "move": "   fxe5 2. Rfe4 Bc6 3. Rxe5 ",
+                "comment": {
+                    "pt": "As s t\u00eam vantagem.",
+                    "en": "And White will be in advantage.",
+                    "es": "Las blancas tienen ventaja.",
+                    "de": "$ Wei\u00df hat Vorteil",
+                    "zh": "\u767d\u65b9\u62e5\u6709\u4f18\u52bf\u3002",
+                    "pl": "I Bia\u0142e b\u0119d\u0105 w przewadze.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/4bppp\/p3bn2\/3p4\/N7\/3BB3\/PP3PPP\/R3R1K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Bc5 ",
+                "comment": {
+                    "pt": "Para ocupar a casa c5 com o cavalo e pressionar no flanco dama atrav\u00e9s da coluna e.",
+                    "en": "In order to occupy c5 with the Knight and put pressure on the queenside and through the e-file.",
+                    "es": "Para ocupar la casilla c5 con el caballo y presionar en el flanco dama atrav\u00e9s de la columna \"e\".",
+                    "de": "Um das Feld c5 mit dem Springer zu besetzen und Druck am Damenfl\u00fcgel \u00fcber die e-Linie auszu\u00fcben.",
+                    "zh": "\u4e3a\u4e86\u7528\u9a6c\u5360\u636ec5\u683c\uff0c\u901a\u8fc7e-\u7ebf\u5411\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Aby zaj\u0105\u0107 c5 Skoczkiem i wywrze\u0107 presj\u0119 na skrzyd\u0142o hetma\u0144skie przez kolumn\u0119 e.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u041a\u043e\u043d\u0435\u043c c5 \u0438 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0447\u0435\u0440\u0435\u0437 e-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "plano",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "5k2\/pp4pp\/4pp2\/1P6\/8\/P2KP3\/5PPb\/2B5 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. g3 ",
+                "comment": {
+                    "pt": "Para evitar a volta do bispo preto e tentar captura-lo com o rei.",
+                    "en": "In order to prevent the black Bishop from returning and trying to capture it with the King.",
+                    "es": "Para evitar la vuelta del alfil negro e intentar capturarlo con el rey.",
+                    "de": "Um den schwarzen L\u00e4ufer auf h2 abzusperren und versuchen, ihn mit dem K\u00f6nig zu schlagen.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9ed1\u8c61\u5c01\u9501\u5728h2\u5e76\u5c1d\u8bd5\u7528\u738b\u5403\u6389\u8fd9\u4e2a\u8c61\u3002",
+                    "pl": "Aby uniemo\u017cliwi\u0107 czarnemu Go\u0144cowi powr\u00f3t oraz by schwyta\u0107 go Kr\u00f3lem.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0432\u0437\u044f\u0442\u044c \u0435\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u0435\u043c."
+                }
+            },
+            {
+                "move": "   h5 2. Ke2 h4 3. Kf3 ",
+                "comment": {
+                    "pt": "As s t\u00eam vantagem. A partida poderia seguir;",
+                    "en": "And White is in advantage. The game could continue as follows:",
+                    "es": "Las blancas tienen ventaja. La partida podr\u00eda seguir:",
+                    "de": "$ Mit wei\u00dfem Vorteil. Die Partie k\u00f6nnte folgen:",
+                    "zh": "\u767d\u65b9\u5360\u4f18\u3002\u63a5\u4e0b\u6765\u53ef\u4ee5\u8fd9\u4e48\u8d70\uff1a",
+                    "pl": "I Bia\u0142e s\u0105 w przewadze. Gra kontynuowana jest tak:",
+                    "ru": "\u0418 \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e. \u0418\u0433\u0440\u0430 \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c:"
+                }
+            },
+            {
+                "move": "   h3 4. Kg4 Bg1 5. Kxh3 Bxf2 6. Bd2 ",
+                "comment": {
+                    "pt": "Segu ido de Rg2 ganhando o bispo.",
+                    "en": "Followed by Kg2, winning the Bishop.",
+                    "es": "Seguido de Rg2, ganando el alfil.",
+                    "de": "$ Nebst Kg2 mit Gewinn des L\u00e4ufers",
+                    "zh": "\u8ddfKg2\uff0c\u5403\u8c61\u3002",
+                    "pl": "Kontynuuj\u0105c Kg2, wygrywaj\u0105c Go\u0144ca.",
+                    "ru": "\u0412 \u0441\u043b\u0435\u0434 \u0437\u0430 Kg2, \u0438\u0434\u0435\u0442 \u0432\u044b\u0438\u0433\u0440\u044b\u0448 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(1)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pppnnpbp\/3p2p1\/3Pp3\/2P1P3\/2N1B3\/PP2BPPP\/R2QNRK1 b - - 0 10",
+        "moves": [
+            {
+                "move": "10... f5 ",
+                "comment": {
+                    "pt": "Aproveitando a vantagem de espa\u00e7o neste flanco para iniciar um ataque ao rei contr\u00e1rio.",
+                    "en": "Making use of space advantage in this side in order to start an attack on the enemy King.",
+                    "es": "Aprovechando a ventaja de espacio en este flanco para iniciar un ataque al rey contrario.",
+                    "de": "Nutzt den Raumvorteil aus, um einen Angriff auf den gegnerischen K\u00f6nig einzuleiten.",
+                    "zh": "\u5728\u8fd9\u4e00\u4fa7\u5229\u7528\u7a7a\u95f4\u4f18\u52bf\u7ec4\u7ec7\u8fdb\u653b\u654c\u738b\u3002",
+                    "pl": "Robi\u0105c u\u017cytek z przewagi przestrzennej po swojej stronie w celu rozpocz\u0119cia ataku na wrogiego Kr\u00f3la.",
+                    "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435, \u0434\u043b\u044f \u043d\u0430\u0447\u0430\u043b\u0430 \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u041a\u043e\u0440\u043e\u043b\u044f \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(148)",
+            "zh": "Event 1"
+        },
+        "fen": "2bqnrk1\/1ppn1pb1\/3p2pp\/2PPp3\/1P2P3\/2N1B2P\/3N1PP1\/Q3KB1R b K - 0 15",
+        "moves": [
+            {
+                "move": "15... f5 ",
+                "comment": {
+                    "pt": "Come\u00e7ando um ataque no centro e amea\u00e7ando f4.",
+                    "en": "Starting an attack in the center and threatening f4.",
+                    "es": "Comezando un ataque en el centro y amenazando f4.",
+                    "de": "Beginnt einen Angriff auf das Zentrum und droht f4.",
+                    "zh": "\u5f00\u59cb\u653b\u51fb\u4e2d\u5fc3\u5e76\u5a01\u80c1f4\u3002",
+                    "pl": "Rozpoczynaj\u0105c atak w centrum i gro\u017c\u0105c f4.",
+                    "ru": "\u041d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 f4."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

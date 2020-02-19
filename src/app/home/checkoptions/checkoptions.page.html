@@ -1,0 +1,132 @@
+<ion-header class="header">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      Check Options
+    </ion-title>
+    <app-header-buttons  slot="secondary"></app-header-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content force-overscroll class="checkoptionpage ion-padding">
+
+  <ion-row class="form-box">
+    <ion-col>
+     
+      <ion-row>
+        <ion-col>
+            <div class="profilepic" [style.background]="'url(/assets/images/avatarPlaceholder.png)'"></div>
+        </ion-col>
+      </ion-row>
+
+      <div class="input-group" style="margin-top: 0px;">
+          <ion-row class="input-row" >
+            <ion-col size="6">
+              <label>Time</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-select [(ngModel)]="checkService.own.time">
+                  <ion-select-option [value]="n" *ngFor="let n of mintues">{{n}} min</ion-select-option>
+                </ion-select>
+            </ion-col>
+          </ion-row>
+      </div>
+
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col size="6">
+            <label>Extra Time</label>
+          </ion-col>
+          <ion-col size="6">
+              <ion-select [(ngModel)]="checkService.own.extra_time">
+                <ion-select-option [value]="n" *ngFor="let n of mintues">{{n}} sec</ion-select-option>
+              </ion-select>
+          </ion-col>
+        </ion-row>
+      </div>
+
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col size="6">
+            <label>ELO</label>
+          </ion-col>
+          <ion-col size="4">
+                <ion-input [(ngModel)]="Elo" style="text-align: right;" readonly></ion-input>
+          </ion-col>
+          <ion-col size="2">
+            <ion-button (click)="gotoElo()"><span class="fa fa-bar-chart-o km-text"></span></ion-button>
+          </ion-col>
+        </ion-row>
+      </div>
+    
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col size="6">
+            <label>Color</label>
+          </ion-col>
+          <ion-col size="6">
+              <ion-select [(ngModel)]="checkService.own.color">
+                <ion-select-option value="white" selected>White</ion-select-option>
+                <ion-select-option value="black" selected>Black</ion-select-option>
+              </ion-select>
+          </ion-col>
+        </ion-row>
+      </div>
+
+
+      <!--  -->
+      <ion-row>
+        <ion-col>
+            <div class="profilepic" [style.background]="'url(/assets/images/sergio_profile.png)'"></div>
+        </ion-col>
+        <ion-col style="color: #000; text-align: right; display: flex; justify-content: flex-end; align-items: flex-end;">
+            <b>Sergio</b>
+        </ion-col>
+      </ion-row>
+
+      <div class="input-group" style="margin-top: 0px;">
+        <ion-row class="input-row">
+          <ion-col size="6">
+            <label>Time</label>
+          </ion-col>
+          <ion-col size="6">
+              <ion-select [(ngModel)]="checkService.ai.time">
+                <ion-select-option [value]="n" *ngFor="let n of mintues" selected>{{n}} min</ion-select-option>
+              </ion-select>
+          </ion-col>
+        </ion-row>
+    </div>
+
+    <div class="input-group">
+      <ion-row class="input-row">
+        <ion-col size="6">
+          <label>Extra Time</label>
+        </ion-col>
+        <ion-col size="6">
+            <ion-select [(ngModel)]="checkService.ai.time">
+              <ion-select-option [value]="n" *ngFor="let n of mintues" selected>{{n}} sec</ion-select-option>
+            </ion-select>
+        </ion-col>
+      </ion-row>
+    </div>
+
+    <div class="input-group">
+      <ion-row class="input-row">
+        <ion-col size="6">
+          <label>ELO</label>
+        </ion-col>
+        <ion-col size="6">
+              <ion-input [(ngModel)]="checkService.ai.elo" value="Auto (850)" style="text-align: right;" readonly></ion-input>
+        </ion-col>
+      </ion-row>
+    </div>
+    
+    <ion-button color="dark" (click)="startgame()" >Start Game</ion-button>
+    <ion-button color="dark" (click)="continue()" [disabled]="checkService.isRunning == false" >Continue Game</ion-button>
+
+    </ion-col>
+  </ion-row>
+
+</ion-content>

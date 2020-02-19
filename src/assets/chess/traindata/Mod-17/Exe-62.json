@@ -1,0 +1,94 @@
+[
+    {
+        "title": "",
+        "white": "India da dama",
+        "white_sort": "",
+        "black": "Variante Petrossian",
+        "date": "",
+        "event": {
+            "en": "Petrossian sistem",
+            "de": "Petrosjan-System",
+            "es": "Variante Petrosian",
+            "pt": "Variante Petrosia",
+            "zh": "Petrossian\u4f53\u7cfb",
+            "pl": "System Petrossiana",
+            "ru": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u041f\u0435\u0442\u0440\u043e\u0441\u044f\u043d\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 ",
+                "comment": {
+                    "pt": "Esta variante leva o nome do ex campe\u00e3o mundial T.Petrossian e tem por objetivo desenvolver o cavalo por c3, sem permitir a cravada (...Bb4). Alguns jogadores preferem jogar 4-Cc3 (partidas 673 a 677) diretamente, permitindo uma transposi\u00e7\u00e3o para a defesa Nimzoindia.",
+                    "en": "This variation is carries the name of the former World Champion T. Petrossian and aims to develop the Knight through c3 without allowing the pin (...Bb4). Some prefer to play 4-Nc3 (games 673 to 677) directly, allowing the transposition of the game to the Nimzo-Indian defense.",
+                    "es": "Esta variante lleva el nombre del ex campe\u00f3n mundial T. Petrosian y tiene por objetivo desarrollar el caballo por c3, sin permitir la clavada (... Ab4). Algunos jugadores prefieren jugar 4-Cc3 (partidas 673 a 677) directamente, permitiendo una transposici\u00f3n a la Defensa Nimzoindia.",
+                    "de": "Diese Variante tr\u00e4gt den Namen des ehemaligen Weltmeister Tigran Petrosjan. Die Absicht ist, den Springer nach c3 zu entwickeln,  ohne dass er gefesselt wird (...Lb4). Einige Spieler ziehen 4. Sc3  vor (Partien Nr. 673 bis 677), was einen \u00dcbergang in die Nimzowitsch-Indischen-Verteidigung zul\u00e4sst.",
+                    "zh": "\u8fd9\u4e2a\u53d8\u4f8b\u4f7f\u7528\u7684\u662f\u524d\u4e16\u754c\u51a0\u519b\u5f7c\u5f97\u7f57\u8f9b\u7684\u540d\u5b57\uff0c\u76ee\u7684\u662f\u901a\u8fc7c3\u51fa\u8c61\uff0c\u5e76\u4e14\u4e0d\u88ab\u7275\u5236\uff08...Bb4\uff09\u3002\u6709\u4e9b\u4eba\u503e\u5411\u4e8e\u76f4\u63a5\u8d704-Nc3\uff08\u68cb\u5c40673\u5230677\uff09\uff0c\u5c06\u68cb\u5c40\u53d8\u6362\u4e3a\u5c3c\u59c6\u4f50-\u5370\u5ea6\u9632\u5fa1\u3002",
+                    "pl": "Ta wariacja nosi nazwisko by\u0142ego Mistrza \u015awiata Tigrana Petrossiana i polega na wyprowadzeniu Skoczka przez c3 z unikni\u0119ciem przygwo\u017cd\u017cenia (... Gb4). Niekt\u00f3rzy preferuj\u0105 zagra\u0107 4. Sc3 (partie od 673 do 677) od razu, zezwalaj\u0105c na transpozycj\u0119 do obrony Nimzo-indyjskiej.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043d\u043e\u0441\u0438\u0442 \u0438\u043c\u044f \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u041c\u0438\u0440\u0430 \u041f\u0435\u0442\u0440\u043e\u0441\u044f\u043d\u0430 \u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 c3, \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u0441\u0432\u044f\u0437\u043a\u0443 (...Bb4). \u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u044e\u0442 \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u0438\u0433\u0440\u0430\u0442\u044c 4-Nc3 (\u0438\u0433\u0440\u044b 673-677), \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044f \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u0438\u0433\u0440\u0443 \u0432 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u041d\u0438\u043c\u0446\u043e-\u0438\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0439 \u0437\u0430\u0449\u0438\u0442\u044b."
+                }
+            },
+            {
+                "move": "   Bb7 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o 4...c5 5-d5 exd5 6-cxd5 g6 ocorreu na partida 669 e leva a posi\u00e7\u00f5es similares as da defesa Benoni.",
+                    "en": "The option 4...c5 5-d5 exd5 6-cxd5 g6 is presented in game 669 and leads to similar positions as in the Benoni defense.",
+                    "es": "La opci\u00f3n 4...c5 5-d5 exd5 6-cxd5 g6 ocurri\u00f3 en la partida 669 y lleva a posiciones similares a las de la Defensa Benoni.",
+                    "de": "4...c5 5. d5 exd5 6. cxd5 g6 geschah in der Partie Nr. 669 und f\u00fchrte zu \u00e4hnlichen Stellungen wie die der Benoni-Verteidigung.",
+                    "zh": "\u9009\u98794...c5 5-d5 exd5 6-cxd5 g6\u5728\u68cb\u5c40669\u4e2d\u5448\u73b0\uff0c\u5e76\u4e14\u4f1a\u5bfc\u81f4\u8ddf\u522b\u8bfa\u5c3c\u9632\u5fa1\u7c7b\u4f3c\u3002",
+                    "pl": "Opcja 4. ... c5 5. d5 exd5 6. cxd5 g6 jest prezentowana w partii 669 i prowadzi do podobnej pozycji co w obronie Benoni.",
+                    "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 4...c5 5-d5 exd5 6-cxd5 g6 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 669 \u0438 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442 \u043a \u0442\u0430\u043a\u043e\u0439 \u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u043a\u0430\u043a \u0432 \u0437\u0430\u0449\u0438\u0442\u0435 \u0411\u0435\u043d\u043e\u043d\u0438."
+                }
+            },
+            {
+                "move": "   5. Nc3 d5 ",
+                "comment": {
+                    "pt": "As brancas planejavam jogar d5 e depois e4 aumentando o dom\u00ednio central e as pretas evitam tal plano. Outra op\u00e7\u00e3o seria 5. ..Ce4 que ocorreu na partida 670, onde Kasparov jogou 6-Cxe4 Bxe4 7-Cd2 e derrotou o sueco U.Andersson.",
+                    "en": "White plans to play d5 and then e4 increasing its central domain and Black prevents it. Another option would be 5. ..Ne4 presented in game 670, where Kasparov plays 6-Nxe4 Bxe4 7-Nd2 and defeats the Swede U. Andersson.",
+                    "es": "Las blancas planeaban jugar d5 y despu\u00e9s e4 aumentando el dominio central y las negras evitan tal plan. Otra opci\u00f3n ser\u00eda 5...Ce4 que ocurri\u00f3 en la partida 670, donde Kasparov jug\u00f3 6-Cxe4 Axe4 7-Cd2 y derrot\u00f3 al sueco U. Andersson.",
+                    "de": "Wei\u00df plante, d5 nebst e4 zu spielen, mit Kontrolle \u00fcber das Zentrum. Schwarz durchkreuzt diesen Plan. Eine andere M\u00f6glichkeit w\u00e4re 5. ..Se4 wie in der Partie Nr. 670, in der Kasparov 6. Sxe4 Lxe4 7. Sd2 spielte und den schwedischen Gro\u00dfmeister Ulf Andersson schlug.",
+                    "zh": "\u767d\u65b9\u8ba1\u5212\u8d70d5\u7136\u540ee4\uff0c\u589e\u5f3a\u4e2d\u5fc3\u7684\u7edf\u6cbb\uff0c\u4f46\u88ab\u9ed1\u65b9\u963b\u6b62\u4e86\u3002\u53e6\u5916\u7684\u9009\u62e9\u53ef\u4ee5\u662f 5. ..Ne4\uff0c\u5728\u68cb\u5c40670\u4e2d\u5448\u73b0\uff0c\u8fd9\u5c40\u4e2d\u5361\u65af\u5e15\u7f57\u592b\u8d706-Nxe4 Bxe4 7-Nd2\u5e76\u6253\u8d25\u745e\u58eb\u4eba\u5b89\u5fb7\u68ee\u3002",
+                    "pl": "Bia\u0142e planuj\u0105 zagra\u0107 d5 i potem e4 zwi\u0119kszaj\u0105c centraln\u0105 dominacj\u0119, za\u015b Czarne zapobiegaj\u0105 temu. Innym wyj\u015bcie by\u0142oby 5. ... Se4 prezentowane w partii 670, gdzie Kasparow zagra\u0142 6. Sxe4 Gxe4 7. Sd2 i pokona\u0142 Szweda Ulfa Anderssona.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 \u0438\u0433\u0440\u0430\u0442\u044c d5, \u0430 \u0437\u0430\u0442\u0435\u043c e4, \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u044f \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u0430 \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u044d\u0442\u043e\u043c\u0443. \u0414\u0440\u0443\u0433\u0438\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u0431\u0443\u0434\u0435\u0442 5...Ne4, \u043f\u043e\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0432 \u0438\u0433\u0440\u0435 670, \u0433\u0434\u0435 \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432 \u0438\u0433\u0440\u0430\u0435\u0442 6-Nxe4 Bxe4 7-Nd2, \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u0443 \u0448\u0432\u0435\u0434\u0430 \u0410\u043d\u0434\u0435\u0440\u0441\u0435\u043d\u0430."
+                }
+            },
+            {
+                "move": "   6. cxd5 Nxd5 ",
+                "comment": {
+                    "pt": "Tamb\u00e9m seria poss\u00edvel retomar de pe\u00e3o.",
+                    "en": "It's also possible to retake with the pawn.",
+                    "es": "Tambi\u00e9n ser\u00eda posible retomar con el pe\u00f3n.",
+                    "de": "Es w\u00e4re auch m\u00f6glich, mit dem Bauern zur\u00fcckzuschlagen.",
+                    "zh": "\u593a\u56de\u5175\u4e5f\u662f\u53ef\u884c\u7684\u3002",
+                    "pl": "Mo\u017cliwe jest tak\u017ce wzi\u0119cie przez piona.",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u043e\u0439."
+                }
+            },
+            {
+                "move": "   7. e3 Nxc3 8. bxc3 Be7 9. Bb5+ ",
+                "comment": {
+                    "pt": "9-Bd3 diretamente seria equivalente e levaria a mesma posi\u00e7\u00e3o.",
+                    "en": "9-Bd3 directly is an equivalent and leads to the same position.",
+                    "es": "9-Ad3 directamente ser\u00eda equivalente y llevar\u00eda a la misma posici\u00f3n.",
+                    "de": "Das direkte 9. Ld3 w\u00e4re gleichwertig und w\u00fcrde zur gleichen Stellung f\u00fchren.",
+                    "zh": "\u76f4\u63a5\u8d709-Bd3\u662f\u540c\u6837\u7684\u5e76\u4e14\u4f1a\u8d70\u5411\u540c\u6837\u7684\u5c40\u9762\u3002",
+                    "pl": "9. Gd3 zagrany natychmiast jest tak samo dobry i prowadzi do tej samej pozycji.",
+                    "ru": "\u0418\u0433\u0440\u0430\u0442\u044c 9-Bd3 \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e, \u0432\u0435\u0434\u0435\u0442 \u043a \u0442\u0430\u043a\u043e\u0439 \u0436\u0435 \u043f\u043e\u0437\u0438\u0446\u0438\u0438."
+                }
+            },
+            {
+                "move": "   c6 10. Bd3 c5 11. O-O Nc6 12. Bb2 Rc8 13. Qe2 O-O 14. Rad1 ",
+                "comment": {
+                    "pt": "Ambos terminaram o desenvolvimento e as brancas t\u00eam maior dom\u00ednio central. A excelente partida Kasparov-Portisch (671) seguiu a partir desta posi\u00e7\u00e3o.",
+                    "en": "Both sides complete development and White has greaterdominance in the center. The excellent game between Kasparo and Portisch (671) continues from this position on.",
+                    "es": "Ambos terminaron el desarrollo y las blancas tienen mayor dominio central. La excelente partida Kasparov-Portisch (671) sigui\u00f3 a partir de esta posici\u00f3n.",
+                    "de": "Beide haben die Entwicklung beendet. Wei\u00df beherrscht das Zentrum. Die ausgezeichnete Partie Kasparow-Portisch (Nr. 671) zeigt eine Fortsetzung.",
+                    "zh": "\u53cc\u65b9\u90fd\u7ed3\u675f\u51fa\u5b50\uff0c\u767d\u65b9\u62e5\u6709\u5bf9\u4e2d\u5fc3\u7684\u5f3a\u5927\u7edf\u6cbb\u3002\u5361\u65af\u5e15\u7f57\u592b\u548cPortisch \u4e4b\u95f4\u7684\u7cbe\u5f69\u5bf9\u5c40\u662f\u8fd9\u4e2a\u5c40\u9762\u7684\u4e00\u79cd\u5ef6\u7eed\uff08\u68cb\u5c40671\uff09\u3002",
+                    "pl": "Obie strony uko\u0144czy\u0142y wyprowadzanie figur, lecz Bia\u0142e posiadaj\u0105 wi\u0119ksz\u0105 kontrol\u0119 w centrum. Doskona\u0142a gra pomi\u0119dzy Kasparowem i Portischem (671) kontynuuje z tej pozycji.",
+                    "ru": "\u041e\u0431\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u0443 \u0411\u0435\u043b\u044b\u0445 \u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u041a\u0430\u0441\u043f\u0430\u0440\u043e\u0432\u044b\u043c \u0438 \u041f\u043e\u0440\u0442\u0438\u0448\u043e\u043c (\u0438\u0433\u0440\u0430 671), \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u044d\u0442\u0443 \u043f\u043e\u0437\u0438\u0446\u0438\u044e."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

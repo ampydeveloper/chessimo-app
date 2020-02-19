@@ -1,0 +1,118 @@
+[
+    {
+        "title": "",
+        "white": "Alekhine",
+        "white_sort": "",
+        "black": "Variante cl\u00e1ssica",
+        "date": "",
+        "event": {
+            "en": "Classical variation",
+            "de": "Klassische Variante",
+            "es": "Variante Cl\u00e1sica",
+            "pt": "Variante cl\u00e1ssica",
+            "zh": "\u53e4\u5178\u53d8\u4f8b",
+            "pl": "Wariant klasyczny",
+            "ru": "\u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante cl\u00e1ssica, onde as brancas preferem manter a vantagem central e priorizar o desenvolvimento do flanco rei.",
+                    "en": "This is the classic variation where White prefers to maintain central advantage and gives priority to kingside development.",
+                    "es": "Esta es la Variante Cl\u00e1sica, en la que las blancas prefieren mantener la ventaja central y acelerar el desarrollo del flanco rey.",
+                    "de": "Die Moderne Variante, in der Wei\u00df einen geringf\u00fcgigen Vorteil im Zentrum beh\u00e4lt und die Entwicklung vom K\u00f6nigsfl\u00fcgel beschleunigt.",
+                    "zh": "\u53e4\u5178\u53d8\u4f8b\u4e2d\u767d\u65b9\u66f4\u613f\u610f\u4fdd\u6301\u4e2d\u5fc3\u4f18\u52bf\uff0c\u5e76\u4e14\u4f18\u5148\u738b\u7ffc\u51fa\u5b50\u3002",
+                    "pl": "Oto wariant klasyczny, gdzie Bia\u0142e preferuj\u0105 utrzymanie przewagi w centrum i stawiaj\u0105 na rozw\u00f3j skrzyd\u0142a kr\u00f3lewskiego.",
+                    "ru": "\u042d\u0442\u043e \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0433\u0434\u0435 \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u044e\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u043e\u0442\u0434\u0430\u044e\u0442 \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u043d\u0430 \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            },
+            {
+                "move": "   Bg4 ",
+                "comment": {
+                    "pt": "4...g6 tamb\u00e9m \u00e9 poss\u00edvel e ocorreu na partida 296 de nossa base.",
+                    "en": "4...g6 is also possible and occurs in game 296 of our database.",
+                    "es": "4...g6 tambi\u00e9n es posible y ocurri\u00f3 en la partida 296 de nuestra base.",
+                    "de": "4...g6 geht auch und geschah in der Partie 296 unserer Datenbank.",
+                    "zh": "4...g6\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40296\u4e2d\u3002",
+                    "pl": "4. ... g6 tak\u017ce jest mo\u017cliwe i wyst\u0119puje w partii 296 z naszej bazy.",
+                    "ru": "\u0425\u043e\u0434 4...g6 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0438 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 296, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   5. Be2 e6 ",
+                "comment": {
+                    "pt": "5...c6 ocorreu na partida 301 de nossa base.",
+                    "en": "5...c6 happens in game 301 of our database.",
+                    "es": "5...c6 ocurri\u00f3 en la partida 301 de nuestra base.",
+                    "de": "5...c6 geschah in der Partie 301 unserer Datenbank.",
+                    "zh": "5...c6\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40301\u4e2d\u3002",
+                    "pl": "5. ... c6 przydarzy\u0142o si\u0119 w partii 301.",
+                    "ru": "\u0425\u043e\u0434 5...c6 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 301, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b."
+                }
+            },
+            {
+                "move": "   6. O-O Be7 7. c4 ",
+                "comment": {
+                    "pt": "Tanto nesta , quanto nas pr\u00f3ximas duas jogadas , as brancas podem jogar h3 e as pretas devem responder com ...Bh5.",
+                    "en": "In this and the next two moves White can play h3 and Black has to respond with ...Bh5.",
+                    "es": "Tanto en \u00e9sta como en las pr\u00f3ximas dos jugadas las blancas pueden jugar h3 y las negras deben responder con ... Ah5.",
+                    "de": "Sowohl im Text- als auch in den n\u00e4chsten zwei Z\u00fcgen, k\u00f6nnte Wei\u00df h3 spielen, was Schwarz mit ...Lh5 beantworten muss.",
+                    "zh": "\u5728\u8fd9\u4e00\u6b65\u548c\u4e0b\u4e24\u6b65\u4e2d\u767d\u65b9\u53ef\u4ee5\u8d70h3\uff0c\u9ed1\u65b9\u5fc5\u987b\u5e94...Bh5\u3002",
+                    "pl": "W tym i nast\u0119pnych dw\u00f3ch posuni\u0119ciach Bia\u0142e mog\u0105 zagra\u0107 h3, a Czarne musz\u0105 odpowiedzie\u0107 ... Gh5.",
+                    "ru": "\u042d\u0442\u0438\u043c \u0445\u043e\u0434\u043e\u043c \u0438 \u0434\u0432\u0443\u043c\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c\u0438, \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c h3 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u0432\u044b\u043d\u0443\u0436\u0434\u0435\u043d\u044b \u043e\u0442\u0432\u0435\u0447\u0430\u0442\u044c ...Bh5."
+                }
+            },
+            {
+                "move": "   Nb6 8. Nc3 O-O 9. Be3 ",
+                "comment": {
+                    "pt": "9-cxd6 exd6 10-Be3 ocorreu na partida 295 de nossa base.",
+                    "en": "9-exd6 exd6 10-Be3 occurs in game 295 of our database..",
+                    "es": "9-exd6 exd6 10-Ae3 ocurri\u00f3 en la partida 295 de nuestra base.",
+                    "de": "9. exd6 exd6 10. Le3 geschah in der Partie Nr. 295 unserer Datenbank.",
+                    "zh": "9-exd6 exd6 10-Be3\u51fa\u73b0\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40295\u4e2d\u3002",
+                    "pl": "9. exd6 exd6 10. Ge3 nast\u0105pi\u0142o w partii 295.",
+                    "ru": "9-exd6 exd6 10-Be3 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044e\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0435 295, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   Nc6 ",
+                "comment": {
+                    "pt": "Ambos os lados completaram o desenvolvimento e as brancas devem definir a posi\u00e7\u00e3o no centro. Uma alternativa boa para as pretas \u00e9 9...d5 , que ocorreu na partida 298 de nossa base.",
+                    "en": "Both sides completed development and White has to determine its position in the center. One good alternative for Black is 9...d5 that is presented in game 298 of our database.",
+                    "es": "Ambos bandos completaron el desarrollo y ahora le toca al blanco definir la posici\u00f3n en el centro. Una buena alternativa para las negras es 9...d5, que ocurri\u00f3 en la partida 298 de nuestra base.",
+                    "de": "Beide Spieler haben die Entwicklung beendet. Nun muss sich Wei\u00df im Zentrum entscheiden. Eine gute Alternative f\u00fcr Schwarz ist 9...d5 (Partie Nr. 298 unserer Datenbank).",
+                    "zh": "\u53cc\u65b9\u90fd\u7ed3\u675f\u51fa\u5b50\uff0c\u767d\u65b9\u73b0\u5728\u5fc5\u987b\u51b3\u5b9a\u4e2d\u5fc3\u4f4d\u7f6e\u3002\u9ed1\u65b9\u53e6\u5916\u4e00\u4e2a\u597d\u7684\u9009\u62e9\u662f9...d5\uff0c\u8fd9\u5728\u68cb\u5e93\u4e2d\u68cb\u5c40298\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "Obie strony uko\u0144czy\u0142y wyprowadzanie figur i Bia\u0142e musz\u0105 uporz\u0105dkowa\u0107 swoj\u0105 pozycj\u0119 w centrum. Jedn\u0105 porz\u0105dn\u0105 alternatyw\u0105 dla Czarnych jest 9. ... d5, zaprezentowane w partii 298.",
+                    "ru": "\u041e\u0431\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438 \u0411\u0435\u043b\u044b\u0435 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u043b\u0438\u0441\u044c \u0441\u043e \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0435\u0439 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0425\u043e\u0440\u043e\u0448\u0435\u0439 \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043e\u0439 \u0431\u0443\u0434\u0435\u0442 \u0445\u043e\u0434 \u0434\u043b\u044f \u0427\u0435\u0440\u043d\u044b\u0445 9...d5, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 298, \u043d\u0430\u0448\u0435\u0439 \u0431\u0430\u0437\u044b \u0438\u0433\u0440."
+                }
+            },
+            {
+                "move": "   10. exd6 cxd6 11. d5 ",
+                "comment": {
+                    "pt": "As brancas t\u00eam vantagem devido a fraqueza na estrutura central preta, qualquer que seja a decis\u00e3o que tomem agora; Se jogarem 11... exd5 o pe\u00e3o em d6 ficar\u00e1 isolado.",
+                    "en": "White has advantage due to Black's weakness in the central structure, independent of any decision it may take now. If 11...exd5, the d6-pawn will be isolated.",
+                    "es": "Las blancas tienen ventaja debido a la debilidad en la estructura central negra, cualquiera que sea la decisi\u00f3n que tomen ahora: Si 11...exd5, el pe\u00f3n en d6 quedar\u00e1 aislado.",
+                    "de": "Wei\u00df hat Vorteil wegen der Schw\u00e4chen des schwarzen Zentrums, unabh\u00e4ngig was Schwarz jetzt spielt: auf 11...  exd5 wird der Bauer auf d6 zum Isolani.",
+                    "zh": "\u767d\u65b9\u4e0d\u8bba\u73b0\u5728\u505a\u4efb\u4f55\u51b3\u5b9a\u90fd\u4f1a\u56e0\u4e3a\u9ed1\u65b9\u4e2d\u5fc3\u7ed3\u6784\u7684\u5f31\u70b9\u5360\u4f18\u3002\u5982\u679c\u8d7011...exd5\uff0cd6-\u5175\u4f1a\u88ab\u5b64\u7acb\u3002",
+                    "pl": "Bia\u0142e maj\u0105 przewag\u0119 z powodu s\u0142abo\u015bci czarnych w centralnej strukturze oraz swobody decyzji, gdzie uderz\u0105. Je\u015bli 11. ... exd5, pion d6 zostanie izolowany.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0438\u0437-\u0437\u0430 \u0441\u043b\u0430\u0431\u043e\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0427\u0435\u0440\u043d\u044b\u0445 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0415\u0441\u043b\u0438 11...exd5, \u0442\u043e \u043f\u0435\u0448\u043a\u0430 \u043d\u0430 d6 \u0441\u0442\u0430\u043d\u0435\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439."
+                }
+            },
+            {
+                "move": "   Bxf3 12. Bxf3 Ne5 13. dxe6 fxe6 14. Bg4 ",
+                "comment": {
+                    "pt": "E os pe\u00f5es centrais das pretas est\u00e3o enfraquecidos.",
+                    "en": "And the black central pawns get weakened.",
+                    "es": "Y los peones centrales de las negras est\u00e1n debilitados.",
+                    "de": "Und die schwarzen Zentralbauern sind schwach.",
+                    "zh": "\u9ed1\u65b9\u4e2d\u5fc3\u5175\u53d8\u5f31\u4e86\u3002",
+                    "pl": "I czarne centralne piony s\u0142abn\u0105.",
+                    "ru": "\u0418 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0448\u043a\u0438 \u0427\u0435\u0440\u043d\u044b\u0445 \u0441\u0442\u0430\u043d\u043e\u0432\u044f\u0442\u0441\u044f \u0441\u043b\u0430\u0431\u044b\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

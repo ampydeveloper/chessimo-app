@@ -1,0 +1,380 @@
+//old
+.board-wrapper {
+    background-image: url("/assets/chesspieces/board_A.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+    display: block;
+    float: left;
+
+    .board-b72b1 {
+        border: 0;
+        overflow: hidden;
+        .notation-322f9 {
+            display: none;
+        }
+    }
+
+    .white-1e1d7 {
+        background-color: rgba(255, 255, 255, 0);
+    }
+
+    .black-3c85d {
+        background-color: rgba(255, 255, 255, 0);
+    }
+}
+
+.board-wrapper.board-A.rotated {
+    background-image: url("/assets/chesspieces/board_A.png");
+}
+
+.board-wrapper.board-B {
+    background-image: url("/assets/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-B.rotated {
+    background-image: url("/assets/chesspieces/board_B.png");
+}
+
+.board-wrapper.board-C {
+    background-image: url("/assets/chesspieces/board_C.png");
+}
+
+.board-wrapper.board-C.rotated {
+    background-image: url("/assets/chesspieces/board_C.png");
+}
+
+.board-wrapper.board-D {
+    background-image: url("/assets/chesspieces/board_D.png");
+}
+
+.board-wrapper.board-D.rotated {
+    background-image: url("/assets/chesspieces/board_D.png");
+}
+
+.board-wrapper.board-E {
+    background-image: url('/assets/chesspieces/board_E.png');
+}
+
+.board-wrapper.board-F {
+    background-image: url('/assets/chesspieces/board_F.png');
+}
+
+.board-wrapper.board-G {
+    background-image: url('/assets/chesspieces/board_G.png');
+}
+
+.board-wrapper.board-H {
+    background-image: url('/assets/chesspieces/board_H.png');
+}
+
+//old end
+
+.train-board-outer {
+    width: 100%;
+    padding-top: 100%;
+    position: relative;
+
+    #train-board-wrapper {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+    }
+}
+
+// old
+.fillWidth {
+    width: 100%;
+}
+
+.bgWhite {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.defBoxPadding {
+    padding: 0.4em;
+}
+
+.outerBoxWrapper {
+    width: 100%;
+    font-size: 10pt;
+    padding-top: 0 !important;
+}
+
+@media only screen and (max-width: 335px) {
+    .outerBoxWrapper {
+        font-size: 8pt;
+    }
+}
+
+.outerBox {
+    text-align: left;
+    color: black;
+}
+
+.boxPlayerState {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    font-weight: bold;
+}
+
+.boxPlayerState .boxWhoIsNext {
+    font-size: 120%;
+    line-height: 1.5em;
+    vertical-align: bottom;
+}
+
+.boxSymbolPlay {
+    margin-top: 0.1em;
+    font-size: 180%;
+    margin-right: 0.3em;
+}
+
+.white {
+    color: white !important;
+}
+
+.boxStepping {
+    text-align: center;
+    font-size: 130% !important;
+}
+
+.boxSymbolClock {
+    margin-top: 0.1em;
+    font-size: 150%;
+    margin-right: 0.3em;
+}
+
+.boxClockContent {
+    float: right;
+    font-size: 150%;
+}
+
+.boxInstructionsText {
+    color: #66829f;
+    display: block;
+    padding: 0.5em;
+}
+
+/*.boxContentClock:after {
+	content:'';
+	display:block;
+	clear:both;
+}*/
+.choclearer {
+    clear: both;
+}
+
+.title-container {
+    width: 100%;
+    display: block;
+    text-align: center;
+    position: absolute;
+    top: 0.3em;
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 2.0em;
+}
+
+@media only screen and (max-width: 335px) {
+    .title-container {
+        font-size: 1.0em;
+        top: 0.5em;
+        text-align: left;
+        padding-left: 35px;
+    }
+}
+
+.km-on-ios.km-black-translucent-status-bar.km-app .km-header .title-container {
+    padding-top: 1.2em;
+}
+
+.footer address li a {
+    color: inherit;
+}
+
+@media only screen and (max-width: 599px) {
+    .header-profile .name {
+        display: none;
+    }
+
+    .not-small {
+        display: none !important;
+    }
+
+    .applogo {
+        display: none !important;
+    }
+
+    .without-back .applogo {
+        display: block !important;
+    }
+}
+
+.cho-main-menu-options {
+    margin-left: 2em;
+}
+
+.cho-main-menu-options .km-button {
+    border: none;
+}
+
+.cho-main-menu-options .option {
+    height: 172px;
+    width: 172px;
+    background-size: 100% 100%;
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.cho-main-menu-options .option.train {
+    background-image: url(/assets/big_knight@2x.png);
+}
+
+.cho-main-menu-options .option.check {
+    background-image: url(/assets/big_rook@2x.png);
+}
+
+.cho-main-menu-options .option.play {
+    background-image: url(/assets/big_queen@2x.png);
+}
+
+.trainCharacterWrapper {
+    width: 30px;
+    height: 75px;
+    float: right;
+
+    &>div {
+        width: 100%;
+        height: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .trainCharacter1 {
+        background-image: url("../../../../../assets/images/Male_Character-01_opi_100.png");
+    }
+
+    .trainCharacter1.good {
+        background-image: url("../../../../../assets/images/Male_Character-03_opi_100.png");
+    }
+
+    .trainCharacter1.tryagain {
+        background-image: url("../../../../../assets/images/Male_Character-18_opi_100.png");
+    }
+
+    .trainCharacter1.bad {
+        background-image: url("../../../../../assets/images/Male_Character-23_opi_100.png");
+    }
+}
+
+//old end   
+
+
+.traingamepage {
+    overflow: hidden;
+    .bottom-button {
+        ion-button {
+            span {
+                font-size: 14px;
+                margin-right: 3px;
+            }
+    
+            font-size: 9px;
+        }
+    }
+    
+    .gameScreen {
+        position: relative;
+        app-gameboard{
+            width:100%;
+            justify-content: center;
+            display: flex;
+        }
+    }
+    
+    
+    .gamefinishview {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 3000;
+        background:
+        rgba(0,0,0,0.9);
+        background: url("/assets/images/background.png") no-repeat 70% 100%/cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .content {
+            padding: 15px;
+            h1 {
+                text-align: center;
+                font-weight: 600;
+            }
+            .buttons {
+                display: flex;
+                flex-direction: column;
+                margin-top: 20px;
+            }
+        }
+    }
+
+    .commentsview {
+        display: none;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 3000;
+        background:
+        rgba(0,0,0,0.5);
+        padding: 15px;
+        .contentouter {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            .content {
+                padding: 10px;
+                width: 100%;
+                height: 70%;
+                background: #fff;
+                border-radius: 5px;
+                color: #444;
+                display: flex;
+                flex-direction: column;
+                .body{
+                    flex: 1;
+                    padding: 10px;
+                    overflow-y: auto;
+                    text-align: justify;
+                }
+                .buttons {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    button {
+                            display: block;
+                            width: 180px;
+                            box-sizing: border-box;
+                            padding: 10px 15px;
+                            background: #fff;
+                            border: 2px solid;
+                            font-weight: 600;
+                    }
+                    
+                }
+            }
+        }
+       
+    }
+}

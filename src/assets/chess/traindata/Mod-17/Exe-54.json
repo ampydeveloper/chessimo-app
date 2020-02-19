@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Defesa Grunfeld",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Grunfeld defense",
+            "de": "Gr\u00fcnfeld Verteidigung",
+            "es": "Defensa Gr\u00fcnfeld",
+            "pt": "Defesa Gr\u00fcnfeld",
+            "zh": "\u683c\u4f26\u83f2\u5c14\u5fb7\u9632\u5fa1",
+            "pl": "Obrona Grunfelda",
+            "ru": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0413\u0440\u044e\u043d\u0444\u0435\u043b\u044c\u0434\u0430"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 ",
+                "comment": {
+                    "pt": "Na defesa Grunfeld as pretas permitem que as brancas tenham mais espa\u00e7o no centro, mas elas ir\u00e3o atacar neste setor rapidamente.",
+                    "en": "In the Grunfeld defense, Black allows White to win more space in the center but it will attack in this sector very quickly.",
+                    "es": "En la Defensa Gr\u00fcnfeld las negras permiten que las blancas tengan m\u00e1s espacio en el centro, pero ellas atacar\u00e1n en este sector r\u00e1pidamente.",
+                    "de": "In der Gr\u00fcnfeld-Verteidigung l\u00e4sst Schwarz den Aufbau eines starken wei\u00dfen Zentrum zu, wird aber schnell dieses Zentrum angreifen.",
+                    "zh": "\u5728\u683c\u4f26\u83f2\u5c14\u5fb7\u9632\u5fa1\u4e2d\uff0c\u9ed1\u65b9\u8ba9\u767d\u65b9\u5728\u4e2d\u5fc3\u8d62\u5f97\u66f4\u591a\u7684\u7a7a\u95f4\uff0c\u4f46\u662f\u5b83\u4f1a\u5728\u8fd9\u4e2a\u533a\u57df\u5feb\u901f\u8fdb\u653b\u3002",
+                    "pl": "W obronie Grunfelda, Czarne zezwalaj\u0105 Bia\u0142ym zdoby\u0107 przestrze\u0144 w centrum, ale bardzo szybko zaatakuj\u0105 ten sektor.",
+                    "ru": "\u0412 \u0437\u0430\u0449\u0438\u0442\u0430 \u0413\u0440\u044e\u043d\u0444\u0435\u043b\u044c\u0434\u0430. \u0427\u0435\u0440\u043d\u044b\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0411\u0435\u043b\u044b\u043c \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0430 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u043d\u043e \u044d\u0442\u043e\u0442 \u0441\u0435\u043a\u0442\u043e\u0440 \u0431\u0443\u0434\u0435\u0442 \u0431\u044b\u0441\u0442\u0440\u043e \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u043d \u043f\u043e\u0437\u0434\u043d\u0435\u0435."
+                }
+            },
+            {
+                "move": "   4. cxd5 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a variante das trocas, que parece a mais l\u00f3gica para ganhar espa\u00e7o no centro. Outras op\u00e7\u00f5es s\u00e3o; 4-Db3 ( partidas 589, 590 e 595) 4-Cf3 Bg7 5-Db3 Esta \u00e9 uma das principais alternativas das brancas, preferida do ex campeao mundial A.Karpov, e garante maior dom\u00ednio central (partidas 594, 597, 598, 599 e 601) 4-Bf4 (partida 596) 4-Bg5 (partida 603).",
+                    "en": "This is the exchange variation that seems more logical in order to win space in the center. Other options are: 4-Qb3 (games 589, 590 and 595); 4-Nf3 Bg7 5-Qb3 that is one of White's main alternatives, and former World Champion A. Karpov's favorite, that guarantees greater central dominance (games 594, 597, 598, 599 and 601); 4-Bf4 (game 596); 4-Bg5 (game 603).",
+                    "es": "Esta es la variante del cambio, que parece la m\u00e1s l\u00f3gica para ganar espacio en el centro. Otras opciones son: 4-Db3 (partidas 589, 590 y 595); 4-Cf3 Ag7 5-Db3. Esta es una de lasprincipales alternativas de las blancas, preferida del ex campe\u00f3n mundial A. Karpov, y garantiza mayor dominio central (partidas 594, 597, 598, 599 y 601); 4-Af4 (partida 596) 4-Ag5 (partida 603).",
+                    "de": "Die Abtauschvariante, mit der man Raum im Zentrum gewinnt. Andere M\u00f6glichkeiten: 4. Db3 (Partien Nr. 589, 590 und 595); 4. Sf3 Lg7 5. Db3, eine der wichtigsten M\u00f6glichkeiten f\u00fcr Wei\u00df, oft vom fr\u00fcheren Weltmeister A.Karpow gespielt, die eine gr\u00f6ssere Kontrolle \u00fcber das Zentrum verschafft (Partien Nr. 594, 597, 598, 599 und 601).",
+                    "zh": "\u8fd9\u4e2a\u5151\u6362\u53d8\u4f8b\uff0c\u770b\u8d77\u6765\u66f4\u52a0\u7b26\u5408\u903b\u8f91\u4ee5\u4fbf\u5728\u4e2d\u5fc3\u8d62\u5f97\u66f4\u591a\u7684\u7a7a\u95f4\u3002\u53e6\u5916\u7684\u9009\u62e9\u662f\uff1a4-Qb3\uff08\u68cb\u5c40589\u3001590\u548c595\uff09\uff1b 4-Nf3 Bg7 5-Qb3\u662f\u767d\u65b9\u4e3b\u8981\u7684\u9009\u62e9\u4e4b\u4e00\uff0c\u524d\u4e16\u754c\u51a0\u519b\u5361\u5c14\u6ce2\u592b\u7684\u631a\u7231\uff0c\u53ef\u4ee5\u786e\u4fdd\u5bf9\u4e2d\u5fc3\u7684\u7edd\u5bf9\u7edf\u6cbb\uff08\u68cb\u5c40594\u3001597\u3001598\u3001599\u548c601\uff09\uff1b4-Bf4\uff08\u68cb\u5c40596\uff09\uff1b 4-Bg5\uff08\u68cb\u5c40603\uff09\u3002",
+                    "pl": "To wariant wymiany, kt\u00f3ry wygl\u0105da bardziej logicznie, maj\u0105c na celu zdobycie przestrzeni w centrum. Innymi opcjami s\u0105: 4. Hb3 (gry 589, 590 i 595); 4. Sf3 Gg7 5. Hb3, co jest g\u0142\u00f3wn\u0105 alternatyw\u0105 Bia\u0142ych i ulubionym ruchem by\u0142ego Mistrza \u015awiata Anatolija Karpowa, gwarantuje on centraln\u0105 dominacj\u0119 (594, 597, 598, 599 i 601); 4. Gf4 (596); 4. Gg5 (603).",
+                    "ru": "\u042d\u0442\u043e\u0442 \u0440\u0430\u0437\u043c\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u043c, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435. \u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442: 4-Qb3 (\u0438\u0433\u0440\u044b 589, 590 \u0438 595); 4-Nf3 Bg7 5-Qb3, \u0447\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0411\u0435\u043b\u044b\u0445, \u0438 \u0431\u044b\u043b \u043b\u044e\u0431\u0438\u043c\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u043c \u044d\u043a\u0441-\u0427\u0435\u043c\u043f\u0438\u043e\u043d\u0430 \u041c\u0438\u0440\u0430 \u0410. \u041a\u0430\u0440\u043f\u043e\u0432\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u0443\u0435\u0442 \u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u044b 594, 597, 598, 599 \u0438 601); 4-Bf4 (\u0438\u0433\u0440\u0430 596); 4-Bg5 (\u0438\u0433\u0440\u0430 603)."
+                }
+            },
+            {
+                "move": "   Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 ",
+                "comment": {
+                    "pt": "Nas partidas 592 e 602 as brancas optam por desenvolver este bispo por e2, o cavalo por f3 e o outro bispo pode ir a e3, sustentando o centro.",
+                    "en": "In games 592 and 602 White chooses to develop this Bishop through e2, the Knight through f3 and the other Bishop is able to move to e3, supporting the center.",
+                    "es": "En las partidas 592 y 602 las blancas optan por desarrollar este alfil por e2, el caballo por f3 y el otro alfil puede ir a e3, sosteniendo el centro.",
+                    "de": "In den Partien Nr. 592 und  602 entwickelt Wei\u00df seinen L\u00e4ufer \u00fcber e2, den Springer \u00fcber f3 und den schwarzfeldrigen L\u00e4ufer \u00fcber e3, um das Zentrum zu st\u00fctzen.",
+                    "zh": "\u5728\u68cb\u5c40592\u548c602\u4e2d\u767d\u65b9\u9009\u62e9\u901a\u8fc7e2\u51fa\u8c61\uff0c\u901a\u8fc7f3\u51fa\u9a6c\uff0c\u5e76\u4e14\u53e6\u5916\u4e00\u4e2a\u8c61\u53ef\u4ee5\u79fb\u5230e3\uff0c\u6765\u652f\u6301\u4e2d\u5fc3\u3002",
+                    "pl": "W partiach 592 i 602 Bia\u0142e wybieraj\u0105 wyprowadzenie Go\u0144ca przez e2, Skoczka przez f3 i drugi Goniec jest w stanie przej\u015b\u0107 na e3, wzmacniaj\u0105c centrum.",
+                    "ru": "\u0412 \u0438\u0433\u0440\u0430\u0445 592 \u0438 602, \u0411\u0435\u043b\u044b\u0435 \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0421\u043b\u043e\u043d\u0430 \u0447\u0435\u0440\u0435\u0437 e2, \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 f3, \u0430 \u0434\u0440\u0443\u0433\u043e\u0439 \u0421\u043b\u043e\u043d \u043c\u043e\u0436\u0435\u0442 \u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 e3, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044f \u0446\u0435\u043d\u0442\u0440."
+                }
+            },
+            {
+                "move": "   c5 8. Ne2 ",
+                "comment": {
+                    "pt": "Aqui \u00e9 fundamental este desenvolvimento, pois o cavalo em f3 seria cravado (...Bg4) e a press\u00e3o no centro branco seria muito forte.",
+                    "en": "This development is fundamental here because the f3-Knight f3 would be pinned (... Bg4) and the pressure on the white center would be very strong.",
+                    "es": "Aqu\u00ed es fundamental este desarrollo, pues el caballo en f3 ser\u00eda clavado (...Ag4) y la presi\u00f3n en el centro blanco ser\u00eda muy fuerte.",
+                    "de": "Dieser Zug ist Pflicht, denn auf f3 w\u00fcrde der Springer gefesselt werden (...Lg4), mit dem folglichen starken Druck auf das wei\u00dfe Zentrum.",
+                    "zh": "\u8fd9\u79cd\u8d70\u6cd5\u662f\u5fc5\u987b\u7684\uff0c\u56e0\u4e3af3\u5904\u7684\u9a6c\u88ab\u7275\u5236\uff08... Bg4\uff09\u800c\u4e14\u65bd\u52a0\u7ed9\u767d\u68cb\u4e2d\u5fc3\u7684\u538b\u529b\u975e\u5e38\u5927\u3002",
+                    "pl": "Tego rodzaju rozw\u00f3j jest fundamentalny, poniewa\u017c Skoczek f3 m\u00f3g\u0142by zosta\u0107 przygwo\u017cd\u017cony (... Gg4) i presja na bia\u0142e centrum by\u0142aby bardzo silna.",
+                    "ru": "\u042d\u0442\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0438\u043c\u0435\u0435\u0442 \u043a\u043b\u044e\u0447\u0435\u0432\u043e\u0439 \u043c\u043e\u043c\u0435\u043d\u0442, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u041a\u043e\u043d\u044c f3 \u0431\u0443\u0434\u0435\u0442 \u0441\u0432\u044f\u0437\u0430\u043d (... Bg4) \u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0411\u0435\u043b\u044b\u0445, \u0431\u0443\u0434\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u043e\u0449\u0443\u0442\u0438\u043c\u044b\u043c."
+                }
+            },
+            {
+                "move": "   O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 ",
+                "comment": {
+                    "pt": "As brancas dominam o centro, mas as pretas exercem forte press\u00e3o sobre ele. As brancas devem atacar no flanco rei (f4-f5) e isto ocorreu nas partidas 591, 593 e 600.",
+                    "en": "White has dominance over the center but Black puts great pressure on it. White must attack on the kingside (f4-f5) and this is described in games 591, 593 and 600.",
+                    "es": "Las blancas dominan el centro, pero las negras ejercen fuerte presi\u00f3n sobre el mismo. Las blancas deben atacar en el flanco rey (f4-f5); esto ocurri\u00f3 en las partidas 591, 593 y 600.",
+                    "de": "Wei\u00df beherrscht das Zentrum, aber Schwarz \u00fcbt einen starken Druck darauf. Wei\u00df muss am K\u00f6nigsfl\u00fcgel angreifen (mit f4-f5), wie in den Partien 591, 593 und 600.",
+                    "zh": "\u767d\u65b9\u5bf9\u4e2d\u5fc3\u62e5\u6709\u7edf\u6cbb\uff0c\u4f46\u662f\u9ed1\u65b9\u4e0d\u65ad\u7ed9\u5b83\u65bd\u52a0\u5f3a\u5927\u538b\u529b\u3002\u767d\u65b9\u5fc5\u987b\u653b\u51fb\u738b\u7ffc\uff08f4-f5\uff09\uff0c\u8fd9\u5728\u68cb\u5c40591\u3001593\u548c600\u4e2d\u6709\u4ecb\u7ecd\u3002",
+                    "pl": "Bia\u0142e posiadaj\u0105 dominacj\u0119 nad centrum, ale Czarne wywieraj\u0105 na nie wielk\u0105 presj\u0119. Bia\u0142e musz\u0105 atakowa\u0107 na skrzydle kr\u00f3lewskim (f4-f5), co zosta\u0142o opisane w partiach 591, 593 i 600.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0438\u043c\u0435\u044e\u0442 \u043f\u0435\u0440\u0435\u0432\u0435\u0441 \u0432 \u0446\u0435\u043d\u0442\u0440\u0435, \u043d\u043e \u0427\u0435\u0440\u043d\u044b\u0435 \u0442\u0430\u043a\u0436\u0435 \u0430\u0442\u0430\u043a\u0443\u044e\u0442 \u0446\u0435\u043d\u0442\u0440. \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u0440\u0435\u0441\u0441\u0438\u043d\u0433\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 (f4-f5) \u0438 \u044d\u0442\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0438\u0433\u0440\u0430\u0445 591, 593 \u0438 600."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

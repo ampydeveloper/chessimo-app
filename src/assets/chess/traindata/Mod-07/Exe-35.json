@@ -1,0 +1,182 @@
+[
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(341)"
+        },
+        "fen": "8\/r1k5\/P7\/1K6\/8\/8\/8\/R7 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rh1 (1. Rf1 $11) (1. Rg1 $11) 1... Kb8 2. Rh8+ Kc7 3. Rg8 Kd6 4. Kb6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(342)"
+        },
+        "fen": "r5k1\/5R2\/4P3\/4K3\/8\/8\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rb7 Ra5+ 2. Kf6 Ra6 3. Rb8+ Kh7 4. Kf7",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(343)"
+        },
+        "fen": "4K3\/2k1P3\/8\/8\/8\/8\/3R4\/4r3 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rc2+ Kd6 2. Kd8 Rxe7 3. Rd2+ Ke6 4. Re2+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(344)"
+        },
+        "fen": "8\/8\/7P\/5rk1\/R7\/6K1\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. h7 Rf8 2. Rg4+ Kh6 3. Rg8",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(345)"
+        },
+        "fen": "8\/3P4\/4K1k1\/8\/5R2\/8\/8\/3r4 w - - 0 5",
+        "moves": [
+            {
+                "move": "5. Rg4+ Kh7 6. Rg5 Kh6 7. Rd5",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(346)"
+        },
+        "fen": "3K4\/3P1k2\/8\/8\/8\/8\/2r5\/R7 w - - 0 2",
+        "moves": [
+            {
+                "move": "2. Ra8 Rc1 3. Rc8 Re1 4. Kc7 Rc1+ 5. Kb6 Rb1+ 6. Ka5 (6. Kc5 $11) 6... Ra1+ 7. Kb4 Rb1+ 8. Ka3 (8. Kc3 $11) 8... Ra1+ 9. Kb2",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(347)"
+        },
+        "fen": "8\/3K4\/1kP4R\/8\/8\/8\/2r5\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Rd6 Rc1 2. Rd2 (2. Rd3 $11) 2... Rc3 3. Rb2+ Ka7 4. c7 Rd3+ 5. Kc8 Rd4 6. Ra2+ Kb6 7. Kb8",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(348)"
+        },
+        "fen": "8\/1K6\/R6P\/8\/4r3\/4k3\/8\/8 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Ra3+ Kf4 2. Ra4 Rxa4 3. h7 Rb4+ 4. Kc7 Rc4+ 5. Kd7 Rd4+ 6. Ke7 Re4+ 7. Kf7",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(349)"
+        },
+        "fen": "8\/8\/4r3\/7P\/8\/3K2k1\/8\/7R w - - 0 1",
+        "moves": [
+            {
+                "move": "1. h6 Re8 2. h7 Rh8 3. Ke4 Kg4 4. Ke5 Kg5 5. Ke6 Kg6 6. Rg1+ Kh6 7. Kf7 Rxh7+ 8. Kf6",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "RP x R",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "(350)"
+        },
+        "fen": "5R2\/5K1k\/5P2\/8\/8\/8\/8\/5r2 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. Re8 Ra1 2. Kf8 Kg6 3. f7 Kf6 4. Rc8 (4. Rb8 $11) (4. Rd8 $11) 4... Ra2 5. Rc6+",
+                "comment": []
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

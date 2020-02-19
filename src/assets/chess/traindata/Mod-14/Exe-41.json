@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(65)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1nk1\/ppp3rp\/3b1n2\/PNNPp3\/1P2Ppp1\/5P2\/4BBPP\/R3QRK1 b - - 0 21",
+        "moves": [
+            {
+                "move": "21... Qe8 ",
+                "comment": {
+                    "pt": "Para levar a dama a g6 ou h5 e concentrar for\u00e7as no flanco do rei.",
+                    "en": "In order to take the Queen to g6 or h5 and concentrate forces on the kingside.",
+                    "de": "Um Dame auf g6 oder h5 zu bringen und Kr\u00e4fte am K\u00f6nigsfl\u00fcgel zu konzentrieren.",
+                    "es": "Para llevar la dama a g6 o a h5 y concentrar fuerzas en el flanco rey.",
+                    "zh": "\u4e3a\u4e86\u628a\u540e\u79fb\u5230g6\u6216h5\uff0c\u5e76\u96c6\u4e2d\u706b\u529b\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "W celu wzi\u0119cia Hetmana na g6 lub h5 i koncentracji si\u0142 na skrzydle kr\u00f3lewskim.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u043d\u0443\u0442\u044c \u0424\u0435\u0440\u0437\u044f \u043d\u0430 g6 \u0438\u043b\u0438 h5 \u0438 \u0441\u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0441\u0438\u043b\u044b \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(77)",
+            "zh": "Event 1"
+        },
+        "fen": "rn3rk1\/4qppp\/b1p2n2\/N1p1p3\/P7\/B1P3P1\/4PPBP\/R2Q1RK1 b - - 0 15",
+        "moves": [
+            {
+                "move": "15... e4 ",
+                "comment": {
+                    "pt": "Bloqueando o bispo de g2 e ganhando espa\u00e7o no centro.",
+                    "en": "Blocking the g2-Bishop and gaining space in the center.",
+                    "de": "Blockiert den L\u00e4ufer von g2 und gewinnt Raum im Zentrum.",
+                    "es": "Bloqueando el alfil de g2 y ganando espacio en el centro.",
+                    "zh": "\u5835\u4f4fg2-\u8c61\uff0c\u8d62\u5f97\u4e2d\u5fc3\u7a7a\u95f4\u3002",
+                    "pl": "Blokuj\u0105c Go\u0144ca g2 i zdobywaj\u0105c przestrze\u0144 w centrum.",
+                    "ru": "\u0411\u043b\u043e\u043a\u0438\u0440\u0443\u0435\u0442 C\u043b\u043e\u043d\u0430 g2 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(102)",
+            "zh": "Event 1"
+        },
+        "fen": "rb1q3k\/pp4pp\/n3br2\/1N1p1p2\/3Pn3\/1Q1B1N2\/PP1B1PPP\/2R1R1K1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Bg5 ",
+                "comment": {
+                    "pt": "Obrigando as pretas a tomar este bispo e portanto eliminando o cavalo de e4 que estava muito bem colocado.",
+                    "en": "Forcing Black to capture this Bishop and eliminate the e4-Knight that was very well positioned.",
+                    "de": "Zwingt Schwarz diesen L\u00e4ufer zu schlagen und beseitigt den Springer von e4, der sehr gut stand.",
+                    "es": "Obligando a las negras a tomar este alfil y eliminando por lo tanto el caballo de e4 que estaba muy bien colocado.",
+                    "zh": "\u8feb\u4f7f\u9ed1\u65b9\u5151\u8c61\uff0c\u5e76\u4e14\u6d88\u706d\u4f4d\u7f6e\u5f88\u597d\u7684e4-\u9a6c\u3002",
+                    "pl": "Zmuszaj\u0105c Czarne do wzi\u0119cia tego Go\u0144ca eliminuj\u0105c Skoczka e4, kt\u00f3ry by\u0142 bardzo dobrze ustawiony.",
+                    "ru": "\u0412\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0427\u0435\u0440\u043d\u044b\u0445 \u0432\u0437\u044f\u0442\u044c \u044d\u0442\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430 \u0438 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442, \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u041a\u043e\u043d\u044f e4, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u043d\u0438\u043c\u0430\u043b \u043e\u0447\u0435\u043d\u044c \u0432\u044b\u0433\u043e\u0434\u043d\u0443\u044e \u043f\u043e\u0437\u0438\u0446\u0438\u044e."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(2)",
+            "zh": "Event 1"
+        },
+        "fen": "r3r1k1\/pp1bb2p\/1q2p1pB\/7n\/8\/P4N2\/1P3PP1\/RB2QRK1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. Ne5 ",
+                "comment": {
+                    "pt": "Atacando o bispo e ao mesmo tempo exercendo uma forte press\u00e3o sobre o flanco do rei advers\u00e1rio. Contra a jogada natural das pretas ...Bb5 as brancas devem jogar Bxg6, seguido de De4, com ataque decisivo.",
+                    "en": "Attacking the Bishop and, at the same time, exerting great pressure on the enemy kingside. Against the natural ...Bb5, White should play Bxg6, followed by Qe4, with a decisive attack.",
+                    "de": "Greift den L\u00e4ufer an und \u00fcbt starken Druck auf den gegnerischen K\u00f6nigsfl\u00fcgel aus. Auf den nat\u00fcrlichen schwarzen Zug ...Lc5 muss Wei\u00df Lxg6 nebst De4 mit entscheidendem Angriff spielen.",
+                    "es": "Atacando el alfil y al mismo tiempo ejerciendo una fuerte presi\u00f3n sobre el flanco rey adversario. Contra la jugada natural de las negras ...Ab5, las blancas deben jugar Axg6, seguido de De4, con ataque decisivo.",
+                    "zh": "\u653b\u51fb\u8c61\u5e76\u7ed9\u5bf9\u65b9\u7684\u738b\u7ffc\u65bd\u52a0\u538b\u529b\u3002\u4e3a\u4e86\u5e94\u5bf9 ...Bb5\uff0c\u767d\u65b9\u5e94\u8be5\u4e0bBxg6\u8ddfQe4\u53d1\u8d77\u51b3\u5b9a\u6027\u7684\u653b\u51fb\u3002",
+                    "pl": "Atak na Go\u0144ca i w tym samym czasie zwi\u0119kszenie wielkiej presji na wrogie skrzyd\u0142o kr\u00f3lewskie. Przeciw naturalnemu ... Gb5 Bia\u0142e powinny zagra\u0107 Gxg6, kontynuowane przez He4 z decyduj\u0105cym atakiem.",
+                    "ru": "\u0410\u0442\u0430\u043a\u0443\u0435\u0442 \u0421\u043b\u043e\u043d\u0430, \u0438, \u0432 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 \u0441\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0430. \u041d\u0430 \u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439 \u0445\u043e\u0434 ...Bb5, \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c Bxg6, \u043d\u0430 \u0447\u0442\u043e \u0441\u043b\u0435\u0434\u0443\u0435\u0442 Qe4, \u0441 \u0440\u0435\u0448\u0430\u044e\u0449\u0435\u0439 \u0430\u0442\u0430\u043a\u043e\u0439."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(22)",
+            "zh": "Event 1"
+        },
+        "fen": "r3qr1k\/pp1b1pbp\/n1pp1np1\/3Pp1B1\/PPP1P1P1\/2N4P\/3N1P2\/1R1QKB1R b K - 0 14",
+        "moves": [
+            {
+                "move": "14... c5 ",
+                "comment": {
+                    "pt": "Para ganhar um posto importante para o cavalo, seja este b4 ou c5, no caso de bxc5.",
+                    "en": "In order to win an important post for the Knight, whether b4 or c5, if bxc5.",
+                    "de": "Um einen wichtigen Vorposten (entweder b4 oder c5 im Falle von bxc5) f\u00fcr den Springer zu erobern.",
+                    "es": "Para ganar un puesto importante para el caballo, sea \u00e9ste b4 o c5, en el caso de bxc5.",
+                    "zh": "\u4e3a\u4e86\u8ba9\u9a6c\u83b7\u5f97\u4e00\u4e2a\u975e\u5e38\u91cd\u8981\u7684\u524d\u54e8\u4f4d\u7f6e\uff0cb4\u6216\u8005c5.",
+                    "pl": "W celu zdobycia wa\u017cnej przystani dla Skoczka, b4 lub c5, je\u015bli bxc5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u043d\u044f\u0442\u044c \u0432\u0430\u0436\u043d\u044b\u0439 \u0444\u043e\u0440\u043f\u043e\u0441\u0442 \u0434\u043b\u044f \u041a\u043e\u043d\u044f, b4 \u0438\u043b\u0438 c5, \u0435\u0441\u043b\u0438 bxc5."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

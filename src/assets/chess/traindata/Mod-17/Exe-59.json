@@ -1,0 +1,82 @@
+[
+    {
+        "title": "",
+        "white": "Abertura catalana",
+        "white_sort": "",
+        "black": "?",
+        "date": "",
+        "event": {
+            "en": "Catalan opening",
+            "de": "Katalanische Er\u00f6ffnung",
+            "es": "Apertura catalana",
+            "pt": "Abertura catalana",
+            "zh": "\u5361\u5854\u5170\u5f00\u5c40",
+            "pl": "Partia katalo\u0144ska",
+            "ru": "\u041a\u0430\u0442\u0430\u043b\u043e\u043d\u0441\u043a\u043e\u0435 \u043d\u0430\u0447\u0430\u043b\u043e"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. g3 ",
+                "comment": {
+                    "pt": "Esta \u00e9 a abertura Catalana, onde as brancas querem exercer press\u00e3o no centro e flanco dama, atrav\u00e9s da grande diagonal.",
+                    "en": "This is the Catalan opening where White wants to put pressure on the center and queenside through the big diagonal.",
+                    "es": "Esta es la apertura Catalana, en la que las blancas quieren ejercer presi\u00f3n en el centro y el flanco dama a trav\u00e9s de la gran diagonal.",
+                    "de": "Das ist die Katalanische Er\u00f6ffnung. Wei\u00df versucht, \u00fcber die lange Diagonale auf das Zentrum und den Damenfl\u00fcgel Druck auszu\u00fcben.",
+                    "zh": "\u8fd9\u662f\u5361\u5854\u5170\u5f00\u5c40\uff0c\u6b64\u5904\u767d\u65b9\u60f3\u8981\u901a\u8fc7\u5927\u659c\u7ebf\u7ed9\u4e2d\u5fc3\u548c\u540e\u7ffc\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "To partia katalo\u0144ska, gdzie Bia\u0142e pragn\u0105 wywiera\u0107 presj\u0119 na centrum oraz skrzyd\u0142o hetma\u0144skie przez d\u0142ug\u0105 przek\u0105tn\u0105.",
+                    "ru": "\u0412 \u041a\u0430\u0442\u0430\u043b\u043e\u043d\u0441\u043a\u043e\u043c \u043d\u0430\u0447\u0430\u043b\u0435 \u0411\u0435\u043b\u044b\u0435 \u0445\u043e\u0442\u044f\u0442 \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u0444\u0435\u0440\u0437\u0435\u0432\u044b\u0439 \u0444\u043b\u0430\u043d\u0433 \u0447\u0435\u0440\u0435\u0437 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c."
+                }
+            },
+            {
+                "move": "   d5 4. Nf3 Be7 ",
+                "comment": {
+                    "pt": "4... dxc4 tamb\u00e9m \u00e9 poss\u00edvel e as brancas podem jogar 5-Bg2 e 6-0-0 ou 5-Da4 para recuperar o pe\u00e3o imediatamente (partida 646)",
+                    "en": "4...dxc4 is also possible and White can play 5-Bg2 and 6-0-0 or 5-Qa4 in order to retake to pawn immediately (game 646).",
+                    "es": "4...dxc4 tambi\u00e9n es posible y las blancas pueden jugar 5-Ag2 y 6-0-0 o 5-Da4 para recuperar el pe\u00f3n inmediatamente (partida 646).",
+                    "de": "4...  dxc4 ist auch m\u00f6glich, worauf Wei\u00df 5. Lg2 nebst 6. 0-0 oder 5. Da4 spielen kann, um den Bauern sofort zur\u00fcckzugewinnen (Partie Nr. 646).",
+                    "zh": "4...dxc4\u4e5f\u662f\u53ef\u884c\u7684\uff0c\u767d\u65b9\u53ef\u4ee5\u8d705-Bg2 and 6-0-0\u62165-Qa4\u6765\u9a6c\u4e0a\u593a\u56de\u5175\uff08\u68cb\u5c40646\uff09\u3002",
+                    "pl": "4. ... dxc4 jest r\u00f3wnie\u017c mo\u017cliwe, za\u015b Bia\u0142e mog\u0105 zagra\u0107 5. Gg2 i 6. 0-0 lub 5. Ha4 w celu natychmiastowego odbioru piona.",
+                    "ru": "\u0425\u043e\u0434 4...dxc4, \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0438 \u0411\u0435\u043b\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0438\u0433\u0440\u0430\u0442\u044c 5-Bg2 \u0438 6-0-0 \u0438\u043b\u0438 5-Qa4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0441\u0440\u0430\u0437\u0443 \u043f\u043e\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 (\u0438\u0433\u0440\u0430 646)."
+                }
+            },
+            {
+                "move": "   5. Bg2 O-O 6. O-O dxc4 ",
+                "comment": {
+                    "pt": "6...c6 para seguir com Cbd7 \u00e9 uma op\u00e7\u00e3o e as pretas ficam numa posi\u00e7\u00e3o muito restringida, por\u00e9m s\u00f3lida. 6...c5 poderia transpor para a defesa Tarrasch.",
+                    "en": "6...c6 intending Nbd7 is an option and Black is placed in a very restricted but solid position. 6...c5 could transpose the game to the Tarrasch defense.",
+                    "es": "6... c6 para seguir con Cbd7 es otra opci\u00f3n; las negras quedan en una posici\u00f3n muy restringida, pero s\u00f3lida. 6...c5 podr\u00eda transponer a la Defensa Tarrasch..",
+                    "de": "6...c6 nebst Sbd7 ist eine M\u00f6glichkeit, nach der Schwarz eine sehr beschr\u00e4nkte jedoch solide Stellung hat. Durch 6...c5 kann man in die Tarrasch-Verteidigung \u00fcbergehen.",
+                    "zh": "6...c6\u76ee\u7684\u662f\u8d70Nbd7\uff0c\u4e5f\u662f\u4e00\u4e2a\u9009\u62e9\uff0c\u9ed1\u65b9\u5904\u5728\u4e00\u4e2a\u975e\u5e38\u53d7\u9650\u4f46\u662f\u5f88\u7a33\u56fa\u7684\u5c40\u9762\u30026...c5\u53ef\u4ee5\u53d8\u6362\u4e3a\u5854\u62c9\u4ec0\u9632\u5fa1\u3002",
+                    "pl": "6. ... c6 z zamiarem Sbd7 jest opcj\u0105 stawiaj\u0105c\u0105 Czarne w bardzo ograniczonej, lecz solidnej pozycji. 6. ... c5 mo\u017ce zosta\u0107 transponowane do obrony Tarrascha.",
+                    "ru": "\u0414\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b 6...c6, \u0441 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c Nbd7 \u0438 \u0427\u0435\u0440\u043d\u044b\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u0432 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439, \u043d\u043e \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u0425\u043e\u0434 6...c5 \u043f\u0435\u0440\u0435\u0432\u0435\u0434\u0435\u0442 \u0438\u0433\u0440\u0443 \u0432 \u0437\u0430\u0449\u0438\u0442\u0443 \u0422\u0430\u0440\u0440\u0430\u0448\u0430."
+                }
+            },
+            {
+                "move": "   7. Qc2 a6 8. a4 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o 8-Dxc4 b5 9-Dc2 Bb7 \u00e9 t\u00e3o boa quanto 8-a4 e ocorreu na partida 648.",
+                    "en": "the option 8-Qxc4 b5 9-Qc2 Bb7 is as good as 8-a4 and is presented in game 648.",
+                    "es": "La opci\u00f3n 8-Dxc4 b5 9-Dc2 Ab7 es tan buena como 8-a4 y ocurri\u00f3 en la partida 648.",
+                    "de": "8. Dxc4 b5 9. Dc2 Lb7 ist so gut wie 8. a4 und geschah in der Partie 648.",
+                    "zh": "8-Qxc4 b5 9-Qc2 Bb7\u8fd9\u4e2a\u9009\u62e9\u8ddf8-a4\u4e00\u6837\u90fd\u4e0d\u9519\uff0c\u5728\u68cb\u5c40648\u4e2d\u5448\u73b0\u3002",
+                    "pl": "Opcja 8. Hxc4 b5 9. Hc2 Gb7 jest dobra, tak jak 8. a4, jest prezentowana w partii 648.",
+                    "ru": "\u0414\u0440\u0443\u0433\u043e\u0439 \u043d\u0435\u043f\u043b\u043e\u0445\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0438\u0433\u0440\u044b 8-Qxc4 b5 9-Qc2 Bb7, \u043a\u0430\u043a \u0438 8-a4, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u0432 \u0438\u0433\u0440\u0435 648."
+                }
+            },
+            {
+                "move": "   Bd7 9. Qxc4 Bc6 ",
+                "comment": {
+                    "pt": "Com jogo equilibrado (partida 647).",
+                    "en": "In a balanced game (647).",
+                    "es": "Con juego equilibrado (partida 647).",
+                    "de": "Mit gleichem Spiel (Partie Nr. 647).",
+                    "zh": "\u5c40\u9762\u5e73\u8861\uff08647\uff09\u3002",
+                    "pl": "W celu zbalansowania partii (647).",
+                    "ru": "\u0414\u043b\u044f \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0438\u0433\u0440\u044b (647)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

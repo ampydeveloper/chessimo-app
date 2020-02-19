@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(90)",
+            "zh": "Event 1"
+        },
+        "fen": "3q1rk1\/4npbp\/p2p4\/1prP1N1Q\/4pp2\/2P5\/PP2BPPP\/R4RK1 w - - 0 20",
+        "moves": [
+            {
+                "move": "20. a4 ",
+                "comment": {
+                    "pt": "Para abrir a coluna a e enfraquecer o pe\u00e3o de b5.",
+                    "en": "In order to open the a-file and weaken the b5-pawn.",
+                    "de": "Um die a-Linie zu \u00f6ffnen und den Bauern von b5 zu schw\u00e4chen.",
+                    "es": "Para abrir la columna a y debilitar el pe\u00f3n de b5.",
+                    "zh": "\u4e3a\u4e86\u5f00\u653ea-\u7ebf\u5e76\u4e14\u524a\u5f31b5-\u5175\u3002",
+                    "pl": "W celu otwarcia kolumny a i os\u0142abienia piona b5.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c a-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u043a\u0443 b5."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(98)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp2bppp\/2n1p3\/4P3\/8\/3B1N2\/PP3PPP\/R1BQ1RK1 w - - 0 13",
+        "moves": [
+            {
+                "move": "13. Qe2 ",
+                "comment": {
+                    "pt": "Preparando De4 e ao mesmo tempo evitando a jogada ...Cb4 seguido da troca de damas.",
+                    "en": "Preparing for Qe4 and, at the same time, preventing ...Nb4, followed by the Queen exchange.",
+                    "de": "Mit der Idee, De4 zu spielen. Au\u00dferdem wird Sb4 nebst Damentausch verhindert.",
+                    "es": "Preparando De4 y evitando al mismo tiempo la jugada ...Cb4, seguido de cambio de damas.",
+                    "zh": "\u51c6\u5907\u4e0bQe4\uff0c\u540c\u65f6\u963b\u6b62\u5151\u540e\u4e4b\u540e\u4e0b...Nb4\u3002",
+                    "pl": "Przygotowanie na He4 i w tym samym czasie uniemo\u017cliwienie ... Sb4, kontynuowane przez wymian\u0119 Hetman\u00f3w.",
+                    "ru": "\u041f\u043e\u0434\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u0434\u043b\u044f Qe4 \u0438, \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0441 \u044d\u0442\u0438\u043c, \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 ...Nb4, \u0441 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u043c \u0440\u0430\u0437\u043c\u0435\u043d\u043e\u043c \u0424\u0435\u0440\u0437\u044f\u043c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(22)",
+            "zh": "Event 1"
+        },
+        "fen": "q4rk1\/1bpn1ppp\/2np1b2\/4p3\/3PP3\/2P2N2\/2B2PPP\/2BQRNK1 w - - 0 18",
+        "moves": [
+            {
+                "move": "18. d5 ",
+                "comment": {
+                    "pt": "Antes de iniciar um ataque no flanco do rei as brancas devem fechar o centro. Esse lance tamb\u00e9m reduz a a\u00e7\u00e3o da dama e bispo pretos.",
+                    "en": "Before starting an attack on the kingside, White should close the center. This move also restricts the range of the black Queen and Bishop.",
+                    "de": "Wei\u00df muss das Zentrum schlie\u00dfen, bevor der Angriff am K\u00f6nigsfl\u00fcgel eingeleitet wird. Der Textzug beeintr\u00e4chtigt also das Spiel der Dame bzw. des wei\u00dffeldrigen L\u00e4ufers.",
+                    "es": "Antes de iniciar un ataque en el flanco rey las blancas deben cerrar el centro. Esta jugada tambi\u00e9n reduce la acci\u00f3n de la dama y alfil negros.",
+                    "zh": "\u5728\u5f00\u59cb\u5f80\u4ee5\u653b\u51fb\u4e4b\u524d\uff0c\u767d\u68cb\u5fc5\u987b\u5c01\u9501\u4e2d\u5fc3\u3002\u8fd9\u4e00\u6b65\u4e5f\u9650\u5236\u4e86\u9ed1\u540e\u548c\u9ed1\u7bb1\u7684\u6d3b\u52a8\u8303\u56f4\u3002",
+                    "pl": "Przed rozpocz\u0119ciem ataku na skrzyd\u0142o kr\u00f3lewskie, Bia\u0142e powinny zamkn\u0105\u0107 centrum. Ten ruch dodatkowo ogranicza zasi\u0119g czarnego Hetmana i Go\u0144ca.",
+                    "ru": "\u0414\u043e \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u043d\u0430\u0447\u0430\u0442\u044c \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435, \u0411\u0435\u043b\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0446\u0435\u043d\u0442\u0440. \u042d\u0442\u043e\u0442 \u0445\u043e\u0434 \u0442\u0430\u043a\u0436\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u0435\u0442 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f \u0438 \u0421\u043b\u043e\u043d\u0430."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(86)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/1p1b2bp\/p2p1n2\/2pPq3\/2P1Pp2\/2NB3P\/PPQ2BP1\/2KR3R w - - 0 11",
+        "moves": [
+            {
+                "move": "11. Nb1 ",
+                "comment": {
+                    "pt": "Para levar o cavalo a f3 (via d2) e expulsar a dama contr\u00e1ria.",
+                    "en": "In order to take the Knight to f3 (through d2) and chase the centralized Queen away.",
+                    "de": "Um den Springer \u00fcber d2 auf f3 zu bringen und die gegnerische Dame zu vertreiben.",
+                    "es": "Para llevar el caballo a f3 (v\u00eda d2) y expulsar la dama contraria.",
+                    "zh": "\u4e3a\u4e86\u5c06\u9a6c\u901a\u8fc7d2\u79fb\u81f3f3\uff0c\u5e76\u4e14\u8d76\u8d70\u5728\u4e2d\u5fc3\u7684\u540e\u3002",
+                    "pl": "W celu przemieszczenia Skoczka na f3 (przez d2) i przegonienia scentralizowanego Hetmana.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u043d\u0430 f3 (\u0447\u0435\u0440\u0435\u0437 d2), \u0438 \u043e\u0442\u0442\u0435\u0441\u043d\u0438\u0442\u044c \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0424\u0435\u0440\u0437\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(55)",
+            "zh": "Event 1"
+        },
+        "fen": "r2qr1k1\/4bppp\/p1pp1n2\/1p6\/2PQP3\/1PN2PB1\/P5PP\/R4R1K b - - 0 17",
+        "moves": [
+            {
+                "move": "17... Nh5 ",
+                "comment": {
+                    "pt": "Eliminando o bispo branco, pois caso as brancas o retirem perder\u00e3o a qualidade com a sequ\u00eancia ...Bf6-b4.",
+                    "en": "Eliminating the white Bishop, because in case it retreats, White will lose quality with the ... Bf6-b4 sequence.",
+                    "de": "Beseitigt den wei\u00dfen L\u00e4ufer. Wenn Wei\u00df den L\u00e4ufer wegzieht, geht eine Qualit\u00e4t nach ...Lf6 nebst ...b4 verloren.",
+                    "es": "Eliminando el alfil blanco, pues si las blancas lo retiran perder\u00e1n la calidad con la secuencia ...Af6-b4.",
+                    "zh": "\u6d88\u706d\u767d\u8c61\u3002\u56e0\u4e3a\u5982\u679c\u5b83\u64a4\u9000\uff0c\u767d\u68cb\u4f1a\u5728 ... Bf6-b4\u4e4b\u540e\u4e22\u5931\u8d28\u91cf\u3002",
+                    "pl": "Eliminacja bia\u0142ego Go\u0144ca, poniewa\u017c w przypadku jego odwrotu, Bia\u0142e straci\u0142yby jako\u015b\u0107 poprzez sekwencj\u0119 ... Gf6-b4.",
+                    "ru": "\u041d\u0435\u0439\u0442\u0440\u0430\u043b\u0438\u0437\u0443\u0435\u0442 \u0431\u0435\u043b\u043e\u0433\u043e \u0421\u043b\u043e\u043d\u0430, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f, \u0411\u0435\u043b\u044b\u0435 \u043f\u043e\u0442\u0435\u0440\u044f\u044e\u0442 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0441\u0435\u0440\u0438\u0439 \u0445\u043e\u0434\u043e\u0432 ... Bf6-b4."
+                }
+            }
+        ],
+        "game_terminator": "1\/2-1\/2"
+    }
+]

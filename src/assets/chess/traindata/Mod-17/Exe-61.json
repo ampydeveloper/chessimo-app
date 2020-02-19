@@ -1,0 +1,106 @@
+[
+    {
+        "title": "",
+        "white": "India da dama",
+        "white_sort": "",
+        "black": "Variante do Fiancheto",
+        "date": "",
+        "event": {
+            "en": "g3 variation",
+            "de": "Fianchetto-Variante",
+            "es": "Variante del Fianchetto",
+            "pt": "Variante do Fianchetto",
+            "zh": "\u4fa7\u7ffc\u8c61\u53d8\u4f8b",
+            "pl": "Wariant g3",
+            "ru": "\u0412\u0430\u0440\u0438\u0430\u043d\u0442 \u0424\u0438\u0430\u043d\u043a\u0435\u0442\u0442\u043e"
+        },
+        "fen": "",
+        "moves": [
+            {
+                "move": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 ",
+                "comment": {
+                    "pt": "A jogada 4...Ba6 \u00e9 muito utilizada e, ap\u00f3s a jogada natural 5-b3 (5-Da4 no jogo 665), as pretas jogaram ...Bb4 6-Bd2 Be7, seguido de ...c6 e ...d5, disputando o centro (jogos 661, 662 e 663).",
+                    "en": "4...Ba6 is used very frequently and after the natural 5-b3 (5-Qa4, game 665) Black plays ...Bb4 6-Bd2 Be7 followed by ...c6 and ...d5 fighting for the center (games 661, 662 and 663).",
+                    "es": "La jugada 4...Aa6 es muy jugada y despu\u00e9s de la natural 5-b3 (5-Da4 partida 665), las negras juegan ...Ab4 6-Ad2 Ae7, seguido de ...c6 y ...d5, disputando el centro (partidas 661, 662 y 663).",
+                    "de": "4...La6 wird oft gespielt. Nach dem nat\u00fcrlichen Zug 5. b3 (5. Da4 in der Partie Nr. 665) k\u00e4mpfte Schwarz um das Zentrum mit ...Lb4 6. Ld2 Le7 nebst ...c6 und ...d5 (Partien Nr. 661, 662 und 663).",
+                    "zh": "4...Ba6\u88ab\u7ecf\u5e38\u4f7f\u7528\uff0c\u5728\u8d70\u4e86\u5e38\u89c1\u76845-b3 \uff085-Qa4\uff0c\u68cb\u5c40665\uff09\u9ed1\u65b9\u8d70 ...Bb4 6-Bd2 Be7\u968f\u540e...c6 \u548c ...d5\uff0c\u4e89\u593a\u4e2d\u5fc3\uff08\u68cb\u5c40661\u3001662\u548c663\uff09\u3002",
+                    "pl": "4. ... Ga6 jest u\u017cywany bardzo cz\u0119sto i po naturalnym 5. b3 (5. Ha4, partia 665) Czarne graj\u0105 ... Gb4 6. Gd2 Ge7 kontynuowane przez ... c6 i ... d5 walcz\u0105c o centrum (partie 661-663).",
+                    "ru": "\u0425\u043e\u0434 4...Ba6 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0447\u0430\u0441\u0442\u043e \u0438 \u043f\u043e\u0441\u043b\u0435 \u043b\u043e\u0433\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u043e\u0434\u0430 5-b3 (5-Qa4, \u0438\u0433\u0440\u0430 665), \u0427\u0435\u0440\u043d\u044b\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 ...Bb4 6-Bd2 Be7, \u0437\u0430 \u0447\u0435\u043c \u0441\u043b\u0435\u0434\u0443\u0435\u0442 ...c6 \u0438 ...d5 \u0431\u043e\u0440\u044c\u0431\u0430 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 (\u0438\u0433\u0440\u044b 661, 662 \u0438 663)."
+                }
+            },
+            {
+                "move": "   5. Bg2 Be7 ",
+                "comment": {
+                    "pt": "5...Bb4 ocorre nas partidas 654, 655, 657, 658 e 664. \u00c9 importante saber que ap\u00f3s 6-Bd2 Bxd2 7-Dxd2 \u00e9 a jogada correta , com o objetivo de desenvolver o cavalo por c3, onde ele est\u00e1 melhor colocado.",
+                    "en": "5...Bb4 is presented in games 654, 655, 657, 658 and 664. It's very important to know that after 6-Bd2, ... Bxd2 7-Qxd2 is the correct move in order to develop the Knight through c3, where it is better placed than before.",
+                    "es": "5...Ab4 ocurre en las partidas 654, 655, 657, 658 y 664. Es importante saber que despu\u00e9s de  6-Ad2 Axa6 7-Dxd2 es la jugada correcta, con el objetivo de desarrollar el caballo por c3, donde estar\u00e1 mejor colocado.",
+                    "de": "5...Lb4 geschieht in den Partien 654, 655,  657, 658 und 664. Es ist wichtig zu wissen, dass nach 6. Ld2 Lxd2 7. Dxd2 der richtige Zug ist, um den Springer nach c3 zu entwickeln, wo er besser steht.",
+                    "zh": "5...Bb4\u5728\u68cb\u5c40654\u3001655\u3001657\u3001658\u548c664\u4e2d\u5448\u73b0\u3002\u5fc5\u987b\u8981\u6e05\u695a\u7684\u4e00\u70b9\u662f\u8d70\u4e866-Bd2\u4e4b\u540e\uff0c\u8d70... Bxd2 7-Qxd2\u662f\u6b63\u786e\u7684\u8d70\u6cd5\uff0c\u6765\u901a\u8fc7c3\u51fa\u9a6c\uff0c\u8fd9\u6bd4\u4e4b\u524d\u7684\u4f4d\u7f6e\u8981\u597d\u3002",
+                    "pl": "5. ... Gb4 wyst\u0105pi\u0142 w grach 654, 655, 657, 658 i 664. Bardzo wa\u017cne jest zapami\u0119tanie, \u017ce po 6. Gd2, poprawn\u0105 sekwencj\u0105 jest ... Gxd2 7. Hxd2 w celu wyprowadzenia Skoczka przez c3, gdzie jest umieszczony lepiej, ni\u017c poprzednio.",
+                    "ru": "\u0425\u043e\u0434 5...Bb4 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0438\u0433\u0440\u0430\u0445  654, 655, 657, 658 \u0438 664. \u0412\u0430\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c, \u0447\u0442\u043e \u043f\u043e\u0441\u043b\u0435 6-Bd2, ...Bxd2 7-Qxd2 - \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 \u0445\u043e\u0434, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0432\u0438\u0442\u044c \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 c3, \u0433\u0434\u0435 \u043e\u043d \u0431\u0443\u0434\u0435\u0442 \u043b\u0443\u0447\u0448\u0435 \u0441\u043f\u043e\u0437\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d."
+                }
+            },
+            {
+                "move": "   6. O-O ",
+                "comment": {
+                    "pt": "6-Cc3 0-0 7-Dc2 ocorreu na partida 660.",
+                    "en": "6-Nc3 0-0 7-Qc2 is presented in game 660.",
+                    "es": "6-Cc3 0-0 7-Dc2 ocurri\u00f3 en la partida 660.",
+                    "de": "6. Sc3 0-0 7. Dc2 geschah in der Partie 660.",
+                    "zh": "6-Nc3 0-0 7-Qc2\u5728\u68cb\u5c40660\u4e2d\u4ecb\u7ecd\u3002",
+                    "pl": "6. Sc3 0-0 7. Hc2 jest zaprezentowane w partii 660.",
+                    "ru": "\u0421\u0435\u0440\u0438\u044f \u043c\u0430\u043d\u0435\u0432\u0440\u043e\u0432 6-Nc3 0-0 7-Qc2 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0438\u0433\u0440\u0435 660."
+                }
+            },
+            {
+                "move": "   O-O 7. Nc3 Ne4 ",
+                "comment": {
+                    "pt": "As brancas planejam jogar d5 ou Dc2-e4 e \u00e9 importante controlar a casa e4 ,mantendo a grande diagonal aberta. A op\u00e7\u00e3o 7...d5 (partida 653) tamb\u00e9m disputa o centro e controla casas importantes, mas fecha a grande diagonal e limita a a\u00e7\u00e3o do pr\u00f3prio bispo.",
+                    "en": "White plans to play d5 or Qc2-e4 and it's important to control e4 and keep the big diagonal open. The option 7...d5 (game 653) also fights for the center and controls important squares but it closes the big diagonal and limits the action of the Bishop.",
+                    "es": "Las blancas planean jugar d5 o Dc2-e4; es importante controlar la casilla e4, manteniendo la gran diagonal abierta. La opci\u00f3n 7...d5 (partida 653) tambi\u00e9n disputa el centro y controla casillas importantes, pero cierra la grande diagonal y limita la acci\u00f3n del propio alfil.",
+                    "de": "Wei\u00df plant d5 oder Dc2-e4 zu spielen. Es ist wichtig das Feld e4 zu kontrollieren und die lange Diagonale offen zu halten.  7...d5 (Partie Nr 653) k\u00e4mpft auch um das Zentrum und kontrolliert wichtige Felder, sperrt aber die lange Diagonale und blockiert den eigenen L\u00e4ufer.",
+                    "zh": "\u767d\u65b9\u8ba1\u5212\u8d70d5\u6216\u8005Qc2-e4\uff0c\u5f88\u91cd\u8981\u7684\u662f\u63a7\u5236e4\u548c\u4fdd\u6301\u5927\u659c\u7ebf\u5f00\u653e\u3002\u9009\u62e97...d5\uff08\u68cb\u5c40653\uff09\u4e5f\u662f\u4e89\u593a\u4e2d\u5fc3\u5e76\u63a7\u5236\u91cd\u8981\u54af\uff0c\u4f46\u662f\u4f1a\u5c01\u95ed\u5927\u659c\u7ebf\u5e76\u9650\u5236\u8c61\u7684\u6d3b\u52a8\u3002",
+                    "pl": "Bia\u0142e planuj\u0105 zagra\u0107 d5 lub Hc2-e4, wa\u017cnym jest kontrola e4 i zachowanie otwartej d\u0142ugiej przek\u0105tnej. Opcja 7. ... d5 (653) r\u00f3wnie\u017c walczy o centrum i kontroluje wa\u017cne pola, ale zamyka przek\u0105tn\u0105 i ogranicza akcje Go\u0144ca.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u044e\u0442 d5 \u0438\u043b\u0438 Qc2-e4, \u0447\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u0432\u0430\u0436\u043d\u043e \u0434\u043b\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043d\u0430\u0434 \u043f\u043e\u043b\u0435\u043c e4, \u0438 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c. \u0412\u0430\u0440\u0438\u0430\u043d\u0442 7...d5 (\u0438\u0433\u0440\u0430 653) \u0442\u0430\u043a\u0436\u0435 \u0432\u0435\u0434\u0435\u0442 \u043a \u0431\u043e\u0440\u044c\u0431\u0435 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043d\u0430\u0434 \u0432\u0430\u0436\u043d\u044b\u043c\u0438 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0430\u043c\u0438, \u043d\u043e \u0442\u0430\u043a\u0438\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c, \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0438 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0421\u043b\u043e\u043d\u0430."
+                }
+            },
+            {
+                "move": "   8. Qc2 Nxc3 9. Qxc3 d6 ",
+                "comment": {
+                    "pt": "A op\u00e7\u00e3o 9... c5 10-Td1 d6 tamb\u00e9m \u00e9 uma boa forma de disputar o centro (partida 659).",
+                    "en": "The option 9...c5 10-Rd1 d6 is also a good way to fight for the center (game 659).",
+                    "es": "La opci\u00f3n 9...c5 10-Td1 d6 tambi\u00e9n es una buena forma de disputar el centro (partida 659).",
+                    "de": "9... c5 10. Td1 d6 ist auch eine gute Form, um um das Zentrum zu k\u00e4mpfen (Partie Nr. 659).",
+                    "zh": "9...c5 10-Rd1 d6\u8fd9\u79cd\u9009\u62e9\u4e5f\u662f\u4e0d\u9519\u7684\u65b9\u6cd5\u6765\u4e89\u593a\u4e2d\u5fc3\uff08\u68cb\u5c40659\uff09\u3002",
+                    "pl": "Opcja 9. ... c5 10. Wd1 d6 jest r\u00f3wnie\u017c dobr\u0105 drog\u0105 walki o centrum (partia 659).",
+                    "ru": "\u0422\u0430\u043a\u0436\u0435 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 9...c5 10-Rd1 d6, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u0435\u0434\u0435\u0442 \u043a \u0431\u043e\u0440\u044c\u0431\u0435 \u0437\u0430 \u0446\u0435\u043d\u0442\u0440 (\u0438\u0433\u0440\u0430 659)."
+                }
+            },
+            {
+                "move": "   10. Qc2 ",
+                "comment": {
+                    "pt": "Para jogar e4.",
+                    "en": "In order to play e4.",
+                    "es": "Para jugar e4.",
+                    "de": "Um e4 zu spielen.",
+                    "zh": "\u4e3a\u4e86\u8d70e4\u3002",
+                    "pl": "W celu zagrania e4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c e4."
+                }
+            },
+            {
+                "move": "   f5 11. Ne1 ",
+                "comment": {
+                    "pt": "Para trocar os bispos e preparar a jogada e4, que dar\u00e1 as brancas um maior dom\u00ednio central (partida 656).",
+                    "en": "In order to exchange Bishops and prepare e4 that offers White a greater dominance in the center (game 656).",
+                    "es": "Para cambiar los alfiles y preparar la jugada e4, que les dar\u00e1 a las blancas un mayor dominio central (partida 656).",
+                    "de": "Um die L\u00e4ufer abzutauschen und e4 vorzubereiten, was Wei\u00df mehr Kontrolle \u00fcber das Zentrum verschaffen wird (Partie Nr. 656).",
+                    "zh": "\u4e3a\u4e86\u5151\u8c61\u548c\u51c6\u5907e4\uff0c\u8fd9\u4f1a\u4f7f\u767d\u65b9\u83b7\u5f97\u5bf9\u4e2d\u5fc3\u7684\u5f3a\u5927\u7edf\u6cbb\uff08\u68cb\u5c40658\uff09\u3002",
+                    "pl": "Aby wymieni\u0107 Go\u0144ca i przygotowa\u0107 e4, co zdobywa wi\u0119ksz\u0105 dominacj\u0119 w centrum dla Bia\u0142ych (partia 656).",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u043c\u0435\u043d\u044f\u0442\u044c \u0421\u043b\u043e\u043d\u043e\u0432 \u0438 \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c\u0441\u044f \u043a e4, \u0447\u0442\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442 \u0411\u0435\u043b\u044b\u0445 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0434\u043e\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 (\u0438\u0433\u0440\u0430 656)."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(4)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q2k1\/pp1bbr1p\/3p2n1\/3Pp2n\/4P3\/3N1P2\/PPR1B1PB\/1NR1Q1K1 b - - 0 24",
+        "moves": [
+            {
+                "move": "24... Bg5 ",
+                "comment": {
+                    "pt": "Ocupando, com ganho de tempo, a mais importante diagonal para este bispo.",
+                    "en": "Occupying the most important diagonal for this Bishop with a gain of tempo.",
+                    "de": "Besetzt mit Tempogewinn die wichtigste Diagonale f\u00fcr diesen L\u00e4ufer.",
+                    "es": "Ocupando, con ganancia de tiempo, la diagonal m\u00e1s importante para este alfil.",
+                    "zh": "\u8d62\u5f97\u4e00\u4e2a\u5148\u624b\u8ba9\u8c61\u5360\u636e\u6700\u91cd\u8981\u7684\u659c\u7ebf\u3002",
+                    "pl": "Okupowanie najistotniejszej przek\u0105tnej dla Go\u0144ca oraz zdobycie tempo.",
+                    "ru": "\u0417\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u0430\u0436\u043d\u0443\u044e \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c \u0434\u043b\u044f \u0421\u043b\u043e\u043d\u0430, \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044f \u0442\u0435\u043c\u043f."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(100)",
+            "zh": "Event 1"
+        },
+        "fen": "4rk2\/p3qpb1\/1p5p\/2pRP2P\/P1P1Q3\/1P3NK1\/5P2\/8 w - - 0 41",
+        "moves": [
+            {
+                "move": "41. Qf5 ",
+                "comment": {
+                    "pt": "Para poder jogar Td7.",
+                    "en": "In order to be able to play Rd7.",
+                    "de": "Um Td7 spielen zu k\u00f6nnen.",
+                    "es": "Para poder jugar Td7.",
+                    "zh": "\u4e3a\u4e86\u80fd\u591f\u4e0bRd7\u3002",
+                    "pl": "W celu mo\u017cliwo\u015bci zagrania Wd7.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0431\u044b \u0431\u044b\u043b\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0441\u044b\u0433\u0440\u0430\u0442\u044c Rd7."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(46)",
+            "zh": "Event 1"
+        },
+        "fen": "r3kn2\/ppq3b1\/2p3p1\/3pPpB1\/3P4\/8\/PPPQNP2\/2K3R1 w q - 0 24",
+        "moves": [
+            {
+                "move": "24. Nf4 ",
+                "comment": {
+                    "pt": "Melhorando a posi\u00e7\u00e3o desta pe\u00e7a e evitando que o cavalo preto ocupe a importante casa e6.",
+                    "en": "Improving this piece's position and preventing the black Knight from occupying the important e6 square.",
+                    "de": "Verbessert die Stellung von dieser Figur und verhindert, dass der schwarze Springer das wichtig Feld e6 besetzt.",
+                    "es": "Mejorando la posici\u00f3n de esta pieza y evitando que el caballo negro ocupe la importante casilla e6.",
+                    "zh": "\u6539\u5584\u68cb\u5b50\u7684\u4f4d\u7f6e\uff0c\u963b\u6b62\u9ed1\u9a6c\u5360\u636e\u91cd\u8981\u7684e6\u683c\u3002",
+                    "pl": "Poprawa pozycji figury i uniemo\u017cliwienie czarnemu Skoczkowi zaj\u0119cie wa\u017cnego pola e6.",
+                    "ru": "\u0423\u043b\u0443\u0447\u0448\u0430\u0435\u0442 \u043f\u043e\u0437\u0438\u0446\u0438\u044e \u0444\u0438\u0433\u0443\u0440 \u0438 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043d\u044f\u0442\u044c \u0432\u0430\u0436\u043d\u043e\u0435 \u043f\u043e\u043b\u0435 e6, \u041a\u043e\u043d\u0435\u043c \u0447\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(35)",
+            "zh": "Event 1"
+        },
+        "fen": "r4k1r\/pp1qnppp\/1bpN3n\/3pP3\/P2P4\/5N2\/1B3PPP\/R2Q1RK1 w - - 0 17",
+        "moves": [
+            {
+                "move": "17. Ba3 ",
+                "comment": {
+                    "pt": "Ativando o bispo e atacando o rei contr\u00e1rio.",
+                    "en": "Activating the Bishop and attacking the enemy King.",
+                    "de": "Aktiviert den L\u00e4ufer und greift den gegnerischen K\u00f6nig an.",
+                    "es": "Activando el alfil y atacando el rey contrario.",
+                    "zh": "\u6d3b\u8dc3\u8c61\u3001\u653b\u51fb\u654c\u738b\u3002",
+                    "pl": "Aktywacja Go\u0144ca i atak na Kr\u00f3la przeciwnika.",
+                    "ru": "\u0410\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u0443\u0435\u0442 \u0421\u043b\u043e\u043d\u0430 \u0438 \u0430\u0442\u0430\u043a\u0443\u0435\u0442 \u0432\u0440\u0430\u0436\u0435\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "2",
+        "white_sort": "",
+        "black": "2",
+        "date": "",
+        "event": {
+            "en": "(80)",
+            "zh": "Event 1"
+        },
+        "fen": "r4rk1\/pp3ppp\/2nq1nb1\/6B1\/3p4\/P2B1P2\/1PP1N1PP\/R3QRK1 w - - 0 16",
+        "moves": [
+            {
+                "move": "16. Rd1 ",
+                "comment": {
+                    "pt": "Para pressionar o pe\u00e3o de d4.",
+                    "en": "In order to put pressure on the d4-pawn.",
+                    "de": "Um Druck auf den Bauern auszu\u00fcben.",
+                    "es": "Para presionar el pe\u00f3n de d4.",
+                    "zh": "\u4e3a\u4e86\u7ed9d4-\u5175\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "W celu wywierania presji na piona d4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u043f\u0435\u0448\u043a\u0443 d4."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]

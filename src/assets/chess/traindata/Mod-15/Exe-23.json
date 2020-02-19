@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(173)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqkb1r\/pp3ppp\/2pp4\/8\/2nPB2N\/6P1\/PP2PP1P\/R1BQK2R w KQkq - 0 10",
+        "moves": [
+            {
+                "move": "10. d5 ",
+                "comment": {
+                    "pt": "Para evitar que as negras joguem d5 e equilibrem a situa\u00e7\u00e3o central.",
+                    "en": "In order to avoid Black from playing d5 and balancing the central situation.",
+                    "de": "Verhindert, dass Schwarz selbst d5 spielt und dadurch den Kampf im Zentrum ausgleicht.",
+                    "es": "Para evitar que las negras jueguen d5 y equilibren la situaci\u00f3n central.",
+                    "zh": "\u4e3a\u4e86\u907f\u514d\u9ed1\u68cb\u4e0bd5\u5e76\u5e73\u8861\u4e2d\u5fc3\u3002",
+                    "pl": "W celu unikni\u0119cia zagrania przez Czarne d5 i zbalansowanie sytuacji w centrum.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0434\u0430\u0442\u044c \u0427\u0435\u0440\u043d\u044b\u043c \u0438\u0433\u0440\u0430\u0442\u044c d5 \u0438 \u0441\u0431\u0430\u043b\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044e \u0432 \u0446\u0435\u043d\u0442\u0440\u0435 \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(74)",
+            "zh": "Event 1"
+        },
+        "fen": "3q1rk1\/Bp2pp1p\/3b1np1\/5n2\/8\/P1P2R2\/2P3PP\/3RQBK1 b - - 0 22",
+        "moves": [
+            {
+                "move": "22... b6 ",
+                "comment": {
+                    "pt": "Bloqueando a volta desta pe\u00e7a, que ser\u00e1 capturada ap\u00f3s ... Dc7.",
+                    "en": "Blocking the return of this piece that will be captured after ... Qc7.",
+                    "de": "Versperrt den L\u00e4ufer, der nach Dc7 verloren geht.",
+                    "es": "Bloqueando la vuelta de esta pieza, que ser\u00e1 capturada despu\u00e9s de ...Dc7.",
+                    "zh": "\u5c01\u9501\u9a6c\u4ee5\u514d\u5728... Qc7\u4e4b\u540e\u88ab\u6349\u3002",
+                    "pl": "Blokuj\u0105c powr\u00f3t tej figury, kt\u00f3ra zostanie wzi\u0119ta po ... Hc7.",
+                    "ru": "\u041d\u0435 \u0434\u0430\u0435\u0442 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u044d\u0442\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u0435, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0431\u0443\u0434\u0435\u0442 \u0432\u0437\u044f\u0442\u0430 \u043f\u043e\u0441\u043b\u0435 ...Qc7."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(175)",
+            "zh": "Event 1"
+        },
+        "fen": "r2q1rk1\/ppbnnp1p\/4p1p1\/3pP3\/1P1N1P2\/P2B4\/1BP3PP\/R2Q1RK1 b - - 0 14",
+        "moves": [
+            {
+                "move": "14... Nb6 ",
+                "comment": {
+                    "pt": "Com a id\u00e9ia de ocupar a4 ou c4 e pressionar os pontos b2 , c3 e e3.",
+                    "en": "Intending to occupy a4 in order to put pressure on b2, c3 and e3.",
+                    "de": "Mit der Idee, a4 oder c4 zu besetzen und Druck auf b2, c3 und e3 auszu\u00fcben.",
+                    "es": "Con la idea de ocupar a4 o c4 y presionar los puntos b2, c3 y e3.",
+                    "zh": "\u8ba1\u5212\u5360\u636ea4\u4ee5\u4fbf\u7ed9b2,c3\u548ce3\u65bd\u52a0\u538b\u529b\u3002",
+                    "pl": "Z zamiarem przej\u0107ia a4, aby wywrze\u0107 presj\u0119 na b2, c3 i e3.",
+                    "ru": "\u0421 \u043d\u0430\u043c\u0435\u0440\u0435\u043d\u0438\u0435\u043c \u0437\u0430\u043d\u044f\u0442\u044c a4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 b2, c3 \u0438 e3."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(123)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/pb3ppp\/1p1Bp3\/2n1P3\/8\/q1P1Q3\/2B2PPP\/2RR2K1 w - - 0 22",
+        "moves": [
+            {
+                "move": "22. Rd4 ",
+                "comment": {
+                    "pt": "Para atacar no flanco rei.",
+                    "en": "In order to attack on the kingside.",
+                    "de": "Um am K\u00f6nigsfl\u00fcgel anzugreifen.",
+                    "es": "Para atacar en el flanco rey.",
+                    "zh": "\u4e3a\u4e86\u653b\u51fb\u738b\u7ffc\u3002",
+                    "pl": "W celu ataku na skrzyd\u0142o kr\u00f3lewskie.",
+                    "ru": "\u0414\u043b\u044f \u0430\u0442\u0430\u043a\u0438 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(79)",
+            "zh": "Event 1"
+        },
+        "fen": "2r1r1k1\/2R1ppbp\/3pq1p1\/p2P4\/P4P2\/2PQ2P1\/4R1BP\/6K1 b - - 0 31",
+        "moves": [
+            {
+                "move": "31... Qxe2 ",
+                "comment": {
+                    "pt": "As duas torres s\u00e3o muito superiores a dama nesta posi\u00e7\u00e3o, onde h\u00e1 v\u00e1rias colunas semiabertas.",
+                    "en": "The two Rooks are much superior to the Queen in this position where there are many half-open files.",
+                    "de": "In dieser Stellung mit vielen halboffenen Linien sind die zwei T\u00fcrme der Dame klar \u00fcberlegen.",
+                    "es": "Las dos torres son muy superiores a la dama en esta posici\u00f3n, donde hay varias columnas semiabiertas.",
+                    "zh": "\u53cc\u8f66\u5728\u6b64\u5904\u591a\u4e2a\u534a\u5f00\u653e\u7ebf\u5b58\u5728\u7684\u60c5\u51b5\u4e0b\u8981\u6bd4\u540e\u6709\u4f18\u52bf\u3002",
+                    "pl": "Dwie Wie\u017ce s\u0105 znacznie lepsze ni\u017c Hetman w tej pozycji, gdzie istnieje wiele p\u00f3\u0142-otwartych kolumn.",
+                    "ru": "\u0414\u0432\u0435 \u041b\u0430\u0434\u044c\u0438 \u043d\u0430\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u044f\u0442 \u0424\u0435\u0440\u0437\u044f \u0432 \u044d\u0442\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0433\u0434\u0435 \u043c\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u0443\u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u0435\u0439."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    }
+]

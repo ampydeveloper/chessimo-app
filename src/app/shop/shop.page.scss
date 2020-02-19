@@ -1,0 +1,16 @@
+.list-box{
+    background: rgba($color: #fff, $alpha: 0.7);
+    height: calc(100% - 40px);
+    overflow: auto;
+}
+
+.bottom-button{
+    ion-button {
+        img {
+            width: 15px;
+            margin-right: 2px;
+        }
+
+        font-size: 9px;
+    }
+}

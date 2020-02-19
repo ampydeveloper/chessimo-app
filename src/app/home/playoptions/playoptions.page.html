@@ -1,0 +1,118 @@
+<ion-header class="header">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button></ion-back-button>
+      </ion-buttons>
+      <ion-title>
+        Play Options
+      </ion-title>
+      <app-header-buttons  slot="secondary"></app-header-buttons>
+    </ion-toolbar>
+  </ion-header>
+  
+  <ion-content force-overscroll class="playoptionpage ion-padding">
+  
+    <ion-row class="form-box">
+      <ion-col>
+       
+        <ion-row>
+          <ion-col>
+              <div class="profilepic" [style.background]="'url(/assets/images/avatarPlaceholder.png)'"></div>
+          </ion-col>
+          <ion-col style="color: #000; text-align: right; display: flex; justify-content: flex-end; align-items: flex-end;">
+              <b>White</b>
+          </ion-col>
+        </ion-row>
+
+        <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Name</label>
+            </ion-col>
+            <ion-col size="6">
+                  <ion-input [(ngModel)]="playService.own.name" placeholder="Player 1"></ion-input>
+            </ion-col>
+          </ion-row>
+        </div>
+  
+        <div class="input-group" style="margin-top: 0px;">
+            <ion-row class="input-row" >
+              <ion-col size="6">
+                <label>Time</label>
+              </ion-col>
+              <ion-col size="6">
+                  <ion-select [(ngModel)]="playService.own.time">
+                    <ion-select-option  [value]="n" *ngFor="let n of mintues">{{n}} min</ion-select-option>
+                  </ion-select>
+              </ion-col>
+            </ion-row>
+        </div>
+  
+        <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Extra Time</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-select [(ngModel)]="playService.own.extra_time">
+                  <ion-select-option [value]="n" *ngFor="let n of mintues" selected>{{n}} sec</ion-select-option>
+                </ion-select>
+            </ion-col>
+          </ion-row>
+        </div>  
+  
+        <!--  -->
+        <ion-row>
+          <ion-col>
+              <div class="profilepic" [style.background]="'url(/assets/images/avatarPlaceholder.png)'"></div>
+          </ion-col>
+          <ion-col style="color: #000; text-align: right; display: flex; justify-content: flex-end; align-items: flex-end;">
+              <b>Black</b>
+          </ion-col>
+        </ion-row>
+
+        <div class="input-group">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Name</label>
+            </ion-col>
+            <ion-col size="6">
+                  <ion-input [(ngModel)]="playService.ai.name" placeholder="Player 2"></ion-input>
+            </ion-col>
+          </ion-row>
+        </div>
+  
+        <div class="input-group" style="margin-top: 0px;">
+          <ion-row class="input-row">
+            <ion-col size="6">
+              <label>Time</label>
+            </ion-col>
+            <ion-col size="6">
+                <ion-select [(ngModel)]="playService.ai.time">
+                  <ion-select-option [value]="n" *ngFor="let n of mintues" selected>{{n}} min</ion-select-option>
+                </ion-select>
+            </ion-col>
+          </ion-row>
+      </div>
+  
+      <div class="input-group">
+        <ion-row class="input-row">
+          <ion-col size="6">
+            <label>Extra Time</label>
+          </ion-col>
+          <ion-col size="6">
+              <ion-select [(ngModel)]="playService.ai.extra_time">
+                <ion-select-option [value]="n" *ngFor="let n of mintues" selected>{{n}} sec</ion-select-option>
+              </ion-select>
+          </ion-col>
+        </ion-row>
+      </div>
+      
+      <ion-button color="dark" (click)="startgame()">Start Game</ion-button>
+      <ion-button color="dark" [disabled]="playService.isRunning == false"  (click)="continue()" >Continue Game</ion-button>
+  
+      </ion-col>
+    </ion-row>
+  
+  </ion-content>
+  

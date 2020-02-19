@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/pp1nbppp\/4pn2\/2P5\/2p5\/5NP1\/PPQ1PPBP\/RNB2RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. c6 ",
+                "comment": {
+                    "pt": "Para enfraquecer a estrutura de pe\u00f5es contr\u00e1ria antes de retomar o pe\u00e3o em c4.",
+                    "en": "In order to weaken the opponent's pawn structure before retaking the c4-pawn.",
+                    "es": "Para debilitar la estructura de peones contraria antes de recapturar el pe\u00f3n en c4.",
+                    "de": "Um die gegnerischen Bauernstruktur zu schw\u00e4chen, bevor der Bauer auf c4 zur\u00fcckgewonnen wird.",
+                    "zh": "\u5728\u6536\u590dc4-\u5175\u4e4b\u524d\u524a\u5f31\u5bf9\u65b9\u7684\u5175\u5f62\u3002",
+                    "pl": "Aby os\u0142abi\u0107 struktur\u0119 pion\u00f3w oponenta zanim we\u017amie si\u0119 piona c4.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043e\u043f\u043f\u043e\u043d\u0435\u043d\u0442\u0430, \u043f\u0435\u0440\u0435\u0434 \u0442\u0435\u043c \u043a\u0430\u043a \u043e\u0442\u044b\u0433\u0440\u0430\u0442\u044c \u043f\u0435\u0448\u043a\u0443 \u043d\u0430 c4."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "London",
+            "zh": "Event 1"
+        },
+        "fen": "r1bqk1nr\/pppp1ppp\/2n5\/2b5\/2BpP3\/2P2N2\/P4PPP\/RNBQ1RK1 b kq - 0 7",
+        "moves": [
+            {
+                "move": "7... d3 ",
+                "comment": {
+                    "pt": "As brancas amea\u00e7avam cxd4 construindo um poderoso centro. Para evitar esta amea\u00e7a , impedir o desenvolvimento do cavalo branco por c3, e ainda manter a diagonal a1-h8 o mais fechada poss\u00edvel ,esta \u00e9 a melhor jogada.",
+                    "en": "White threatens cxd4 to build up a strong center. Therefore that's the best move to prevent it and hinder the development of the white Knight through c3, at the same time as it maintains the a1-h8 diagonal as blocked as possible.",
+                    "es": "Las blancas amenazaban Cxd4 construyendo un poderoso centro. \u00c9sta es la mejor jugada para evitar esta amenaza, impedir el desarrollo del caballo blanco por c3 y mantener adem\u00e1s la diagonal a1-h8 lo m\u00e1s cerrada posible.",
+                    "de": "Wei\u00df drohte, mit cxd4 ein starkes Zentrum zu bilden. Der Textzug ist der beste, um diese Drohung abzuwehren. Hinzu wird verhindert, da\u00df sich der Springer auf b1 \u00fcber c3 ins Spiel kommt und die Diagonale a1-h8 bleibt - zumindest f\u00fcr eine gute Zeit - versperrt.",
+                    "zh": "\u767d\u65b9\u8d70cxd4\u5a01\u80c1\u5efa\u7acb\u4e00\u4e2a\u5f3a\u5927\u7684\u4e2d\u5fc3\u3002\u8fd9\u662f\u963b\u6b62\u8fd9\u4e2a\u8ba1\u5212\u7684\u6700\u4f73\u4e00\u6b65\uff0c\u6b64\u5916\u8fd8\u963b\u788d\u767d\u9a6c\u901a\u8fc7c3\u5230\u8fbeb1\u6295\u5165\u6218\u6597\uff0c\u540c\u65f6\u4e5f\u5c3d\u53ef\u80fd\u7684\u5c01\u5835\u4e86a1-h8\u7ebf\u3002",
+                    "pl": "Bia\u0142e gro\u017c\u0105 cxd4 by zbudowa\u0107 silne centrum. Dlatego te\u017c jest to najlepszy ruch, aby temu zapobiec i utrudni\u0107 wyprowadzenie bia\u0142ego Skoczka przez c3, w tym samym czasie przek\u0105tna a1-h8 ulega blokadzie.",
+                    "ru": "\u0411\u0435\u043b\u044b\u0435 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0442 \u0438\u0433\u0440\u043e\u0439 cxd4, \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0441\u0438\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440. \u041f\u043e\u044d\u0442\u043e\u043c\u0443 \u044d\u0442\u043e \u043b\u0443\u0447\u0448\u0438\u0439 \u0445\u043e\u0434, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0431\u0435\u043b\u043e\u0433\u043e \u041a\u043e\u043d\u044f \u0447\u0435\u0440\u0435\u0437 c3, \u0438, \u0432 \u0442\u043e\u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c a1-h8."
+                }
+            }
+        ],
+        "game_terminator": "0-1"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r2r2k1\/p3qppp\/1p2pn2\/8\/P2P4\/4PN2\/4QPPP\/RR4K1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. a5 ",
+                "comment": {
+                    "pt": "Criando uma fraqueza na estrutura de pe\u00f5es preta e livrando-se do pe\u00e3o isolado. Se as pretas tomarem ou deixarem as brancas tomar o pe\u00e3o, terminar\u00e3o com um pe\u00e3o isolado.",
+                    "en": "Creating a weakness in the black pawn structure and getting rid of the isolated pawn. Whether Black takes the pawn or lets White take one, the result will be an isolated black pawn.",
+                    "es": "Creando una debilidad en la estructura de peones negra y libr\u00e1ndose del pe\u00f3n aislado. Las negras terminar\u00e1n con un pe\u00f3n aislado, tomando el pe\u00f3n o dejando que las blancas lo hagan.",
+                    "de": "Schafft dem Gegner eine Schw\u00e4che und wird den Isolani los. Egal, ob Schwarz den Bauern schl\u00e4gt oder nicht, die Entstehung eines Isolanis ist unvermeidlich.",
+                    "zh": "\u7ed9\u9ed1\u5175\u7684\u5175\u5f62\u5236\u9020\u5f31\u70b9\uff0c\u6d88\u9664\u5b64\u5175\u3002\u65e0\u8bba\u9ed1\u65b9\u662f\u5426\u5403\u5175\u6216\u8005\u8ba9\u767d\u65b9\u6765\u5403\uff0c\u7ed3\u679c\u51fa\u73b0\u4e00\u4e2a\u9ed1\u5b64\u5175\u3002",
+                    "pl": "Tworzenie s\u0142abo\u015bci w czarnej strukturze pion\u00f3w i pozbycie si\u0119 izolowanego piona. Niezale\u017cnie od tego, czy Czarne wezm\u0105 piona, czy pozwol\u0105 Bia\u0142ym wzi\u0105\u0107 swojego, rezultatem b\u0119dzie izolowany czarny pion.",
+                    "ru": "\u0421\u043e\u0437\u0434\u0430\u0435\u0442 \u0441\u043b\u0430\u0431\u043e\u0441\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0427\u0435\u0440\u043d\u044b\u0445 \u0438 \u0438\u0437\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u043e\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u043f\u0435\u0448\u043a\u0438. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u043c \u0432\u0437\u044f\u0442\u0438\u044f \u043f\u0435\u0448\u043a\u0438 \u0411\u0435\u043b\u044b\u043c\u0438 \u0438\u043b\u0438 \u0427\u0435\u0440\u043d\u044b\u043c\u0438 - \u0431\u0443\u0434\u0435\u0442 \u0438\u0437\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0447\u0435\u0440\u043d\u0430\u044f \u043f\u0435\u0448\u043a\u0430."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1rk1\/ppp2pp1\/2np1n1p\/4p3\/2B1P3\/2NPbN2\/PPP1QPPP\/R4RK1 w - - 0 1",
+        "moves": [
+            {
+                "move": "1. fxe3 ",
+                "comment": {
+                    "pt": "Esta retomada \u00e9 superior a retomada de dama. As brancas est\u00e3o trazendo um pe\u00e3o para o centro, controlando importantes casas centrais (d4 ,f4) e abrindo a coluna f para a torre.",
+                    "en": "This retake is superior to the Queen retake, because White brings a pawn to the center, controls important central squares (d4, f4) and opens the f-file for the Rook.",
+                    "es": "\u00c9sta jugada es superior a recapturar el pe\u00f3n con la dama. Las blancas est\u00e1n trayendo un pe\u00f3n hacia el centro, vontrolando importantes casillas centrales (d4, f4) y abriendo la columna \"f\" para la torre.",
+                    "de": "Dies ist st\u00e4rker, als mit der Dame zur\u00fcckzuschlagen. Wei\u00df bringt einen Bauern zum Zentrum, kontrolliert wichtige Felder (d4, f4) und \u00f6ffnet die f-Linie f\u00fcr den Turm.",
+                    "zh": "\u8fd9\u4e2a\u53cd\u51fb\u8981\u4f18\u5148\u4e8e\u738b\u540e\u7684\u53cd\u51fb\u3002\u56e0\u4e3a\u767d\u65b9\u5c06\u4e00\u4e2a\u5175\u79fb\u5230\u4e2d\u5fc3\uff0c\u63a7\u5236\u4e86\u5173\u952e\u683c\u683c\uff08d4\u548cf4\uff09\uff0c\u5e76\u4e14\u4e3a\u8f66\u5f00\u653e\u4e86f-\u7ebf\u3002",
+                    "pl": "Takie bicie jest lepsze, ni\u017c bicie Hetmanem, poniewa\u017c Bia\u0142e sprowadzaj\u0105 piona do centrum, kontroluj\u0105 wa\u017cne centralne pola (d4, f4) i otwieraj\u0105 kolumn\u0119 f dla Wie\u017cy.",
+                    "ru": "\u042d\u0442\u043e\u0442 \u043e\u0442\u044b\u0433\u0440\u044b\u0448 \u043b\u0443\u0447\u0448\u0435 \u0447\u0435\u043c \u043e\u0442\u044b\u0433\u0440\u044b\u0432\u0430\u0442\u044c\u0441\u044f \u0424\u0435\u0440\u0437\u0435\u043c, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0411\u0435\u043b\u044b\u0435 \u043f\u0440\u0438\u0432\u043e\u0434\u044f\u0442 \u043f\u0435\u0448\u043a\u0443 \u043a \u0446\u0435\u043d\u0442\u0440\u0443, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u044f \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0432\u0430\u0436\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0432\u0430\u0434\u0440\u0430\u0442 (d4, f4) \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0442 f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c \u0434\u043b\u044f \u041b\u0430\u0434\u044c\u0438."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    },
+    {
+        "title": "",
+        "white": "estrutura",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "?",
+            "zh": "Event 1"
+        },
+        "fen": "rn1qk1nr\/1b3ppp\/4p3\/pp6\/2PP4\/2B1PN2\/5PPP\/R2QKB1R b KQkq - 0 1",
+        "moves": [
+            {
+                "move": "1... b4 ",
+                "comment": {
+                    "pt": "Mantendo uma estrutura com dois pe\u00f5es passados unidos e sem nenhum pe\u00e3o isolado.",
+                    "en": "Maintaining pawn structure with two connected passed pawns and no isolated pawns.",
+                    "es": "Manteniendo una estructura con dos peones pasados unidos y sin ning\u00fan pe\u00f3n aislado.",
+                    "de": "Beh\u00e4lt eine Struktur mit zwei verbundenen Freibauern und ohne Isolanis.",
+                    "zh": "\u4fdd\u6301\u4e24\u4e2a\u901a\u8def\u8054\u5175\u65e0\u5b64\u5175\u7684\u5175\u5f62\u3002",
+                    "pl": "Utrzymuj\u0105c struktur\u0119 pion\u00f3w z dwoma po\u0142\u0105czonymi wolnymi pionami i \u017cadnymi izolowanymi.",
+                    "ru": "\u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u043f\u0435\u0448\u0435\u0447\u043d\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0438\u0437 \u0434\u0432\u0443\u0445 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0445\u043e\u0434\u043d\u044b\u0445 \u043f\u0435\u0448\u0435\u043a."
+                }
+            }
+        ],
+        "game_terminator": "*"
+    }
+]

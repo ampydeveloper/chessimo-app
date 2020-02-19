@@ -1,0 +1,137 @@
+[
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(51)",
+            "zh": "Event 1"
+        },
+        "fen": "8\/1p1k3p\/p5p1\/P1P1Kp2\/2P2P2\/5bPB\/7P\/8 w - - 0 43",
+        "moves": [
+            {
+                "move": "43. Kf6 ",
+                "comment": {
+                    "pt": "Para tomar o pe\u00e3o de h7 e enfraquecer o flanco do rei das pretas.",
+                    "en": "In order to capture the h7-pawn and weaken the black kingside.",
+                    "de": "Um den Bauern h7 zu schlagen und den schwarzen K\u00f6nigsfl\u00fcgel zuschw\u00e4chen.",
+                    "es": "Para tomar el pe\u00f3n de h7 y debilitar el flanco rey de las negras.",
+                    "zh": "\u4e3a\u4e86\u6349h7-\u5175\u5e76\u4e14\u524a\u5f31\u738b\u7ffc\u3002",
+                    "pl": "W celu schwytania piona h7 i os\u0142abienia czarnego skrzyd\u0142a kr\u00f3lewskiego.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0432\u0437\u044f\u0442\u044c \u043f\u0435\u0448\u043a\u0443 h7 \u0438 \u043e\u0441\u043b\u0430\u0431\u0438\u0442\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0444\u043b\u0430\u043d\u0433 \u0427\u0435\u0440\u043d\u044b\u0445."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(41)",
+            "zh": "Event 1"
+        },
+        "fen": "r1bq1k1r\/1p3pb1\/p2p3p\/2pPn1p1\/8\/2N1P1P1\/PPQNBPP1\/R3K2R w KQ - 0 16",
+        "moves": [
+            {
+                "move": "16. a4 ",
+                "comment": {
+                    "pt": "Para evitar a expans\u00e3o das pretas no flanco da dama.",
+                    "en": "In order to prevent Black's expansion on the queenside.",
+                    "de": "Um zu verhindern, dass Schwarz am Damenfl\u00fcgel gewinnt.",
+                    "es": "Para evitar la expansi\u00f3n de las negras en el flanco dama.",
+                    "zh": "\u4e3a\u4e86\u907f\u514d\u9ed1\u68cb\u5728\u540e\u7ffc\u6269\u5f20\u3002",
+                    "pl": "W celu uniemo\u017cliwienia Czarnym ekspansji na skrzyd\u0142o hetma\u0144skie.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u044d\u043a\u0441\u043f\u0430\u043d\u0441\u0438\u044e \u0427\u0435\u0440\u043d\u044b\u0445 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(113)",
+            "zh": "Event 1"
+        },
+        "fen": "2b2nk1\/1p4pp\/1q1p4\/3P4\/1PP1p3\/2N5\/4B1PP\/2Q4K w - - 0 24",
+        "moves": [
+            {
+                "move": "24. Nb5 ",
+                "comment": {
+                    "pt": "Para jogar c5 e valorizar a maioria de pe\u00f5es na ala da dama.",
+                    "en": "In order to play c5 and improve the value of the pawn majority on the queenside.",
+                    "de": "Um c5 zu spielen und die Bauernmehrheit am Damenfl\u00fcgel in Bewegung zu setzen.",
+                    "es": "Para jugar c5 y valorizar la mayor\u00eda de peones en el ala dama.",
+                    "zh": "\u4e3a\u4e86\u4e0bc5\u5e76\u589e\u5f3a\u5728\u540e\u7ffc\u591a\u5175\u7684\u4ef7\u503c\u3002",
+                    "pl": "W celu zagrania c5 i poprawy warto\u015bci przewagi pion\u00f3w na skrzydle hetma\u0144skim.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c c5 \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043f\u0435\u0448\u0435\u0447\u043d\u043e\u0433\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u0430 \u043d\u0430 \u0444\u0435\u0440\u0437\u0435\u0432\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(165)",
+            "zh": "Event 1"
+        },
+        "fen": "1k1r4\/p3p2p\/1q4p1\/8\/1PB1Q3\/4P2P\/Pn4P1\/5RK1 w - - 0 33",
+        "moves": [
+            {
+                "move": "33. Be2 ",
+                "comment": {
+                    "pt": "Para jogar Bf3 e atacar pela diagonal h1-a8.",
+                    "en": "In order to play Bf3 and attack through the h1-a8 diagonal.",
+                    "de": "Um Lf3 zu spielen und auf der Diagonale h1-a8 anzugreifen.",
+                    "es": "Para jugar Af3 y atacar por la diagonal h1-a8.",
+                    "zh": "\u4e3a\u4e86\u4e0bBf3\u5e76\u901a\u8fc7h1-a8\u659c\u7ebf\u653b\u51fb\u3002",
+                    "pl": "W celu zagrania Gf3 i ataku przez przek\u0105tn\u0105 h1-a8.",
+                    "ru": "\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u0438\u0433\u0440\u0430\u0442\u044c Bf3 \u0438 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u0435\u0437 \u0434\u0438\u0430\u0433\u043e\u043d\u0430\u043b\u044c h1-a8."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    },
+    {
+        "title": "",
+        "white": "4",
+        "white_sort": "",
+        "black": "3",
+        "date": "",
+        "event": {
+            "en": "(60)",
+            "zh": "Event 1"
+        },
+        "fen": "rr2b2k\/2q1bp1p\/3p1np1\/ppnPp1N1\/2p1P1P1\/P1P3NP\/1PBBQP2\/R3R2K w - - 0 22",
+        "moves": [
+            {
+                "move": "22. f4 ",
+                "comment": {
+                    "pt": "Intensificando o ataque no flanco do rei e possibilitando a abertura da coluna f.",
+                    "en": "Intensifying the kingside attack and enabling the opening of the f-file.",
+                    "de": "St\u00e4rkt den Angriff auf den K\u00f6nigsfl\u00fcgel und erm\u00f6glicht die \u00d6ffnung der f-Linie.",
+                    "es": "Intensificando el ataque en el flanco rey y posibilitando la apertura de la columna f.",
+                    "zh": "\u52a0\u5f3a\u5728\u738b\u7ffc\u7684\u653b\u51fb\uff0c\u4f7ff-\u7ebf\u5f97\u4ee5\u5f00\u653e\u3002",
+                    "pl": "Zwi\u0119kszaj\u0105c intensywno\u015b\u0107 ataku na skrzyd\u0142o kr\u00f3lewskie i umo\u017cliwienie otwarcia kolumny f.",
+                    "ru": "\u0423\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442 \u0430\u0442\u0430\u043a\u0443 \u043d\u0430 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u043c \u0444\u043b\u0430\u043d\u0433\u0435 \u0438 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 f-\u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c."
+                }
+            }
+        ],
+        "game_terminator": "1-0"
+    }
+]
