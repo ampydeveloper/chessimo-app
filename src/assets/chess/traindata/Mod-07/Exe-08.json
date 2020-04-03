@@ -29,7 +29,8 @@
         "fen": "8\/5k2\/4p3\/4P1K1\/8\/8\/8\/8 w - - 0 1",
         "moves": [
             {
-                "move": "1. Kh6 Ke8 2. Kg6 Ke7 3. Kg7 Ke8 4. Kf6 Kd7 5. Kf7 Kd8 6. Kxe6 Ke8 7. Kd6 (7. Kf6 $11) 7... Kd8 8. e6",
+                "move": "1. Kh6 Ke8 2. Kg6 Ke7 3. Kg7 Ke8 4. Kf6 Kd7 5. Kf7 Kd8 6. Kxe6 Ke8 7. Kd6 Kd8 8. e6 Ke8 9. e7 Kf7 10. Kd7",
+                "moveAlt": ["1. Kh6 Ke8 2. Kg6 Ke7 3. Kg7 Ke8 4. Kf6 Kd7 5. Kf7 Kd8 6. Kxe6 Ke8 7. Kf6 Kf8 8. e6 Ke8 9. e7 Kd7 10. Kf7"],
                 "comment": []
             }
         ],
