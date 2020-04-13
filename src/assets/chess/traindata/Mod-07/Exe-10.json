@@ -83,7 +83,8 @@
         "fen": "6k1\/p5P1\/7K\/8\/8\/8\/P7\/8 w - - 0 1",
         "moves": [
             {
-                "move": "1. Kg6 a6 2. a4 a5 3. Kh6 (3. Kf6 $11)",
+                "move": "1. Kg6 a6 2. a4 a5 3. Kh6",
+                "moveAlt": ["1. Kg6 a6 2. a4 a5 3. Kf6"],
                 "comment": []
             }
         ],
