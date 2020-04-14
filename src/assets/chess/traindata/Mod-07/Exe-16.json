@@ -102,6 +102,7 @@
         "moves": [
             {
                 "move": "1. b5 Ke6 2. b6 Kd7 3. b7 Kc7 4. f7",
+                "moveAlt": ["1. b5 Ke6 2. b6 Kd7 3. f7 Kc7 4. b7"],
                 "comment": []
             }
         ],
