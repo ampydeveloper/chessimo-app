@@ -66,6 +66,8 @@
         "moves": [
             {
                 "move": "1. c5 Kc8 2. Kb6 Kb8 3. c6 Ka8 4. Kc7 bxc6 5. Kxc6 Ka7 6. b5 Kb8 7. Kb6",
+                "moveAlt": ["1. c5 Kc8 2. Kb6 Kb8 3. c6 Ka8 4. cxb7+ Kb8 5. Ka6 Kc7 6. Ka7 Kd7 7. b8=Q",
+                           "1. c5 Kc8 2. Kb6 Kb8 3. c6 Ka8 4. cxb7+ Kb8 5. Kc6 Ka7 6. Kc7 Ka6 7. b8=Q"],
                 "comment": []
             }
         ],
